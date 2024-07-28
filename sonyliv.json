@@ -1,1 +1,49 @@
-error code: 524
+{
+  "name": "Sonyliv Live Matches Data in Json",
+  "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+  "last update time": "20:19:19 28-07-2024",
+  "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "india-tour-of-sri-lanka-2024",
+      "match_id": "1000284025",
+      "match_name": "2nd-t20i-28-jul-2024",
+      "stream_link": "https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "india-tour-of-sri-lanka-2024",
+      "match_id": "1000284026",
+      "match_name": "2nd-t20i-28-jul-2024-hindi",
+      "stream_link": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "india-tour-of-sri-lanka-2024",
+      "match_id": "1000284027",
+      "match_name": "2nd-t20i-28-jul-2024-multilingual",
+      "stream_link": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "west-indies-tour-of-england-2024",
+      "match_id": "1000284089",
+      "match_name": "day-3-3rd-test-28-jul-2024",
+      "stream_link": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "indianoil-durand-cup-2024",
+      "match_id": "1000284158",
+      "match_name": "mohammedan-sporting-club-vs-inter-kashi-fc-28-jul-2024",
+      "stream_link": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "the-hundred-2024-women-s",
+      "match_id": "1000273977",
+      "match_name": "welsh-fire-vs-oval-invincibles-28-jul-2024",
+      "stream_link": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8"
+    }
+  ]
+}
