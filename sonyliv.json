@@ -1,6 +1,14 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "05:06:36 31-07-2024",
-  "matches": []
+  "last update time": "05:19:03 31-07-2024",
+  "matches": [
+    {
+      "event_category": "wwe",
+      "event_name": "wwe nxt",
+      "match_id": "1000284460",
+      "match_name": "wwe nxt 31 jul 2024",
+      "stream_link": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8"
+    }
+  ]
 }
