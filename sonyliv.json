@@ -1,8 +1,15 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "05:07:27 07-08-2024",
+  "last update time": "05:19:11 07-08-2024",
   "matches": [
+    {
+      "event_category": "wwe",
+      "event_name": "wwe nxt",
+      "match_name": "wwe nxt 7 aug 2024",
+      "match_id": "1000285453",
+      "stream_link": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8"
+    },
     {
       "event_category": "tennis",
       "event_name": "atp masters 1000 national bank open 2024",
