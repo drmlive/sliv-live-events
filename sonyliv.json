@@ -1,12 +1,12 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "22:58:05 08-08-2024",
+  "last update time": "23:07:13 08-08-2024",
   "matches": [
     {
       "event_category": "tennis",
       "event_name": "atp masters 1000 national bank open 2024",
-      "match_name": "daniil medvedev vs alejandro fokina 8 aug 2024",
+      "match_name": "jordan thompson vs alexander zverev 8 aug 2024",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atp_canadaopen24_rd2_landscape_thumb.jpg",
       "match_id": "1000285631",
       "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
@@ -14,10 +14,10 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "the hundred 2024 women s",
+      "event_name": "the hundred 2024",
       "match_name": "oval invincibles vs southern brave 8 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/the100_womens_ovalinvincibles_vs_southernbrave_7aug_rev_landscape_thumb.jpg",
-      "match_id": "1000273977",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/the100_mens_ovalinvincibles_vs_southernbrave_7aug_landscape_thumb.jpg",
+      "match_id": "1000273976",
       "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8"
     }
