@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "16:51:22 09-08-2024",
+  "last update time": "17:06:43 09-08-2024",
   "matches": [
     {
       "event_category": "football",
@@ -11,6 +11,15 @@
       "match_id": "1000285697",
       "dai_stream_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8"
+    },
+    {
+      "event_category": "golf",
+      "event_name": "asian tour 2024",
+      "match_name": "international series england day 2 9 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiantour24_intserengland_day2_7aug_landscape_thumb.jpg",
+      "match_id": "1000285706",
+      "dai_stream_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8"
     }
   ]
 }
