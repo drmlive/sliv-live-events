@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "22:09:31 10-08-2024",
+  "last update time": "22:19:11 10-08-2024",
   "matches": [
     {
       "event_category": "football",
@@ -16,10 +16,10 @@
       "event_category": "cricket",
       "event_name": "the hundred 2024",
       "match_name": "welsh fire vs birmingham phoenix 10 aug 2024",
-      "src": "",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/the100_mens_welshfire_vs_birminghamphoenix_8aug_landscape_thumb.jpg",
       "match_id": "1000285905",
-      "dai_stream_url": "",
-      "pub_stream_url": ""
+      "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8"
     },
     {
       "event_category": "tennis",
@@ -29,15 +29,6 @@
       "match_id": "1000285917",
       "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "the hundred 2024 women s",
-      "match_name": "welsh fire vs birmingham phoenix 10 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/the100_womens_welshfire_vs_birminghamphoenix_8aug_landscape_thumb.jpg",
-      "match_id": "1000285904",
-      "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8"
     }
   ]
 }
