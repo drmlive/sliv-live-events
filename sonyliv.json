@@ -1,8 +1,17 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "03:59:56 11-08-2024",
+  "last update time": "04:09:25 11-08-2024",
   "matches": [
+    {
+      "event_category": "fight",
+      "event_name": "ufc fight night tybura vs spivac 2",
+      "match_name": "sports ufc fight night tybura vs spivac 2 11 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufcfntyburavsspivac2_10aug_multilang_landscape_thumb.jpg",
+      "match_id": "1000285973",
+      "dai_stream_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8"
+    },
     {
       "event_category": "tennis",
       "event_name": "atp masters 1000 national bank open 2024",
