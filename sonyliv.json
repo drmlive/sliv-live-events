@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:19:13 17-08-2024",
+  "last update time": "23:46:07 17-08-2024",
   "matches": [
     {
       "event_category": "football",
@@ -11,6 +11,15 @@
       "match_id": "1000286547",
       "dai_stream_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "dfl supercup 2024",
+      "match_name": "bayer leverkusen vs vfb stuttgart 18 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/dfl_supercup24_bayerleverkusen_vs_stuttgart_17aug_landscape_thumb.jpg",
+      "match_id": "1000286624",
+      "dai_stream_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8"
     },
     {
       "event_category": "cricket",
