@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "18:21:55 24-08-2024",
+  "last update time": "18:44:22 24-08-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -11,6 +11,60 @@
       "match_id": "1000287187",
       "dai_stream_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "rb leipzig vs vfl bochum",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_md1_rbleipzig_vs_vflbochum_22aug_landscape_thumb.jpg",
+      "match_id": "1000287224",
+      "dai_stream_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "goal arena feed md 1 24 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_goal_arena_22aug_landscape_thumb.jpg",
+      "match_id": "1000287219",
+      "dai_stream_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "fc augsburg vs sv werder bremen md 1 24 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_md1_augsburg_vs_werderbremen_22aug_landscape_thumb.jpg",
+      "match_id": "1000287220",
+      "dai_stream_url": "https://dai.google.com/ssai/event//master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "hoffenheim vs holstein kiel md 1 24 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_md1_hoffenheim_vs_holstein_kiel_22aug_landscape_thumb.jpg",
+      "match_id": "1000287222",
+      "dai_stream_url": "https://dai.google.com/ssai/event//master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "fsv mainz vs fc union berlin md 1 24 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_md1_mainz_vs_union_berlin_22aug_landscape_thumb.jpg",
+      "match_id": "1000287221",
+      "dai_stream_url": "https://dai.google.com/ssai/event//master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "sc frieburg vs vfb stuttgart",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_md1_scfreiburg_vs_vfbstuttgart_22aug_landscape_thumb.jpg",
+      "match_id": "1000287223",
+      "dai_stream_url": "https://dai.google.com/ssai/event//master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8"
     }
   ]
 }
