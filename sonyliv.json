@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "21:19:12 24-08-2024",
+  "last update time": "21:44:17 24-08-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -11,6 +11,15 @@
       "match_id": "1000287187",
       "dai_stream_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "borussia dortmund vs eintracht frankfurt",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_md1_dortmund_vs_frankfurt_22aug_landscape_thumb.jpg",
+      "match_id": "1000287225",
+      "dai_stream_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8"
     }
   ]
 }
