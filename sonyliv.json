@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "20:19:23 25-08-2024",
+  "last update time": "20:42:16 25-08-2024",
   "matches": [
     {
       "event_category": "football",
@@ -11,6 +11,15 @@
       "match_id": "1000287267",
       "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "st pauli vs heidenheim",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_md1_st_pauli_vs_heidenheim_22aug_landscape_thumb.jpg",
+      "match_id": "1000287293",
+      "dai_stream_url": "https://dai.google.com/ssai/event//master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8"
     }
   ]
 }
