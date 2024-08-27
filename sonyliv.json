@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "08:16:36 27-08-2024",
+  "last update time": "08:44:08 27-08-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -15,7 +15,7 @@
     {
       "event_category": "tennis",
       "event_name": "us open 2024",
-      "match_name": "nagal vs griekspoor round 1 26 aug 2024",
+      "match_name": "hon vs sabalenka round 1 26 aug 2024",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/us_open_hon_vs_sabalenka_25_aug_24_player_landscape_thumb.jpg",
       "match_id": "1000286177",
       "dai_stream_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
@@ -24,7 +24,7 @@
     {
       "event_category": "tennis",
       "event_name": "us open 2024",
-      "match_name": "louis armstrong 27 aug 2024",
+      "match_name": "priscilla hon vs aryna sabalenka women s singles 27 aug 2024",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/us24_rd1_louisarmstrongcourt_gen_landscape_thumb.jpg",
       "match_id": "1000286179",
       "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
@@ -43,10 +43,19 @@
       "event_category": "wwe",
       "event_name": "wwe raw",
       "match_name": "wwe raw 27 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_raw24_reed_vs_strowman_spl_24aug_multilang_landscape_thumb.jpg",
+      "src": "",
       "match_id": "1000287427",
-      "dai_stream_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8"
+      "dai_stream_url": "",
+      "pub_stream_url": ""
+    },
+    {
+      "event_category": "sport",
+      "event_name": "wwe raw talk",
+      "match_name": "raw talk 27 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_raw_talk_LIVE_1920x1080.jpg",
+      "match_id": "1000287431",
+      "dai_stream_url": "https://dai.google.com/ssai/event//master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event//master.m3u8"
     }
   ]
 }
