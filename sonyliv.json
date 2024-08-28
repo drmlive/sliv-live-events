@@ -1,17 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "02:19:52 29-08-2024",
+  "last update time": "02:44:25 29-08-2024",
   "matches": [
-    {
-      "event_category": "tennis",
-      "event_name": "us open 2024",
-      "match_name": "bronzetti vs sabalenka rd2 28 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/us_open_bronzetti_v_sabalenka_28_aug_24_player_landscape_thumb.jpg",
-      "match_id": "1000286179",
-      "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8"
-    },
     {
       "event_category": "tennis",
       "event_name": "us open 2024",
@@ -29,6 +20,15 @@
       "match_id": "1000286180",
       "dai_stream_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8"
+    },
+    {
+      "event_category": "tennis",
+      "event_name": "us open 2024",
+      "match_name": "bronzetti vs sabalenka rd2 28 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/us_open_bronzetti_v_sabalenka_28_aug_24_player_landscape_thumb.jpg",
+      "match_id": "1000286179",
+      "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8"
     },
     {
       "event_category": "tennis",
@@ -74,33 +74,6 @@
       "match_id": "1000286177",
       "dai_stream_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "uefa champions league 2024 25",
-      "match_name": "slovan bratislava vs fc midtjylland play offs leg 2 29 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoffs_leg2_slovan_bratislava_vs_fc_midtjylland_27aug_landscape_thumb.jpg",
-      "match_id": "1000287675",
-      "dai_stream_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "uefa champions league 2024 25",
-      "match_name": "crvena zvezda vs bod\u00f8 glimt play offs leg 2 29 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoffs_leg2_crvena_zvezda_vs_bodo_glimt_27aug_landscape_thumb.jpg",
-      "match_id": "1000287677",
-      "dai_stream_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "uefa champions league 2024 25",
-      "match_name": "slavia praha vs losc lille play offs leg 2 29 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoffs_leg2_slavia_praha_vs_losc_lille_27aug_landscape_thumb.jpg",
-      "match_id": "1000287680",
-      "dai_stream_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8"
     }
   ]
 }
