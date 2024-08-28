@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "00:10:06 29-08-2024",
+  "last update time": "00:20:04 29-08-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -88,10 +88,37 @@
       "event_category": "football",
       "event_name": "uefa champions league 2024 25",
       "match_name": "qarabag vs dinamo zagreb play offs leg 2 28 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoffs_leg2_qarabag_vs_dinamozagreb_27aug_landscape_thumb.jpg",
+      "src": "",
       "match_id": "1000287669",
+      "dai_stream_url": "",
+      "pub_stream_url": ""
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa champions league 2024 25",
+      "match_name": "slovan bratislava vs fc midtjylland play offs leg 2 29 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoffs_leg2_slovan_bratislava_vs_fc_midtjylland_27aug_landscape_thumb.jpg",
+      "match_id": "1000287675",
       "dai_stream_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa champions league 2024 25",
+      "match_name": "crvena zvezda vs bod\u00f8 glimt play offs leg 2 29 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoffs_leg2_crvena_zvezda_vs_bodo_glimt_27aug_landscape_thumb.jpg",
+      "match_id": "1000287677",
+      "dai_stream_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa champions league 2024 25",
+      "match_name": "slavia praha vs losc lille play offs leg 2 29 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoffs_leg2_slavia_praha_vs_losc_lille_27aug_landscape_thumb.jpg",
+      "match_id": "1000287680",
+      "dai_stream_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8"
     }
   ]
 }
