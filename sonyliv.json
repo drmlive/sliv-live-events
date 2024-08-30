@@ -1,17 +1,8 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "06:35:11 30-08-2024",
+  "last update time": "07:47:49 30-08-2024",
   "matches": [
-    {
-      "event_category": "tennis",
-      "event_name": "us open 2024",
-      "match_name": "marozsan vs medvedev rd2 29 aug 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/us_open_marozsan_vs_medvedev_29_aug_24_player_landscape_thumb.jpg",
-      "match_id": "1000286177",
-      "dai_stream_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8"
-    },
     {
       "event_category": "tennis",
       "event_name": "us open 2024",
@@ -24,7 +15,16 @@
     {
       "event_category": "tennis",
       "event_name": "us open 2024",
-      "match_name": "ram salisbury vs darderi romboli men s doubles 30 aug 2024",
+      "match_name": "wozniacki vs zarazua rd2 29 aug 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/us_open_wozniacki_v_zarazua_29_aug_24_player_landscape_thumb.jpg",
+      "match_id": "1000286177",
+      "dai_stream_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8"
+    },
+    {
+      "event_category": "tennis",
+      "event_name": "us open 2024",
+      "match_name": "grandstand 30 aug 2024",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/usopen24_r2_grandstand_court_27aug_landscape_thumb.jpg",
       "match_id": "1000286180",
       "dai_stream_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
@@ -33,7 +33,7 @@
     {
       "event_category": "tennis",
       "event_name": "us open 2024",
-      "match_name": "fabian marozsan vs daniil medvedev men s singles 30 aug 2024",
+      "match_name": "caroline wozniacki vs renata zarazua women s singles 30 aug 2024",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/usopen24_r2_louis_armstrong_court_27aug_landscape_thumb.jpg",
       "match_id": "1000286179",
       "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
@@ -42,7 +42,7 @@
     {
       "event_category": "tennis",
       "event_name": "us open 2024",
-      "match_name": "arthur ashe 30 aug 2024",
+      "match_name": "carlos alcaraz vs botic van de zandschulp men s singles 30 aug 2024",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/usopen24_r2_arthur_ashe_court_27aug_landscape_thumb.jpg",
       "match_id": "1000286178",
       "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
