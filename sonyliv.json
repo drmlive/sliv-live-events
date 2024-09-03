@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "00:32:10 04-09-2024",
+  "last update time": "00:50:22 04-09-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -15,7 +15,7 @@
     {
       "event_category": "tennis",
       "event_name": "us open 2024",
-      "match_name": "schuurs stefani vs siniakova townsend 3 sep 2024",
+      "match_name": "granollers zeballos vs purcell thompson 3 sep 2024",
       "src": "https://origin-staticv2.sonyliv.com/videoasset_images/usopen24_qf_stream1_2sep_landscape_thumb.jpg",
       "match_id": "1000286175",
       "dai_stream_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
@@ -34,10 +34,10 @@
       "event_category": "cricket",
       "event_name": "vitality blast 2024",
       "match_name": "surrey vs durham qf 3 sep 2024",
-      "src": "",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/vitalityblast24_qf_surreycountycc_vs_durhamcountycc_2sep_landscape_thumb.jpg",
       "match_id": "1000289405",
-      "dai_stream_url": "",
-      "pub_stream_url": ""
+      "dai_stream_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8"
     }
   ]
 }
