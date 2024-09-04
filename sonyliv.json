@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:07:44 04-09-2024",
+  "last update time": "23:15:39 04-09-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -11,6 +11,15 @@
       "match_id": "1000286177",
       "dai_stream_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "vitality blast 2024",
+      "match_name": "sussex sharks vs lancashire lightning qf 4 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/vitalityblast24_qf_sussexsharks_vs_lancashirelightning_2sep_landscape_thumb.jpg",
+      "match_id": "1000289435",
+      "dai_stream_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8"
     },
     {
       "event_category": "football",
