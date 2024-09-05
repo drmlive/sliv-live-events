@@ -1,8 +1,17 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "22:17:57 05-09-2024",
+  "last update time": "22:36:25 05-09-2024",
   "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "vitality blast 2024",
+      "match_name": "northamptonshire steelbacks vs somerset qf 5 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/vitalityblast24_qf_northamps_steelbacks_vs_somerset_2sep_landscape_thumb.jpg",
+      "match_id": "1000289616",
+      "dai_stream_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8"
+    },
     {
       "event_category": "football",
       "event_name": "uefa nations league 2024 25",
