@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "08:57:38 05-09-2024",
+  "last update time": "09:06:40 05-09-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -11,6 +11,15 @@
       "match_id": "1000286177",
       "dai_stream_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8"
+    },
+    {
+      "event_category": "golf",
+      "event_name": "asian tour 2024",
+      "match_name": "day 1 the 40th shinhan donghae open 5 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiantour24_the40thshinhandonghaeopen_day1_5sep_landscape_thumb.jpg",
+      "match_id": "1000289691",
+      "dai_stream_url": "https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8"
     }
   ]
 }
