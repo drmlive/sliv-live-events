@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "04:56:02 07-09-2024",
+  "last update time": "05:04:16 07-09-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -11,6 +11,15 @@
       "match_id": "1000286175",
       "dai_stream_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8"
+    },
+    {
+      "event_category": "wwe",
+      "event_name": "wwe smackdown",
+      "match_name": "wwe smackdown 7 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_sd24_rhodes_vs_sikoa_spl_6sep_multilang_landscape_thumb.jpg",
+      "match_id": "1000290048",
+      "dai_stream_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8"
     }
   ]
 }
