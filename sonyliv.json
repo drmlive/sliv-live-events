@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:15:50 06-09-2024",
+  "last update time": "23:39:02 06-09-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -11,6 +11,33 @@
       "match_id": "1000286175",
       "dai_stream_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa nations league 2024 25",
+      "match_name": "france vs italy 7 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2023_france_vs_italy_5_sep_24_landscape_thumb.jpg",
+      "match_id": "1000289952",
+      "dai_stream_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa nations league 2024 25",
+      "match_name": "belgium vs israel 7 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2023_belgium_vs_israel_5_sep_24_landscape_thumb.jpg",
+      "match_id": "1000289951",
+      "dai_stream_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa nations league 2024 25",
+      "match_name": "wales vs turkiye 7 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2023_wales_vs_turkey_5_sep_24_landscape_thumb.jpg",
+      "match_id": "1000289956",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6"
     },
     {
       "event_category": "cricket",
@@ -24,11 +51,29 @@
     {
       "event_category": "football",
       "event_name": "uefa nations league 2024 25",
-      "match_name": "lithuania vs cyprus 6 sep 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_lithuania_vs_cyprus_5sep_landscape_thumb.jpg",
-      "match_id": "1000289815",
-      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6",
-      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6"
+      "match_name": "slovenia vs austria 7 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2023_slovenia_vs_austria_5_sep_24_landscape_thumb.jpg",
+      "match_id": "1000289955",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa nations league 2024 25",
+      "match_name": "kosovo vs romania 7 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2023_kosovo_vs_romania_5_sep_24_landscape_thumb.jpg",
+      "match_id": "1000289954",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa nations league 2024 25",
+      "match_name": "iceland vs montenegro 7 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2023_iceland_vs_montenegro_5_sep_24_landscape_thumb.jpg",
+      "match_id": "1000289953",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1725655555~acl=*~id=1556784483112233~hmac=b763308a02cf69980a83f0f517390cd541b9ad43ec5164b1f5549aeeda22e2e6"
     }
   ]
 }
