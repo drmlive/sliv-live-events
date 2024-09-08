@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "20:37:03 08-09-2024",
+  "last update time": "20:57:38 08-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -15,11 +15,38 @@
     {
       "event_category": "football",
       "event_name": "uefa nations league 2024 25",
-      "match_name": "luxembourg vs belarus 8 sep 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_luxembourg_vs_belarus_7sep_landscape_thumb.jpg",
-      "match_id": "1000290259",
-      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1725833760~acl=*~id=1556784483112233~hmac=83228ff4d4f9274193fe2d2b873dbf614101cc6be0dcf94d0abb72892bee6018",
-      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1725833760~acl=*~id=1556784483112233~hmac=83228ff4d4f9274193fe2d2b873dbf614101cc6be0dcf94d0abb72892bee6018"
+      "match_name": "denmark vs serbia 8 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_denmark_vs_serbia_7sep_landscape_thumb.jpg",
+      "match_id": "1000290266",
+      "dai_stream_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa nations league 2024 25",
+      "match_name": "slovakia vs azerbaijan 8 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_slovakia_vs_azerbaijan_7sep_landscape_thumb.jpg",
+      "match_id": "1000290272",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1725833760~acl=*~id=1556784483112233~hmac=83228ff4d4f9274193fe2d2b873dbf614101cc6be0dcf94d0abb72892bee6018",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1725833760~acl=*~id=1556784483112233~hmac=83228ff4d4f9274193fe2d2b873dbf614101cc6be0dcf94d0abb72892bee6018"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa nations league 2024 25",
+      "match_name": "gibraltar vs liechtenstein 8 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_gibraltar_vs_liechtenstein_7sep_landscape_thumb.jpg",
+      "match_id": "1000290269",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1725833760~acl=*~id=1556784483112233~hmac=83228ff4d4f9274193fe2d2b873dbf614101cc6be0dcf94d0abb72892bee6018",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1725833760~acl=*~id=1556784483112233~hmac=83228ff4d4f9274193fe2d2b873dbf614101cc6be0dcf94d0abb72892bee6018"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa nations league 2024 25",
+      "match_name": "bulgaria vs northern ireland 8 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_bulgaria_vs_northern_ireland_7sep_landscape_thumb.jpg",
+      "match_id": "1000290264",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1725833760~acl=*~id=1556784483112233~hmac=83228ff4d4f9274193fe2d2b873dbf614101cc6be0dcf94d0abb72892bee6018",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1725833760~acl=*~id=1556784483112233~hmac=83228ff4d4f9274193fe2d2b873dbf614101cc6be0dcf94d0abb72892bee6018"
     }
   ]
 }
