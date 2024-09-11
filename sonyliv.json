@@ -1,8 +1,17 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "10:37:11 11-09-2024",
+  "last update time": "10:59:26 11-09-2024",
   "matches": [
+    {
+      "event_category": "hockey",
+      "event_name": "men s asian champions trophy 2024",
+      "match_name": "pakistan vs japan 11 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hact_pakistan_vs_japan_10sep_landscape_thumb.jpg",
+      "match_id": "1000290647",
+      "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
+    },
     {
       "event_category": "tennis",
       "event_name": "davis cup 2024",
