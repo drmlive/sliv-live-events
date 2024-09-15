@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "07:40:11 15-09-2024",
+  "last update time": "08:27:19 15-09-2024",
   "matches": [
     {
       "event_category": "ufc",
@@ -22,13 +22,13 @@
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8"
     },
     {
-      "event_category": "preliminary",
-      "event_name": "fight sports ufc 2023 24",
-      "match_name": "round ufc 306 sean o malley vs merab dvalishvili 15 sep 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc306_prelims_14sep_landscape_thumb.jpg",
-      "match_id": "1000291248",
-      "dai_stream_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8"
+      "event_category": "tennis",
+      "event_name": "davis cup 2024",
+      "match_name": "slovakia vs chile 15 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/daviscup24_slovakia_vs_chile_14sep_landscape_thumb.jpg",
+      "match_id": "1000291274",
+      "dai_stream_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8"
     }
   ]
 }
