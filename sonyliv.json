@@ -1,16 +1,25 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "15:00:01 16-09-2024",
+  "last update time": "15:11:04 16-09-2024",
   "matches": [
     {
       "event_category": "hockey",
       "event_name": "men s asian champions trophy 2024",
-      "match_name": "pakistan vs china semi final 16 sep 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hact24_sf_pakistan_vs_china_15sep_landscape_thumb.jpg",
-      "match_id": "1000291420",
+      "match_name": "india vs korea semi final 16 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hact24_sf_ind_vs_korea_15sep_eng_landscape_thumb.jpg",
+      "match_id": "1000291421",
       "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
+    },
+    {
+      "event_category": "hockey",
+      "event_name": "men s asian champions trophy 2024",
+      "match_name": "india vs korea semi final 16 sep 2024 hindi",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hact24_sf_ind_vs_korea_15sep_hindi_landscape_thumb.jpg",
+      "match_id": "1000291422",
+      "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8"
     }
   ]
 }
