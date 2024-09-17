@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "14:56:38 17-09-2024",
+  "last update time": "15:05:00 17-09-2024",
   "matches": [
     {
       "event_category": "hockey",
@@ -11,6 +11,24 @@
       "match_id": "1000291512",
       "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
+    },
+    {
+      "event_category": "hockey",
+      "event_name": "men s asian champions trophy 2024",
+      "match_name": "china vs india final 17 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hact_final_india_vs_china_live_16_sep_24_eng_landscape_thumb.jpg",
+      "match_id": "1000291514",
+      "dai_stream_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
+    },
+    {
+      "event_category": "hockey",
+      "event_name": "men s asian champions trophy 2024",
+      "match_name": "china vs india final 17 sep 2024 hindi",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hact_final_india_vs_china_live_16_sep_24_hindi_landscape_thumb.jpg",
+      "match_id": "1000291515",
+      "dai_stream_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8"
     }
   ]
 }
