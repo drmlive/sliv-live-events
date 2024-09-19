@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "21:39:08 19-09-2024",
+  "last update time": "22:02:49 19-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -11,6 +11,24 @@
       "match_id": "1000291744",
       "dai_stream_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa champions league 2024 25",
+      "match_name": "feyenoord vs leverkusen 19 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_feyenoord_vs_leverkusen_live_18_sep_24_landscape_thumb.jpg",
+      "match_id": "1000291787",
+      "dai_stream_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "uefa champions league 2024 25",
+      "match_name": "crvena zvezda vs benfica 19 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/0/ucl24_crvenazvezda_vs_benfica_live_18_sep_24_landscape_thumb.jpg",
+      "match_id": "1000291785",
+      "dai_stream_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8"
     }
   ]
 }
