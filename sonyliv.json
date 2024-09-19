@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "20:16:22 19-09-2024",
+  "last update time": "20:37:49 19-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -11,15 +11,6 @@
       "match_id": "1000291744",
       "dai_stream_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "uefa youth league 2024 25",
-      "match_name": "monaco vs barcelona 19 sep 2024",
-      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uyl24_monaco_vs_barcelona_live_18_sep_24_landscape_thumb.jpg",
-      "match_id": "1000291783",
-      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1726759408~acl=*~id=1556784483112233~hmac=12bb0b25ff0bbab55276683c2160226f27908db7be47e5a0d49f8ac644ed5fe2",
-      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1726759408~acl=*~id=1556784483112233~hmac=12bb0b25ff0bbab55276683c2160226f27908db7be47e5a0d49f8ac644ed5fe2"
     }
   ]
 }
