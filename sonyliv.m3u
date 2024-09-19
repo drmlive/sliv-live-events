@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_monaco_vs_barcelona_live_18_sep_24_landscape_thumb.jpg" group-title="Sony Liv",monaco vs barcelona 20 sep 2024
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_atalanta_vs_arsenal_live_18_sep_24_eng_landscape_thumb.jpg" group-title="Sony Liv",atalanta vs arsenal 20 sep 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_atletico_vs_leipzig_live_18_sep_24_landscape_thumb.jpg" group-title="Sony Liv",atletico madrid vs leipzig 20 sep 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_atalanta_vs_arsenal_live_18_sep_24_hindi_landscape_thumb.jpg" group-title="Sony Liv",atalanta vs arsenal 20 sep 2024 hindi
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_monaco_vs_barcelona_live_18_sep_24_landscape_thumb.jpg" group-title="Sony Liv",monaco vs barcelona 20 sep 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_brest_vs_sturmgraz_live_18_sep_24_landscape_thumb.jpg" group-title="Sony Liv",brest vs sturm graz 20 sep 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1726810511~acl=*~id=1556784483112233~hmac=1e983291ab702288ebd68f7399f7c4e9e7ee134bb85354c25a3e0e2375457fe6
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_atalanta_vs_arsenal_live_18_sep_24_hindi_landscape_thumb.jpg" group-title="Sony Liv",atalanta vs arsenal 20 sep 2024 hindi
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
