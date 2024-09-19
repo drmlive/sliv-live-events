@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/nzvssl24_1test_day2_live_landscape_thumb.jpg" group-title="Sony Liv",day 2 1st test 19 sep 2024
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/eng_vs_aus_1st_odi_live_18sep24_landscape_thumb.jpg" group-title="Sony Liv",1st odi 19 sep 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uyl24_monaco_vs_barcelona_live_18_sep_24_landscape_thumb.jpg" group-title="Sony Liv",monaco vs barcelona 19 sep 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1726759408~acl=*~id=1556784483112233~hmac=12bb0b25ff0bbab55276683c2160226f27908db7be47e5a0d49f8ac644ed5fe2
