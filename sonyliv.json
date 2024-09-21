@@ -1,6 +1,34 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "18:56:57 21-09-2024",
-  "matches": []
+  "last update time": "19:03:34 21-09-2024",
+  "matches": [
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "heidenheim vs sc freiburg md 4 21 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md4_heidenheim_vs_sc_freiburg_2sep_landscape_thumb.jpg",
+      "match_id": "1000291887",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1726963799~acl=*~id=1556784483112233~hmac=8e3d5199d793bc5bd99ed57ff86ac55b6338e10d7d3ceb85e031cf9d8741e763",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1726963799~acl=*~id=1556784483112233~hmac=8e3d5199d793bc5bd99ed57ff86ac55b6338e10d7d3ceb85e031cf9d8741e763"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "union berlin vs hoffenheim md 4 21 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md4_unionberlin_vs_hoffenheim_2sep_landscape_thumb.jpg",
+      "match_id": "1000291889",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1726963799~acl=*~id=1556784483112233~hmac=8e3d5199d793bc5bd99ed57ff86ac55b6338e10d7d3ceb85e031cf9d8741e763",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1726963799~acl=*~id=1556784483112233~hmac=8e3d5199d793bc5bd99ed57ff86ac55b6338e10d7d3ceb85e031cf9d8741e763"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "vfl bochum vs holstein kiel md 4 21 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md4_vfl_bochum_vs_holstein_kiel_2sep_landscape_thumb.jpg",
+      "match_id": "1000291890",
+      "dai_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1726963799~acl=*~id=1556784483112233~hmac=8e3d5199d793bc5bd99ed57ff86ac55b6338e10d7d3ceb85e031cf9d8741e763",
+      "pub_stream_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1726963799~acl=*~id=1556784483112233~hmac=8e3d5199d793bc5bd99ed57ff86ac55b6338e10d7d3ceb85e031cf9d8741e763"
+    }
+  ]
 }
