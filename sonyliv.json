@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "22:16:43 22-09-2024",
+  "last update time": "22:36:52 22-09-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -20,6 +20,15 @@
       "match_id": "1000292166",
       "dai_stream_url": "https://dai.google.com/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "st pauli vs rb leipzig md 4 22 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md4_st_pauli_vs_rb_leipzig_2sep_landscape_thumb.jpg",
+      "match_id": "1000292170",
+      "dai_stream_url": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8"
     }
   ]
 }
