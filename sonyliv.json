@@ -1,7 +1,7 @@
 {
   "name": "Sonyliv Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "20:15:57 22-09-2024",
+  "last update time": "20:34:19 22-09-2024",
   "matches": [
     {
       "event_category": "tennis",
@@ -20,6 +20,15 @@
       "match_id": "1000292167",
       "dai_stream_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
       "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8"
+    },
+    {
+      "event_category": "football",
+      "event_name": "bundesliga 2024 25",
+      "match_name": "vfb stuttgart vs borussia dortmund md 4 22 sep 2024",
+      "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md4_vfb_stuttgart_vs_dortmund_2sep_landscape_thumb.jpg",
+      "match_id": "1000292166",
+      "dai_stream_url": "https://dai.google.com/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8",
+      "pub_stream_url": "https://pubads.g.doubleclick.net/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8"
     }
   ]
 }
