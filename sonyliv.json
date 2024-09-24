@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:56:52 25-09-2024",
+    "last update time": "05:06:58 25-09-2024",
     "matches": [
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1000292333,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwenxt2024_23sep_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE NXT",
+            "match_name": "WWE NXT - 25 Sep 2024",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1727270608~acl=*~id=1556784483112233~hmac=88f48cee245edc6a8a8089bd8d6141a803d12821f2f90c3aea87778fd4c36cca"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -20,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand Tour Of Sri Lanka 2024"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1000292028,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwenxt2024_23sep_wednesday_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE NXT - 25 Sep 2024"
         }
     ]
 }
