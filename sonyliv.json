@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:09:12 24-09-2024",
+    "last update time": "19:19:19 24-09-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand Tour Of Sri Lanka 2024"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1000292028,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwenxt2024_23sep_wednesday_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE NXT - 25 Sep 2024"
         }
     ]
 }
