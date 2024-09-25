@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:11:10 26-09-2024",
+    "last update time": "00:21:31 26-09-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -28,19 +28,6 @@
             "dai_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?hdnea=exp=1727321116~acl=*~id=1556784483112233~hmac=4b1d899859c386870de2a2dc986c8cda24690199600a41c3e33fb3feae8086cd"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000292468,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel24_md1_bodoglimt_vs_porto_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2024-25",
-            "match_name": "Bod\u00f8/Glimt vs Porto - MD1 - 25 Sep 2024",
-            "dai_url": "https://dai.google.com/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/DAI22ME-V3/master_mdh.m3u8?hdnea=exp=1727321116~acl=*~id=1556784483112233~hmac=4b1d899859c386870de2a2dc986c8cda24690199600a41c3e33fb3feae8086cd"
         },
         {
             "event_category": "Football",
@@ -108,19 +95,6 @@
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1727321116~acl=*~id=1556784483112233~hmac=4b1d899859c386870de2a2dc986c8cda24690199600a41c3e33fb3feae8086cd"
         },
         {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000292466,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel24_md1_az_alkmaar_vs_elfsborg_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2024-25",
-            "match_name": "AZ Alkmaar vs Elfsborg - MD1 - 25 Sep 2024",
-            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1727321116~acl=*~id=1556784483112233~hmac=4b1d899859c386870de2a2dc986c8cda24690199600a41c3e33fb3feae8086cd"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1000291583,
@@ -146,6 +120,24 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Al-Nassr vs Al-Wehda - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000292436,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bayern_v_leverkusen_35_sec_h_app.png",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Bayer Leverkusen"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000292437,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_dortmund_v_bochum_35_sec_h_app.png",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs Bochum"
         }
     ]
 }
