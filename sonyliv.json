@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:38:13 26-09-2024",
+    "last update time": "21:48:21 26-09-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000292482,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel2024_md1_fenerbahce_vs_unionsg_25sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2024-25",
+            "match_name": "Fenerbahce vs Union SG - MD1 - 26 Sep 2024",
+            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1727410375~acl=*~id=1556784483112233~hmac=8b020fb83eeca88842530d2d1bab73b3e6eb84bb6d781d2e354da37eef4229fd"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000292485,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel2024_md1_malmo_vs_rangers_25sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2024-25",
+            "match_name": "Malmo vs Rangers - MD1 - 26 Sep 2024",
+            "dai_url": "https://dai.google.com/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/DAI22ME-V3/master_mdh.m3u8?hdnea=exp=1727410375~acl=*~id=1556784483112233~hmac=8b020fb83eeca88842530d2d1bab73b3e6eb84bb6d781d2e354da37eef4229fd"
+        },
         {
             "event_category": "Football",
             "isLive": false,
