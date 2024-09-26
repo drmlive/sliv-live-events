@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uel2024_md1_tottenham_vs_qarabag_25sep_landscape_thumb.jpg" group-title="Sony Liv",tottenham hotspur vs fk qarabag md1 27 sep 2024
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uel2024_md1_roma_vs_athletic_club_25sep_landscape_thumb.jpg" group-title="Sony Liv",roma vs athletic club md1 27 sep 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
@@ -11,6 +8,9 @@ https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uel2024_md1_lyon_vs_olympiacos_25sep_landscape_thumb.jpg" group-title="Sony Liv",lyon vs olympiacos md1 27 sep 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uel2024_md1_frankfurt_vs_viktoria_plzen_25sep_landscape_thumb.jpg" group-title="Sony Liv",eintracht frankfurt vs viktoria plzen md1 27 sep 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1727410375~acl=*~id=1556784483112233~hmac=8b020fb83eeca88842530d2d1bab73b3e6eb84bb6d781d2e354da37eef4229fd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uel2024_md1_fenerbahce_vs_unionsg_25sep_landscape_thumb.jpg" group-title="Sony Liv",fenerbahce vs union sg md1 26 sep 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8

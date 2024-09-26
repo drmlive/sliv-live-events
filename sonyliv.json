@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:00:09 27-09-2024",
+    "last update time": "00:10:27 27-09-2024",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000292498,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel2024_md1_tottenham_vs_qarabag_25sep_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2024-25",
-            "match_name": "Tottenham Hotspur vs FK Qarabag - MD1 - 27 Sep 2024",
-            "dai_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?hdnea=exp=1727410375~acl=*~id=1556784483112233~hmac=8b020fb83eeca88842530d2d1bab73b3e6eb84bb6d781d2e354da37eef4229fd"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -128,6 +115,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - 4th ODI - Australia Tour of England 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000292406,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_al_nassr_vs_al_wehda_30_sec_app_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al-Nassr vs Al-Wehda - Roshn Saudi League 2024-25"
         }
     ]
 }
