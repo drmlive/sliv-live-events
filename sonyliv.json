@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:31:02 28-09-2024",
+    "last update time": "00:41:11 28-09-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -43,15 +43,6 @@
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1727486742~acl=*~id=1556784483112233~hmac=dc1eb28ab56fc4564f3b3b34e6b8602007c3750597977459471772f02965b029"
         },
         {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1000292702,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/smackdown_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE SmackDown - 28 Sep 2024"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1000292436,
@@ -63,11 +54,11 @@
         {
             "event_category": "WWE",
             "isLive": false,
-            "contentId": 1000292703,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_raw_landscape_thumb.jpg",
+            "contentId": 1000292702,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/smackdown_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE RAW - 1 Oct 2024"
+            "event_name": "Upcoming - WWE SmackDown - 28 Sep 2024"
         }
     ]
 }
