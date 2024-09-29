@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:29:08 29-09-2024",
+    "last update time": "09:40:12 29-09-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -27,15 +27,6 @@
             "match_name": "Day 1 - Session 1 - 29 Sep 2024"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000292858,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_england_vs_australia_odi_h_30_sec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Australia Tour of England 2024 (Hindi)"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1000292825,
@@ -43,6 +34,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League - 2 Oct 2024"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000292858,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_england_vs_australia_odi_h_30_sec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Australia Tour of England 2024 (Hindi)"
         },
         {
             "event_category": "Football",
