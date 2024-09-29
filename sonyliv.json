@@ -1,8 +1,18 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:58:06 29-09-2024",
+    "last update time": "08:08:11 29-09-2024",
     "matches": [
+        {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1000292814,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_chinasmash24_d1_s1_27sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Grand Smash - China Smash 2024",
+            "match_name": "Day 1 - Session 1 - 29 Sep 2024"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
