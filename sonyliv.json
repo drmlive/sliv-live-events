@@ -1,17 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:18:56 29-09-2024",
+    "last update time": "19:29:07 29-09-2024",
     "matches": [
         {
-            "event_category": "Table Tennis",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": 1000292814,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_chinasmash24_d1_s2_27sep_landscape_thumb.jpg",
+            "contentId": 1000292605,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_holsteinkiel_vs_frankfurt_10sep_rev_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "WTT Grand Smash - China Smash 2024",
-            "match_name": "Day 1 - Session 2 - 29 Sep 2024"
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Holstein Kiel vs Eintracht Frankfurt - MD 5 - 29 Sep 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1727664398~acl=*~id=1556784483112233~hmac=bc2932a219853f5969b7f4f1246422bd3a7fd026d40286c67854f1a9fc269ca4",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1727664398~acl=*~id=1556784483112233~hmac=bc2932a219853f5969b7f4f1246422bd3a7fd026d40286c67854f1a9fc269ca4",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1727664398~acl=*~id=1556784483112233~hmac=bc2932a219853f5969b7f4f1246422bd3a7fd026d40286c67854f1a9fc269ca4"
         },
         {
             "event_category": "Cricket",
@@ -28,25 +31,21 @@
         },
         {
             "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000292605,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_holsteinkiel_vs_frankfurt_10sep_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Holstein Kiel vs Eintracht Frankfurt - MD 5 - 29 Sep 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1727664398~acl=*~id=1556784483112233~hmac=bc2932a219853f5969b7f4f1246422bd3a7fd026d40286c67854f1a9fc269ca4",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1727664398~acl=*~id=1556784483112233~hmac=bc2932a219853f5969b7f4f1246422bd3a7fd026d40286c67854f1a9fc269ca4",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1727664398~acl=*~id=1556784483112233~hmac=bc2932a219853f5969b7f4f1246422bd3a7fd026d40286c67854f1a9fc269ca4"
-        },
-        {
-            "event_category": "Football",
             "isLive": false,
             "contentId": 1000292825,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_02nd_oct_combo_45_sec_hor_app_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League - 2 Oct 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000292512,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_md_2_leverkusen_v_milan_h_45sec_app.png",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer 04 Leverkusen vs AC Milan"
         }
     ]
 }
