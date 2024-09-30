@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:55:17 30-09-2024",
+    "last update time": "13:05:23 30-09-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -29,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Barcelona vs Young Boys"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1000292703,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_raw_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE RAW - 1 Oct 2024"
         }
     ]
 }
