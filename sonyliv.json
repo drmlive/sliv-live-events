@@ -1,18 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:45:10 30-09-2024",
+    "last update time": "12:55:17 30-09-2024",
     "matches": [
-        {
-            "event_category": "Table Tennis",
-            "isLive": true,
-            "contentId": 1000292906,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_chinasmash24_d2_s1_27sep_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "WTT Grand Smash - China Smash 2024",
-            "match_name": "Day 2 - Session 1 - 30 Sep 2024"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -30,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer 04 Leverkusen vs AC Milan"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000292514,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_md_2_barcelona_v_young_boys_h_45sec_app.png",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Young Boys"
         }
     ]
 }
