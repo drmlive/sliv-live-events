@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:16:49 03-10-2024",
+    "last update time": "17:27:03 03-10-2024",
     "matches": [
         {
             "event_category": "Tennis",
@@ -45,6 +45,15 @@
             "event_name": "Upcoming - Chelsea vs Gent - UEFA Europa Conference League 2024-25"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000293283,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/spl24_ittihad_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al-Okhdood vs Al-Ittihad - Roshn Saudi League 2024-25"
+        },
+        {
             "event_category": "WWE",
             "isLive": false,
             "contentId": 1000293268,
@@ -52,6 +61,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - WWE SmackDown - 5 Oct 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000293282,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/spl24_nassr_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al-Nassr vs Al-Orobah - Roshn Saudi League 2024-25"
         },
         {
             "event_category": "Football",
@@ -70,15 +88,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Eintracht Frankfurt vs Bayern Munich"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1000293267,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_raw_24_23sep_tuesday_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE RAW - 8 Oct 2024"
         }
     ]
 }
