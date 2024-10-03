@@ -1,8 +1,18 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:53:50 03-10-2024",
+    "last update time": "08:03:58 03-10-2024",
     "matches": [
+        {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1000293025,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_chinasmash24_d5_s1_27sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Grand Smash - China Smash 2024",
+            "match_name": "Day 5 - Session 1 - 3 Oct 2024"
+        },
         {
             "event_category": "Football",
             "isLive": false,
