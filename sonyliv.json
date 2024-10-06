@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:07:16 07-10-2024",
+    "last update time": "01:17:26 07-10-2024",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000293444,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md6_stuttgart_vs_hoffenheim_26sep_clean_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "VfB Stuttgart vs Hoffenheim - 6 Oct 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1728275248~acl=*~id=1556784483112233~hmac=db0555a959562c2de7aec495eeb7010218b2876e1c083e00cf04eca07c60a0c3",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1728275248~acl=*~id=1556784483112233~hmac=db0555a959562c2de7aec495eeb7010218b2876e1c083e00cf04eca07c60a0c3",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1728275248~acl=*~id=1556784483112233~hmac=db0555a959562c2de7aec495eeb7010218b2876e1c083e00cf04eca07c60a0c3"
-        },
         {
             "event_category": "Football",
             "isLive": false,
