@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:32:08 10-10-2024",
+    "last update time": "14:42:18 10-10-2024",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": 1000293765,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sjmmacaoopen_day1_8oct_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2024",
-            "match_name": "Day 1 - SJM Macao Open - 10 Oct 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1728579652~acl=*~id=1556784483112233~hmac=d03f98103c92d3083981754fb26d37fdaa58e8a01332ba42a08ea8d6aca4d1aa",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1728579652~acl=*~id=1556784483112233~hmac=d03f98103c92d3083981754fb26d37fdaa58e8a01332ba42a08ea8d6aca4d1aa",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1728579652~acl=*~id=1556784483112233~hmac=d03f98103c92d3083981754fb26d37fdaa58e8a01332ba42a08ea8d6aca4d1aa"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -42,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - West Indies Tour of Sri Lanka 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000293421,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl24_hungary_vs_netherlands_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Nations League 2024 - Hungary vs Netherlands"
         }
     ]
 }
