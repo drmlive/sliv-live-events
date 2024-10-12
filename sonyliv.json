@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:53:19 12-10-2024",
+    "last update time": "09:03:28 12-10-2024",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1000293950,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sjmmacaoopen_day3_8oct_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2024",
+            "match_name": "Day 3 - SJM Macao Open - 12 Oct 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1728744992~acl=*~id=1556784483112233~hmac=9f35e7e68c80a77c318108d1625810b2e302c6d875a3e92a7db816155b621092",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1728744992~acl=*~id=1556784483112233~hmac=9f35e7e68c80a77c318108d1625810b2e302c6d875a3e92a7db816155b621092",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1728744992~acl=*~id=1556784483112233~hmac=9f35e7e68c80a77c318108d1625810b2e302c6d875a3e92a7db816155b621092"
+        },
         {
             "event_category": "Football",
             "isLive": false,
