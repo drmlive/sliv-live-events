@@ -1,1 +1,43 @@
-error code: 502
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "04:55:16 17-10-2024",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000293773,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_sri_lanka_vs_west_indies_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - West Indies Tour of Sri Lanka 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000293842,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_rsl_al_shabab_vs_al_nassr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al-Shabab vs Al-Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000294527,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/pro_cricket_league_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pro Cricket League 2024"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1000294125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_308_12oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
+        }
+    ]
+}
