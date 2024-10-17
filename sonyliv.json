@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:02:28 17-10-2024",
+    "last update time": "11:12:40 17-10-2024",
     "matches": [
         {
             "event_category": "Golf",
@@ -26,15 +26,6 @@
             "event_name": "Upcoming - West Indies Tour of Sri Lanka 2024"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000293842,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_rsl_al_shabab_vs_al_nassr_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Al-Shabab vs Al-Nassr - Roshn Saudi League 2024-25"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1000294527,
@@ -42,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pro Cricket League 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000293842,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_rsl_al_shabab_vs_al_nassr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al-Shabab vs Al-Nassr - Roshn Saudi League 2024-25"
         },
         {
             "event_category": "Fight Sports",
