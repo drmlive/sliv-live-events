@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:52:26 18-10-2024",
+    "last update time": "01:02:38 18-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -38,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1000294560,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_sd24_generic_17oct_sat_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE SmackDown - 19 Oct 2024"
         }
     ]
 }
