@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:54:25 20-10-2024",
+    "last update time": "04:04:38 20-10-2024",
     "matches": [
         {
-            "event_category": "Archery",
+            "event_category": "Fight Sports",
             "isLive": true,
-            "contentId": 1000294686,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hawc24_compoundwomeneliteeight_quarterfinals_finals_rev_landscsape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": 1000294687,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_fight_night_hernandez_vs_pereira_portrait_thumb_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Hyundai Archery World Cup 2024",
-            "match_name": "Compound Women Elite Eight - 20 Oct 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?<br />\n<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />\nNo 'cookieUrl' found in the response.",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?<br />\n<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />\nNo 'cookieUrl' found in the response.",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?<br />\n<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />\nNo 'cookieUrl' found in the response."
+            "event_name": "UFC 2023-24",
+            "match_name": "UFC Fight Night - Hernandez vs Pereira - 20 Oct 2024",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?<br />\n<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />\nNo 'cookieUrl' found in the response."
         },
         {
             "event_category": "Cricket",
