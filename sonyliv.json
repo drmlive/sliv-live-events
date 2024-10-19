@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:29:19 19-10-2024",
+    "last update time": "23:39:34 19-10-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1000286191,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/pcl24_rajasthan_vs_delhi_19oct_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pro Cricket League 2024",
-            "match_name": "Rajasthan Kings vs Sahgal Delhi Demons - 19 Oct 2024",
-            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?<br />\n<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />\nNo 'cookieUrl' found in the response."
-        },
         {
             "event_category": "Football",
             "isLive": true,
