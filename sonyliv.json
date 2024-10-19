@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:24:01 19-10-2024",
+    "last update time": "05:34:11 19-10-2024",
     "matches": [
         {
             "event_category": "WWE",
@@ -17,22 +17,13 @@
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1729316843~acl=*~id=1556784483112233~hmac=e1212cc9ad26b56292f720e1a2c5f50797719fb53adfd45bfba0e388e2a6bcfc"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1000294125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_308_12oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": 1000293773,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_sri_lanka_vs_west_indies_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000294338,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_bliga_14oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs VfB Stuttgart"
+            "event_name": "Upcoming - West Indies Tour of Sri Lanka 2024"
         },
         {
             "event_category": "Football",
@@ -51,6 +42,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1000294125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_308_12oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000294338,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_bliga_14oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs VfB Stuttgart"
         },
         {
             "event_category": "Football",
