@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:41:59 20-10-2024",
+    "last update time": "01:52:09 20-10-2024",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000294674,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/spl2425_md7_al_ittihad_vs_al_qadsiah_17oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Roshn Saudi League 2024-25",
-            "match_name": "Al-Ittihad vs Al-Qadsiah - MD 7 - 19 Oct 2024",
-            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?<br />\n<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />\nNo 'cookieUrl' found in the response."
-        },
         {
             "event_category": "Archery",
             "isLive": true,
