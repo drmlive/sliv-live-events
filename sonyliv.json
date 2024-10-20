@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:51:26 20-10-2024",
+    "last update time": "21:01:42 20-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,6 +54,19 @@
             "dai_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1729469289~acl=*~id=1556784483112233~hmac=5d247026530c8388962fee4298aedd1a2caeb6aae581206b46f9df5c44d939f4",
             "pub_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1729469289~acl=*~id=1556784483112233~hmac=5d247026530c8388962fee4298aedd1a2caeb6aae581206b46f9df5c44d939f4",
             "video_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1729469289~acl=*~id=1556784483112233~hmac=5d247026530c8388962fee4298aedd1a2caeb6aae581206b46f9df5c44d939f4"
+        },
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": 1000294724,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hawc24_recurvemeneliteeight_quarterfinals_finals_rev_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai Archery World Cup 2024",
+            "match_name": "Recurve Men Elite Eight - 20 Oct 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1729469289~acl=*~id=1556784483112233~hmac=5d247026530c8388962fee4298aedd1a2caeb6aae581206b46f9df5c44d939f4",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1729469289~acl=*~id=1556784483112233~hmac=5d247026530c8388962fee4298aedd1a2caeb6aae581206b46f9df5c44d939f4",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1729469289~acl=*~id=1556784483112233~hmac=5d247026530c8388962fee4298aedd1a2caeb6aae581206b46f9df5c44d939f4"
         },
         {
             "event_category": "Football",
