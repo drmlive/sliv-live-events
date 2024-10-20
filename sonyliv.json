@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:11:21 20-10-2024",
+    "last update time": "14:21:36 20-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -17,17 +17,17 @@
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1729431207~acl=*~id=1556784483112233~hmac=693228d5a3741c375522b0c2870061a3e47c712ed716b7e8c498fb96cfd3e15f"
         },
         {
-            "event_category": "Golf",
+            "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1000294713,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bmchampionship_day4_15oct_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": 1000286190,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/pcl24_faridabad_vs_gurugram_19oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2024",
-            "match_name": "Day 4 - Black Mountain Championship - 20 Oct 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1729431207~acl=*~id=1556784483112233~hmac=693228d5a3741c375522b0c2870061a3e47c712ed716b7e8c498fb96cfd3e15f",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1729431207~acl=*~id=1556784483112233~hmac=693228d5a3741c375522b0c2870061a3e47c712ed716b7e8c498fb96cfd3e15f",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1729431207~acl=*~id=1556784483112233~hmac=693228d5a3741c375522b0c2870061a3e47c712ed716b7e8c498fb96cfd3e15f"
+            "event_name": "Pro Cricket League 2024",
+            "match_name": "Faridabad Sledge Hammer Knights vs Gurugram Patriots - 20 Oct 2024",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1729431207~acl=*~id=1556784483112233~hmac=693228d5a3741c375522b0c2870061a3e47c712ed716b7e8c498fb96cfd3e15f"
         },
         {
             "event_category": "Football",
