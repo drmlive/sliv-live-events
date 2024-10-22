@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:10:37 22-10-2024",
+    "last update time": "21:20:49 22-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1000294923,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/indvsger24_hockey_22oct_promo_portrait_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 3",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India vs Germany Bilateral Series"
         },
         {
             "event_category": "Cricket",
