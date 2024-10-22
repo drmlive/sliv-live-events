@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:20:49 22-10-2024",
+    "last update time": "21:31:01 22-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,6 +28,19 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1729634664~acl=*~id=1556784483112233~hmac=e6872d87f3998795ee276e2c9bbdf05d078749813bac5c9a7e8afe0cac2b1245",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1729634664~acl=*~id=1556784483112233~hmac=e6872d87f3998795ee276e2c9bbdf05d078749813bac5c9a7e8afe0cac2b1245",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1729634664~acl=*~id=1556784483112233~hmac=e6872d87f3998795ee276e2c9bbdf05d078749813bac5c9a7e8afe0cac2b1245"
+        },
+        {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1000294849,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_21oct_day1_s2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Champions Montpellier 2024",
+            "match_name": "Day 1 - Session 2 - 22 Oct 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1729634664~acl=*~id=1556784483112233~hmac=e6872d87f3998795ee276e2c9bbdf05d078749813bac5c9a7e8afe0cac2b1245",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1729634664~acl=*~id=1556784483112233~hmac=e6872d87f3998795ee276e2c9bbdf05d078749813bac5c9a7e8afe0cac2b1245",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1729634664~acl=*~id=1556784483112233~hmac=e6872d87f3998795ee276e2c9bbdf05d078749813bac5c9a7e8afe0cac2b1245"
         },
         {
             "event_category": "Football",
