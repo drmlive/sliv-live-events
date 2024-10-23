@@ -1,1 +1,10 @@
-{"error":"Failed to fetch the web page."}
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/hockey_indvsger_22oct_live_landscape_thumb.jpg" group-title="Sony Liv",match 1 23 oct 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/slvswi24_2odi_22oct_landscape_thumb.jpg" group-title="Sony Liv",2nd odi 23 oct 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/pcl24_faridabad_vs_delhi_22oct_landscape_thumb.jpg" group-title="Sony Liv",faridabad sledge hammer knights vs sahgal delhi demons 23 oct 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8
