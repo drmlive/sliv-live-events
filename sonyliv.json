@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:19:05 25-10-2024",
+    "last update time": "01:29:29 25-10-2024",
     "matches": [
         {
-            "event_category": "Table Tennis",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": 1000295062,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_21oct_day3_s2_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": 1000295145,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md2_thenewsaints_vs_astana_4oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "WTT Champions Montpellier 2024",
-            "match_name": "Day 3 - Session 2 - 24 Oct 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
+            "event_name": "UEFA Europa Conference League 2024-25",
+            "match_name": "The New Saints vs Astana - MD 2 - 25 Oct 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
         },
         {
             "event_category": "Football",
@@ -134,6 +134,19 @@
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
         },
         {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1000295062,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_21oct_day3_s2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Champions Montpellier 2024",
+            "match_name": "Day 3 - Session 2 - 24 Oct 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
+        },
+        {
             "event_category": "Football",
             "isLive": true,
             "contentId": 1000295053,
@@ -212,15 +225,6 @@
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1000294125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_308_12oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1000293773,
@@ -237,6 +241,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Al-Kholood vs Al-Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1000294125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_308_12oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
         }
     ]
 }
