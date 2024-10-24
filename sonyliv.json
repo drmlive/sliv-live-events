@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:52:11 24-10-2024",
+    "last update time": "23:02:44 24-10-2024",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": 1000286191,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/pcl24_delhi_vs_noida_22oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1000295132,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md2_larne_vs_shamrock_rovers_4oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Pro Cricket League 2024",
-            "match_name": "Sahgal Delhi Demons vs Noida Eagles - 24 Oct 2024",
-            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
+            "event_name": "UEFA Europa Conference League 2024-25",
+            "match_name": "Larne FC vs Shamrock Rovers - MD 2 - 24 Oct 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
         },
         {
             "event_category": "Football",
@@ -134,6 +134,19 @@
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
         },
         {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1000295062,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_21oct_day3_s2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Champions Montpellier 2024",
+            "match_name": "Day 3 - Session 2 - 24 Oct 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
+        },
+        {
             "event_category": "Football",
             "isLive": true,
             "contentId": 1000295020,
@@ -199,41 +212,6 @@
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
         },
         {
-            "event_category": "Table Tennis",
-            "isLive": true,
-            "contentId": 1000295062,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_21oct_day3_s2_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "WTT Champions Montpellier 2024",
-            "match_name": "Day 3 - Session 2 - 24 Oct 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000295132,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md2_larne_vs_shamrock_rovers_4oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa Conference League 2024-25",
-            "match_name": "Larne FC vs Shamrock Rovers - MD 2 - 24 Oct 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1729826260~acl=*~id=1556784483112233~hmac=b2d30aa7c2977c94e644b0992c0098ab118b86e12d4d6617cfd3be3396bd0973"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000294617,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_25th_oct_man_united_vs_fenerbahce_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Manchester United vs Fenerbahce - UEFA Europa League 2024-25"
-        },
-        {
             "event_category": "Fight Sports",
             "isLive": false,
             "contentId": 1000294125,
@@ -250,6 +228,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Al-Kholood vs Al-Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000294617,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_25th_oct_man_united_vs_fenerbahce_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester United vs Fenerbahce - UEFA Europa League 2024-25"
         }
     ]
 }
