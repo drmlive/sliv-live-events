@@ -1,65 +1,6 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:24:22 24-10-2024",
-    "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": 1000295064,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiantour24_intseries_thailand_day1_23oct_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2024",
-            "match_name": "Day 1 - International Series Thailand - 24 Oct 2024",
-            "dai_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1729788229~acl=*~id=1556784483112233~hmac=cd242444b788b2a2441aa1af092f00c2e1fc60ad520051c20733e97a173edebf",
-            "pub_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1729788229~acl=*~id=1556784483112233~hmac=cd242444b788b2a2441aa1af092f00c2e1fc60ad520051c20733e97a173edebf",
-            "video_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1729788229~acl=*~id=1556784483112233~hmac=cd242444b788b2a2441aa1af092f00c2e1fc60ad520051c20733e97a173edebf"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1000294923,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_indvsger_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India vs Germany Bilateral Series"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000294617,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_25th_oct_man_united_vs_fenerbahce_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Manchester United vs Fenerbahce - UEFA Europa League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000295043,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/panathinaikos_vs_chelsea_promo_23oct_landscape_humb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Panathinaikos vs Chelsea - UEFA Europa Conference League 2024-25"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1000294125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_308_12oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000295044,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/rsl_alkhalood_vs_alnassr_promo_23oct_landscape_humb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Al-Kholood vs Al-Nassr - Roshn Saudi League 2024-25"
-        }
-    ]
+    "last update time": "13:35:32 24-10-2024",
+    "matches": []
 }
