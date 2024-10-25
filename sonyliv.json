@@ -1,17 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:11:29 25-10-2024",
+    "last update time": "10:21:38 25-10-2024",
     "matches": [
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1000294125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_308_12oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -20,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Al-Kholood vs Al-Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1000294125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_308_12oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 308 - Topuria vs Holloway"
         },
         {
             "event_category": "Cricket",
