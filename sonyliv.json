@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:56:14 26-10-2024",
+    "last update time": "05:06:26 26-10-2024",
     "matches": [
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1000295222,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_sd24_generic_17oct_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE SmackDown",
+            "match_name": "WWE SmackDown - 26 Oct 2024",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1729914991~acl=*~id=1556784483112233~hmac=c2ec6a57c55154004dd1d0b2b9f9f096a062cfb6872c2a6c93fcfa8af14fc521"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
