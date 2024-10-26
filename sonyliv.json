@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:10:44 26-10-2024",
+    "last update time": "08:20:53 26-10-2024",
     "matches": [
-        {
-            "event_category": "WWE",
-            "isLive": true,
-            "contentId": 1000295223,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_sd_lowdown_13sep_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "WWE SmackDown",
-            "match_name": "WWE Smackdown Lowdown - 26 Oct 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1729953129~acl=*~id=1556784483112233~hmac=c13215a6b8d39ff6635274eeb7c3142fc9ac0fb76952a7e2f443bcca88ae315a",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1729953129~acl=*~id=1556784483112233~hmac=c13215a6b8d39ff6635274eeb7c3142fc9ac0fb76952a7e2f443bcca88ae315a",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1729953129~acl=*~id=1556784483112233~hmac=c13215a6b8d39ff6635274eeb7c3142fc9ac0fb76952a7e2f443bcca88ae315a"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
