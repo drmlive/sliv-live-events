@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:51:04 29-10-2024",
+    "last update time": "05:01:14 29-10-2024",
     "matches": [
         {
             "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1000295303,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_raw_24_23sep_tuesday_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "isLive": true,
+            "contentId": 1000295392,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wweraw2024_15oct_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE RAW - 29 Oct 2024"
+            "event_name": "WWE RAW",
+            "match_name": "WWE RAW - 29 Oct 2024",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?<br />\n<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />\nNo 'cookieUrl' found in the response."
         }
     ]
 }
