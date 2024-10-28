@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:10:27 29-10-2024",
+    "last update time": "04:20:37 29-10-2024",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1000286192,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atp1000_rolexparismasters_round1_28oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ATP Masters 1000 - Rolex Paris Masters 2024",
-            "match_name": "Adrian Mannarino vs Tommy Paul - 28 Oct 2024",
-            "dai_url": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-V3/master_mdh.m3u8?<br />\n<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden\r\n in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />\nNo 'cookieUrl' found in the response."
-        },
         {
             "event_category": "WWE",
             "isLive": false,
