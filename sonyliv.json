@@ -1,65 +1,6 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:39:03 30-10-2024",
-    "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1000286192,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atp1000_rolexparismasters_round2_28oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ATP Masters 1000 - Rolex Paris Masters 2024",
-            "match_name": "Arthur Fils vs Jan-Lennard Struff - 30 Oct 2024",
-            "dai_url": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-V3/master_mdh.m3u8?hdnea=exp=1730321315~acl=*~id=1556784483112233~hmac=cb1fc394c41558f24f12cd7d6ed741e76680fabd8170f4ae4fdfc7888cb82ced"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1000295439,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_crown_jewel_promo_28oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE Specials: Crown Jewel 2024"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000295556,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/spl24_al_nassr_vs_al_hilal_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Al-Nassr vs Al-Hilal - Roshn Saudi League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000295522,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_bayernmunich_vs_unionberlin_2ndnov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Union Berlin"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000295521,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_leverkusen_vs_stuttgart_2ndnov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs VfB Stuttgart"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000295520,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_dortmund_vs_rbleipzig_2ndnov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Borussia Dortmund vs RB Leipzig"
-        }
-    ]
+    "last update time": "19:50:10 30-10-2024",
+    "matches": []
 }
