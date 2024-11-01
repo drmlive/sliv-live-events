@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:52:13 02-11-2024",
+    "last update time": "05:02:22 02-11-2024",
     "matches": [
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1000295560,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_sd24_generic_17oct_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE SmackDown",
+            "match_name": "WWE SmackDown - 2 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1730524197~acl=*~id=1556784483112233~hmac=c68eb4d6d3ef282e63acb011c1db0adb6ed4bc8bf5681c2d6eb118a977e522d0"
+        },
         {
             "event_category": "WWE",
             "isLive": false,
