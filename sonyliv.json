@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:08:03 02-11-2024",
+    "last update time": "20:18:23 02-11-2024",
     "matches": [
         {
             "event_category": "WWE",
@@ -11,7 +11,10 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "WWE Specials: Crown Jewel 2024",
-            "match_name": "Countdown - Crown Jewel - 2 Nov 2024"
+            "match_name": "Countdown - Crown Jewel - 2 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1730588241~acl=*~id=1556784483112233~hmac=8801ef76ea261534ca0680faeaf217d670b34237285a91fe0085002afd223920"
         },
         {
             "event_category": "Tennis",
@@ -116,15 +119,6 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1730588241~acl=*~id=1556784483112233~hmac=8801ef76ea261534ca0680faeaf217d670b34237285a91fe0085002afd223920",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1730588241~acl=*~id=1556784483112233~hmac=8801ef76ea261534ca0680faeaf217d670b34237285a91fe0085002afd223920",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1730588241~acl=*~id=1556784483112233~hmac=8801ef76ea261534ca0680faeaf217d670b34237285a91fe0085002afd223920"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1000295439,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_crown_jewel_promo_28oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE Specials: Crown Jewel 2024"
         },
         {
             "event_category": "Football",
