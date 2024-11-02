@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:37:04 02-11-2024",
+    "last update time": "22:47:17 02-11-2024",
     "matches": [
         {
             "event_category": "WWE",
@@ -54,6 +54,19 @@
             "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1730588241~acl=*~id=1556784483112233~hmac=8801ef76ea261534ca0680faeaf217d670b34237285a91fe0085002afd223920"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000295596,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/spl2425_md9_al_ettifaq_vs_al_qadsiah_27oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Roshn Saudi League 2024-25",
+            "match_name": "Al-Ettifaq vs Al-Qadsiah - MD 9 - 2 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1730588241~acl=*~id=1556784483112233~hmac=8801ef76ea261534ca0680faeaf217d670b34237285a91fe0085002afd223920"
         },
         {
             "event_category": "Football",
