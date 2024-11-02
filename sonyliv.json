@@ -1,8 +1,18 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:56:28 02-11-2024",
+    "last update time": "20:08:03 02-11-2024",
     "matches": [
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1000295699,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_crownjewel24_countdown_30oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE Specials: Crown Jewel 2024",
+            "match_name": "Countdown - Crown Jewel - 2 Nov 2024"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -28,6 +38,19 @@
             "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1730588241~acl=*~id=1556784483112233~hmac=8801ef76ea261534ca0680faeaf217d670b34237285a91fe0085002afd223920"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1000295775,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_crownjewel24_countdown_multi_1nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "WWE Specials: Crown Jewel 2024",
+            "match_name": "Countdown - Crown Jewel - 2 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1730588241~acl=*~id=1556784483112233~hmac=8801ef76ea261534ca0680faeaf217d670b34237285a91fe0085002afd223920"
         },
         {
             "event_category": "Football",
@@ -111,15 +134,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Borussia Dortmund vs RB Leipzig"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000295626,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_real_madrid_vs_milan_md4_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Milan  - UEFA Champions League 2024-25"
         }
     ]
 }
