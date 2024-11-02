@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:59:23 02-11-2024",
+    "last update time": "09:09:32 02-11-2024",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1000295561,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/at24_bni_indonesian_masters_day3_29oct_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2024",
+            "match_name": "Day 3 - BNI Indonesian Masters - 2 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730549606~acl=*~id=1556784483112233~hmac=52299d57916e05aaae8a66e5b1bf4cd4e19659d783eb2f2b58984e2336fe6263",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730549606~acl=*~id=1556784483112233~hmac=52299d57916e05aaae8a66e5b1bf4cd4e19659d783eb2f2b58984e2336fe6263",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730549606~acl=*~id=1556784483112233~hmac=52299d57916e05aaae8a66e5b1bf4cd4e19659d783eb2f2b58984e2336fe6263"
+        },
         {
             "event_category": "WWE",
             "isLive": false,
