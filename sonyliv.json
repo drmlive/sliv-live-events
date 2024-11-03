@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:54:38 03-11-2024",
+    "last update time": "19:04:55 03-11-2024",
     "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1000286192,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atprolex_paris24_final_humbert_vs_zverev_3nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ATP Masters 1000 - Rolex Paris Masters 2024",
+            "match_name": "Ugo Humbert vs Alexander Zverev - Final - 3 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-V3/master_mdh.m3u8?hdnea=exp=1730676989~acl=*~id=1556784483112233~hmac=aa40312cb22c1b679b6399be9ad784c3426abe427c1ec10e76e6c95f671109cf"
+        },
         {
             "event_category": "Table Tennis",
             "isLive": true,
