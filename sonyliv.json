@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:52 04-11-2024",
+    "last update time": "02:37:04 04-11-2024",
     "matches": [
-        {
-            "event_category": "Table Tennis",
-            "isLive": true,
-            "contentId": 1000295785,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wttc_frankfurt24_day1_session2_30oct_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "WTT Champions Frankfurt 2024",
-            "match_name": "Day 1 - Session 2 - 3 Nov 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1730676989~acl=*~id=1556784483112233~hmac=aa40312cb22c1b679b6399be9ad784c3426abe427c1ec10e76e6c95f671109cf",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1730676989~acl=*~id=1556784483112233~hmac=aa40312cb22c1b679b6399be9ad784c3426abe427c1ec10e76e6c95f671109cf",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1730676989~acl=*~id=1556784483112233~hmac=aa40312cb22c1b679b6399be9ad784c3426abe427c1ec10e76e6c95f671109cf"
-        },
         {
             "event_category": "Football",
             "isLive": false,
