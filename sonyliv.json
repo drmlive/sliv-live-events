@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:39:56 06-11-2024",
+    "last update time": "00:50:12 06-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -41,6 +41,19 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730855329~acl=*~id=1556784483112233~hmac=00b994788b3026e1dcf8e2f00cba86cc7f1d394c3ca7a0c44d9d6da869d2ef46",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730855329~acl=*~id=1556784483112233~hmac=00b994788b3026e1dcf8e2f00cba86cc7f1d394c3ca7a0c44d9d6da869d2ef46",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730855329~acl=*~id=1556784483112233~hmac=00b994788b3026e1dcf8e2f00cba86cc7f1d394c3ca7a0c44d9d6da869d2ef46"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000295949,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_all_action_stream_1oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "All-Action Stream - MD 4 - 6 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1730855329~acl=*~id=1556784483112233~hmac=00b994788b3026e1dcf8e2f00cba86cc7f1d394c3ca7a0c44d9d6da869d2ef46"
         },
         {
             "event_category": "Football",
