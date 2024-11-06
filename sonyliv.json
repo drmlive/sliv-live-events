@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:23:16 06-11-2024",
+    "last update time": "22:33:32 06-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -28,6 +28,19 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1730943877~acl=*~id=1556784483112233~hmac=a974cf2e8b93692ba52bfc847de1e0ce7d9ab61c436671b6dad6934e3023efeb",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1730943877~acl=*~id=1556784483112233~hmac=a974cf2e8b93692ba52bfc847de1e0ce7d9ab61c436671b6dad6934e3023efeb",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1730943877~acl=*~id=1556784483112233~hmac=a974cf2e8b93692ba52bfc847de1e0ce7d9ab61c436671b6dad6934e3023efeb"
+        },
+        {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1000295970,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wttc_frankfurt24_day4_session1_30oct_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Champions Frankfurt 2024",
+            "match_name": "Day 4 - Session 2 - 6 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730943877~acl=*~id=1556784483112233~hmac=a974cf2e8b93692ba52bfc847de1e0ce7d9ab61c436671b6dad6934e3023efeb",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730943877~acl=*~id=1556784483112233~hmac=a974cf2e8b93692ba52bfc847de1e0ce7d9ab61c436671b6dad6934e3023efeb",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1730943877~acl=*~id=1556784483112233~hmac=a974cf2e8b93692ba52bfc847de1e0ce7d9ab61c436671b6dad6934e3023efeb"
         },
         {
             "event_category": "Football",
