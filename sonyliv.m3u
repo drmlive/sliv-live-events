@@ -1,1 +1,4 @@
-{"error":"Failed to fetch the web page."}
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md3_vikingur_reykjavik_vs_borac_29oct_landscape_thumb.jpg" group-title="Sony Liv",vikingur reykjavik vs fk borac md 3 7 nov 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1731020577~acl=*~id=1556784483112233~hmac=c01ef9675b7839cec37992b1466d2f7819374f9a3e2fa1ae17f7080c26501eac
