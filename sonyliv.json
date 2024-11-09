@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:54:36 09-11-2024",
+    "last update time": "18:04:46 09-11-2024",
     "matches": [
+        {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1000296211,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wttc_frankfurt24_day7_7nov_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Champions Frankfurt 2024",
+            "match_name": "Day 7 - 9 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1731160551~acl=*~id=1556784483112233~hmac=5ec40761384ec78c3a96cb5650d6f171a77a281e0b5482b8a05f6db1a966bd42",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1731160551~acl=*~id=1556784483112233~hmac=5ec40761384ec78c3a96cb5650d6f171a77a281e0b5482b8a05f6db1a966bd42",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1731160551~acl=*~id=1556784483112233~hmac=5ec40761384ec78c3a96cb5650d6f171a77a281e0b5482b8a05f6db1a966bd42"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
