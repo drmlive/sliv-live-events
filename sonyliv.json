@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:55:06 11-11-2024",
+    "last update time": "03:05:17 11-11-2024",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1000295445,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/nittoatpfinals24_grpstage_sinner_vs_minaur_10nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Nitto ATP Finals 2024",
-            "match_name": "Jannik Sinner vs Alex De Minaur - Group Stage - 11 Nov 2024",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1731313592~acl=*~id=1556784483112233~hmac=dfc37aed01a9c979dc9ba292b1b9a3fe8200ca0bf251d5c93101bba1f5f3e4fa"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
