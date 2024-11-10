@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:13:47 10-11-2024",
+    "last update time": "18:24:00 10-11-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000296447,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/slvsnz24_2t20i_10nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "New Zealand Tour Of Sri Lanka 2024",
+            "match_name": "2nd T20I - 10 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1731275529~acl=*~id=1556784483112233~hmac=da2b78348db1383cbcc4473ff51be379efab0d2f75efd6191c006d7862874970"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -30,13 +43,13 @@
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1731275529~acl=*~id=1556784483112233~hmac=da2b78348db1383cbcc4473ff51be379efab0d2f75efd6191c006d7862874970"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Hockey",
             "isLive": false,
-            "contentId": 1000296123,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_vs_nz_promo_6nov_landscape_thumb.jpg",
+            "contentId": 1000296300,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/women_sasianchampionstrophyhockey_masthead_logo_india_vs_malaysia_ind.png",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand Tour Of Sri Lanka 2024"
+            "event_name": "Upcoming - Women's Asian Champions Trophy 2024"
         },
         {
             "event_category": "Tennis",
@@ -46,15 +59,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Nitto ATP Finals 2024"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1000296300,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/women_sasianchampionstrophyhockey_masthead_logo_india_vs_malaysia_ind.png",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Women's Asian Champions Trophy 2024"
         }
     ]
 }
