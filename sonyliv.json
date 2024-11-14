@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:43:18 14-11-2024",
+    "last update time": "22:53:31 14-11-2024",
     "matches": [
         {
             "event_category": "Tennis",
@@ -28,6 +28,19 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1731645695~acl=*~id=1556784483112233~hmac=0d8e3916c0aa1e5b3af7b2dba271ce5b384cd06b0b0d9eab16cf8a52cbc33dc5",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1731645695~acl=*~id=1556784483112233~hmac=0d8e3916c0aa1e5b3af7b2dba271ce5b384cd06b0b0d9eab16cf8a52cbc33dc5",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1731645695~acl=*~id=1556784483112233~hmac=0d8e3916c0aa1e5b3af7b2dba271ce5b384cd06b0b0d9eab16cf8a52cbc33dc5"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000296790,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_friendlies_malta_vs_liechtenstein_9nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Malta vs Liechtenstein - 14 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1731645695~acl=*~id=1556784483112233~hmac=0d8e3916c0aa1e5b3af7b2dba271ce5b384cd06b0b0d9eab16cf8a52cbc33dc5",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1731645695~acl=*~id=1556784483112233~hmac=0d8e3916c0aa1e5b3af7b2dba271ce5b384cd06b0b0d9eab16cf8a52cbc33dc5",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1731645695~acl=*~id=1556784483112233~hmac=0d8e3916c0aa1e5b3af7b2dba271ce5b384cd06b0b0d9eab16cf8a52cbc33dc5"
         },
         {
             "event_category": "Football",
