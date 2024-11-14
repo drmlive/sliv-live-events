@@ -1,1 +1,107 @@
-error code: 524
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "02:00:18 15-11-2024",
+    "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1000296817,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atp_final24_sinner_vs_medvedev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "2024 Nitto ATP Finals",
+            "match_name": "Jannik Sinner vs Daniil Medvedev - Group Stage - 15 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?No 'dashUrl' found in the response."
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000296771,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_belgium_vs_italy_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "Belgium vs Italy - MD 5 - 15 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?No 'dashUrl' found in the response."
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000296774,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_greece_vs_england_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "Greece vs England - MD 5 - 15 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?No 'dashUrl' found in the response."
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000296773,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_france_vs_israel_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "France vs Israel - MD 5 - 15 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?No 'dashUrl' found in the response."
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000296781,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_slovenia_vs_norway_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "Slovenia vs Norway - MD 5 - 15 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?No 'dashUrl' found in the response.",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?No 'dashUrl' found in the response.",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?No 'dashUrl' found in the response."
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000296780,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_republic_of_ireland_vs_finland_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "Republic of Ireland vs Finland - MD 5 - 15 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?No 'dashUrl' found in the response.",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?No 'dashUrl' found in the response.",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?No 'dashUrl' found in the response."
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000296777,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_northmacedonia_vs_latvia_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "North Macedonia vs Latvia - MD 5 - 15 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?No 'dashUrl' found in the response.",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?No 'dashUrl' found in the response.",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?No 'dashUrl' found in the response."
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1000296120,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atp_nitto_promo_6nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Nitto ATP Finals 2024"
+        }
+    ]
+}
