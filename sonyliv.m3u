@@ -8,15 +8,15 @@ https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_france_vs_israel_landscape_thumb.jpg" group-title="Sony Liv",france vs israel md 5 15 nov 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_republic_of_ireland_vs_finland_landscape_thumb.jpg" group-title="Sony Liv",republic of ireland vs finland md 5 15 nov 2024
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?<br />
-<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
- in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />
-No 'cookieUrl' found in the response.
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_slovenia_vs_norway_landscape_thumb.jpg" group-title="Sony Liv",slovenia vs norway md 5 15 nov 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?<br />
+<b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />
+No 'cookieUrl' found in the response.
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl24_md5_republic_of_ireland_vs_finland_landscape_thumb.jpg" group-title="Sony Liv",republic of ireland vs finland md 5 15 nov 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?<br />
 <b>Warning</b>:  file_get_contents(https://tm.tapi.videoready.tv/digital-feed-services/api/partner/player/details/SONYLIV/15): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
  in <b>/var/task/user/api/tp_sliv-cookie.php</b> on line <b>15</b><br />
 No 'cookieUrl' found in the response.
