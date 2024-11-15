@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:09:06 15-11-2024",
+    "last update time": "16:19:16 15-11-2024",
     "matches": [
         {
             "event_category": "Tennis",
@@ -15,15 +15,6 @@
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1731715244~acl=*~id=155678448410001965141731665244125~hmac=61bf197f398f43b2a60ec6cd8a5a60e814cb908a20958dbefd692aa7ba6962ee"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1000296120,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atp_nitto_promo_6nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Nitto ATP Finals 2024"
         },
         {
             "event_category": "Football",
@@ -44,13 +35,13 @@
             "event_name": "Upcoming - UEFA Nations League 2024 - Denmark vs Spain"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Tennis",
             "isLive": false,
-            "contentId": 1000296123,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_vs_nz_promo_6nov_landscape_thumb.jpg",
+            "contentId": 1000296120,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atp_nitto_promo_6nov_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand Tour Of Sri Lanka 2024"
+            "event_name": "Upcoming - Nitto ATP Finals 2024"
         },
         {
             "event_category": "Hockey",
@@ -60,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Women's Asian Champions Trophy 2024"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000296123,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_vs_nz_promo_6nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand Tour Of Sri Lanka 2024"
         }
     ]
 }
