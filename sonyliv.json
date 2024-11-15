@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:36:23 15-11-2024",
+    "last update time": "14:46:30 15-11-2024",
     "matches": [
         {
             "event_category": "Tennis",
@@ -29,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Nations League 2024 - Denmark vs Spain"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000296123,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_vs_nz_promo_6nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand Tour Of Sri Lanka 2024"
         },
         {
             "event_category": "Hockey",
