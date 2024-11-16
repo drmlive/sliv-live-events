@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_md5_netherlands_vs_hungary_10nov_landscape_thumb.jpg" group-title="Sony Liv",netherlands vs hungary md 5 17 nov 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_md5_germany_vs_bosnia_herzegovina_10nov_landscape_thumb.jpg" group-title="Sony Liv",germany vs bosnia herzegovina md 5 17 nov 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_md5_sweden_vs_slovakia_10nov_landscape_thumb.jpg" group-title="Sony Liv",sweden vs slovakia md 5 17 nov 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1731798317~acl=*~id=155678448410001965141731748317517~hmac=ac15a1eca8f0b40da5d84782d5c360e61cae2a65f53100fe9b3e98de488cf1e9
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_md5_albania_vs_czechia_10nov_landscape_thumb.jpg" group-title="Sony Liv",albania vs czechia md 5 17 nov 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1731798317~acl=*~id=155678448410001965141731748317517~hmac=ac15a1eca8f0b40da5d84782d5c360e61cae2a65f53100fe9b3e98de488cf1e9
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/atp_finals_sinner_vs_ruud_sf_landscape_thumb.jpg" group-title="Sony Liv",jannik sinner vs casper ruud semi final 16 nov 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
@@ -14,6 +26,3 @@ https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_md5_montenegro_vs_iceland_10nov_landscape_thumb.jpg" group-title="Sony Liv",montenegro vs iceland md 5 16 nov 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1731798317~acl=*~id=155678448410001965141731748317517~hmac=ac15a1eca8f0b40da5d84782d5c360e61cae2a65f53100fe9b3e98de488cf1e9
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/nitto_atp_finals2024_semifinal_landscape_thumb.jpg" group-title="Sony Liv",patten heliovaara vs pavic arevalo semi final 16 nov 2024
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
