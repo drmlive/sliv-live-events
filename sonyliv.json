@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:15:04 17-11-2024",
+    "last update time": "19:25:48 17-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -65,15 +65,6 @@
             "event_name": "Upcoming - Nitto ATP Finals 2024"
         },
         {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1000296690,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/davis_cup_nadal_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Davis Cup 2024 - Nadal's Last Dance"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1000296741,
@@ -90,6 +81,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Nations League 2024 - Matchday 5 and 6"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1000296690,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/davis_cup_nadal_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Davis Cup 2024 - Nadal's Last Dance"
         }
     ]
 }
