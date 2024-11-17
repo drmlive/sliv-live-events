@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:53:44 17-11-2024",
+    "last update time": "19:04:34 17-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,6 +15,45 @@
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1000297373,
+            "src": "https://origin-staticv2.sonyliv.com/0/nitto_atp_finals2024_final_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "2024 Nitto ATP Finals",
+            "match_name": "Krawietz/Putz vs Arevalo/Pavic - Final - 17 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000297162,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_md6_latvia_vs_armenia_10nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "Latvia vs Armenia - MD 6 - 17 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000297168,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl2425_md6_north_macedonia_vs_faroe_islands_10nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "North Macedonia vs Faroe Islands - MD 6 - 17 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1731870847~acl=*~id=155678448410001965141731820847597~hmac=0ff1bf0fa8ee1330eef73d223a6512d8be9dd3cf40d6ce09b216e2d433bd4727"
         },
         {
             "event_category": "Tennis",
