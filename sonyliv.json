@@ -1,1 +1,34 @@
-error code: 502
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "14:10:37 18-11-2024",
+    "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1000296690,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/davis_cup_nadal_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Davis Cup 2024 - Nadal's Last Dance"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000297107,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/unl24_croatia_vs_portugal_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Nations League 2024 - 19th Nov 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000296158,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_unl_generic_md_5_6_7nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Nations League 2024 - Matchday 5 and 6"
+        }
+    ]
+}
