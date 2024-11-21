@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:04:43 21-11-2024",
+    "last update time": "21:14:52 21-11-2024",
     "matches": [
         {
             "event_category": "Tennis",
@@ -33,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs Augsburg"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000297775,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_dortmund_v_freiburg_35_sec_hor_app_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Borussia Dortmund vs SC Freiburg"
         }
     ]
 }
