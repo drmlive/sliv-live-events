@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:18:12 23-11-2024",
+    "last update time": "00:28:20 23-11-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000297944,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga24_md11_bayernmunich_vs_augsburg_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Bayern Munich vs Augsburg - MD 11 - 23 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1732339597~acl=*~id=155678448410001965141732289597014~hmac=e539005129a965a786ba5e6b51203a3f7f5d8a6b91a4f2536ed6b7454aaf8b8f"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -38,15 +51,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Football Blockbusters 24x7",
             "match_name": ""
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000297774,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bayern_v_augsbburg_35_sec_hor_app_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Augsburg"
         }
     ]
 }
