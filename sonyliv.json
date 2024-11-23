@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:59:48 24-11-2024",
+    "last update time": "01:09:56 24-11-2024",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000297965,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga24_md11_eintrachtfrankfurt_vs_werderbremen_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Eintracht Frankfurt vs Werder Bremen - MD 11 - 23 Nov 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732411858~acl=*~id=155678448410001965141732361858826~hmac=844d7018a813fe2f5f3cf4f1216cad360fa79ac8ee887447d97685577a8e3578",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732411858~acl=*~id=155678448410001965141732361858826~hmac=844d7018a813fe2f5f3cf4f1216cad360fa79ac8ee887447d97685577a8e3578",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732411858~acl=*~id=155678448410001965141732361858826~hmac=844d7018a813fe2f5f3cf4f1216cad360fa79ac8ee887447d97685577a8e3578"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -61,6 +48,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Man City vs Feyenoord - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000297802,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/liverpool_vs_real_madrid_28_nov_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Liverpool vs Real Madrid - UEFA Champions League 2024-25"
         }
     ]
 }
