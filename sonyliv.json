@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:56:35 23-11-2024",
+    "last update time": "16:06:43 23-11-2024",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1000298009,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_fn_yan_vs_figueiredo_22nov_multi_rev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Yan vs Figueiredo",
+            "match_name": "Yan vs Figueiredo - 23 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1732375758~acl=*~id=155678448410001965141732325758367~hmac=6bee378230ab5d36606c8043d195e2cb2acdcac91031d377605c3db44b49c10f"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": true,
