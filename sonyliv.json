@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:14:29 24-11-2024",
+    "last update time": "15:24:36 24-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -12,19 +12,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Football Blockbusters 24x7",
             "match_name": ""
-        },
-        {
-            "event_category": "Table Tennis",
-            "isLive": true,
-            "contentId": 1000295446,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtt_finals_fukuoka2024_19nov_day5_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "WTT Finals Fukuoka 2024",
-            "match_name": "Day 5 - 24 Nov 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732471249~acl=*~id=155678448410001965141732421248951~hmac=a75b06b60b7307e60861b7deb7ff103dcbc258c959442c955f11df8f06b06a49",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732471249~acl=*~id=155678448410001965141732421248951~hmac=a75b06b60b7307e60861b7deb7ff103dcbc258c959442c955f11df8f06b06a49",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732471249~acl=*~id=155678448410001965141732421248951~hmac=a75b06b60b7307e60861b7deb7ff103dcbc258c959442c955f11df8f06b06a49"
         },
         {
             "event_category": "Tennis",
@@ -61,6 +48,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League 2024-25 - 27th Nov 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000297798,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/barcelona_vs_brest_27_nov_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Brest - UEFA Champions League 2024-25"
         }
     ]
 }
