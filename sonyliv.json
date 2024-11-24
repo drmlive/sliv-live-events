@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:58:53 24-11-2024",
+    "last update time": "20:09:00 24-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Football Blockbusters 24x7",
             "match_name": ""
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1000298189,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/davis_cup_italy_vs_netherlands_final_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Davis Cup 2024",
+            "match_name": "Italy vs Netherlands - Final - 24 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1732507316~acl=*~id=155678448410001965141732457315974~hmac=4a0287d3badb3a64704e1e312572099783de479d593e8caf8308017a55c02923"
         },
         {
             "event_category": "Football",
@@ -25,15 +38,6 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732507316~acl=*~id=155678448410001965141732457315974~hmac=4a0287d3badb3a64704e1e312572099783de479d593e8caf8308017a55c02923",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732507316~acl=*~id=155678448410001965141732457315974~hmac=4a0287d3badb3a64704e1e312572099783de479d593e8caf8308017a55c02923",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732507316~acl=*~id=155678448410001965141732457315974~hmac=4a0287d3badb3a64704e1e312572099783de479d593e8caf8308017a55c02923"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1000295456,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/daviscup_28oct_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Davis Cup 2024"
         },
         {
             "event_category": "Football",
