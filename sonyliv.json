@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:18:21 24-11-2024",
+    "last update time": "19:28:28 24-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Football Blockbusters 24x7",
             "match_name": ""
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298066,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga24_md11_holsteinkiel_vs_mainz_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Holstein Kiel vs Mainz - MD 11 - 24 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732471249~acl=*~id=155678448410001965141732421248951~hmac=a75b06b60b7307e60861b7deb7ff103dcbc258c959442c955f11df8f06b06a49",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732471249~acl=*~id=155678448410001965141732421248951~hmac=a75b06b60b7307e60861b7deb7ff103dcbc258c959442c955f11df8f06b06a49",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732471249~acl=*~id=155678448410001965141732421248951~hmac=a75b06b60b7307e60861b7deb7ff103dcbc258c959442c955f11df8f06b06a49"
         },
         {
             "event_category": "Tennis",
@@ -39,15 +52,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Liverpool vs Real Madrid - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000297797,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_vs_psg_27_nov_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League 2024-25 - 27th Nov 2024"
         }
     ]
 }
