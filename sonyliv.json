@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:48:29 27-11-2024",
+    "last update time": "00:58:41 27-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -32,6 +32,71 @@
         {
             "event_category": "Football",
             "isLive": true,
+            "contentId": 1000298282,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md5_sportingcp_vs_arsenal_22nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Sporting CP vs Arsenal - MD 5 - 27 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298279,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md5_bayernmunich_vs_psg_22nov_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Bayern Munich vs PSG - MD 5 - 27 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298274,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_md5_barcelona_vs_brest_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Barcelona vs Brest - MD 5 - 27 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/DAI26ME-V3/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298281,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_md5_mancity_vs_feyenoord_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Man City vs Feyenoord - MD 5 - 27 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298280,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_md5_inter_vs_rb_leipzig_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Inter vs RB Leipzig - MD 5 - 27 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
             "contentId": 1000298229,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_all_action_stream_1oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -44,21 +109,42 @@
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000297799,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_vs_psg_27_nov_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "isLive": true,
+            "contentId": 1000298276,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_md5_bayerleverkusen_vs_rb_salzburg_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs PSG - UEFA Champions League 2024-25"
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Bayer Leverkusen vs RB Salzburg - MD 5 - 27 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52"
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000297798,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/barcelona_vs_brest_27_nov_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "isLive": true,
+            "contentId": 1000298283,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md5_youngboys_vs_atalanta_22nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Brest - UEFA Champions League 2024-25"
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Young Boys vs Atalanta - MD 5 - 27 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298278,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md5_bayernmunich_vs_psg_22nov_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Bayern Munich vs PSG - MD 5 - 27 Nov 2024 (Hindi)",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1732674307~acl=*~id=155678448410001965141732624307680~hmac=af2238f122ee73b12179588ccb708dc8fef857dc527f01f77d2cb6143efc8e52"
         },
         {
             "event_category": "Football",
@@ -68,24 +154,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Liverpool vs Real Madrid - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000297797,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_vs_psg_27_nov_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League 2024-25 - 27th Nov 2024"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000297800,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/mancity_vs_feyenoord_27_nov_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Feyenoord - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
