@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:18:33 27-11-2024",
+    "last update time": "20:28:42 27-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -28,6 +28,19 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298518,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md4_basaksehir_vs_petrocub_22nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa Conference League 2024-25",
+            "match_name": "Istanbul Basaksehir vs Petrocub - MD 4 - 27 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14"
         },
         {
             "event_category": "Football",
@@ -65,6 +78,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Aston Villa vs Juventus - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000297915,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_heidenheim_vs_chelsea_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Heidenheim vs Chelsea - UEFA Europa Conference League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000298656,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_combo_29th_nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Europa League 2024-25"
         }
     ]
 }
