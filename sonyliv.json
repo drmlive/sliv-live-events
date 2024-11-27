@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:25:12 28-11-2024",
+    "last update time": "02:35:24 28-11-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000298676,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/eng_vs_nz24_1st_tet_day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "England Tour of New Zealand 2024",
+            "match_name": "Day 1 - 1st Test - 28 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1732790295~acl=*~id=155678448410001965141732740295578~hmac=5f69cecfd003a1061eee6a94cb41f79126c575f5093543dbadc7db4ec4a8d133"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -119,15 +132,6 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1732790295~acl=*~id=155678448410001965141732740295578~hmac=5f69cecfd003a1061eee6a94cb41f79126c575f5093543dbadc7db4ec4a8d133",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1732790295~acl=*~id=155678448410001965141732740295578~hmac=5f69cecfd003a1061eee6a94cb41f79126c575f5093543dbadc7db4ec4a8d133",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1732790295~acl=*~id=155678448410001965141732740295578~hmac=5f69cecfd003a1061eee6a94cb41f79126c575f5093543dbadc7db4ec4a8d133"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000298621,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_england_vs_new_zealand_h_30sec_app_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2024"
         },
         {
             "event_category": "Football",
