@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:56:57 28-11-2024",
+    "last update time": "04:07:05 28-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,15 +19,12 @@
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1000298564,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_all_action_stream_1oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": 1000297899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/football_24x7_19nov_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "All-Action Stream - MD 5 - 28 Nov 2024",
-            "dai_url": "https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/DAI26ME-V3/master_mdh.m3u8?hdnea=exp=1732790295~acl=*~id=155678448410001965141732740295578~hmac=5f69cecfd003a1061eee6a94cb41f79126c575f5093543dbadc7db4ec4a8d133"
+            "event_name": "Football Blockbusters 24x7",
+            "match_name": ""
         },
         {
             "event_category": "Football",
