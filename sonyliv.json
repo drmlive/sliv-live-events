@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:45:06 27-11-2024",
+    "last update time": "17:55:15 27-11-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298500,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uyl2425_md5_celtic_vs_clubbrugge_22nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2024-25",
+            "match_name": "Celtic vs Club Brugge - MD 5 - 27 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1732754225~acl=*~id=155678448410001965141732704225623~hmac=7a4be9ee51d0fb4ff66c2c97ee0793d7ccdb597d2362856060190322b0735d14"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
