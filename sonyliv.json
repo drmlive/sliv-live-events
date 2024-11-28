@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:15:45 28-11-2024",
+    "last update time": "20:25:55 28-11-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000298655,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md4_astana_vs_guimaraes_23nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa Conference League 2024-25",
+            "match_name": "Astana vs Guimaraes - MD 4 - 28 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732826362~acl=*~id=155678448410001965141732776362078~hmac=0ae2bd67d5c1fa869f98ef493c9aa957b85eca6645263294da8892b1a52baa9d",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732826362~acl=*~id=155678448410001965141732776362078~hmac=0ae2bd67d5c1fa869f98ef493c9aa957b85eca6645263294da8892b1a52baa9d",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732826362~acl=*~id=155678448410001965141732776362078~hmac=0ae2bd67d5c1fa869f98ef493c9aa957b85eca6645263294da8892b1a52baa9d"
+        },
         {
             "event_category": "Football",
             "isLive": false,
