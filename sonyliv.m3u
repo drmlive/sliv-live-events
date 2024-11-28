@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="Thumbnail URL not available" group-title="Sony Liv",the new saints vs djurgardens md 4 28 nov 2024
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1732862508~acl=*~id=155678448410001965141732812508306~hmac=7bf2cefdfaf1965661cb8eb37b1e7c98aa01dfb8d74be090a925d6a328307604
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uel2425_md5_man_united_vs_bodo_glimt_24nov_landscape_thumb.jpg" group-title="Sony Liv",man united vs bodo glimt md 5 29 nov 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://dai.google.com/ssai/event/_P6WBA4YTomLa7Aoliytog/master.m3u8
@@ -44,3 +41,6 @@ https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md4_omonoia_vs_legia_warszawa_23nov_landscape_thumb.jpg" group-title="Sony Liv",omonoia vs legia warsaw md 4 29 nov 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1732862508~acl=*~id=155678448410001965141732812508306~hmac=7bf2cefdfaf1965661cb8eb37b1e7c98aa01dfb8d74be090a925d6a328307604
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md4_rapid_wien_vs_shamrock_rovers_23nov_landscape_thumb.jpg" group-title="Sony Liv",rapid wien vs shamrock rovers md 4 29 nov 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
