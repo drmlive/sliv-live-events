@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:59:19 29-11-2024",
+    "last update time": "04:09:27 29-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,6 +15,16 @@
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1732862508~acl=*~id=155678448410001965141732812508306~hmac=7bf2cefdfaf1965661cb8eb37b1e7c98aa01dfb8d74be090a925d6a328307604"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000297899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/football_24x7_19nov_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Football Blockbusters 24x7",
+            "match_name": ""
         },
         {
             "event_category": "Cricket",
