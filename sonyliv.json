@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:59:15 28-11-2024",
+    "last update time": "14:09:23 28-11-2024",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1000298691,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiantour2024_int_series_qatar_day2_26nov_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2024",
+            "match_name": "International Series Qatar - Day 2 - 28 Nov 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1732826362~acl=*~id=155678448410001965141732776362078~hmac=0ae2bd67d5c1fa869f98ef493c9aa957b85eca6645263294da8892b1a52baa9d",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1732826362~acl=*~id=155678448410001965141732776362078~hmac=0ae2bd67d5c1fa869f98ef493c9aa957b85eca6645263294da8892b1a52baa9d",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1732826362~acl=*~id=155678448410001965141732776362078~hmac=0ae2bd67d5c1fa869f98ef493c9aa957b85eca6645263294da8892b1a52baa9d"
+        },
         {
             "event_category": "Football",
             "isLive": true,
