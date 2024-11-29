@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:07:37 30-11-2024",
+    "last update time": "04:17:45 30-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -34,6 +34,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - ACC U-19 Asia Cup 2024"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1000299104,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_specials_survivor_series24_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE Specials: Survivor Series 2024"
         },
         {
             "event_category": "Football",
