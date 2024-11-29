@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:16 30-11-2024",
+    "last update time": "02:36:24 30-11-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000298818,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/eng_vs_nz24_1st_tet_day3_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "England Tour of New Zealand 2024",
+            "match_name": "Day 3 - 1st Test - 30 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1732938725~acl=*~id=155678448410001965141732888725580~hmac=004b8b841f2b9413d28bd4f3ffcf9b97d745c93870ddc81b057b70047936e0a8"
+        },
         {
             "event_category": "Football",
             "isLive": true,
