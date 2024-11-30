@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:31:27 30-11-2024",
+    "last update time": "23:41:37 30-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -51,6 +51,15 @@
             "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1733011445~acl=*~id=155678448410001965141732961445127~hmac=5732e209cfaf001257aa02b6c01713b5af2205a5151cd64b144f791393ef6b17"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000299280,
+            "src": "https://origin-staticv2.sonyliv.com/0/sl_vs_afg1st_dec_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka vs Afghanistan - ACC U-19 Asia Cup 2024"
         },
         {
             "event_category": "WWE",
