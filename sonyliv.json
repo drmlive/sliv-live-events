@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:13:49 30-11-2024",
+    "last update time": "18:24:00 30-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,17 +30,14 @@
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1733011445~acl=*~id=155678448410001965141732961445127~hmac=5732e209cfaf001257aa02b6c01713b5af2205a5151cd64b144f791393ef6b17"
         },
         {
-            "event_category": "Golf",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": 1000298820,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiantour2024_int_series_qatar_day4_26nov_landscape_thumb.jpg",
+            "contentId": 1000297899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/football_24x7_19nov_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2024",
-            "match_name": "International Series Qatar - Day 4 - 30 Nov 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733011445~acl=*~id=155678448410001965141732961445127~hmac=5732e209cfaf001257aa02b6c01713b5af2205a5151cd64b144f791393ef6b17",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733011445~acl=*~id=155678448410001965141732961445127~hmac=5732e209cfaf001257aa02b6c01713b5af2205a5151cd64b144f791393ef6b17",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733011445~acl=*~id=155678448410001965141732961445127~hmac=5732e209cfaf001257aa02b6c01713b5af2205a5151cd64b144f791393ef6b17"
+            "event_name": "Football Blockbusters 24x7",
+            "match_name": ""
         },
         {
             "event_category": "WWE",
