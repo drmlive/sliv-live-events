@@ -1,8 +1,47 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:44:23 30-11-2024",
+    "last update time": "09:54:31 30-11-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000299100,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ac24_u19_india_vs_pak_eng_30nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC U-19 Asia Cup 2024",
+            "match_name": "India U-19 vs Pakistan U-19 - 30 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1732975331~acl=*~id=155678448410001965141732925331362~hmac=7c24e3952a7f73e66ec0dc8b573b41bea9ca41791260295aa614fd270cef2b1d"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000299103,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ac24_u19_india_vs_pak_hindi_30nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "ACC U-19 Asia Cup 2024",
+            "match_name": "India U-19 vs Pakistan U-19 - 30 Nov 2024 (Hindi)",
+            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1732975331~acl=*~id=155678448410001965141732925331362~hmac=7c24e3952a7f73e66ec0dc8b573b41bea9ca41791260295aa614fd270cef2b1d"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000299117,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_u19_uae_vs_japan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC U-19 Asia Cup 2024",
+            "match_name": "UAE U-19 vs Japan U-19 - 30 Nov 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1732975331~acl=*~id=155678448410001965141732925331362~hmac=7c24e3952a7f73e66ec0dc8b573b41bea9ca41791260295aa614fd270cef2b1d"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -38,15 +77,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Football Blockbusters 24x7",
             "match_name": ""
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000298883,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ac24_ind_vs_pak_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - ACC U-19 Asia Cup 2024"
         },
         {
             "event_category": "WWE",
