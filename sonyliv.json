@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:59:57 02-12-2024",
+    "last update time": "19:10:06 02-12-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -15,6 +15,15 @@
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1733193524~acl=*~id=155678448410001965141733143524591~hmac=121e3105b61838fa2660266dd281d905778a4a00d3e7a84aa8774735c3f3bb2f"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000299251,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ban_vs_sl_3rd_dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bangladesh vs Sri Lanka - ACC U-19 Asia Cup 2024"
         }
     ]
 }
