@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:41:54 03-12-2024",
+    "last update time": "13:52:08 03-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -41,6 +41,15 @@
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1733229839~acl=*~id=155678448410001965141733179838232~hmac=539cc55d6db016a7bf9dc69b012e81cff86e90fba4072252cf9ff453052979e7"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000298621,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_england_vs_new_zealand_h_30sec_app_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2024"
         }
     ]
 }
