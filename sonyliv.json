@@ -1,20 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:36:25 03-12-2024",
+    "last update time": "09:46:35 03-12-2024",
     "matches": [
         {
-            "event_category": "WWE",
+            "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1000299562,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wweraw2024_15oct_multilang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
+            "contentId": 1000299517,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup24_bangladesh_vs_srilanka_2dec_landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "WWE RAW",
-            "match_name": "WWE RAW - 3 Dec 2024",
-            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1733229839~acl=*~id=155678448410001965141733179838232~hmac=539cc55d6db016a7bf9dc69b012e81cff86e90fba4072252cf9ff453052979e7"
+            "event_name": "ACC U-19 Asia Cup 2024",
+            "match_name": "Bangladesh U-19 vs Sri Lanka U-19 - 3 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1733229839~acl=*~id=155678448410001965141733179838232~hmac=539cc55d6db016a7bf9dc69b012e81cff86e90fba4072252cf9ff453052979e7"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000299513,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup24_afghanistan_vs_nepal_2dec_landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC U-19 Asia Cup 2024",
+            "match_name": "Afghanistan U-19 vs Nepal U-19 - 3 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1733229839~acl=*~id=155678448410001965141733179838232~hmac=539cc55d6db016a7bf9dc69b012e81cff86e90fba4072252cf9ff453052979e7"
         },
         {
             "event_category": "Football",
@@ -28,15 +41,6 @@
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1733229839~acl=*~id=155678448410001965141733179838232~hmac=539cc55d6db016a7bf9dc69b012e81cff86e90fba4072252cf9ff453052979e7"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000299251,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ban_vs_sl_3rd_dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bangladesh vs Sri Lanka - ACC U-19 Asia Cup 2024"
         }
     ]
 }
