@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:37:56 04-12-2024",
+    "last update time": "21:48:05 04-12-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -33,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Al-Ittihad vs Al-Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000299871,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/india_vs_sri_lanka_sf_6th_dec_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India vs Sri Lanka - Semi-Final - ACC U-19 Asia Cup 2024"
         },
         {
             "event_category": "Fight Sports",
