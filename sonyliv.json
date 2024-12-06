@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:24:28 07-12-2024",
+    "last update time": "02:34:40 07-12-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000300091,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/eng_vs_nz24_2test_day2_3dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "England Tour of New Zealand 2024",
+            "match_name": "Day 2 - 2nd Test - 7 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1733555582~acl=*~id=155678448410001965141733505582881~hmac=3dd46f309216c6890a128b731158b715e18249bf43ba894d9edf920ddf81c9b1"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -46,15 +59,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs St. Pauli"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000299694,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/mgladbach_vs_dortmund_7th_dec_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Borussia M'gladbach vs Borussia Dortmund"
         }
     ]
 }
