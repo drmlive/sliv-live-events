@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:36:23 06-12-2024",
+    "last update time": "11:46:33 06-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -81,15 +81,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs St. Pauli"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000299694,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/mgladbach_vs_dortmund_7th_dec_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Borussia M'gladbach vs Borussia Dortmund"
         }
     ]
 }
