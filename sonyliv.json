@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:55:54 07-12-2024",
+    "last update time": "21:06:08 07-12-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -80,6 +80,19 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04"
+        },
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": 1000300118,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/abb_formula24_r1_sao_paulo_eprix_finalrace_6dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship 2024",
+            "match_name": "Round 1 - Sao Paulo E-PRIX - Final Race - 7 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04"
         },
         {
             "event_category": "Football",
