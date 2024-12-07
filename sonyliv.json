@@ -1,1 +1,51 @@
-error code: 1033
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "14:32:50 07-12-2024",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000297899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/football_24x7_19nov_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Football Blockbusters 24x7",
+            "match_name": "",
+            "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1733591934~acl=*~id=155678448410001965141733541933840~hmac=95b13f2ca3303062344683972fd557c1659eca12e2b0640f990e6eef72e3a53a"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1000299864,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/at24_pif_saudi_international_day4_3dec_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2024",
+            "match_name": "PIF Saudi International - Day 4 - 7 Dec 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1733591934~acl=*~id=155678448410001965141733541933840~hmac=95b13f2ca3303062344683972fd557c1659eca12e2b0640f990e6eef72e3a53a",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1733591934~acl=*~id=155678448410001965141733541933840~hmac=95b13f2ca3303062344683972fd557c1659eca12e2b0640f990e6eef72e3a53a",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1733591934~acl=*~id=155678448410001965141733541933840~hmac=95b13f2ca3303062344683972fd557c1659eca12e2b0640f990e6eef72e3a53a"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000300174,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_u19_asia_cup_2024_h_ind_vs_ban_final_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India vs Bangladesh - Final - ACC U-19 Asia Cup 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000299697,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_munich_vs_heidenheim_7th_dec_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Heidenheim"
+        }
+    ]
+}
