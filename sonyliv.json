@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:58:40 08-12-2024",
+    "last update time": "04:08:49 08-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,6 +15,32 @@
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1000300147,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_nxt_deadline_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE NXT Deadline 2024",
+            "match_name": "WWE NXT Deadline - 8 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1000300148,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_nxt_deadline_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "WWE NXT Deadline 2024",
+            "match_name": "WWE NXT Deadline - 8 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04"
         },
         {
             "event_category": "Football",
