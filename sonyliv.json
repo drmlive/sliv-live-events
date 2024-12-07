@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:03:34 07-12-2024",
+    "last update time": "08:13:57 07-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,19 @@
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1733555582~acl=*~id=155678448410001965141733505582881~hmac=3dd46f309216c6890a128b731158b715e18249bf43ba894d9edf920ddf81c9b1"
         },
         {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1000299963,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_sd_lowdown_13sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE SmackDown",
+            "match_name": "WWE Smackdown Lowdown - 7 Dec 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733555582~acl=*~id=155678448410001965141733505582881~hmac=3dd46f309216c6890a128b731158b715e18249bf43ba894d9edf920ddf81c9b1",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733555582~acl=*~id=155678448410001965141733505582881~hmac=3dd46f309216c6890a128b731158b715e18249bf43ba894d9edf920ddf81c9b1",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733555582~acl=*~id=155678448410001965141733505582881~hmac=3dd46f309216c6890a128b731158b715e18249bf43ba894d9edf920ddf81c9b1"
+        },
+        {
             "event_category": "Football",
             "isLive": true,
             "contentId": 1000297899,
@@ -50,15 +63,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs Heidenheim"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000299695,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/leverkusen_vs_st_pauli_7th_dec_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs St. Pauli"
         }
     ]
 }
