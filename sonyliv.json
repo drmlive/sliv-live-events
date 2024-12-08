@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:08:22 08-12-2024",
+    "last update time": "18:18:34 08-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1000300183,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup24_u19_final_banvsind_7dec_english_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC U-19 Asia Cup 2024",
-            "match_name": "Bangladesh U-19 vs India U-19 - Final - 8 Dec 2024",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1733701074~acl=*~id=155678448410001965141733651074561~hmac=4a8f8739f4956ca46e087870558946c3fa070c14a2e98a9122109691ad352587"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1000300185,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup24_u19_final_banvsind_7dec_hindi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "ACC U-19 Asia Cup 2024",
-            "match_name": "Bangladesh U-19 vs India U-19 - Final - 8 Dec 2024 (Hindi)",
-            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1733701074~acl=*~id=155678448410001965141733651074561~hmac=4a8f8739f4956ca46e087870558946c3fa070c14a2e98a9122109691ad352587"
-        },
         {
             "event_category": "Football",
             "isLive": true,
