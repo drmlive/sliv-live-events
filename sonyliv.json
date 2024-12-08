@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:38:17 08-12-2024",
+    "last update time": "09:49:26 08-12-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000300183,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup24_u19_final_banvsind_7dec_english_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC U-19 Asia Cup 2024",
+            "match_name": "Bangladesh U-19 vs India U-19 - Final - 8 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1733664849~acl=*~id=155678448410001965141733614848239~hmac=5f1e282dd512b965c031753deda8c6d1c95268ebffd67a186c4079dd431da527"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1000300185,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup24_u19_final_banvsind_7dec_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "ACC U-19 Asia Cup 2024",
+            "match_name": "Bangladesh U-19 vs India U-19 - Final - 8 Dec 2024 (Hindi)",
+            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1733664849~acl=*~id=155678448410001965141733614848239~hmac=5f1e282dd512b965c031753deda8c6d1c95268ebffd67a186c4079dd431da527"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -54,15 +80,6 @@
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1733664849~acl=*~id=155678448410001965141733614848239~hmac=5f1e282dd512b965c031753deda8c6d1c95268ebffd67a186c4079dd431da527"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000300174,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_u19_asia_cup_2024_h_ind_vs_ban_final_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India vs Bangladesh - Final - ACC U-19 Asia Cup 2024"
         }
     ]
 }
