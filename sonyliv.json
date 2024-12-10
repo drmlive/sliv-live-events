@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:36:04 11-12-2024",
+    "last update time": "03:46:13 11-12-2024",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000300370,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md6_salzburg_vs_paris_3dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "RB Salzburg vs PSG - MD 6 - 11 Dec 2024",
-            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -28,19 +15,6 @@
             "dai_url": "https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/DAI26ME-V3/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000300368,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md6_club_brugge_vs_sporting_cp_3dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Club Brugge vs Sporting CP - MD 6 - 11 Dec 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357"
         },
         {
             "event_category": "Football",
