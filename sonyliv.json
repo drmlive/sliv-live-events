@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:47:57 10-12-2024",
+    "last update time": "19:58:07 10-12-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000300378,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uyl2425_md6_atalanta_vs_real_madrid_4dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2024-25",
+            "match_name": "Atalanta vs Real Madrid - MD 6 - 10 Dec 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357"
+        },
         {
             "event_category": "Football",
             "isLive": true,
