@@ -1,4 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/uyl2425_md6_atalanta_vs_real_madrid_4dec_landscape_thumb.jpg" group-title="Sony Liv",atalanta vs real madrid md 6 10 dec 2024
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md6_girona_vs_liverpool_9dec_eng_landscape_thumb.jpg" group-title="Sony Liv",girona vs liverpool md 6 10 dec 2024
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357
+https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md6_dinamo_zagreb_vs_celtic_3dec_landscape_thumb.jpg" group-title="Sony Liv",dinamo zagreb vs celtic md 6 11 dec 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md6_girona_vs_liverpool_9dec_hindi_landscape_thumb.jpg" group-title="Sony Liv",girona vs liverpool hindi md 6 11 dec 2024
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
