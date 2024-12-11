@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:35:29 11-12-2024",
+    "last update time": "22:45:40 11-12-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000300508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_md6_atleti_vs_bratislava_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Atletico vs Slovan Bratislava - MD 6 - 11 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000300427,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_md6_lille_vs_sturmgraz_landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Lille vs Sturm Graz - MD 6 - 11 Dec 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -15,19 +41,6 @@
             "dai_url": "https://dai.google.com/ssai/event/fKUFUpsSSYWOMBFQIPSB7Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/fKUFUpsSSYWOMBFQIPSB7Q/master.m3u8",
             "video_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000300433,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uyl2425_md6_dortmund_vs_barcelona_4dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2024-25",
-            "match_name": "Borussia Dortmund vs Barcelona - MD 6 - 11 Dec 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6"
         },
         {
             "event_category": "Football",
