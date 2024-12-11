@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:37:24 12-12-2024",
+    "last update time": "00:47:34 12-12-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -28,6 +28,19 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733992216~acl=*~id=155678448410001965141733942215992~hmac=2486aab148b8f4452e2a293ec1d3276fef0dcf81180f3ba7bcb113ed3f39cf35",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733992216~acl=*~id=155678448410001965141733942215992~hmac=2486aab148b8f4452e2a293ec1d3276fef0dcf81180f3ba7bcb113ed3f39cf35",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733992216~acl=*~id=155678448410001965141733942215992~hmac=2486aab148b8f4452e2a293ec1d3276fef0dcf81180f3ba7bcb113ed3f39cf35"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000300426,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_all_action_stream_1oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "All-Action Stream - MD 6 - 12 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1733992216~acl=*~id=155678448410001965141733942215992~hmac=2486aab148b8f4452e2a293ec1d3276fef0dcf81180f3ba7bcb113ed3f39cf35"
         },
         {
             "event_category": "Football",
