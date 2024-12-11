@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:50:44 11-12-2024",
+    "last update time": "18:00:54 11-12-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000300432,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uyl2425_md6_juventus_vs_man_city_4dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2024-25",
+            "match_name": "Juventus vs Man City - MD 6 - 11 Dec 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733955627~acl=*~id=155678448410001965141733905626924~hmac=2799b43379e9485b77cf77206714e81dd759c1753bc5d4428dc8e4129029cbd6"
+        },
         {
             "event_category": "Football",
             "isLive": true,
