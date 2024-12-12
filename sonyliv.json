@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:54:36 12-12-2024",
+    "last update time": "18:04:46 12-12-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1000300652,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_md5_reykjavik_vs_djurgarden_9dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa Conference League 2024-25",
+            "match_name": "Vikingur Reykjavik vs Djurgarden - MD 5 - 12 Dec 2024",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1734028802~acl=*~id=155678448410001965141733978802385~hmac=8eb1a9f1b563ce9c275d588d4e5c9bdd074de1ff7f46a176c8925cb0045fadd6",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1734028802~acl=*~id=155678448410001965141733978802385~hmac=8eb1a9f1b563ce9c275d588d4e5c9bdd074de1ff7f46a176c8925cb0045fadd6",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1734028802~acl=*~id=155678448410001965141733978802385~hmac=8eb1a9f1b563ce9c275d588d4e5c9bdd074de1ff7f46a176c8925cb0045fadd6"
+        },
         {
             "event_category": "Football",
             "isLive": true,
