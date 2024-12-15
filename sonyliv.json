@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:01:11 15-12-2024",
+    "last update time": "22:11:22 15-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,19 +28,6 @@
             "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1734318675~acl=*~id=155678448410001965141734268675654~hmac=484eba4177e0ae261db6c469d802eb17613d4540edf0c318f167cc41b067bb2e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1000300858,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga_md14_heidenheim_vs_vfb_stuttgart_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Heidenheim vs VfB Stuttgart - MD 14 - 15 Dec 2024",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1734318675~acl=*~id=155678448410001965141734268675654~hmac=484eba4177e0ae261db6c469d802eb17613d4540edf0c318f167cc41b067bb2e",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1734318675~acl=*~id=155678448410001965141734268675654~hmac=484eba4177e0ae261db6c469d802eb17613d4540edf0c318f167cc41b067bb2e",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1734318675~acl=*~id=155678448410001965141734268675654~hmac=484eba4177e0ae261db6c469d802eb17613d4540edf0c318f167cc41b067bb2e"
         }
     ]
 }
