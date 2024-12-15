@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:56:17 15-12-2024",
+    "last update time": "08:06:26 15-12-2024",
     "matches": [
         {
             "event_category": "WWE",
@@ -43,6 +43,19 @@
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1734246029~acl=*~id=155678448410001965141734196029857~hmac=c0c9a4a890c8c8d89b3595710af8bdf4a979396f75eb3dab864b9f2700fc14e0"
         },
         {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1000301139,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufcfn_covington_vs_buckley_14dec_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Covington vs Buckley",
+            "match_name": "UFC Fight Night - Covington vs Buckley - 15 Dec 2024",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1734246029~acl=*~id=155678448410001965141734196029857~hmac=c0c9a4a890c8c8d89b3595710af8bdf4a979396f75eb3dab864b9f2700fc14e0"
+        },
+        {
             "event_category": "WWE",
             "isLive": true,
             "contentId": 1000301104,
@@ -76,15 +89,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - ACC U-19 Women's Asia Cup 2024"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1000300390,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/dortmund_vs_hoffenheim_15th_dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Borussia Dortmund vs Hoffenheim"
         }
     ]
 }
