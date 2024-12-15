@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:58:04 15-12-2024",
+    "last update time": "19:08:14 15-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1000295447,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bcl24_up_brij_stars_vs_mp_tigers_11dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Big Cricket League 2024",
-            "match_name": "UP Brij Stars vs MP Tigers - 15 Dec 2024",
-            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1734318675~acl=*~id=155678448410001965141734268675654~hmac=484eba4177e0ae261db6c469d802eb17613d4540edf0c318f167cc41b067bb2e"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -28,15 +15,6 @@
             "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1734318675~acl=*~id=155678448410001965141734268675654~hmac=484eba4177e0ae261db6c469d802eb17613d4540edf0c318f167cc41b067bb2e"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000300641,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bcl2024_2_gob_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Big Cricket League 2024"
         },
         {
             "event_category": "Football",
