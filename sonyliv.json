@@ -1,1 +1,47 @@
-error code: 502
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "18:25:31 22-12-2024",
+    "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090425521,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wtl24_final_hawks_vs_falcons_22dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "World Tennis League 2024",
+            "match_name": "Hawks vs Falcons - Final - 22 Dec 2024 ",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1734912317~acl=*~id=1556784483112233~hmac=222e63267b136aef9e100596eedb72fcaa85fd504390441ee4e1d9032a5447e0"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000300641,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bcl2024_2_gob_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Big Cricket League 2024"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000301581,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/aus_vs_nz_womens_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australia Women's Tour of New Zealand 2024"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1000301661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wolfsburg_vs_dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - VfL Wolfsburg vs Borussia Dortmund"
+        }
+    ]
+}
