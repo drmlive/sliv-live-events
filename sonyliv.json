@@ -1,20 +1,25 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:53:28 22-12-2024",
+    "last update time": "11:03:36 22-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090425493,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/w_asiacup_u19_final_india_vs_bangladesh_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1000300641,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bcl2024_2_gob_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Big Cricket League 2024"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1000301581,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/aus_vs_nz_womens_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "ACC U-19 Women's Asia Cup 2024",
-            "match_name": "India U19 vs Bangladesh U19 - Final - 22 Dec 2024",
-            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1734887046~acl=*~id=1556784483112233~hmac=a2612d1a5f939f9cc5b2497e27001630e5679ff406356a4aaec6cc90136b3c6e"
+            "event_name": "Upcoming - Australia Women's Tour of New Zealand 2024"
         },
         {
             "event_category": "Football",
@@ -33,24 +38,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - World Tennis League 2024"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000300641,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bcl2024_2_gob_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Big Cricket League 2024"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1000301581,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/aus_vs_nz_womens_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australia Women's Tour of New Zealand 2024"
         }
     ]
 }
