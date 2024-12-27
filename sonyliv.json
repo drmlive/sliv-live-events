@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:31:23 27-12-2024",
+    "last update time": "13:41:32 27-12-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -26,15 +26,6 @@
             "event_name": "Upcoming - Globe Soccer Awards 2024"
         },
         {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1090426769,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey India League 2024-25"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090426770,
@@ -42,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour Of New Zealand 2024-25"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090426769,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey India League 2024-25"
         }
     ]
 }
