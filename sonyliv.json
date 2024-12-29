@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:41:30 29-12-2024",
+    "last update time": "18:51:37 29-12-2024",
     "matches": [
         {
             "event_category": "Hockey",
@@ -30,15 +30,6 @@
             "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1735521595~acl=*~id=1556784483112233~hmac=3879b1a16697ff2a7603ea6ddb13d5f975624623864b39070b65e4070388e377"
         },
         {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1090426769,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey India League 2024-25"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090426770,
@@ -46,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour Of New Zealand 2024-25"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090426769,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey India League 2024-25"
         }
     ]
 }
