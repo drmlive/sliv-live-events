@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:51:52 01-01-2025",
+    "last update time": "19:02:58 01-01-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090427143,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hil25_bengal_tigers_vs_gonasika_30dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Hockey India League 2024-25",
+            "match_name": "Shrachi Rarh Bengal Tigers vs Gonasika - 1 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1735776340~acl=*~id=1556784483112233~hmac=408ebb51488f594d5c30fc4712f68bd367097520a81aca538eb1d351df2bd4ce"
+        },
         {
             "event_category": "Hockey",
             "isLive": false,
