@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:56:42 02-01-2025",
+    "last update time": "19:06:52 02-01-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090427209,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hil25_soorma_hc_vs_up_rudras_30dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Hockey India League 2024-25",
+            "match_name": "Soorma Hockey Club vs UP Rudras - 2 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1735865445~acl=*~id=1556784483112233~hmac=b47818edf8d04cd78497a16e05df7175004885794eea9d0ba082bcfa62ac52fd"
+        },
         {
             "event_category": "Hockey",
             "isLive": false,
