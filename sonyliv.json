@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:55:22 03-01-2025",
+    "last update time": "19:05:31 03-01-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090427210,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hil25_tamil_nadu_dragons_vs_vedanta_kalinga_lancers_30dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Hockey India League 2024-25",
+            "match_name": "Tamil Nadu Dragons vs Vedanta Kalinga Lancers - 3 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/fKUFUpsSSYWOMBFQIPSB7Q/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/fKUFUpsSSYWOMBFQIPSB7Q/master.m3u8",
+            "video_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1735954411~acl=*~id=1556784483112233~hmac=24c1f8a66988ba8f6b8ce5b7787da23687d2d48ee1e565d2b20a7cc3e65a7cd4"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
