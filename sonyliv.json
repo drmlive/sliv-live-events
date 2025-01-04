@@ -1,7 +1,47 @@
-<html>
-<head><title>404 Not Found</title></head>
-<body>
-<center><h1>404 Not Found</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "17:01:55 04-01-2025",
+    "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090427248,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hil25_delhi_sgpipers_vs_shrachirarh_bengaltigers_30dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Hockey India League 2024-25",
+            "match_name": "Delhi SG Pipers vs Shrachi Rarh Bengal Tigers - 4 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/fKUFUpsSSYWOMBFQIPSB7Q/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/fKUFUpsSSYWOMBFQIPSB7Q/master.m3u8",
+            "video_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a32e48c2277640ebbf18d677e58132af/master_mdh.m3u8?hdnea=exp=1736030615~acl=*~id=1556784483112233~hmac=1ecf7312bfcfba397665024655858fc021717393bf39321d1555d0f33a8812a4"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090426770,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_tour_of_nz_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka Tour Of New Zealand 2024-25"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090426666,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ao_2025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090426769,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey India League 2024-25"
+        }
+    ]
+}
