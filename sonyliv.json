@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:52:15 10-01-2025",
+    "last update time": "19:02:21 10-01-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090427788,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hil25_bengal_tigers_vs_tamil_nadu_30dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Hockey India League 2024-25",
+            "match_name": "Shrachi Rarh Bengal Tigers vs Tamil Nadu Dragons - 10 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1736564588~acl=*~id=1556784483112233~hmac=a29a5ae8b182c4f756218a139225b70c1162d9968407a9417696fa7f74b8f931"
+        },
         {
             "event_category": "Football",
             "isLive": false,
