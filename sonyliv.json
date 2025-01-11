@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:33:37 11-01-2025",
+    "last update time": "13:43:43 11-01-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090427794,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/nz_vs_sl_3odi_3jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Sri Lanka Tour Of New Zealand 2024-25",
-            "match_name": "New Zealand vs Sri Lanka - 3rd ODI - 11 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1736628390~acl=*~id=1556784483112233~hmac=b653574f3ef71bb55d4b96091ad29f2be77179d8d5f734ef4363c837c2ab51a0"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -60,6 +47,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090427673,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/mgladbach_vs_bayern_munich_11th_jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia M'gladbach vs Bayern Munich"
         }
     ]
 }
