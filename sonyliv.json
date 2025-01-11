@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:58:02 11-01-2025",
+    "last update time": "20:08:15 11-01-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -41,19 +41,6 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1736653842~acl=*~id=1556784483112233~hmac=d3bf6abc1ae1dcd3d04609a06f99ee75d63f1dad457348864a5f710ee82d7d97",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1736653842~acl=*~id=1556784483112233~hmac=d3bf6abc1ae1dcd3d04609a06f99ee75d63f1dad457348864a5f710ee82d7d97",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1736653842~acl=*~id=1556784483112233~hmac=d3bf6abc1ae1dcd3d04609a06f99ee75d63f1dad457348864a5f710ee82d7d97"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": true,
-            "contentId": 1090427796,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hil25_hyderabad_toofans_vs_soorma_hc_30dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Hockey India League 2024-25",
-            "match_name": "Hyderabad Toofans vs Soorma Hockey Club - 11 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1736653842~acl=*~id=1556784483112233~hmac=d3bf6abc1ae1dcd3d04609a06f99ee75d63f1dad457348864a5f710ee82d7d97"
         },
         {
             "event_category": "Hockey",
@@ -145,15 +132,6 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1736653842~acl=*~id=1556784483112233~hmac=d3bf6abc1ae1dcd3d04609a06f99ee75d63f1dad457348864a5f710ee82d7d97",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1736653842~acl=*~id=1556784483112233~hmac=d3bf6abc1ae1dcd3d04609a06f99ee75d63f1dad457348864a5f710ee82d7d97",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1736653842~acl=*~id=1556784483112233~hmac=d3bf6abc1ae1dcd3d04609a06f99ee75d63f1dad457348864a5f710ee82d7d97"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090427675,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/chelsea_vs_morecambe_11th_jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Chelsea vs Morecambe -The Emirates FA Cup"
         },
         {
             "event_category": "Football",
