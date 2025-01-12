@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:17:39 12-01-2025",
+    "last update time": "21:27:48 12-01-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -51,6 +51,19 @@
             "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1736742390~acl=*~id=1556784483112233~hmac=86196db6087191e45786a03ee1919711270d2fec1a924b4c1084e8fe0562508e",
             "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1736742390~acl=*~id=1556784483112233~hmac=86196db6087191e45786a03ee1919711270d2fec1a924b4c1084e8fe0562508e",
             "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1736742390~acl=*~id=1556784483112233~hmac=86196db6087191e45786a03ee1919711270d2fec1a924b4c1084e8fe0562508e"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090427931,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md16_augsburg_vs_stuttgart_26dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Augsburg vs VfB Stuttgart - MD 16 - 12 Jan 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1736742390~acl=*~id=1556784483112233~hmac=86196db6087191e45786a03ee1919711270d2fec1a924b4c1084e8fe0562508e",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1736742390~acl=*~id=1556784483112233~hmac=86196db6087191e45786a03ee1919711270d2fec1a924b4c1084e8fe0562508e",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1736742390~acl=*~id=1556784483112233~hmac=86196db6087191e45786a03ee1919711270d2fec1a924b4c1084e8fe0562508e"
         }
     ]
 }
