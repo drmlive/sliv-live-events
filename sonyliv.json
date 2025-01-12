@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:39:53 12-01-2025",
+    "last update time": "08:49:57 12-01-2025",
     "matches": [
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": 1090427913,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_fight_night_dern_vs_ribas_11jan_multi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Dern vs Ribas 2",
-            "match_name": "UFC Fight Night - Dern vs Ribas 2 - 12 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1736691811~acl=*~id=1556784483112233~hmac=3f6435300bc8fcb34af4a72ef98b7f35f3bd2eba6e0ab6d327ecd7f7f2b9fd8c"
-        },
         {
             "event_category": "Football",
             "isLive": false,
