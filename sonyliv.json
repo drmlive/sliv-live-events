@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:04:39 17-01-2025",
+    "last update time": "18:14:49 17-01-2025",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": 1090427348,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_day6_round3_danilovic_vs_pegula_17jan_eng_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd3_stream1_eng_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2025",
-            "match_name": "Danilovic vs Pegula - Round 3 - 17 Jan 2025",
+            "match_name": "Stream 1 - 17 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737160477~acl=/*~id=53192458089114495438528200635786~hmac=58489e236749d19fbbac97a89390ca8e10ff76f191a4f02ae8f52f882c0dc7ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?{\"error\":\"transfer closed with 1 bytes remaining to read\"}"
         },
         {
             "event_category": "Tennis",
@@ -27,20 +27,20 @@
             "match_name": "Draper vs Vukic - Round 3 - 17 Jan 2025 ",
             "dai_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1737160477~acl=/*~id=53192458089114495438528200635786~hmac=58489e236749d19fbbac97a89390ca8e10ff76f191a4f02ae8f52f882c0dc7ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1737161088~acl=/*~id=66673331461237025212180075190509~hmac=6a8d7373c761c4f0fa38244a17895b5fd8eed1d76c095f89cfcd542d35dc36ed"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": 1090427367,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_day6_round3_danilovic_vs_pegula_17jan_hind_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd3_stream3_hindi_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 3",
             "audioLanguageName": "HIN",
             "event_name": "Australian Open 2025",
-            "match_name": "Danilovic vs Pegula - Round 3 - 17 Jan 2025",
+            "match_name": "Stream 3 - 17 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1737160477~acl=/*~id=53192458089114495438528200635786~hmac=58489e236749d19fbbac97a89390ca8e10ff76f191a4f02ae8f52f882c0dc7ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1737161088~acl=/*~id=66673331461237025212180075190509~hmac=6a8d7373c761c4f0fa38244a17895b5fd8eed1d76c095f89cfcd542d35dc36ed"
         },
         {
             "event_category": "Tennis",
@@ -53,7 +53,7 @@
             "match_name": "Rod Laver Arena - 17 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1737160477~acl=/*~id=53192458089114495438528200635786~hmac=58489e236749d19fbbac97a89390ca8e10ff76f191a4f02ae8f52f882c0dc7ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1737161088~acl=/*~id=66673331461237025212180075190509~hmac=6a8d7373c761c4f0fa38244a17895b5fd8eed1d76c095f89cfcd542d35dc36ed"
         },
         {
             "event_category": "Tennis",
@@ -66,7 +66,7 @@
             "match_name": "Jack Draper vs Aleksandar Vukic - Men's Singles - 17 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1737160477~acl=/*~id=53192458089114495438528200635786~hmac=58489e236749d19fbbac97a89390ca8e10ff76f191a4f02ae8f52f882c0dc7ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1737161088~acl=/*~id=66673331461237025212180075190509~hmac=6a8d7373c761c4f0fa38244a17895b5fd8eed1d76c095f89cfcd542d35dc36ed"
         },
         {
             "event_category": "Fight Sports",
