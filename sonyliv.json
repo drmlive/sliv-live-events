@@ -1,1 +1,146 @@
-error code: 524
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "21:19:08 17-01-2025",
+    "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090429241,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/delhi_sg_pipers_vs_soorma_hockey_club_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Women's Hockey India League 2025",
+            "match_name": "Delhi SG Pipers vs Soorma Hockey Club - 17 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1737172147~acl=/*~id=68825656730994398811259909252544~hmac=4781f8ec745ae2d7e22f467f7e4b696824083af6321eee3ce32e6e05ebfe5db1"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090427641,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_311_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 311 - Makhachev vs Tsarukyan"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090428927,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/al_taawoun_vs_al_nassr_17th_jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al Taawoun vs Al Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090428789,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_frankfurt_v_dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Eintracht Frankfurt vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429979,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_benfica_v_barcelona_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Benfica vs Barcelona - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090428503,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/grand_slam_13jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090426666,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ao_2025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090428790,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_borussia_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs Borussia M'gladbach"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090428788,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bayern_v_wolfsburg_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs VfL Wolfsburg"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429980,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_atletico_madrid_v_leverkusen_50_sec_hor_app_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico Madrid vs Bayer Leverkusen - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429970,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_psg_v_man_city_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Man City - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429978,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_club_brugge_v_juventus_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Club Brugge vs Juventus - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429977,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_feyenoord_v_bayern_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Feyenoord vs Bayern Munich - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429976,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ucl_monaco_v_aston_villa_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Monaco vs Aston Villa - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090426769,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey India League 2024-25"
+        }
+    ]
+}
