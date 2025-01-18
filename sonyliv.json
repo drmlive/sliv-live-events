@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:01:31 19-01-2025",
+    "last update time": "04:11:37 19-01-2025",
     "matches": [
         {
             "event_category": "Fight Sports",
@@ -13,15 +13,6 @@
             "event_name": "Upcoming - UFC 311 - Makhachev vs Tsarukyan"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090429979,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_benfica_v_barcelona_50_sec_hor_app_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Benfica vs Barcelona - UEFA Champions League 2024-25"
-        },
-        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090428503,
@@ -29,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429979,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_benfica_v_barcelona_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Benfica vs Barcelona - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Tennis",
