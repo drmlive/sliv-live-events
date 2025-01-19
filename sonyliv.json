@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:01:46 20-01-2025",
+    "last update time": "00:11:53 20-01-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090430468,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga25_md18_werder_bremen_vs_augsburg_3jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Werder Bremen vs Augsburg - MD 18 - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1737354706~acl=/*~id=51224901460558938090884927471457~hmac=d198d9974900237b83f0e142d8856ec07178fd3836729af8120d476ceba95de1"
-        },
         {
             "event_category": "Football",
             "isLive": false,
