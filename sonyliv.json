@@ -1,46 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:52:48 19-01-2025",
+    "last update time": "06:02:57 19-01-2025",
     "matches": [
         {
-            "event_category": "Tennis",
+            "event_category": "Fight Sports",
             "isLive": true,
-            "contentId": 1090427354,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_john_cain_arena_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090430345,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc311_prelims_18jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2025",
-            "match_name": "John Cain Arena - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1737289367~acl=/*~id=55875436656436482096188146403550~hmac=85d13dd48edae922b7db0a74d5dee1ad0e8cc8f7f100d21eb064e146a73c0714"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090427348,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_stream1_eng_18jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2025",
-            "match_name": "Stream 1 - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737289367~acl=/*~id=55875436656436482096188146403550~hmac=85d13dd48edae922b7db0a74d5dee1ad0e8cc8f7f100d21eb064e146a73c0714"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090427351,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_stream2_eng_18jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2025",
-            "match_name": "Stream 2 - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1737289367~acl=/*~id=55875436656436482096188146403550~hmac=85d13dd48edae922b7db0a74d5dee1ad0e8cc8f7f100d21eb064e146a73c0714"
+            "event_name": "UFC 2025",
+            "match_name": "Preliminary Round - UFC 311 - 19 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1737289975~acl=/*~id=90088247685782238038858526996363~hmac=35317538a8fef18bd42fdc01d42987f7b5b27b20912e0fd9d37129ff51bdcecb"
         },
         {
             "event_category": "Tennis",
@@ -53,20 +27,20 @@
             "match_name": "Court 11 - 19 Jan 2025 ",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1737289367~acl=/*~id=55875436656436482096188146403550~hmac=85d13dd48edae922b7db0a74d5dee1ad0e8cc8f7f100d21eb064e146a73c0714"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1737289975~acl=/*~id=90088247685782238038858526996363~hmac=35317538a8fef18bd42fdc01d42987f7b5b27b20912e0fd9d37129ff51bdcecb"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": 1090427355,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_kia_arena_landscape_thumb.jpg",
+            "contentId": 1090427352,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_rod_laver_arena_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2025",
-            "match_name": "Kia Arena - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1737289367~acl=/*~id=55875436656436482096188146403550~hmac=85d13dd48edae922b7db0a74d5dee1ad0e8cc8f7f100d21eb064e146a73c0714"
+            "match_name": "Aryna Sabalenka vs Mirra Andreeva - Women's Singles - 19 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1737289975~acl=/*~id=90088247685782238038858526996363~hmac=35317538a8fef18bd42fdc01d42987f7b5b27b20912e0fd9d37129ff51bdcecb"
         },
         {
             "event_category": "Tennis",
@@ -79,20 +53,104 @@
             "match_name": "Margaret Court Arena - 19 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1737289367~acl=/*~id=55875436656436482096188146403550~hmac=85d13dd48edae922b7db0a74d5dee1ad0e8cc8f7f100d21eb064e146a73c0714"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1737289975~acl=/*~id=90088247685782238038858526996363~hmac=35317538a8fef18bd42fdc01d42987f7b5b27b20912e0fd9d37129ff51bdcecb"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": 1090427352,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_rod_laver_arena_landscape_thumb.jpg",
+            "contentId": 1090427355,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_kia_arena_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2025",
-            "match_name": "Rod Laver Arena - 19 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1737289367~acl=/*~id=55875436656436482096188146403550~hmac=85d13dd48edae922b7db0a74d5dee1ad0e8cc8f7f100d21eb064e146a73c0714"
+            "match_name": "Kia Arena - 19 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1737289975~acl=/*~id=90088247685782238038858526996363~hmac=35317538a8fef18bd42fdc01d42987f7b5b27b20912e0fd9d37129ff51bdcecb"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090427354,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_john_cain_arena_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2025",
+            "match_name": "John Cain Arena - 19 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1737289975~acl=/*~id=90088247685782238038858526996363~hmac=35317538a8fef18bd42fdc01d42987f7b5b27b20912e0fd9d37129ff51bdcecb"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090427351,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_stream2_eng_18jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2025",
+            "match_name": "Stream 2 - 19 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1737289975~acl=/*~id=90088247685782238038858526996363~hmac=35317538a8fef18bd42fdc01d42987f7b5b27b20912e0fd9d37129ff51bdcecb"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090427348,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_rd4_stream1_eng_18jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2025",
+            "match_name": "Stream 1 - 19 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737289975~acl=/*~id=90088247685782238038858526996363~hmac=35317538a8fef18bd42fdc01d42987f7b5b27b20912e0fd9d37129ff51bdcecb"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429979,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_benfica_v_barcelona_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Benfica vs Barcelona - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090427641,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc311_promo_18jan_landscape_thumb_ddt.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 311 - Makhachev vs Tsarukyan"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090428503,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/grand_slam_13jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090426666,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ao_2025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429980,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_atletico_madrid_v_leverkusen_50_sec_hor_app_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico Madrid vs Bayer Leverkusen - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
@@ -106,11 +164,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090429976,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ucl_monaco_v_aston_villa_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "contentId": 1090429978,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_club_brugge_v_juventus_50_sec_hor_app_eng_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Monaco vs Aston Villa - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Club Brugge vs Juventus - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
@@ -124,56 +182,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090429978,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_club_brugge_v_juventus_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "contentId": 1090429976,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ucl_monaco_v_aston_villa_50_sec_hor_app_eng_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Club Brugge vs Juventus - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090427641,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc311_promo_18jan_landscape_thumb_ddt.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 311 - Makhachev vs Tsarukyan"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090429980,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_atletico_madrid_v_leverkusen_50_sec_hor_app_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atletico Madrid vs Bayer Leverkusen - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090426666,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ao_2025_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2025"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090428503,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/grand_slam_13jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090429979,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_benfica_v_barcelona_50_sec_hor_app_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Benfica vs Barcelona - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Monaco vs Aston Villa - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Hockey",
