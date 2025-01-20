@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:08:35 20-01-2025",
+    "last update time": "17:18:44 20-01-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -14,7 +14,7 @@
             "match_name": "Soorma Hockey Club vs Delhi SG Pipers - 20 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1737416313~acl=/*~id=16351197777281648528473533479738~hmac=64fb807392b1cd5c9f305e757113db411943a6d2e02ca024ce425cba7e416a3a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1737416923~acl=/*~id=06241639231005606960892657564950~hmac=2c2e45b29ecd309c21337806e512129255fa2891d941f10433093ec3e8b919ef"
         },
         {
             "event_category": "Tennis",
@@ -27,7 +27,7 @@
             "match_name": "Michelsen vs de Minaur - Round 4 - 20 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737416313~acl=/*~id=16351197777281648528473533479738~hmac=64fb807392b1cd5c9f305e757113db411943a6d2e02ca024ce425cba7e416a3a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737416923~acl=/*~id=06241639231005606960892657564950~hmac=2c2e45b29ecd309c21337806e512129255fa2891d941f10433093ec3e8b919ef"
         },
         {
             "event_category": "Tennis",
@@ -40,7 +40,7 @@
             "match_name": "Michelsen vs de Minaur - Round 4 - 20 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1737416313~acl=/*~id=16351197777281648528473533479738~hmac=64fb807392b1cd5c9f305e757113db411943a6d2e02ca024ce425cba7e416a3a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1737416923~acl=/*~id=06241639231005606960892657564950~hmac=2c2e45b29ecd309c21337806e512129255fa2891d941f10433093ec3e8b919ef"
         },
         {
             "event_category": "Tennis",
@@ -50,10 +50,10 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2025",
-            "match_name": "Alex Michelsen vs Alex de Minaur - Men's Singles - 20 Jan 2025",
+            "match_name": "Rod Laver Arena - 20 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1737416313~acl=/*~id=16351197777281648528473533479738~hmac=64fb807392b1cd5c9f305e757113db411943a6d2e02ca024ce425cba7e416a3a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1737416923~acl=/*~id=06241639231005606960892657564950~hmac=2c2e45b29ecd309c21337806e512129255fa2891d941f10433093ec3e8b919ef"
         },
         {
             "event_category": "Football",
@@ -90,6 +90,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico Madrid vs Bayer Leverkusen - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090430801,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/djokovic_vs_alcaraz_qf_ao_2025_promo_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Djokovic vs Alcaraz - QF - Australian Open 2025"
         },
         {
             "event_category": "Tennis",
