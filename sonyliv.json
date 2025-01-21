@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:09:06 22-01-2025",
+    "last update time": "00:19:14 22-01-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Monaco vs Aston Villa - MD 7 - 21 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737527946~acl=/*~id=28147549415895493158772889861726~hmac=c6956fb99cea736536c4b6db2de524d0407cc457d0c21d0a66eac6a705ec8409"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737528553~acl=/*~id=64423709368452400446447498981767~hmac=8b3ccc6074ad59da97595952e1a9389f7a6ed0f8e9ea39897871b820bcff6f6f"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2024-25",
             "match_name": "Atalanta vs Sturm Graz - MD 7 - 21 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737527946~acl=/*~id=28147549415895493158772889861726~hmac=c6956fb99cea736536c4b6db2de524d0407cc457d0c21d0a66eac6a705ec8409",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737527946~acl=/*~id=28147549415895493158772889861726~hmac=c6956fb99cea736536c4b6db2de524d0407cc457d0c21d0a66eac6a705ec8409",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737527946~acl=/*~id=28147549415895493158772889861726~hmac=c6956fb99cea736536c4b6db2de524d0407cc457d0c21d0a66eac6a705ec8409"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737528553~acl=/*~id=64423709368452400446447498981767~hmac=8b3ccc6074ad59da97595952e1a9389f7a6ed0f8e9ea39897871b820bcff6f6f",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737528553~acl=/*~id=64423709368452400446447498981767~hmac=8b3ccc6074ad59da97595952e1a9389f7a6ed0f8e9ea39897871b820bcff6f6f",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737528553~acl=/*~id=64423709368452400446447498981767~hmac=8b3ccc6074ad59da97595952e1a9389f7a6ed0f8e9ea39897871b820bcff6f6f"
         },
         {
             "event_category": "Football",
@@ -109,6 +109,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Feyenoord vs Bayern Munich - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090431100,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sabalenka_vs_badosa_23rd_jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sabalenka vs Badosa - SF - Australian Open 2025"
         },
         {
             "event_category": "Football",
