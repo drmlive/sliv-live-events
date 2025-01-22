@@ -1,33 +1,16 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:18:16 23-01-2025",
+    "last update time": "01:28:27 23-01-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090430861,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_25_rb_leipzig_vs_sportingcp_21jan_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "isLive": false,
+            "contentId": 1090430922,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_23rd_jan_combo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "RB Leipzig vs Sporting CP - MD 7 - 22 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737618485~acl=/*~id=95357210984422442903477000878583~hmac=e52d38eb884389edaae4e1dba1396f00e331a91a6a2ddc7971446682a2bd49b7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090430862,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_25_shakhtardonetsk_vs_brest_21jan_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Shakhtar Donetsk vs Brest - MD 7 - 22 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1737618485~acl=/*~id=95357210984422442903477000878583~hmac=e52d38eb884389edaae4e1dba1396f00e331a91a6a2ddc7971446682a2bd49b7"
+            "event_name": "Upcoming - UEFA Europa League"
         },
         {
             "event_category": "Tennis",
@@ -46,15 +29,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Keys vs Swiatek - SF - Australian Open 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090430922,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_23rd_jan_combo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League"
         },
         {
             "event_category": "Tennis",
