@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:26:18 22-01-2025",
+    "last update time": "23:36:29 22-01-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "RB Leipzig vs Sporting CP - MD 7 - 22 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737611776~acl=/*~id=59879315353751402220603902426187~hmac=c5ee08539ca115d78b7390fb093d791a9f3f27ce0c196b529ab2cfa66ffb9820"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737612387~acl=/*~id=86806010643944161480040965644655~hmac=e7c29c93b62b3a8ad6ad5476d2e7f8671572c94b4f2e2b8d11323e33f06851bd"
         },
         {
             "event_category": "Football",
@@ -27,7 +27,7 @@
             "match_name": "Shakhtar Donetsk vs Brest - MD 7 - 22 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1737611776~acl=/*~id=59879315353751402220603902426187~hmac=c5ee08539ca115d78b7390fb093d791a9f3f27ce0c196b529ab2cfa66ffb9820"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1737612387~acl=/*~id=86806010643944161480040965644655~hmac=e7c29c93b62b3a8ad6ad5476d2e7f8671572c94b4f2e2b8d11323e33f06851bd"
         },
         {
             "event_category": "Football",
@@ -40,7 +40,7 @@
             "match_name": "Al-Ittihad vs Al-Shabab - MD 16 - 22 Jan 2025 ",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1737611776~acl=/*~id=59879315353751402220603902426187~hmac=c5ee08539ca115d78b7390fb093d791a9f3f27ce0c196b529ab2cfa66ffb9820"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1737612387~acl=/*~id=86806010643944161480040965644655~hmac=e7c29c93b62b3a8ad6ad5476d2e7f8671572c94b4f2e2b8d11323e33f06851bd"
         },
         {
             "event_category": "Football",
@@ -70,6 +70,15 @@
             "event_name": "Upcoming - Sabalenka vs Badosa - SF - Australian Open 2025"
         },
         {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090431276,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/keys_vs_swiatek_sf_ao_2025_22jan_landscape_thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Keys vs Swiatek - SF - Australian Open 2025"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090430922,
@@ -90,20 +99,11 @@
         {
             "event_category": "Tennis",
             "isLive": false,
-            "contentId": 1090428503,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/grand_slam_13jan_landscape_thumb.jpg",
+            "contentId": 1090431277,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/djokovic_vs_zverev_sf_ao_2025_22jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2025"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090426666,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ao_2025_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2025"
+            "event_name": "Upcoming - Djokovic vs Zverev - SF - Australian Open 2025"
         },
         {
             "event_category": "Football",
@@ -124,6 +124,15 @@
             "event_name": "Upcoming - RB Leipzig vs Bayer Leverkusen"
         },
         {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090428503,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/grand_slam_13jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
             "event_category": "Hockey",
             "isLive": false,
             "contentId": 1090426769,
@@ -131,6 +140,15 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Hockey India League 2024-25"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090426666,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ao_2025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
         }
     ]
 }
