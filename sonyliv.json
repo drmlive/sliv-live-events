@@ -1,1 +1,149 @@
-error code: 524
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "12:07:29 22-01-2025",
+    "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090427348,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_qf_shelton_vs_sonego_21jan_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2025",
+            "match_name": "Shelton vs Sonego - QF - 22 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737571043~acl=/*~id=84327220404422755390976646659622~hmac=aac340f9ac101178029753ab376502a821274331b90ec45fe6b1374fe87ce401"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090427367,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_qf_shelton_vs_sonego_21jan_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 3",
+            "audioLanguageName": "HIN",
+            "event_name": "Australian Open 2025",
+            "match_name": "Shelton vs Sonego - QF - 22 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737571043~acl=/*~id=84327220404422755390976646659622~hmac=aac340f9ac101178029753ab376502a821274331b90ec45fe6b1374fe87ce401"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090427351,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_qf_stream2_20jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2025",
+            "match_name": "Stream 2 - 22 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1737571043~acl=/*~id=84327220404422755390976646659622~hmac=aac340f9ac101178029753ab376502a821274331b90ec45fe6b1374fe87ce401"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090427353,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_qf_margaret_court_arena_20jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2025",
+            "match_name": "Peers J / Gadecki O vs Venus M / Routliffe E - Mixed Doubles - 22 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1737571043~acl=/*~id=84327220404422755390976646659622~hmac=aac340f9ac101178029753ab376502a821274331b90ec45fe6b1374fe87ce401"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429970,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_psg_v_man_city_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Man City - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090431029,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/23rd_jan_combo_ucl_21jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League 2024-25 - 23rd Jan 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090426666,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ao_2025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090430922,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_23rd_jan_combo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090428503,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/grand_slam_13jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090429977,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_feyenoord_v_bayern_50_sec_hor_app_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Feyenoord vs Bayern Munich - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090431100,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sabalenka_vs_badosa_23rd_jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sabalenka vs Badosa - SF - Australian Open 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090430928,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_sc_freiburg_v_bayern_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - SC Freiburg vs Bayern Munich"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090430924,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_rb_leipzig_v_leverkusen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - RB Leipzig vs Bayer Leverkusen"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090426769,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey India League 2024-25"
+        }
+    ]
+}
