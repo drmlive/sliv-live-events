@@ -1,31 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:13:03 23-01-2025",
+    "last update time": "20:23:14 23-01-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090427348,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_sf_keys_vs_swiatek_23jan_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2025",
-            "match_name": "Keys vs Swiatek - SF - 23 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737686575~acl=/*~id=29595581588993874863851290101811~hmac=7d04689b147757e41e4e2acb114b33ad5b2e200426c94b3463eeb721eed8f3a4"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": true,
-            "contentId": 1090431278,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/odisha_warriors_vs_delhi_sg_pipers_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Women's Hockey India League 2025",
-            "match_name": "Odisha Warriors vs Delhi SG Pipers - 23 Jan 2025"
-        },
         {
             "event_category": "Hockey",
             "isLive": true,
@@ -37,7 +14,7 @@
             "match_name": "Tamil Nadu Dragons vs Hyderabad Toofans - 23 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1737686575~acl=/*~id=29595581588993874863851290101811~hmac=7d04689b147757e41e4e2acb114b33ad5b2e200426c94b3463eeb721eed8f3a4"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1737687193~acl=/*~id=65035785956693488127880932593263~hmac=08897a456d38256367dc04785b6c004a5084c49141321d79a40201e2b6bd29b3"
         },
         {
             "event_category": "Football",
