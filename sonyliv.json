@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:50:11 23-01-2025",
+    "last update time": "17:00:19 23-01-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Keys vs Swiatek - SF - 23 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737674411~acl=/*~id=17501737430597138849320308425044~hmac=8bab75bdf9efb3f05f4c2c809ad4e66001e596cb2ac4f717fa24bc5e4b6dd1a5"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737675018~acl=/*~id=17087537303984511227842827960817~hmac=8598156e52233a8f8597ef614d6f5fca6c16f0b78107377d41ece8ab739eb1ee"
         },
         {
             "event_category": "Tennis",
@@ -27,7 +27,7 @@
             "match_name": "Keys vs Swiatek - SF - 23 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737674411~acl=/*~id=17501737430597138849320308425044~hmac=8bab75bdf9efb3f05f4c2c809ad4e66001e596cb2ac4f717fa24bc5e4b6dd1a5"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737675018~acl=/*~id=17087537303984511227842827960817~hmac=8598156e52233a8f8597ef614d6f5fca6c16f0b78107377d41ece8ab739eb1ee"
         },
         {
             "event_category": "Football",
@@ -46,6 +46,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Djokovic vs Zverev - SF - Australian Open 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090431385,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ao_2025_2nd_semifinal_men_h_35_sec_app_revised_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sinner vs Shelton - SF - Australian Open 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090431389,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Football",
