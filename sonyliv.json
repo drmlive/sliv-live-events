@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:57:53 23-01-2025",
+    "last update time": "14:08:01 23-01-2025",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": 1090427348,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_sf_eng_22jan_rev_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_sf_sabalenka_vs_badosa_23jan_rev_eng_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2025",
-            "match_name": "Stream 1 - 23 Jan 2025",
+            "match_name": "Sabalenka vs Badosa - SF - 23 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737664072~acl=/*~id=01729859264820298939892050463878~hmac=c34153cfe210c52c3402c00c71a8b11547cdf6e4c81028945ef9486a512ff80e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737664680~acl=/*~id=13104940559457924040364163482686~hmac=cc63a7b2f138fb1f091824369e1334a1b9dd6d03d2556716eea7437fb07b35d4"
         },
         {
             "event_category": "Tennis",
@@ -27,7 +27,7 @@
             "match_name": "Sabalenka vs Badosa - SF - 23 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737664072~acl=/*~id=01729859264820298939892050463878~hmac=c34153cfe210c52c3402c00c71a8b11547cdf6e4c81028945ef9486a512ff80e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737664680~acl=/*~id=13104940559457924040364163482686~hmac=cc63a7b2f138fb1f091824369e1334a1b9dd6d03d2556716eea7437fb07b35d4"
         },
         {
             "event_category": "Football",
@@ -37,15 +37,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Europa League"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090431100,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sabalenka_vs_badosa_23rd_jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sabalenka vs Badosa - SF - Australian Open 2025"
         },
         {
             "event_category": "Tennis",
