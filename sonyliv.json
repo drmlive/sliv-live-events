@@ -1,42 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:00:09 24-01-2025",
+    "last update time": "14:10:17 24-01-2025",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": 1090427348,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_sf_eng_22jan_rev_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_sf_sinner_vs_shelton_eng_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2025",
-            "match_name": "Stream 1 - 24 Jan 2025",
+            "match_name": "Sinner vs Shelton - SF - 24 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737750608~acl=/*~id=98062006609590137428146838431669~hmac=fd0c8b7cd6154cbb67f775aa43082dcaa30103d895898d455b8e225deb53ce53"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737751216~acl=/*~id=67809601998808322353978073909885~hmac=7b2b95c2a4f336b0d88fa88b54565176a883757e033ee5415413b968f2d3fe45"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": 1090427367,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_sf_hindi_22jan_rev_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_sf_sinner_vs_shelton_multilang_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 3",
             "audioLanguageName": "HIN",
             "event_name": "Australian Open 2025",
-            "match_name": "Stream 3 - 24 Jan 2025",
+            "match_name": "Sinner vs Shelton - SF - 24 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737750608~acl=/*~id=98062006609590137428146838431669~hmac=fd0c8b7cd6154cbb67f775aa43082dcaa30103d895898d455b8e225deb53ce53"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090431385,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ao_2025_2nd_semifinal_men_h_35_sec_app_revised_landcape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sinner vs Shelton - SF - Australian Open 2025"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737751216~acl=/*~id=67809601998808322353978073909885~hmac=7b2b95c2a4f336b0d88fa88b54565176a883757e033ee5415413b968f2d3fe45"
         },
         {
             "event_category": "Cricket",
