@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:20:48 25-01-2025",
+    "last update time": "21:31:00 25-01-2025",
     "matches": [
         {
-            "event_category": "Tennis",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": 1090427348,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ao25_final_generic_eng_24jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090431377,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md19_leipzig_vs_leverkusen_4jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2025",
-            "match_name": "Stream 1 - 25 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e"
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "RB Leipzig vs Bayer Leverkusen - MD 19 - 25 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf"
         },
         {
             "event_category": "Football",
@@ -27,20 +27,7 @@
             "match_name": "Borussia Dortmund vs Werder Bremen - MD 19 - 25 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090431377,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md19_leipzig_vs_leverkusen_4jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "RB Leipzig vs Bayer Leverkusen - MD 19 - 25 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf"
         },
         {
             "event_category": "Football",
@@ -51,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Goal Arena Feed - MD 19 - 25 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf"
         },
         {
             "event_category": "Football",
@@ -64,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Augsburg vs Heidenheim - MD 19 - 25 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf"
         },
         {
             "event_category": "Football",
@@ -77,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Mainz vs VfB Stuttgart - MD 19 - 25 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf"
         },
         {
             "event_category": "Hockey",
@@ -92,7 +79,7 @@
             "match_name": "Hyderabad Toofans vs UP Rudras - 25 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf"
         },
         {
             "event_category": "Football",
@@ -105,7 +92,7 @@
             "match_name": "SC Freiburg vs Bayern Munich - 25 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1737863445~acl=/*~id=66768432469182285587578559830255~hmac=5c8651f19edade320a3a55976a4315449d3be6f0ec2ae01301059f1ebf38d54e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1737864058~acl=/*~id=52654136630790838312426650574526~hmac=9462ac9af5826830566137fc043a70492fc328f92f9460646b92f5cc4ae6f6bf"
         },
         {
             "event_category": "Football",
@@ -144,13 +131,13 @@
             "event_name": "Upcoming - Juventus vs Benfica - UEFA Champions League 2024-25"
         },
         {
-            "event_category": "WWE",
+            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090431595,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
+            "contentId": 1090431389,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Football",
@@ -180,13 +167,13 @@
             "event_name": "Upcoming - Brest vs Real Madrid - UEFA Champions League 2024-25"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "WWE",
             "isLive": false,
-            "contentId": 1090431389,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
+            "contentId": 1090431595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
         },
         {
             "event_category": "Tennis",
