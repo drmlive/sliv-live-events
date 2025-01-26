@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:15:47 26-01-2025",
+    "last update time": "19:25:54 26-01-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -14,7 +14,20 @@
             "match_name": "Soorma Hockey Club vs Odisha Warriors - Final - 26 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1737942346~acl=/*~id=35517672718047413027813090516992~hmac=fe2750e6272bdc799436baecb5c7fdd3833dfc53dd409af58d1b6bcb04ab840b"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1737942953~acl=/*~id=18659113365885011658106889581129~hmac=c325d1de5045a384fdc6f9c24f49ff4d5e840f9ee07d80ef5cdd6a806b23912c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090431631,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md19_hoffenheim_vs_frankfurt_4jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Hoffenheim vs Eintracht Frankfurt - MD 19 - 26 Jan 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737942953~acl=/*~id=18659113365885011658106889581129~hmac=c325d1de5045a384fdc6f9c24f49ff4d5e840f9ee07d80ef5cdd6a806b23912c",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737942953~acl=/*~id=18659113365885011658106889581129~hmac=c325d1de5045a384fdc6f9c24f49ff4d5e840f9ee07d80ef5cdd6a806b23912c",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1737942953~acl=/*~id=18659113365885011658106889581129~hmac=c325d1de5045a384fdc6f9c24f49ff4d5e840f9ee07d80ef5cdd6a806b23912c"
         },
         {
             "event_category": "Football",
