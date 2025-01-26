@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:51:47 26-01-2025",
+    "last update time": "14:01:54 26-01-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Jannik Sinner vs Alexander Zverev - Final - 26 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737922906~acl=/*~id=33590670629265677343630442967166~hmac=59b35d64d24e33727a87133952fae031e8f528da520f032c01d651aded71e4f0"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1737923513~acl=/*~id=83790611023467209469561653845431~hmac=3862e695f29029cb93ee56bac05951eda5b6db92f2005e2445887a60589f01d9"
         },
         {
             "event_category": "Tennis",
@@ -27,7 +27,7 @@
             "match_name": "Jannik Sinner vs Alexander Zverev - Final - 26 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737922906~acl=/*~id=33590670629265677343630442967166~hmac=59b35d64d24e33727a87133952fae031e8f528da520f032c01d651aded71e4f0"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1737923513~acl=/*~id=83790611023467209469561653845431~hmac=3862e695f29029cb93ee56bac05951eda5b6db92f2005e2445887a60589f01d9"
         },
         {
             "event_category": "WWE",
@@ -109,15 +109,6 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Hockey India League 2024-25"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090426666,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trailer_ao_2025_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2025"
         }
     ]
 }
