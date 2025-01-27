@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:51:41 27-01-2025",
+    "last update time": "17:01:48 27-01-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090431783,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hil25_bengal_tigers_vs_delhi_sgp_3jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Hockey India League 2024-25",
+            "match_name": "Shrachi Rarh Bengal Tigers vs Delhi SG Pipers - 27 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1738020707~acl=/*~id=62076461160026991537681706205555~hmac=a6d4d72f9c2baf60e5bf65555235ffa813836e418ff94fe4fa83e05168b293e4"
+        },
         {
             "event_category": "Football",
             "isLive": false,
