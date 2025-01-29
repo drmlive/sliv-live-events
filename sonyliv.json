@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:39:26 29-01-2025",
+    "last update time": "10:50:33 29-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 1 - 1st Test - SL vs AUS - 29 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738170565~acl=/*~id=76487532239187277883944187712245~hmac=7ca0cc54c478db7d0edcbf90473967a5703263ca3e7cd4f82060b786b2fcaf14"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738171171~acl=/*~id=11678502543520938529216255877546~hmac=0e191207b7668411499a350b8502039e7533dae8cdf96fb36f1fcf500d2b0658"
         },
         {
             "event_category": "Football",
@@ -33,87 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Man City vs Club Brugge - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090466930,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_30jan_promo_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1090431595,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090466414,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of England 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090431389,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090431705,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/stuttgart_vs_psg_30th_jan.png",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Stuttgart vs PSG - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090431707,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/inter_vs_monaco_30th_jan.png",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Inter vs Monaco - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090431701,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/juventus_vs_benfica_30th_jan.png",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Juventus vs Benfica - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090431699,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/aston_villa_vs_celtic_30th_jan.png",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Celtic - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1090426769,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey India League 2024-25"
         }
     ]
 }
