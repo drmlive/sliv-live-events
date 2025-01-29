@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:34:29 30-01-2025",
+    "last update time": "03:44:37 30-01-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466912,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_barcelona_vs_atalanta_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Barcelona vs Atalanta - MD 8 - 30 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466915,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_dortmund_vs_shakhtar_donetsk_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Borussia Dortmund vs Shakhtar Donetsk - MD 8 - 30 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -38,201 +12,31 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2024-25",
             "match_name": "Lille vs Feyenoord - MD 8 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1738232077~acl=/*~id=80612210623004350633968536282850~hmac=d8ea7af2aa859ba5e6a7fb73e5c40c8520a4d41fe8a615e071d1cf899cbea62b",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1738232077~acl=/*~id=80612210623004350633968536282850~hmac=d8ea7af2aa859ba5e6a7fb73e5c40c8520a4d41fe8a615e071d1cf899cbea62b",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1738232077~acl=/*~id=80612210623004350633968536282850~hmac=d8ea7af2aa859ba5e6a7fb73e5c40c8520a4d41fe8a615e071d1cf899cbea62b"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090466911,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_aston_villa_vs_celtic_27jan_landscape_thumb.jpg",
+            "contentId": 1090466905,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_sporting_cp_vs_bologna_27jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Aston Villa vs Celtic - MD 8 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466907,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_psv_vs_liverpool_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "PSV vs Liverpool - MD 8 - 30 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466913,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_leverkusen_vs_sparta_prague_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Bayer Leverkusen vs Sparta Prague - MD 8 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466921,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_dinamo_zagreb_vs_ac_milan_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Dinamo Zagreb vs AC Milan - MD 8 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466910,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_juventus_vs_benfica_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Juventus vs Benfica - MD 8 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466908,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_rb_salzburg_vs_atletico_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "RB Salzburg vs Atletico Madrid - MD 8 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466906,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_stuttgart_vs_psg_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Stuttgart vs PSG - MD 8 - 30 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466914,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_bayern_vs_bratislava_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Bayern Munich vs S. Bratislava - MD 8 - 30 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466901,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_man_city_vs_club_brugge_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Manchester City vs Club Brugge - MD 8 - 30 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466918,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_brest_vs_real_madrid_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Brest vs Real Madrid - MD 8 - 30 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466922,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_girona_vs_arsenal_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Girona vs Arsenal - MD 8 - 30 Jan 2025",
-            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090466926,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_md8_inter_vs_monaco_27jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Internazionale vs Monaco - MD 8 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1738231466~acl=/*~id=35520536835954677079579954505031~hmac=cda773f50844f2bd9ce7d7af67a00b31dc0b03184e84296b1626a5dcd68382a7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467089,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_heidenheim_v_dortmund_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Heidenheim vs Borussia Dortmund"
+            "match_name": "Sporting CP vs Bologna - MD 8 - 30 Jan 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002937/LIV10UEFA/master_mdh.m3u8?hdnea=exp=1738232077~acl=/*~id=80612210623004350633968536282850~hmac=d8ea7af2aa859ba5e6a7fb73e5c40c8520a4d41fe8a615e071d1cf899cbea62b",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002937/LIV10UEFA/master_mdh.m3u8?hdnea=exp=1738232077~acl=/*~id=80612210623004350633968536282850~hmac=d8ea7af2aa859ba5e6a7fb73e5c40c8520a4d41fe8a615e071d1cf899cbea62b",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002937/LIV10UEFA/master_mdh.m3u8?hdnea=exp=1738232077~acl=/*~id=80612210623004350633968536282850~hmac=d8ea7af2aa859ba5e6a7fb73e5c40c8520a4d41fe8a615e071d1cf899cbea62b"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090431389,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
+            "contentId": 1090466414,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1090431595,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467087,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_hoffenheim_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
+            "event_name": "Upcoming - India Tour of England 2025"
         },
         {
             "event_category": "Football",
@@ -244,13 +48,13 @@
             "event_name": "Upcoming - FCSB vs Manchester United - UEFA Europa League 2024-25"
         },
         {
-            "event_category": "Football",
+            "event_category": "Fight Sports",
             "isLive": false,
-            "contentId": 1090467088,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bayern_v_holstein_landscape_thumb.jpg",
+            "contentId": 1090467090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming -  Bayern Munich vs Holstein Kiel"
+            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
         },
         {
             "event_category": "Fight Sports",
@@ -262,22 +66,49 @@
             "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
+            "contentId": 1090467088,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bayern_v_holstein_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
+            "event_name": "Upcoming -  Bayern Munich vs Holstein Kiel"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467089,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_heidenheim_v_dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Heidenheim vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467087,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_hoffenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1090431595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090466414,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
+            "contentId": 1090431389,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of England 2025"
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Hockey",
