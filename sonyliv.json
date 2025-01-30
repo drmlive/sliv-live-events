@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:21:55 30-01-2025",
+    "last update time": "15:32:03 30-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 2 - 1st Test - 30 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738273914~acl=/*~id=70060251868576442474904199114733~hmac=6d4447a2c78015b89d546ca1897d1b8b866a7f861619a759d1dda6efeda12ad4"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738274522~acl=/*~id=84594848019262112429827158707879~hmac=88aebdf7f78745ff3afa0bd4cce8890ddb9793e81a432db7bbab05266024187d"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series India - Day 1 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738273914~acl=/*~id=70060251868576442474904199114733~hmac=6d4447a2c78015b89d546ca1897d1b8b866a7f861619a759d1dda6efeda12ad4",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738273914~acl=/*~id=70060251868576442474904199114733~hmac=6d4447a2c78015b89d546ca1897d1b8b866a7f861619a759d1dda6efeda12ad4",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738273914~acl=/*~id=70060251868576442474904199114733~hmac=6d4447a2c78015b89d546ca1897d1b8b866a7f861619a759d1dda6efeda12ad4"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738274522~acl=/*~id=84594848019262112429827158707879~hmac=88aebdf7f78745ff3afa0bd4cce8890ddb9793e81a432db7bbab05266024187d",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738274522~acl=/*~id=84594848019262112429827158707879~hmac=88aebdf7f78745ff3afa0bd4cce8890ddb9793e81a432db7bbab05266024187d",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738274522~acl=/*~id=84594848019262112429827158707879~hmac=88aebdf7f78745ff3afa0bd4cce8890ddb9793e81a432db7bbab05266024187d"
         },
         {
             "event_category": "Football",
@@ -37,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - FCSB vs Manchester United - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090467090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
         },
         {
             "event_category": "Football",
@@ -64,15 +73,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090467090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
         },
         {
             "event_category": "WWE",
