@@ -1,17 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:46:18 30-01-2025",
+    "last update time": "06:56:22 30-01-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090466414,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of England 2025"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -20,24 +11,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - FCSB vs Manchester United - UEFA Europa League 2024-25"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090467090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090466986,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
         },
         {
             "event_category": "Football",
@@ -65,6 +38,33 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090466414,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of England 2025"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090467090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090466986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
         },
         {
             "event_category": "WWE",
