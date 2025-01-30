@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:41:20 30-01-2025",
+    "last update time": "14:51:29 30-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 2 - 1st Test - 30 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738271479~acl=/*~id=34992560227984111835744541676392~hmac=0555bd4c4d96f2df129cede420138a9797430c0e301915d5e57276f4f692a624"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738272087~acl=/*~id=82706946752099563952969070028604~hmac=f653ec7de4b8c44d65586050cd7eaff64df5f4d17a8c23a1342e50c265c858fe"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series India - Day 1 - 30 Jan 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738271479~acl=/*~id=34992560227984111835744541676392~hmac=0555bd4c4d96f2df129cede420138a9797430c0e301915d5e57276f4f692a624",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738271479~acl=/*~id=34992560227984111835744541676392~hmac=0555bd4c4d96f2df129cede420138a9797430c0e301915d5e57276f4f692a624",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738271479~acl=/*~id=34992560227984111835744541676392~hmac=0555bd4c4d96f2df129cede420138a9797430c0e301915d5e57276f4f692a624"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738272087~acl=/*~id=82706946752099563952969070028604~hmac=f653ec7de4b8c44d65586050cd7eaff64df5f4d17a8c23a1342e50c265c858fe",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738272087~acl=/*~id=82706946752099563952969070028604~hmac=f653ec7de4b8c44d65586050cd7eaff64df5f4d17a8c23a1342e50c265c858fe",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1738272087~acl=/*~id=82706946752099563952969070028604~hmac=f653ec7de4b8c44d65586050cd7eaff64df5f4d17a8c23a1342e50c265c858fe"
         },
         {
             "event_category": "Football",
@@ -66,6 +66,24 @@
             "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
         },
         {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090467090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1090431595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090466414,
@@ -77,29 +95,11 @@
         {
             "event_category": "Fight Sports",
             "isLive": false,
-            "contentId": 1090467090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
             "contentId": 1090466986,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1090431595,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
         },
         {
             "event_category": "Cricket",
