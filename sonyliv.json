@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:57:18 30-01-2025",
+    "last update time": "09:07:24 30-01-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090467027,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_vs_aus25_1sttest_d2_landscape_thumb_live.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australia Tour Of Sri Lanka 2025",
+            "match_name": "Day 2 - 1st Test - 30 Jan 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738251444~acl=/*~id=82549701631451716615434642964344~hmac=8398626899584c8ee473bf9851804013be0ab4f960d1e8bf56328447d6121d3a"
+        },
         {
             "event_category": "Football",
             "isLive": false,
