@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:36:15 31-01-2025",
+    "last update time": "11:46:21 31-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 3 - 1st Test - 31 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738346774~acl=/*~id=28952269680337673653644361554590~hmac=ae6aa42106018904e5567d8d9be3d507d12f241c2bcc2f5af0dae8bd1a341026"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738347380~acl=/*~id=08821073712989407735293054694446~hmac=25858fb947336c111a9ff71113ad7b258f8afc582c7d7c8ad9d7c49e70d1d2de"
         },
         {
             "event_category": "WWE",
@@ -33,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467088,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bayern_v_holstein_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming -  Bayern Munich vs Holstein Kiel"
         },
         {
             "event_category": "Cricket",
@@ -69,6 +60,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467088,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bayern_v_holstein_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming -  Bayern Munich vs Holstein Kiel"
         },
         {
             "event_category": "Football",
