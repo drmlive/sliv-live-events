@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:05:15 31-01-2025",
+    "last update time": "10:15:21 31-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 3 - 1st Test - 31 Jan 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738341314~acl=/*~id=55651260787758115298607615954836~hmac=2f14f0adc90f36287c1dc6fed4d3119f69a8f648aeb5341f3e5e2094c5ef1a11"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738341921~acl=/*~id=28088753945323924458061404841992~hmac=9353b0ccbbc4af98fe28509c01398d92d6bfa47c18850e582c17ec1dcf6987a0"
         },
         {
             "event_category": "WWE",
@@ -53,15 +53,6 @@
             "event_name": "Upcoming - Heidenheim vs Borussia Dortmund"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467087,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_hoffenheim_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090466414,
@@ -87,6 +78,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467087,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_hoffenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
         },
         {
             "event_category": "Hockey",
