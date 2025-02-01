@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:14:08 01-02-2025",
+    "last update time": "17:24:15 01-02-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -14,7 +14,7 @@
             "match_name": "Tamil Nadu Dragons vs JSW Soorma Hockey Club - 3rd/4th Place - 1 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1738453447~acl=/*~id=68907557620606046691798836704845~hmac=2a5f80427efdcb8861ee720d3bce2db034be50c3fef76a31ea67231ec2d610fc"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1738454054~acl=/*~id=46089871985404994420446681722588~hmac=a6d0557d20cef1cd418645cb85db075185eb0cde801325ddabde2c434538f6ad"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series India - Day 3 - 1 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738453447~acl=/*~id=68907557620606046691798836704845~hmac=2a5f80427efdcb8861ee720d3bce2db034be50c3fef76a31ea67231ec2d610fc",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738453447~acl=/*~id=68907557620606046691798836704845~hmac=2a5f80427efdcb8861ee720d3bce2db034be50c3fef76a31ea67231ec2d610fc",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738453447~acl=/*~id=68907557620606046691798836704845~hmac=2a5f80427efdcb8861ee720d3bce2db034be50c3fef76a31ea67231ec2d610fc"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738454054~acl=/*~id=46089871985404994420446681722588~hmac=a6d0557d20cef1cd418645cb85db075185eb0cde801325ddabde2c434538f6ad",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738454054~acl=/*~id=46089871985404994420446681722588~hmac=a6d0557d20cef1cd418645cb85db075185eb0cde801325ddabde2c434538f6ad",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738454054~acl=/*~id=46089871985404994420446681722588~hmac=a6d0557d20cef1cd418645cb85db075185eb0cde801325ddabde2c434538f6ad"
         },
         {
             "event_category": "Fight Sports",
@@ -100,15 +100,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1090426769,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey India League 2024-25"
         }
     ]
 }
