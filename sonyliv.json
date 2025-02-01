@@ -1,1 +1,114 @@
-error code: 524
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "13:21:45 01-02-2025",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090467592,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_vs_aus25_1sttest_d4_landscape_thumb_live.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australia Tour Of Sri Lanka 2025",
+            "match_name": "Day 4 - 1st Test - 1 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738439504~acl=/*~id=83567814233746915083363844116068~hmac=23482be462171275adaadac947a479b72fa9714f3aa522d7b2a3e1889bc44373"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1090467594,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiantour_international_series_india_presented_by_dlf_day3_landscape_thumb_live.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2025",
+            "match_name": "International Series India - Day 3 - 1 Feb 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738439504~acl=/*~id=83567814233746915083363844116068~hmac=23482be462171275adaadac947a479b72fa9714f3aa522d7b2a3e1889bc44373",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738439504~acl=/*~id=83567814233746915083363844116068~hmac=23482be462171275adaadac947a479b72fa9714f3aa522d7b2a3e1889bc44373",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738439504~acl=/*~id=83567814233746915083363844116068~hmac=23482be462171275adaadac947a479b72fa9714f3aa522d7b2a3e1889bc44373"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467088,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bayern_v_holstein_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming -  Bayern Munich vs Holstein Kiel"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090467090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn178_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC Fight Night - Adesanya vs Imavov"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467089,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_heidenheim_v_dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Heidenheim vs Borussia Dortmund"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1090431595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467087,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_hoffenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090466414,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of England 2025"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090466986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090431389,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090426769,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/hockey_india_league_2024_promp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey India League 2024-25"
+        }
+    ]
+}
