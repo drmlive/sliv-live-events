@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:57:24 01-02-2025",
+    "last update time": "09:07:30 01-02-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090467592,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_vs_aus25_1sttest_d4_landscape_thumb_live.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australia Tour Of Sri Lanka 2025",
+            "match_name": "Day 4 - 1st Test - 1 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738424249~acl=/*~id=59170749880319547886290063946507~hmac=b2edd7a9e2c0e6e542dc90b96708c50d62c8f766a999707865a5c0c7e5136aca"
+        },
         {
             "event_category": "WWE",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "WWE SmackDown - 01 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1738423644~acl=/*~id=76351212679967735872241702354827~hmac=f128e5b586b91e052417fd7cb9eef40ded519de47cfa81b7b6b9eb66d659c3bd"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1738424249~acl=/*~id=59170749880319547886290063946507~hmac=b2edd7a9e2c0e6e542dc90b96708c50d62c8f766a999707865a5c0c7e5136aca"
         },
         {
             "event_category": "WWE",
