@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:49:47 01-02-2025",
+    "last update time": "12:59:53 01-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 4 - 1st Test - 1 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738437587~acl=/*~id=97554255828280315597361183985621~hmac=6526a2d7c8f36ea902766a72e6f395cc56f6ee75ebef6ece17340e61402405d9"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738438193~acl=/*~id=23250624693178605270485376055708~hmac=6599f5acade8bbd71bde90fed25d780db2fac2ba0ee08f69fc95ba99886799c6"
         },
         {
             "event_category": "Golf",
@@ -25,18 +25,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series India - Day 3 - 1 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738437587~acl=/*~id=97554255828280315597361183985621~hmac=6526a2d7c8f36ea902766a72e6f395cc56f6ee75ebef6ece17340e61402405d9",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738437587~acl=/*~id=97554255828280315597361183985621~hmac=6526a2d7c8f36ea902766a72e6f395cc56f6ee75ebef6ece17340e61402405d9",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738437587~acl=/*~id=97554255828280315597361183985621~hmac=6526a2d7c8f36ea902766a72e6f395cc56f6ee75ebef6ece17340e61402405d9"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738438193~acl=/*~id=23250624693178605270485376055708~hmac=6599f5acade8bbd71bde90fed25d780db2fac2ba0ee08f69fc95ba99886799c6",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738438193~acl=/*~id=23250624693178605270485376055708~hmac=6599f5acade8bbd71bde90fed25d780db2fac2ba0ee08f69fc95ba99886799c6",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738438193~acl=/*~id=23250624693178605270485376055708~hmac=6599f5acade8bbd71bde90fed25d780db2fac2ba0ee08f69fc95ba99886799c6"
         },
         {
-            "event_category": "WWE",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090431595,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090467088,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bayern_v_holstein_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
+            "event_name": "Upcoming -  Bayern Munich vs Holstein Kiel"
         },
         {
             "event_category": "Fight Sports",
@@ -50,20 +50,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467088,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bayern_v_holstein_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming -  Bayern Munich vs Holstein Kiel"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090467089,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_heidenheim_v_dortmund_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Heidenheim vs Borussia Dortmund"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1090431595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/royal_rumble_2nd_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE Royal Rumble - 2 Feb 2025"
         },
         {
             "event_category": "Football",
