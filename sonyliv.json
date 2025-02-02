@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:29:40 02-02-2025",
+    "last update time": "17:39:45 02-02-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": 1090467814,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiantour_international_series_india_presented_by_dlf_day4_landscape_thumb_live.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2025",
-            "match_name": "International Series India - Day 4 - 2 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738540779~acl=/*~id=29429326627175651164128621107343~hmac=5b4ddeca8d990836dc6cdfa152e9f3228fccc4498ae2d4476d9ca48203971660",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738540779~acl=/*~id=29429326627175651164128621107343~hmac=5b4ddeca8d990836dc6cdfa152e9f3228fccc4498ae2d4476d9ca48203971660",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1738540779~acl=/*~id=29429326627175651164128621107343~hmac=5b4ddeca8d990836dc6cdfa152e9f3228fccc4498ae2d4476d9ca48203971660"
-        },
         {
             "event_category": "Football",
             "isLive": false,
