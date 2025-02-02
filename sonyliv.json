@@ -1,1 +1,56 @@
-error code: 524
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "20:12:59 02-02-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090467753,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga_md20_eintrachtfrankfurt_vs_vfl_wolfsburg_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Eintracht Frankfurt vs VfL Wolfsburg - MD 20 - 2 Feb 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1738550578~acl=/*~id=76698509581905328505909013443018~hmac=bfc108b542906d0981ab2f970d3ea2b4a2d94dcc0d16eb11d518196cb7697393",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1738550578~acl=/*~id=76698509581905328505909013443018~hmac=bfc108b542906d0981ab2f970d3ea2b4a2d94dcc0d16eb11d518196cb7697393",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1738550578~acl=/*~id=76698509581905328505909013443018~hmac=bfc108b542906d0981ab2f970d3ea2b4a2d94dcc0d16eb11d518196cb7697393"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467087,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_hoffenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs Hoffenheim"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090466414,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of England 2025"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090466986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090431389,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        }
+    ]
+}
