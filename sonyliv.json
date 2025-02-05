@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:16:48 05-02-2025",
+    "last update time": "18:26:53 05-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -22,15 +22,6 @@
             "event_name": "Upcoming - UFC 312 - Salkilld vs Jubli"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090466986,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090467930,
@@ -38,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Leyton Orient vs Manchester City -The Emirates FA Cup"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090466986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
         },
         {
             "event_category": "Football",
@@ -51,20 +51,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467929,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Tottenham -The Emirates FA Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090467935,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_al_nassr_vs_al_fayha_30_sec_h_app_land_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Al-Nassr vs Al-Fayha- Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467929,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Aston Villa vs Tottenham -The Emirates FA Cup"
         },
         {
             "event_category": "Football",
