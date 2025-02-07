@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:14:36 08-02-2025",
+    "last update time": "00:24:50 08-02-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090467969,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md21_bayern_vs_werder_bremen_30jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Bayern Munich vs Werder Bremen - MD 21 - 8 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1738997689~acl=/*~id=47036523794133401734625923341149~hmac=b398ff972b7d5c408489fc8cdf4d1be7fcd9d68bd1a5ec48a01849febc87473b"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -38,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467902,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga25_bayern_vs_bremen_8th_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Werder Bremen"
         },
         {
             "event_category": "Football",
@@ -128,6 +132,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Brest vs PSG - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468026,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_club_brugge_vs_atalanta_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Club Brugge vs Atalanta - UEFA Champions League 2024-25"
         }
     ]
 }
