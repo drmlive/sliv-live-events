@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:13:18 07-02-2025",
+    "last update time": "09:23:24 07-02-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090467867,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sl_vs_aus_2ndtest_d2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australia Tour Of Sri Lanka 2025",
+            "match_name": "Day 2 - 2nd Test - 7 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1738943604~acl=/*~id=25880268738957544961002058916901~hmac=77b9c32e0291987d5104d0770620dfa09622fa024066f6aaabb44cf94a60c942"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -69,15 +82,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467929,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Tottenham - The Emirates FA Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090467902,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga25_bayern_vs_bremen_8th_feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -92,6 +96,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Borussia Dortmund vs VfB Stuttgart"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467929,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Aston Villa vs Tottenham - The Emirates FA Cup"
         },
         {
             "event_category": "Football",
