@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:12:59 07-02-2025",
+    "last update time": "22:23:06 07-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Al-Nassr vs Al-Fayha - MD 19 - 7 Feb 2025 ",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1738989778~acl=/*~id=25576998490973359288616654733734~hmac=118fd34e49cdb7f52b5deb90d55902995a25f903926756695cb35125d0be8720"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1738990386~acl=/*~id=12384538255289878161931553414183~hmac=cfd8836567a6fbef51f634f9b8604ab71377a7f1a07fee115de2d3c8030fee8e"
         },
         {
             "event_category": "Football",
@@ -55,6 +55,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090467902,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga25_bayern_vs_bremen_8th_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Werder Bremen"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090467945,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_plymouth_argyle_vs_liverpool_30sec_h_app_land_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -69,15 +78,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Emirates FA Cup 2024-25 - 8th Feb 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467902,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga25_bayern_vs_bremen_8th_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Werder Bremen"
         },
         {
             "event_category": "Football",
