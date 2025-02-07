@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:45:04 08-02-2025",
+    "last update time": "00:56:42 08-02-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090467987,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manchester_united_vs_leicester_city_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Manchester United vs Leicester City - 8 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1738999601~acl=/*~id=22946895947421119357847174465630~hmac=0f1c2a0db819f80a8b269e70db12563ede1b3d3ee0a40cb4b39addada3f018bf"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,16 +27,7 @@
             "match_name": "Bayern Munich vs Werder Bremen - MD 21 - 8 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1738998903~acl=/*~id=78335483212863878933628939944709~hmac=c9dc80e1684cca9ddd0f55a6ff035218f2de2998e0fa9a856488145a97f5a735"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090467901,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_utd_vs_leic_city_8th_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Manchester United vs Leicester City -The Emirates FA Cup"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1738999601~acl=/*~id=22946895947421119357847174465630~hmac=0f1c2a0db819f80a8b269e70db12563ede1b3d3ee0a40cb4b39addada3f018bf"
         },
         {
             "event_category": "Fight Sports",
@@ -141,6 +145,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Club Brugge vs Atalanta - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468025,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_celtic_vs_bayern_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Celtic vs Bayern Munich - UEFA Champions League 2024-25"
         }
     ]
 }
