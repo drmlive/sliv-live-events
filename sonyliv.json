@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:25:24 09-02-2025",
+    "last update time": "01:35:32 09-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,20 +14,7 @@
             "match_name": "Brighton & Hove Albion vs Chelsea - 9 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1739087723~acl=/*~id=54278404609964931335214247548985~hmac=ae0ff4e06b789a4c24c6839c74ba6fcd9f6e4d329a4a56d24d2b6851691b9cf7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090468013,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/facup25_round4_birmingham_city_vs_newcastle_united_4feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2024-25",
-            "match_name": "Birmingham City vs Newcastle United - 8 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1739087723~acl=/*~id=54278404609964931335214247548985~hmac=ae0ff4e06b789a4c24c6839c74ba6fcd9f6e4d329a4a56d24d2b6851691b9cf7"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1739088331~acl=/*~id=17535367095156851927429923863316~hmac=421cd935838443097ca384271bf3fd0592f9dd309996311d1551b4f536409464"
         },
         {
             "event_category": "Football",
@@ -40,61 +27,52 @@
             "match_name": "Borussia M'gladbach vs Eintracht Frankfurt - MD 21 - 8 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1739087723~acl=/*~id=54278404609964931335214247548985~hmac=ae0ff4e06b789a4c24c6839c74ba6fcd9f6e4d329a4a56d24d2b6851691b9cf7"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1739088331~acl=/*~id=17535367095156851927429923863316~hmac=421cd935838443097ca384271bf3fd0592f9dd309996311d1551b4f536409464"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090467903,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_anshul_jubli_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - UFC 312 - Salkilld vs Jubli"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090466986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468026,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_club_brugge_vs_atalanta_landscape_thumb.jpg",
+            "contentId": 1090467945,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_plymouth_argyle_vs_liverpool_30sec_h_app_land_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Club Brugge vs Atalanta - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Plymouth vs Liverpool - The Emirates FA Cup"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468022,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_monaco_vs_benfica_landscape_thumb.jpg",
+            "contentId": 1090467929,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Monaco vs Benfica - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Aston Villa vs Tottenham - The Emirates FA Cup"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468023,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_sporting_vs_dortmund_landscape_thumb.jpg",
+            "contentId": 1090468021,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_real_madrid_12th_feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sporting CP vs Dortmund - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468020,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_juventus_vs_psv_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Juventus vs PSV - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468027,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_feyenoord_vs_milan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Feyenoord vs AC Milan - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468025,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_celtic_vs_bayern_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Celtic vs Bayern Munich - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Man City vs Real Madrid - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
@@ -117,47 +95,56 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468021,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_real_madrid_12th_feb_landscape_thumb.jpg",
+            "contentId": 1090468026,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_club_brugge_vs_atalanta_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Real Madrid - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Club Brugge vs Atalanta - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467929,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_aston_villa_vs_tottenham_hotspur_30sec_h_app_land_thumb.jpg",
+            "contentId": 1090468025,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_celtic_vs_bayern_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Tottenham - The Emirates FA Cup"
+            "event_name": "Upcoming - Celtic vs Bayern Munich - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467945,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_plymouth_argyle_vs_liverpool_30sec_h_app_land_thumb.jpg",
+            "contentId": 1090468027,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_feyenoord_vs_milan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Plymouth vs Liverpool - The Emirates FA Cup"
+            "event_name": "Upcoming - Feyenoord vs AC Milan - UEFA Champions League 2024-25"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090466986,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_291025_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": 1090468020,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_juventus_vs_psv_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 312 - Du Plessis vs Strickland 2"
+            "event_name": "Upcoming - Juventus vs PSV - UEFA Champions League 2024-25"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467903,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_anshul_jubli_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - UFC 312 - Salkilld vs Jubli"
+            "contentId": 1090468023,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_sporting_vs_dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting CP vs Dortmund - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468022,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_monaco_vs_benfica_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Monaco vs Benfica - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
