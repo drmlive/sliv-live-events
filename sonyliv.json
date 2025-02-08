@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:57:14 08-02-2025",
+    "last update time": "16:07:21 08-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 3 - 2nd Test - 8 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1739053633~acl=/*~id=32911679399178178073707309350054~hmac=d232d22fc8de38d6a42468b10843c77fe8543fd31fd3eb90acf0651868cbc755"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1739054241~acl=/*~id=81605010814182899822956776763618~hmac=f57b71469225c1c21ac63ec16f1425ab191c6b8df339a21274374063aa727e3a"
         },
         {
             "event_category": "Football",
@@ -26,15 +26,6 @@
             "event_name": "Upcoming - Leyton Orient vs Manchester City -The Emirates FA Cup"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090467903,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_anshul_jubli_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - UFC 312 - Salkilld vs Jubli"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090467967,
@@ -42,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Emirates FA Cup 2024-25 - 8th Feb 2025"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090467903,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc_312_anshul_jubli_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - UFC 312 - Salkilld vs Jubli"
         },
         {
             "event_category": "Fight Sports",
