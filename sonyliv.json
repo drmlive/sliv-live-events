@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:43:15 09-02-2025",
+    "last update time": "12:53:22 09-02-2025",
     "matches": [
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": 1090468103,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc312_main_card_6feb_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 2025",
-            "match_name": "UFC 312 - Du Plessis vs Strickland 2 - 9 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1739128395~acl=/*~id=08448660411897174384331341120980~hmac=ecea9146577bbd3ba317d8b612e6713e260e5ce1f913cd5c631ad448187fbef6"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": 1090468104,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ufc312_main_card_6feb_multi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "UFC 2025",
-            "match_name": "UFC 312 - Du Plessis vs Strickland 2 - 9 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1739128395~acl=/*~id=08448660411897174384331341120980~hmac=ecea9146577bbd3ba317d8b612e6713e260e5ce1f913cd5c631ad448187fbef6"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -59,20 +33,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090467968,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/9th_feb_combo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Emirates FA Cup 2024-25 - 9th Feb 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090468021,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_real_madrid_12th_feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Man City vs Real Madrid - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090467968,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/9th_feb_combo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Emirates FA Cup 2024-25 - 9th Feb 2025"
         },
         {
             "event_category": "Football",
