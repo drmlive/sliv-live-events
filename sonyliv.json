@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:53:14 11-02-2025",
+    "last update time": "03:03:20 11-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Doncaster Rovers vs Crystal Palace - 11 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1739265793~acl=/*~id=88294156219936344667754399589836~hmac=5f24acdecddd8f31ea21c10ebc7b51459ad6dfb296898990e25e6fc8ae305f9d"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1739266400~acl=/*~id=38332466520551569614437840135297~hmac=5b2a297a47c01b521fcd3b89c2f11add0c20ff9c03869e1d44cc8635d982e231"
         },
         {
             "event_category": "Football",
@@ -89,6 +89,15 @@
             "event_name": "Upcoming - Monaco vs Benfica - UEFA Champions League 2024-25"
         },
         {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1090468474,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_nxt_20_sec_10022025_11feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE NXT - 12 Feb 2025"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090468163,
@@ -132,15 +141,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Midtjylland vs Real Sociedad - UEFA Europa League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468161,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_ferencvaros_v_viktoria_plzen_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Ferencvaros vs Viktoria Plzen - UEFA Europa League 2024-25"
         }
     ]
 }
