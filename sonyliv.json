@@ -1,113 +1,52 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:39:58 13-02-2025",
+    "last update time": "03:50:06 13-02-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090468526,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg1_feyenoord_vs_milan_10feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Feyenoord vs Milan - Play-Off - 1st Leg - 13 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1739441397~acl=/*~id=90197590583914356747368795719284~hmac=a1ba9f098516c085b4bb6e8739bbc8fd81456b183617150eb3123ba6de664e96"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090468529,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg1_monaco_vs_benfica_10feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Monaco vs Benfica  - Play-Off - 1st Leg - 13 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/master_mdh.m3u8?hdnea=exp=1739441397~acl=/*~id=90197590583914356747368795719284~hmac=a1ba9f098516c085b4bb6e8739bbc8fd81456b183617150eb3123ba6de664e96"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090468528,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg1_celtic_vs_bayern_12feb_hindi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Celtic vs Bayern Munich - Play-Off - 1st Leg - 13 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1739441397~acl=/*~id=90197590583914356747368795719284~hmac=a1ba9f098516c085b4bb6e8739bbc8fd81456b183617150eb3123ba6de664e96"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090468527,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg1_celtic_vs_bayern_12feb_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Celtic vs Bayern Munich - Play-Off - 1st Leg - 13 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/DAI26ME-V3/master_mdh.m3u8?hdnea=exp=1739441397~acl=/*~id=90197590583914356747368795719284~hmac=a1ba9f098516c085b4bb6e8739bbc8fd81456b183617150eb3123ba6de664e96"
-        },
-        {
-            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468164,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_twente_v_bodo_glimt_landscape_thumb.jpg",
+            "contentId": 1090468163,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_porto_v_roma_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Twente vs Bodo/Glimt - UEFA Europa League 2024-25"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090466414,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of England 2025"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090467946,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn_179_30_sec_app_land_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC Fight Night - Cannonier vs Rodrigues"
+            "event_name": "Upcoming - Porto vs Roma - UEFA Europa League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468471,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bochum_v_dortmund_35_sec_12feb_landscape_thumb.jpg",
+            "contentId": 1090468668,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/al_ahli_vs_al_nassr_13th_feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - VfL Bochum vs Borussia Dortmund"
+            "event_name": "Upcoming - Al-Ahli vs Al-Nassr - Roshn Saudi League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468470,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_bayern_35_sec_11feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs Bayern Munich"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468165,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_poak_v_fcsb_landscape_thumb.jpg",
+            "contentId": 1090468162,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_union_saint_gilloise_v_ajax_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - POAK vs FCSB - UEFA Europa League 2024-25"
+            "event_name": "Upcoming - Union SG vs Ajax - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468159,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_az_alkmaar_v_galatasaray_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - AZ Alkmaar vs Galatasaray - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468160,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_fenerbahce_v_anderlecht_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Fenerbahce vs Anderlecht - UEFA Europa League 2024-25"
         },
         {
             "event_category": "Football",
@@ -130,47 +69,56 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468160,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_fenerbahce_v_anderlecht_landscape_thumb.jpg",
+            "contentId": 1090468164,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_twente_v_bodo_glimt_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Fenerbahce vs Anderlecht - UEFA Europa League 2024-25"
+            "event_name": "Upcoming - Twente vs Bodo/Glimt - UEFA Europa League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468159,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_az_alkmaar_v_galatasaray_landscape_thumb.jpg",
+            "contentId": 1090468165,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_poak_v_fcsb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - AZ Alkmaar vs Galatasaray - UEFA Europa League 2024-25"
+            "event_name": "Upcoming - POAK vs FCSB - UEFA Europa League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468162,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_union_saint_gilloise_v_ajax_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Union SG vs Ajax - UEFA Europa League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468668,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/al_ahli_vs_al_nassr_13th_feb_landscape_thumb.jpg",
+            "contentId": 1090468470,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_bayern_35_sec_11feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Al-Ahli vs Al-Nassr - Roshn Saudi League 2024-25"
+            "event_name": "Upcoming - Bayer Leverkusen vs Bayern Munich"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468163,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uel_porto_v_roma_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090468471,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bochum_v_dortmund_35_sec_12feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Porto vs Roma - UEFA Europa League 2024-25"
+            "event_name": "Upcoming - VfL Bochum vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090467946,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_efn_179_30_sec_app_land_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC Fight Night - Cannonier vs Rodrigues"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090466414,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_teaser_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of England 2025"
         },
         {
             "event_category": "Cricket",
