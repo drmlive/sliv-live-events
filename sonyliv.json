@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:11:52 12-02-2025",
+    "last update time": "17:22:00 12-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "1st ODI - 12 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1739403710~acl=/*~id=99946715570085490389578137496485~hmac=6b837ad34a9823f210473b332b07b862e0b1e9e0d4e4ba156270e7361c20069c"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1739404319~acl=/*~id=62793491744090781745052715526498~hmac=e60729d0fbda98ea9bec80c2694e1cee65fbf63d4f37b2b76ff6307325dd882c"
         },
         {
             "event_category": "Football",
@@ -127,20 +127,20 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090468668,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/al_ahli_vs_al_nassr_13th_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al-Ahli vs Al-Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090468470,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_bayern_35_sec_11feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs Bayern Munich"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468471,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bochum_v_dortmund_35_sec_12feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - VfL Bochum vs Borussia Dortmund"
         }
     ]
 }
