@@ -1,33 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:36:15 12-02-2025",
+    "last update time": "22:46:21 12-02-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090468442,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_b_dortmund_landscape_thumb.jpg",
+            "contentId": 1090468509,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg1_club_brugge_vs_atalanta_10feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2024-25",
-            "match_name": "Real Madrid vs Dortmund - Round Of 32 - 12 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739423174~acl=/*~id=91330875096325543707453078693088~hmac=fd9ecb1170c5314bed858c240b3ff9273447aa2f2ce5e0fe7276b1d681e10ce6",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739423174~acl=/*~id=91330875096325543707453078693088~hmac=fd9ecb1170c5314bed858c240b3ff9273447aa2f2ce5e0fe7276b1d681e10ce6",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739423174~acl=/*~id=91330875096325543707453078693088~hmac=fd9ecb1170c5314bed858c240b3ff9273447aa2f2ce5e0fe7276b1d681e10ce6"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090468443,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/trabzonspor_vs_juventus_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2024-25",
-            "match_name": "Trabzonspor vs Juventus - Round Of 32 - 12 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739423174~acl=/*~id=91330875096325543707453078693088~hmac=fd9ecb1170c5314bed858c240b3ff9273447aa2f2ce5e0fe7276b1d681e10ce6",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739423174~acl=/*~id=91330875096325543707453078693088~hmac=fd9ecb1170c5314bed858c240b3ff9273447aa2f2ce5e0fe7276b1d681e10ce6",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739423174~acl=/*~id=91330875096325543707453078693088~hmac=fd9ecb1170c5314bed858c240b3ff9273447aa2f2ce5e0fe7276b1d681e10ce6"
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Club Brugge vs Atalanta - Play-Off - 1st Leg - 12 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1739423781~acl=/*~id=61520599824127435832160375263678~hmac=cf3fb386775d48b07daff7cc09bb6e974d7afcc8ef11ea56fef939588ae4c0a8"
         },
         {
             "event_category": "Football",
@@ -64,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Union SG vs Ajax - UEFA Europa League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468026,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl_club_brugge_vs_atalanta_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Club Brugge vs Atalanta - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
@@ -154,6 +132,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs Bayern Munich"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468471,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_bochum_v_dortmund_35_sec_12feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - VfL Bochum vs Borussia Dortmund"
         }
     ]
 }
