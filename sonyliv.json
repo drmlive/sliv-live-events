@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:17:06 13-02-2025",
+    "last update time": "20:27:13 13-02-2025",
     "matches": [
         {
             "event_category": "Racing",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship 2024-25",
             "match_name": "Round 3 - Jeddah E-PRIX - Free Practice Race - 13 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1739501226~acl=/*~id=16629663107653721006604015225858~hmac=e06268eb18765a0a8beb6d3bf6af3c7c48e19d471f8ac2406a4239831304b89c",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1739501226~acl=/*~id=16629663107653721006604015225858~hmac=e06268eb18765a0a8beb6d3bf6af3c7c48e19d471f8ac2406a4239831304b89c",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1739501226~acl=/*~id=16629663107653721006604015225858~hmac=e06268eb18765a0a8beb6d3bf6af3c7c48e19d471f8ac2406a4239831304b89c"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1739501832~acl=/*~id=11095524009864621388823122577895~hmac=d74ed06b14f9032e6bfe0b7173313199db3461c602eb3dc06509dcf96d8d22da",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1739501832~acl=/*~id=11095524009864621388823122577895~hmac=d74ed06b14f9032e6bfe0b7173313199db3461c602eb3dc06509dcf96d8d22da",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1739501832~acl=/*~id=11095524009864621388823122577895~hmac=d74ed06b14f9032e6bfe0b7173313199db3461c602eb3dc06509dcf96d8d22da"
         },
         {
             "event_category": "Football",
@@ -42,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Al-Ahli vs Al-Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468470,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_bayern_35_sec_11feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs Bayern Munich"
         },
         {
             "event_category": "Football",
@@ -96,15 +105,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - POAK vs FCSB - UEFA Europa League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468470,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_bundesliga_leverkusen_v_bayern_35_sec_11feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs Bayern Munich"
         },
         {
             "event_category": "Football",
