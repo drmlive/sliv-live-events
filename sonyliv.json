@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:53:01 15-02-2025",
+    "last update time": "21:03:09 15-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,20 @@
             "match_name": "VfL Bochum vs Borussia Dortmund - MD 22 - 15 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63"
+        },
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": 1090468785,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/abb_fia_formulae_wc25_rd4_jeddah_eprix_final_race_15feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship 2024-25",
+            "match_name": "Round 4 - Jeddah E-PRIX - Final Race - 15 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63"
         },
         {
             "event_category": "Football",
@@ -27,7 +40,7 @@
             "match_name": "Goal Arena Feed - MD 22 - 15 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63"
         },
         {
             "event_category": "Football",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Union Berlin vs Borussia M'gladbach - MD 22 - 15 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63"
         },
         {
             "event_category": "Football",
@@ -51,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "St. Pauli vs SC Freiburg - MD 22 - 15 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63"
         },
         {
             "event_category": "Football",
@@ -64,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "VfB Stuttgart vs VfL Wolfsburg - MD 22 - 15 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739676180~acl=/*~id=97422068782049989301936452919088~hmac=c407b03e26fb1118ae984e55a116a1cd6cc8259be4ff42b8430198f4286c3d91"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1739676788~acl=/*~id=31887942819236295568202532997243~hmac=798d81f10967f2d0626889d9f0e8ee699367e0a59c2d439d961853258df7cc63"
         },
         {
             "event_category": "Football",
