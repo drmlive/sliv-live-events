@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:35:59 16-02-2025",
+    "last update time": "16:46:05 16-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -47,6 +47,51 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468975,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atalanta_vs_club_brugge_19th_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atalanta vs Club Brugge - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468978,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/dortmund_vs_sporting_19th_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs Sporting CP - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468977,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/benfica_vs_monaco_19th_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Benfica vs AS Monaco - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468981,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/psv_vs_juventus_20th_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSV vs Juventus - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468973,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/18th_19th_feb_combo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League Play-Offs Leg 2"
         }
     ]
 }
