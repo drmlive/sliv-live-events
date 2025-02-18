@@ -1,20 +1,46 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:55:33 19-02-2025",
+    "last update time": "01:05:40 19-02-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090468982,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg2_milan_vs_feyenoord_eng_16feb_landscape_thumb.jpg",
+            "contentId": 1090468989,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg2_bayern_munich_vs_celtic_16feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Milan vs Feyenoord - Play-Off - 2nd Leg - 18 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1739949932~acl=/*~id=38689659729166785675392090547136~hmac=578abd53bf549b46ddba0ba40a6ea3f2940816b16067f7c3bcf91ed5638a3583"
+            "match_name": "Bayern Munich vs Celtic - Play-Off - 2nd Leg - 19 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1739950539~acl=/*~id=14606220071994377466905264176038~hmac=35c999ff07c5d1836832e1f9cd77229541ef7b733d4e27c4985e174d5cdc00be"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090468986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg2_atalanta_vs_club_brugge_16feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Atalanta vs Club Brugge - Play-Off - 2nd Leg - 19 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1739950539~acl=/*~id=14606220071994377466905264176038~hmac=35c999ff07c5d1836832e1f9cd77229541ef7b733d4e27c4985e174d5cdc00be"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090468990,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg2_benfica_vs_monaco_16feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Benfica vs Monaco - Play-Off - 2nd Leg - 19 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/master_mdh.m3u8?hdnea=exp=1739950539~acl=/*~id=14606220071994377466905264176038~hmac=35c999ff07c5d1836832e1f9cd77229541ef7b733d4e27c4985e174d5cdc00be"
         },
         {
             "event_category": "Football",
@@ -27,7 +53,56 @@
             "match_name": "Milan vs Feyenoord - Play-Off - 2nd Leg - 18 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1739949932~acl=/*~id=38689659729166785675392090547136~hmac=578abd53bf549b46ddba0ba40a6ea3f2940816b16067f7c3bcf91ed5638a3583"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1739950539~acl=/*~id=14606220071994377466905264176038~hmac=35c999ff07c5d1836832e1f9cd77229541ef7b733d4e27c4985e174d5cdc00be"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090468982,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_playoff_leg2_milan_vs_feyenoord_eng_16feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Milan vs Feyenoord - Play-Off - 2nd Leg - 18 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1739950539~acl=/*~id=14606220071994377466905264176038~hmac=35c999ff07c5d1836832e1f9cd77229541ef7b733d4e27c4985e174d5cdc00be"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090468973,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/18th_19th_feb_combo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League Play-Offs Leg 2"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469118,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/viktoria_plzen_vs_ferencvaros_21st_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Viktoria Plzen vs Ferencvaros - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469113,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bodo_glimt_vs_twente_20th_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bodo/Glimt vs Twente - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469116,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/anderlecht_vs_fenerbachce_21st_feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Anderlecht vs Fenerbahce - UEFA Europa League 2024-25"
         },
         {
             "event_category": "Football",
@@ -50,11 +125,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468973,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/18th_19th_feb_combo_landscape_thumb.jpg",
+            "contentId": 1090469061,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_man_city_20_feb_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League Play-Offs Leg 2"
+            "event_name": "Upcoming - Real Madrid vs Manchester City - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
@@ -68,38 +143,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468977,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/benfica_vs_monaco_19th_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Benfica vs AS Monaco - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090468978,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/dortmund_vs_sporting_19th_feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Borussia Dortmund vs Sporting CP - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090469061,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_man_city_20_feb_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Manchester City - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090468975,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/atalanta_vs_club_brugge_19th_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atalanta vs Club Brugge - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Cricket",
@@ -149,20 +197,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090468976,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_vs_celtic_19th_feb_landscape_thumb.jpg",
+            "contentId": 1090469114,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/fcsb_vs_poak_20th_feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Celtic - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090469116,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/anderlecht_vs_fenerbachce_21st_feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Anderlecht vs Fenerbahce - UEFA Europa League 2024-25"
+            "event_name": "Upcoming - FCSB vs POAK - UEFA Europa League 2024-25"
         }
     ]
 }
