@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:58:59 19-02-2025",
+    "last update time": "06:09:05 19-02-2025",
     "matches": [
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1090468919,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_nxt2024_generic_15oct_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE NXT",
+            "match_name": "WWE NXT - 19 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1739968745~acl=/*~id=34073975847068415462868046271835~hmac=c869ebc56904eda82a3f09680f79c870d0384487f74e9aa10a4ae6dedf9925ef"
+        },
         {
             "event_category": "Football",
             "isLive": false,
