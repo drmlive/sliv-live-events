@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:17:29 21-02-2025",
+    "last update time": "01:27:40 21-02-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090469157,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_apoel_vs_celje_16feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa Conference League 2024-25",
+            "match_name": "Apoel Nicosia vs Celje - Play-Offs - 2nd Leg - 21 Feb 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090469156,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_olimpija_vs_borac_16feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa Conference League 2024-25",
+            "match_name": "Olimpija Ljubljana vs Borac - Play-Offs - 2nd Leg - 20 Feb 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,46 +40,7 @@
             "match_name": "Ajax vs Union SG - Play-Offs - 2nd Leg - 21 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469155,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_pafos_vs_omonoia_16feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa Conference League 2024-25",
-            "match_name": "Pafos vs Omonia Nicosia - Play-Offs - 2nd Leg - 20 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469157,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_apoel_vs_celje_16feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa Conference League 2024-25",
-            "match_name": "Apoel Nicosia vs Celje - Play-Offs - 2nd Leg - 21 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469147,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel2425_playoffs_leg2_viktoria_plzen_vs_ferencvaros_16feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2024-25",
-            "match_name": "Viktoria Plzen vs Ferencvaros - Play-Offs - 2nd Leg - 21 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
         },
         {
             "event_category": "Football",
@@ -64,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2024-25",
             "match_name": "Real Sociedad vs Midtjylland - Play-Offs - 2nd Leg - 21 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
+            "dai_url": "https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
         },
         {
             "event_category": "Football",
@@ -79,33 +66,46 @@
             "match_name": "Anderlecht vs Fenerbahce - Play-Offs - 2nd Leg - 21 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090469156,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_olimpija_vs_borac_16feb_landscape_thumb.jpg",
+            "contentId": 1090469158,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_panathinaikos_vs_vikingur_reykjavik_16feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa Conference League 2024-25",
-            "match_name": "Olimpija Ljubljana vs Borac - Play-Offs - 2nd Leg - 20 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
+            "match_name": "Panathinaikos vs Vikingur Reykjavik - Play-Offs - 2nd Leg - 21 Feb 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090469153,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_heidenheim_vs_copenhagen_16feb_landscape_thumb.jpg",
+            "contentId": 1090469147,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel2425_playoffs_leg2_viktoria_plzen_vs_ferencvaros_16feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2024-25",
+            "match_name": "Viktoria Plzen vs Ferencvaros - Play-Offs - 2nd Leg - 21 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090469160,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_shamrock_rovers_vs_molde_16feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa Conference League 2024-25",
-            "match_name": "Heidenheim vs Copenhagen - Play-Offs - 2nd Leg - 20 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
+            "match_name": "Shamrock Rovers vs Molde - Play-Offs - 2nd Leg - 21 Feb 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
         },
         {
             "event_category": "Football",
@@ -116,22 +116,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa Conference League 2024-25",
             "match_name": "Jagiellonia Bialystok vs Backa Topola - Play-Offs - 2nd Leg - 21 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469054,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel2425_playoffs_leg2_fcsb_vs_poak_16feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2024-25",
-            "match_name": "FCSB vs POAK - Play-Offs - 2nd Leg - 20 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
         },
         {
             "event_category": "Football",
@@ -144,68 +131,20 @@
             "match_name": "Bodo/Glimt vs Twente - Play-Offs - 2nd Leg - 20 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090469052,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel2425_playoffs_leg2_galatasaray_vs_alkmaar_16feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2024-25",
-            "match_name": "Galatasaray vs AZ Alkmaar - Play-Offs - 2nd Leg - 20 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469154,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_real_betis_vs_gent_16feb_landscape_thumb.jpg",
+            "contentId": 1090469153,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_heidenheim_vs_copenhagen_16feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa Conference League 2024-25",
-            "match_name": "Real Betis vs Gent - Play-Offs - 2nd Leg - 20 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469051,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel2425_playoffs_leg2_roma_vs_porto_16feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2024-25",
-            "match_name": "Roma vs Porto - Play-Offs - 2nd Leg - 20 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469158,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uecl2425_playoffs_leg2_panathinaikos_vs_vikingur_reykjavik_16feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa Conference League 2024-25",
-            "match_name": "Panathinaikos vs Vikingur Reykjavik - Play-Offs - 2nd Leg - 21 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740124047~acl=/*~id=42179094396325255711712849692494~hmac=6089ff91d64f0156f0f0ef8a1780106767cb7cdd9f9ee77f9d07c6480dc102b8"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090431389,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
+            "match_name": "Heidenheim vs Copenhagen - Play-Offs - 2nd Leg - 20 Feb 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740124658~acl=/*~id=45194096015362481151626303010784~hmac=62fb33fbe5b31837a950412b22a34458e2d6de8836725eece9849492d9c80733"
         },
         {
             "event_category": "Football",
@@ -215,6 +154,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs Eintracht Frankfurt"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090431389,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiacup_promo_23jan25_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Football",
