@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:19:54 20-02-2025",
+    "last update time": "15:30:00 20-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -128,6 +128,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Borussia Dortmund vs Union Berlin"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1090469332,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sd_22nd_feb_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE SmackDown - 22 Feb 2025"
         }
     ]
 }
