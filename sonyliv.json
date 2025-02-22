@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:59:42 22-02-2025",
+    "last update time": "06:09:48 22-02-2025",
     "matches": [
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1090469058,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_sd24_generic_17oct_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE SmackDown",
+            "match_name": "WWE SmackDown - 22 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1740227988~acl=/*~id=22303156748040131573312342136479~hmac=737ea3a309f97ec82c0fc3bf4519c7323ea572f960a7c50c8f28ae23936bca57"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -47,15 +60,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Holstein Kiel vs Bayer Leverkusen"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1090469332,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/sd_22nd_feb_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE SmackDown - 22 Feb 2025"
         }
     ]
 }
