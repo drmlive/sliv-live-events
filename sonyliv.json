@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:03:45 22-02-2025",
+    "last update time": "22:13:56 22-02-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469324,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md23_holstein_kiel_vs_leverkusen_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Holstein Kiel vs Bayer Leverkusen - MD 23 - 22 Feb 2025",
-            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "Goal Arena Feed - MD 23 - 22 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1740285834~acl=/*~id=65418868257290008092656815554625~hmac=03450620868adb739cd191855cd9a7229e4e1680b83304d46a1c20f7283556b2"
         },
         {
             "event_category": "Football",
@@ -38,35 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Borussia M'gladbach vs Augsburg - MD 23 - 22 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469329,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md23_mainz_vs_pauli_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Mainz vs St. Pauli - MD 23 - 22 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090469325,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md23_wolfsburg_vs_bochum_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "VfL Wolfsburg vs VfL Bochum - MD 23 - 22 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1740285222~acl=/*~id=13545182152265876704704080534200~hmac=59118d3a7d23215c183148c5876a8738e9f0a5f44388a8ea5091acc1790627fb"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740285834~acl=/*~id=65418868257290008092656815554625~hmac=03450620868adb739cd191855cd9a7229e4e1680b83304d46a1c20f7283556b2",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740285834~acl=/*~id=65418868257290008092656815554625~hmac=03450620868adb739cd191855cd9a7229e4e1680b83304d46a1c20f7283556b2",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740285834~acl=/*~id=65418868257290008092656815554625~hmac=03450620868adb739cd191855cd9a7229e4e1680b83304d46a1c20f7283556b2"
         },
         {
             "event_category": "Football",
