@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:30:05 22-02-2025",
+    "last update time": "06:40:12 22-02-2025",
     "matches": [
         {
             "event_category": "WWE",
@@ -14,7 +14,16 @@
             "match_name": "WWE SmackDown - 22 Feb 2025",
             "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1740229205~acl=/*~id=02346913171543667877138444409610~hmac=93c45aa9a804ee1c482e793e5cecad5809b64eed6767fe1e59d82c3a8b7e69b9"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1740229811~acl=/*~id=29350997461249394764055504534425~hmac=a02d9959fc7ebefff007b5e74f073a75fbb81a1899702d75387564925534f814"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090469427,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_21022025.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC Fight Night - Cejudo vs Song"
         },
         {
             "event_category": "Cricket",
@@ -60,6 +69,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Holstein Kiel vs Bayer Leverkusen"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1090469426,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_nxt_21022025.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE NXT - 26 Feb 2025"
         }
     ]
 }
