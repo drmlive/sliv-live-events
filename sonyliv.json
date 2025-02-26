@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:50:54 26-02-2025",
+    "last update time": "06:01:00 26-02-2025",
     "matches": [
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090469627,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_plymouth_argyle_1st_mar_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1090469416,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_nxt2024_generic_15oct_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Plymouth Argyle -The Emirates FA Cup 2024-25"
+            "event_name": "WWE NXT",
+            "match_name": "WWE NXT - 25 Feb 2025",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1740573060~acl=/*~id=87067025522544000868099649934026~hmac=183203bafa5415425f7aaf730e95c345fd1bce86c93679c84a7de30fcbc2adcf"
         },
         {
             "event_category": "Football",
@@ -20,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Crystal Palace vs\u00a0Millwall -The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/frankfurt_vs_leverkusen_1st_mar_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Eintracht Frankfurt vs Bayer Leverkusen"
         },
         {
             "event_category": "Football",
@@ -38,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - VfB Stuttgart vs Bayern Munich"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1090469426,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_nxt_21022025.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE NXT - 26 Feb 2025"
         },
         {
             "event_category": "Football",
@@ -87,11 +91,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469629,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_united_vs_fulham_2nd_mar_landscape.jpg",
+            "contentId": 1090469627,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_plymouth_argyle_1st_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man United vs\u00a0Fulham -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - Man City vs Plymouth Argyle -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
@@ -150,11 +154,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469662,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/frankfurt_vs_leverkusen_1st_mar_landscape.jpg",
+            "contentId": 1090469629,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_united_vs_fulham_2nd_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Eintracht Frankfurt vs Bayer Leverkusen"
+            "event_name": "Upcoming - Man United vs\u00a0Fulham -The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469651,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/benfica_vs_barcelona_6th_mar_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Benfica vs Barcelona - UEFA Champions League 2024-25"
         }
     ]
 }
