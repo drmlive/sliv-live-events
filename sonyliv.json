@@ -1,20 +1,16 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:12:23 27-02-2025",
+    "last update time": "11:22:40 27-02-2025",
     "matches": [
         {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": 1090469428,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asiantour25_104th_nz_open_d1_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469627,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_plymouth_argyle_1st_mar_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2025",
-            "match_name": "104th New Zealand Open presented by Sky Sport - Day 1 - 27 Feb 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740678142~acl=/*~id=18425709798379470028971599075791~hmac=d87d623d6645925b09aad875f6a0e885c954e91521203a15f444c9f3798983ba",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740678142~acl=/*~id=18425709798379470028971599075791~hmac=d87d623d6645925b09aad875f6a0e885c954e91521203a15f444c9f3798983ba",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740678142~acl=/*~id=18425709798379470028971599075791~hmac=d87d623d6645925b09aad875f6a0e885c954e91521203a15f444c9f3798983ba"
+            "event_name": "Upcoming - Man City vs Plymouth Argyle -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
@@ -91,11 +87,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469627,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_plymouth_argyle_1st_mar_landscape.jpg",
+            "contentId": 1090469629,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_united_vs_fulham_2nd_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Plymouth Argyle -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - Man United vs\u00a0Fulham -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
@@ -150,15 +146,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - WWE Elimination Chamber - 2 Mar 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090469629,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_united_vs_fulham_2nd_mar_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man United vs\u00a0Fulham -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
