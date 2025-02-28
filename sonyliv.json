@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:46:21 01-03-2025",
+    "last update time": "00:56:27 01-03-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090469582,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/spl_md22_al_orobah_vs_al_nassr_27feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": 1090469584,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/fa25_rd5_astonvilla_vs_cardiffcity_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
-            "event_name": "Roshn Saudi League 2024-25",
-            "match_name": "Al Orobah vs Al Nassr - MD 23 - 1 Mar 2025 ",
-            "dai_url": "https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1740813380~acl=/*~id=26975593745908597116979767455132~hmac=da4cd591dc3ec570f94686d4097c40b5a032391ce7c6a816135c5e524ed6ef31"
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Aston Villa vs Cardiff City - 1 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1740813986~acl=/*~id=83064173490048398483856552746873~hmac=d9faed720a3d822ebb41396fa0697eef2bf1d835d9f1c2e35289dd4a004ae54a"
         },
         {
             "event_category": "Football",
@@ -27,7 +27,7 @@
             "match_name": "VfB Stuttgart vs Bayern Munich - MD 24 - 1 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1740813380~acl=/*~id=26975593745908597116979767455132~hmac=da4cd591dc3ec570f94686d4097c40b5a032391ce7c6a816135c5e524ed6ef31"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1740813986~acl=/*~id=83064173490048398483856552746873~hmac=d9faed720a3d822ebb41396fa0697eef2bf1d835d9f1c2e35289dd4a004ae54a"
         },
         {
             "event_category": "Football",
@@ -40,7 +40,38 @@
             "match_name": "Al Hilal vs Al Ahli - MD 23 - 1 Mar 2025 ",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1740813380~acl=/*~id=26975593745908597116979767455132~hmac=da4cd591dc3ec570f94686d4097c40b5a032391ce7c6a816135c5e524ed6ef31"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1740813986~acl=/*~id=83064173490048398483856552746873~hmac=d9faed720a3d822ebb41396fa0697eef2bf1d835d9f1c2e35289dd4a004ae54a"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090469582,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/spl_md22_al_orobah_vs_al_nassr_27feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Roshn Saudi League 2024-25",
+            "match_name": "Al Orobah vs Al Nassr - MD 23 - 1 Mar 2025 ",
+            "dai_url": "https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1740813986~acl=/*~id=83064173490048398483856552746873~hmac=d9faed720a3d822ebb41396fa0697eef2bf1d835d9f1c2e35289dd4a004ae54a"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469630,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/nottom_forrest_vs_ipswich_town_4th_mar_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Nottingham Forest vs\u00a0Ipswich Town -The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469652,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_vs_leverkusen_6th_mar_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Leverkusen - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
@@ -81,11 +112,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469630,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/nottom_forrest_vs_ipswich_town_4th_mar_landscape.jpg",
+            "contentId": 1090469628,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/newcastle_v_brighton_2nd_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Nottingham Forest vs\u00a0Ipswich Town -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - Newcastle United vs\u00a0Brighton & Hove Albion -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
@@ -95,15 +126,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bournemouth vs Wolves -The Emirates FA Cup 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090469628,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/newcastle_v_brighton_2nd_mar_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Newcastle United vs\u00a0Brighton & Hove Albion -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
@@ -162,20 +184,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469622,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/aston_villa_vs_cardiff_city_1st_mar_landscape.jpg",
+            "contentId": 1090469647,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/psv_vs_arsenal_5th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Cardiff City -The Emirates FA Cup 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090469652,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_vs_leverkusen_6th_mar_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Leverkusen - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - PSV vs Arsenal - UEFA Champions League 2024-25"
         }
     ]
 }
