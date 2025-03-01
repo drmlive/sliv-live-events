@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:41:51 01-03-2025",
+    "last update time": "09:51:57 01-03-2025",
     "matches": [
-        {
-            "event_category": "WWE",
-            "isLive": true,
-            "contentId": 1090469585,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_sd24_generic_17oct_multilang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "WWE SmackDown",
-            "match_name": "WWE SmackDown - 1 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1740845510~acl=/*~id=31829067050038790723890193510649~hmac=bc64bee08cfdb8d38273ffa9bcb9aa08b7744c9c587063167001fee8de38b511"
-        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -25,63 +12,63 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "104th New Zealand Open - Day 3 - 1 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740845510~acl=/*~id=31829067050038790723890193510649~hmac=bc64bee08cfdb8d38273ffa9bcb9aa08b7744c9c587063167001fee8de38b511",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740845510~acl=/*~id=31829067050038790723890193510649~hmac=bc64bee08cfdb8d38273ffa9bcb9aa08b7744c9c587063167001fee8de38b511",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740845510~acl=/*~id=31829067050038790723890193510649~hmac=bc64bee08cfdb8d38273ffa9bcb9aa08b7744c9c587063167001fee8de38b511"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740846117~acl=/*~id=79221374461199570931079119187699~hmac=bd4fad55879cb258ae1f1f9fa47ec8feb15592042bbc2f35ec354a8473340573",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740846117~acl=/*~id=79221374461199570931079119187699~hmac=bd4fad55879cb258ae1f1f9fa47ec8feb15592042bbc2f35ec354a8473340573",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740846117~acl=/*~id=79221374461199570931079119187699~hmac=bd4fad55879cb258ae1f1f9fa47ec8feb15592042bbc2f35ec354a8473340573"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469652,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_vs_leverkusen_6th_mar_landscape.jpg",
+            "contentId": 1090469627,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_plymouth_argyle_1st_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Leverkusen - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Man City vs Plymouth Argyle -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469651,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/benfica_vs_barcelona_6th_mar_landscape.jpg",
+            "contentId": 1090469629,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_united_vs_fulham_2nd_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Benfica vs Barcelona - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Man United vs\u00a0Fulham -The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": false,
+            "contentId": 1090469578,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/elimination_chamber_2nd_mar_2025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE Elimination Chamber - 2 Mar 2025"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469661,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/st_pauli_vs_dortmund_1st_mar_landscape.jpg",
+            "contentId": 1090469646,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_atletico_madrid_5th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - St. Pauli vs Borussia Dortmund"
+            "event_name": "Upcoming - Real Madrid vs Atletico Madrid - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469625,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/preston_vs_burnley_1st_mar_landscape.jpg",
+            "contentId": 1090469650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/psg_vs_liverpool_6th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Preston North End vs Burnley -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469630,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/nottom_forrest_vs_ipswich_town_4th_mar_landscape.jpg",
+            "contentId": 1090469662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/frankfurt_vs_leverkusen_1st_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Nottingham Forest vs\u00a0Ipswich Town -The Emirates FA Cup 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090469626,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bournemouth_vs_wolves_1st_mar_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bournemouth vs Wolves -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - Eintracht Frankfurt vs Bayer Leverkusen"
         },
         {
             "event_category": "Football",
@@ -104,56 +91,56 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469662,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/frankfurt_vs_leverkusen_1st_mar_landscape.jpg",
+            "contentId": 1090469626,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bournemouth_vs_wolves_1st_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Eintracht Frankfurt vs Bayer Leverkusen"
+            "event_name": "Upcoming - Bournemouth vs Wolves -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/psg_vs_liverpool_6th_mar_landscape.jpg",
+            "contentId": 1090469630,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/nottom_forrest_vs_ipswich_town_4th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Nottingham Forest vs\u00a0Ipswich Town -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469646,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_atletico_madrid_5th_mar_landscape.jpg",
+            "contentId": 1090469625,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/preston_vs_burnley_1st_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Atletico Madrid - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": false,
-            "contentId": 1090469578,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/elimination_chamber_2nd_mar_2025_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE Elimination Chamber - 2 Mar 2025"
+            "event_name": "Upcoming - Preston North End vs Burnley -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469629,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_united_vs_fulham_2nd_mar_landscape.jpg",
+            "contentId": 1090469661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/st_pauli_vs_dortmund_1st_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man United vs\u00a0Fulham -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - St. Pauli vs Borussia Dortmund"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469627,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_city_vs_plymouth_argyle_1st_mar_landscape.jpg",
+            "contentId": 1090469651,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/benfica_vs_barcelona_6th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Plymouth Argyle -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - Benfica vs Barcelona - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469652,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bayern_vs_leverkusen_6th_mar_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Leverkusen - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
