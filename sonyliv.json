@@ -1,33 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:44:43 02-03-2025",
+    "last update time": "05:54:50 02-03-2025",
     "matches": [
         {
             "event_category": "WWE",
             "isLive": true,
             "contentId": 1090469754,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_eliminationchamber_gen_1mar_landscape_thumb_countdown_eng.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_womenseliminationchambermatch_1mar_landscape_thumb_eng.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "WWE Specials: Elimination Chamber 2025",
             "match_name": "WWE Specials - Elimination Chamber - 2 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1740917683~acl=/*~id=84439174181004377213601402227258~hmac=e096d420cbe2e25d0ddd46b73fc1d9d4ad68b0d0e59d202ad710b1c5f67d32d4"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": true,
-            "contentId": 1090469756,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_eliminationchamber_gen_1mar_landscape_thumb_countdown_multilang.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "HIN",
-            "event_name": "WWE Specials: Elimination Chamber 2025",
-            "match_name": "WWE Specials - Elimination Chamber - 2 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1740917683~acl=/*~id=84439174181004377213601402227258~hmac=e096d420cbe2e25d0ddd46b73fc1d9d4ad68b0d0e59d202ad710b1c5f67d32d4"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1740918289~acl=/*~id=26219387703059476974415161355451~hmac=869cff7aea5298ec58bd25e3370914d9c8a2112bf9268e18fad6496d6478f71c"
         },
         {
             "event_category": "Fight Sports",
@@ -40,7 +27,20 @@
             "match_name": "UFC Fight Night - Kape vs Almabayev - 2 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1740917683~acl=/*~id=84439174181004377213601402227258~hmac=e096d420cbe2e25d0ddd46b73fc1d9d4ad68b0d0e59d202ad710b1c5f67d32d4"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1740918289~acl=/*~id=26219387703059476974415161355451~hmac=869cff7aea5298ec58bd25e3370914d9c8a2112bf9268e18fad6496d6478f71c"
+        },
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1090469756,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_womenseliminationchambermatch_1mar_landscape_thumb_multilang.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "WWE Specials: Elimination Chamber 2025",
+            "match_name": "WWE Specials - Elimination Chamber - 2 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1740918289~acl=/*~id=26219387703059476974415161355451~hmac=869cff7aea5298ec58bd25e3370914d9c8a2112bf9268e18fad6496d6478f71c"
         },
         {
             "event_category": "Football",
