@@ -1,31 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:17:06 02-03-2025",
+    "last update time": "09:27:12 02-03-2025",
     "matches": [
-        {
-            "event_category": "WWE",
-            "isLive": true,
-            "contentId": 1090469754,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_menseliminationchambermatch_1mar_landscape_thumb_eng.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "WWE Specials: Elimination Chamber 2025",
-            "match_name": "WWE Specials - Elimination Chamber - 2 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1740930425~acl=/*~id=35985937027864455564500455035536~hmac=efe585ccd9f3d8955b15718ad86b32f2c93b96f4ba69beac4fc650c6c918190f"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": true,
-            "contentId": 1090469756,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_menseliminationchambermatch_1mar_landscape_thumb_multilang.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "HIN",
-            "event_name": "WWE Specials: Elimination Chamber 2025",
-            "match_name": "WWE Specials - Elimination Chamber - 2 Mar 2025"
-        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -35,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "104th New Zealand Open - Day 4 - 2 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740930425~acl=/*~id=35985937027864455564500455035536~hmac=efe585ccd9f3d8955b15718ad86b32f2c93b96f4ba69beac4fc650c6c918190f",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740930425~acl=/*~id=35985937027864455564500455035536~hmac=efe585ccd9f3d8955b15718ad86b32f2c93b96f4ba69beac4fc650c6c918190f",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740930425~acl=/*~id=35985937027864455564500455035536~hmac=efe585ccd9f3d8955b15718ad86b32f2c93b96f4ba69beac4fc650c6c918190f"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740931031~acl=/*~id=22804480575030508499285279030417~hmac=87ac6b595346c6fbd16bbd06868e60af2f4e8c9aca561a9f83a84d94b3576889",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740931031~acl=/*~id=22804480575030508499285279030417~hmac=87ac6b595346c6fbd16bbd06868e60af2f4e8c9aca561a9f83a84d94b3576889",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1740931031~acl=/*~id=22804480575030508499285279030417~hmac=87ac6b595346c6fbd16bbd06868e60af2f4e8c9aca561a9f83a84d94b3576889"
         },
         {
             "event_category": "Football",
