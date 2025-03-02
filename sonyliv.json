@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:53:11 02-03-2025",
+    "last update time": "20:03:18 02-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Newcastle United vs Brighton & Hove Albion - 2 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1740968590~acl=/*~id=09885812475646152316430068995095~hmac=d95406c68ecb25edcf9656a639b7c12272cdb3a5510b2a9b681b3494c1817b86"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1740969197~acl=/*~id=60191659526703234456137644299240~hmac=4facfe2be0d73c287c3682151c7fd9b2c14383b1fc4b7ba34dfb494a7d6c6b91"
         },
         {
             "event_category": "Football",
@@ -25,45 +25,63 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Union Berlin vs Holstein Kiel - MD 24 - 2 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740968590~acl=/*~id=09885812475646152316430068995095~hmac=d95406c68ecb25edcf9656a639b7c12272cdb3a5510b2a9b681b3494c1817b86",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740968590~acl=/*~id=09885812475646152316430068995095~hmac=d95406c68ecb25edcf9656a639b7c12272cdb3a5510b2a9b681b3494c1817b86",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740968590~acl=/*~id=09885812475646152316430068995095~hmac=d95406c68ecb25edcf9656a639b7c12272cdb3a5510b2a9b681b3494c1817b86"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740969197~acl=/*~id=60191659526703234456137644299240~hmac=4facfe2be0d73c287c3682151c7fd9b2c14383b1fc4b7ba34dfb494a7d6c6b91",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740969197~acl=/*~id=60191659526703234456137644299240~hmac=4facfe2be0d73c287c3682151c7fd9b2c14383b1fc4b7ba34dfb494a7d6c6b91",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1740969197~acl=/*~id=60191659526703234456137644299240~hmac=4facfe2be0d73c287c3682151c7fd9b2c14383b1fc4b7ba34dfb494a7d6c6b91"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090431389,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asia_cup_25022025_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090466414,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of England 2025"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469629,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_united_vs_fulham_2nd_mar_landscape.jpg",
+            "contentId": 1090469645,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/club_brugge_vs_aston_villa_4th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man United vs\u00a0Fulham -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - Club Brugge vs Aston Villa - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469646,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_atletico_madrid_5th_mar_landscape.jpg",
+            "contentId": 1090469648,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/dortmund_vs_losc_5th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Atletico Madrid - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Dortmund vs LOSC - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/psg_vs_liverpool_6th_mar_landscape.jpg",
+            "contentId": 1090469649,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/feyenoord_vs_inter_milan_5th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Feyenoord vs Inter - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469630,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/nottom_forrest_vs_ipswich_town_4th_mar_landscape.jpg",
+            "contentId": 1090469647,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/psv_vs_arsenal_5th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Nottingham Forest vs\u00a0Ipswich Town -The Emirates FA Cup 2024-25"
+            "event_name": "Upcoming - PSV vs Arsenal - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
@@ -86,56 +104,65 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469647,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/psv_vs_arsenal_5th_mar_landscape.jpg",
+            "contentId": 1090469630,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/nottom_forrest_vs_ipswich_town_4th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSV vs Arsenal - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Nottingham Forest vs\u00a0Ipswich Town -The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469649,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/feyenoord_vs_inter_milan_5th_mar_landscape.jpg",
+            "contentId": 1090470257,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_6th_march_combo_h_60sec_app_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Feyenoord vs Inter - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - UEFA Champions League Round Of 16 Leg 1 - 6th Mar"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469648,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/dortmund_vs_losc_5th_mar_landscape.jpg",
+            "contentId": 1090470256,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ucl_4th_mar_combo_h_50sec_app_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs LOSC - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - UEFA Champions League Round Of 16 Leg 1 - 4th Mar"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090469645,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/club_brugge_vs_aston_villa_4th_mar_landscape.jpg",
+            "contentId": 1090469650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/psg_vs_liverpool_6th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Club Brugge vs Aston Villa - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2024-25"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090466414,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/england_vs_india_promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of England 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090431389,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asia_cup_25022025_landscape.jpg",
+            "contentId": 1090469646,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_atletico_madrid_5th_mar_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Asia Cup 2025"
+            "event_name": "Upcoming - Real Madrid vs Atletico Madrid - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469629,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/man_united_vs_fulham_2nd_mar_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Man United vs\u00a0Fulham -The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090470261,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_ufc313_30sec_app_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 313"
         }
     ]
 }
