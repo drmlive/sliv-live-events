@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:52:09 05-03-2025",
+    "last update time": "04:02:15 05-03-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090470329,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_ro16_leg1_real_madrid_vs_atletico_3mar_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Real Madrid vs Atletico Madrid - Round Of 16 - 1st Leg - 5 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/master_mdh.m3u8?hdnea=exp=1741170128~acl=/*~id=75837316959850529826570320256088~hmac=c880718d87a582b0bd90dcdaf10bb41a26f7b26e36668c4acf95676ae1f878a4"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090470330,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_ro16_leg1_real_madrid_vs_atletico_3mar_multi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Real Madrid vs Atletico Madrid - Round Of 16 - 1st Leg - 4 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1741170128~acl=/*~id=75837316959850529826570320256088~hmac=c880718d87a582b0bd90dcdaf10bb41a26f7b26e36668c4acf95676ae1f878a4"
-        },
         {
             "event_category": "Football",
             "isLive": false,
