@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:29:06 04-03-2025",
+    "last update time": "09:39:12 04-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "New Zealand vs Sri Lanka -1st ODI - 04 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1741103946~acl=/*~id=37205474677735808587725993826601~hmac=155e6936484d8841139b64ceb0de570cad705f8a9aa96c948ea108a8fd3fe85e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1741104552~acl=/*~id=23779660102703356719862001504148~hmac=7dd771b8a1c3b5cfe4d1e90619322d1fde0896b55d058a8b5ac53b8ea4ebc2e8"
         },
         {
             "event_category": "Football",
@@ -33,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090469646,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_atletico_madrid_5th_mar_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Atletico Madrid - UEFA Champions League 2024-25"
         }
     ]
 }
