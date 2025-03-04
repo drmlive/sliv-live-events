@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:08:55 04-03-2025",
+    "last update time": "09:19:00 04-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,20 +14,7 @@
             "match_name": "New Zealand vs Sri Lanka -1st ODI - 04 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1741102734~acl=/*~id=41031432257762519637544534776299~hmac=40d4abbad7fbd89025d8403a706cab9c3bb0eb2f4873e7daead71f709e34e239"
-        },
-        {
-            "event_category": "WWE",
-            "isLive": true,
-            "contentId": 1090469776,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_raw25_7jan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "WWE RAW",
-            "match_name": "WWE RAW - 4 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1741102734~acl=/*~id=41031432257762519637544534776299~hmac=40d4abbad7fbd89025d8403a706cab9c3bb0eb2f4873e7daead71f709e34e239"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1741103340~acl=/*~id=71074534920004749831249460172395~hmac=8a9170b0804f4addb893e3e0c12468d8c4dcf191cb43b6f105377d597bad9f56"
         },
         {
             "event_category": "Football",
@@ -46,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090469646,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/real_madrid_vs_atletico_madrid_5th_mar_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Madrid vs Atletico Madrid - UEFA Champions League 2024-25"
         }
     ]
 }
