@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:40:33 05-03-2025",
+    "last update time": "18:50:41 05-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Hoffenheim vs Man City - Round Of 16 - 5 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1741223433~acl=/*~id=86783664370446313861438660712456~hmac=3d3aa2e38b2be029dc422679c6c59cd674e0897b3e33e53df047c4fc6e42a9ab"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1741224040~acl=/*~id=36724231179924561426495646966991~hmac=071c5c014d76b0cd93b6ee195ebc121482cf7f90dba3be60ff5ad0c35fa8afa2"
         },
         {
             "event_category": "Football",
@@ -51,6 +51,33 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Feyenoord vs Inter - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090470387,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel_sociedad_vs_manutd_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Socidad vs Man United - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090470171,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_uecl_copenhagen_v_chelsea_28022025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Copenhagen vs Chelsea - UEFA Europa Conference League 2024-25"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090470261,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/promo_ufc_ufc313_30sec_app_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 313"
         }
     ]
 }
