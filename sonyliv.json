@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:34:48 05-03-2025",
+    "last update time": "08:44:54 05-03-2025",
     "matches": [
         {
             "event_category": "WWE",
@@ -14,7 +14,7 @@
             "match_name": "WWE NXT - 5 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1741187088~acl=/*~id=98749431880318374841176998672611~hmac=5e8e76857572a04efc963ebec4bb0aafa42793af0241631159cce0a65a18a67f"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1741187694~acl=/*~id=37068508845105199240052911239969~hmac=17626c9e8fc1cfae977c75057c89487f1721206d50291379559a91d3c3db9026"
         },
         {
             "event_category": "Football",
@@ -33,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Feyenoord vs Inter - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090470387,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/uel_sociedad_vs_manutd_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Socidad vs Man United - UEFA Europa League 2024-25"
         }
     ]
 }
