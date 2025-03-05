@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:07:03 06-03-2025",
+    "last update time": "04:17:08 06-03-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090470478,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_ro16_leg1_psg_vs_liverpool_3mar_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "PSG vs Liverpool - Round Of 16 - 1st Leg - 6 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/master_mdh.m3u8?hdnea=exp=1741257422~acl=/*~id=85978356224018918656733796414434~hmac=d875e1ad6c01ea14ed93da26db58cb64cd220dc7b4be240c9e82a3a5a98e371b"
-        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -27,20 +14,7 @@
             "match_name": "Day 1 - 6 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741257422~acl=/*~id=85978356224018918656733796414434~hmac=d875e1ad6c01ea14ed93da26db58cb64cd220dc7b4be240c9e82a3a5a98e371b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090470479,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl2425_ro16_leg1_psg_vs_liverpool_3mar_multi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "PSG vs Liverpool - Round Of 16 - 1st Leg - 6 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1741257422~acl=/*~id=85978356224018918656733796414434~hmac=d875e1ad6c01ea14ed93da26db58cb64cd220dc7b4be240c9e82a3a5a98e371b"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741258028~acl=/*~id=97311405997002559639166585517430~hmac=cdcee95423fdaa42786bafa1d9f83c05e1b8e952ca317e0d1e55fb34fc79855f"
         },
         {
             "event_category": "Football",
