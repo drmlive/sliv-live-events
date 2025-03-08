@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:17:32 08-03-2025",
+    "last update time": "22:27:37 08-03-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090470753,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bliga2425_md25_sc_freiburg_vs_rb_leipzig_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "SC Freiburg vs RB Leipzig - MD 25 - 8 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1741496257~acl=/*~id=70580891096181525025298445071150~hmac=87f70f5888f7d9ca818dde9d2db35bf4ce532c6a5a36f0b9667b036f4720a228"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": false,
