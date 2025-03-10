@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:31:36 10-03-2025",
+    "last update time": "11:41:41 10-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -24,15 +24,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090471002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000124/1741465021023581_PROMO_UCL_Aston_Villa_V_Club_Brugge_50_SEC_H_APP_08032025_eng_Landscap_ehumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Club Brugge - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090471006,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000124/1741465631563581_PROMO_UCL_LOSC_V_Dortmund_50_SEC_H_APP_08032025_eng_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -51,29 +42,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090470999,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000124/1741465132036581_PROMO_UCL_Atletico_Madrid_V_Real_Madrid_50_SEC_H_APP_08032025_eng_Landscape_thumb.jpg",
+            "contentId": 1090471002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000124/1741465021023581_PROMO_UCL_Aston_Villa_V_Club_Brugge_50_SEC_H_APP_08032025_eng_Landscap_ehumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atletico Madrid vs Real Madrid - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090471003,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000124/1741465599372581_PROMO_UCL_Liverpool_V_PSG_50_SEC_H_APP_08032025_eng_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Liverpool vs PSG - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090471007,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000124/1741465477899581_PROMO_UCL_Leverkusen_V_Bayern_50_SEC_H_APP_08032025_eng_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming -  Leverkusen vs Bayern Munich - UEFA Champions League 2024-25"
+            "event_name": "Upcoming - Aston Villa vs Club Brugge - UEFA Champions League 2024-25"
         }
     ]
 }
