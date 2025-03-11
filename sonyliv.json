@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:58:52 12-03-2025",
+    "last update time": "05:09:00 12-03-2025",
     "matches": [
+        {
+            "event_category": "WWE",
+            "isLive": true,
+            "contentId": 1090471074,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/wwe_nxt2024_generic_15oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "WWE NXT",
+            "match_name": "WWE NXT - 12 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1741779540~acl=/*~id=58312888836260585620940027386016~hmac=7ea6444d42ddad8949c38ac5069ef6cd4220df857c63618dbb5c7e49a0bd8bec"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "Day 7 - 11 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741778931~acl=/*~id=33483660379004402748154265494057~hmac=51c2120270ad1306211750c0179c490ca3dcf3abd26d47b8b898975f8dfa6936"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741779540~acl=/*~id=58312888836260585620940027386016~hmac=7ea6444d42ddad8949c38ac5069ef6cd4220df857c63618dbb5c7e49a0bd8bec"
         },
         {
             "event_category": "Football",
@@ -33,15 +46,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Lille vs Dortmund - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090471002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000124/1741465021023581_PROMO_UCL_Aston_Villa_V_Club_Brugge_50_SEC_H_APP_08032025_eng_Landscap_ehumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Aston Villa vs Club Brugge - UEFA Champions League 2024-25"
         }
     ]
 }
