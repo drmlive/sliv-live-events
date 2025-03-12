@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:33:28 13-03-2025",
+    "last update time": "04:43:33 13-03-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090472402,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000088/1741388880000556_ucl25_RO16_leg2_Atletico_vs_Real_Madrid_eng_8mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Atletico Madrid vs Real Madrid - Round Of 16 - 2nd Leg - 13 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/master_mdh.m3u8?hdnea=exp=1741863807~acl=/*~id=70943163840258099268241075080249~hmac=a4d8424e525d2d3ba09c1fc4fafad64492f26fe9be7b5d20eb74732e3be32a5f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090472403,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000088/1741388894000556_ucl25_RO16_leg2_Atletico_vs_Real_Madrid_multi_8mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Atletico Madrid vs Real Madrid - Round Of 16 - 2nd Leg - 13 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1741863807~acl=/*~id=70943163840258099268241075080249~hmac=a4d8424e525d2d3ba09c1fc4fafad64492f26fe9be7b5d20eb74732e3be32a5f"
-        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -40,7 +14,7 @@
             "match_name": "Day 8 - 12 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741863807~acl=/*~id=70943163840258099268241075080249~hmac=a4d8424e525d2d3ba09c1fc4fafad64492f26fe9be7b5d20eb74732e3be32a5f"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741864413~acl=/*~id=02331916321300405895301397525619~hmac=33e78e1a468c8a2472713da0adc43999b59136d3f56915b47e6f24f1e66ef36e"
         },
         {
             "event_category": "Football",
@@ -95,6 +69,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - RB Leipzig vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090472604,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000213/1741691337502266_Stuttgart_vs_Leverkusen_15thMar_prom_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - VfB Stuttgart vs Bayer Leverkusen"
         }
     ]
 }
