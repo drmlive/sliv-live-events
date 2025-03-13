@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:15:31 13-03-2025",
+    "last update time": "08:25:36 13-03-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090473373,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000259/1741765717435698_ATP_BNPParibas25_rd4_Dimitrov_vs_Alcaraz_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "BNP Paribas Open 2025 - Indian Wells",
-            "match_name": "Dimitrov vs Alcaraz - 12 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1741877131~acl=/*~id=09556757151841659952250982828331~hmac=bde377c5110afe9e0305fd006185c19ee1881cc84fedf4aee390b45bc6a9181a"
-        },
         {
             "event_category": "Football",
             "isLive": false,
