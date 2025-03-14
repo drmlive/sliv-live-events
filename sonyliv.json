@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:42:14 14-03-2025",
+    "last update time": "23:52:20 14-03-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090473621,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000260/1741769391865243_PROMO_RSL_AL_NASSR_vs_Al_Kholood_30_SEC_H_APP_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "isLive": true,
+            "contentId": 1090474501,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000194/1741616216000907_spl2425_md25_Al_Nassr_vs_Al_Kholood_10mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Al-Nassr vs Al-Kholood - Roshn Saudi League 2024-25"
+            "event_name": "Roshn Saudi League 2024-25",
+            "match_name": "Al-Nassr vs Al-Kholood - MD 25 - 15 Mar 2025 ",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1742019740~acl=/*~id=20538246661736488994679246136516~hmac=183df20f6b16da47ae327b70cfd89a5f04feb1b5a91384c615b50a997de0da28"
         }
     ]
 }
