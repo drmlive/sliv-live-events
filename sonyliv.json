@@ -1,56 +1,6 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:30:29 19-03-2025",
-    "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090475019,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000499/1742300957834123_ATP_Miami_open25_18mar_RD1_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Miami Open 2025",
-            "match_name": "Day 1 - 19 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1742446829~acl=/*~id=53013865038667392187976541395394~hmac=b273cb29e1098e86b087438b0dcec1d6fa9fd673e6cd566c94117022789a9f58"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090475087,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000525/1742394278607940_UNL25_DENvsPORTUGAL_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Denmark vs Portugal - UEFA Nations League"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090475086,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000525/1742394210009940_UNL25_CROATIA_vs_FRANCE_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Croatia vs France - UEFA Nations League"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090475088,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000525/1742394253851940_UNL25_NEDvsESP_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Netherlands vs Spain - UEFA Nations League"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090475089,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000525/1742394266672940_UNL25_ITAvsGER_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Italy vs Germany - UEFA Nations League"
-        }
-    ]
+    "last update time": "22:40:35 19-03-2025",
+    "matches": []
 }
