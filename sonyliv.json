@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:22:49 20-03-2025",
+    "last update time": "16:32:56 20-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742511169~acl=/*~id=86912823150515846979791649903320~hmac=36ef26b40ecf56403b539bb21602c5be9cac651597602df1cd3529253b0314ee"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742511776~acl=/*~id=64371296437038137387808411580736~hmac=6d79b949c80d8ccef30ba57eecc4fb050cea9b75cce961360860d918577fe045"
         },
         {
             "event_category": "Football",
@@ -35,6 +35,15 @@
             "event_name": "Upcoming - Croatia vs France - UEFA Nations League"
         },
         {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090475104,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000531/1742413456406204_UFC_Puja_Tomar_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - UFC Fight Night - Puja Tomar vs Shauna Bannon"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090475088,
@@ -51,15 +60,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Italy vs Germany - UEFA Nations League"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090475104,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000531/1742413456406204_UFC_Puja_Tomar_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - UFC Fight Night - Puja Tomar vs Shauna Bannon"
         }
     ]
 }
