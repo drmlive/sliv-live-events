@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:38:51 20-03-2025",
+    "last update time": "10:48:57 20-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,20 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742490531~acl=/*~id=48479632814284537421902254790781~hmac=9f167025ca75f7172e76fc9de34502751ab72f33ffb62d48201d987fe528606a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742491137~acl=/*~id=05564132838279311406554342042628~hmac=9fde376f7f8b8ddfea7d47055e52cc871be4d68698154b1f5636fcc7071124bf"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1090475020,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000518/1742388471320712_AsianTour25_InternationalSeriesMacau_D1_landscape_thumb_Live.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2025",
+            "match_name": "International Series Macau - Day 1 - 20 Mar 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742491137~acl=/*~id=05564132838279311406554342042628~hmac=9fde376f7f8b8ddfea7d47055e52cc871be4d68698154b1f5636fcc7071124bf",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742491137~acl=/*~id=05564132838279311406554342042628~hmac=9fde376f7f8b8ddfea7d47055e52cc871be4d68698154b1f5636fcc7071124bf",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742491137~acl=/*~id=05564132838279311406554342042628~hmac=9fde376f7f8b8ddfea7d47055e52cc871be4d68698154b1f5636fcc7071124bf"
         },
         {
             "event_category": "Football",
