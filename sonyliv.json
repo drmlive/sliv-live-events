@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:09:48 20-03-2025",
+    "last update time": "12:19:55 20-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742495988~acl=/*~id=93086001802607297764491178587105~hmac=f4c66263714b89310f0e90fca4d6e21d46c7184dd226add98a7df3ecbf9d8d11"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742496595~acl=/*~id=72181073639117900031065053049100~hmac=9c3249cfd172ef1b41a32e83e2abe5470f76a41a3f97f10590121cedccf48bbd"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series Macau - Day 1 - 20 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742495988~acl=/*~id=93086001802607297764491178587105~hmac=f4c66263714b89310f0e90fca4d6e21d46c7184dd226add98a7df3ecbf9d8d11",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742495988~acl=/*~id=93086001802607297764491178587105~hmac=f4c66263714b89310f0e90fca4d6e21d46c7184dd226add98a7df3ecbf9d8d11",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742495988~acl=/*~id=93086001802607297764491178587105~hmac=f4c66263714b89310f0e90fca4d6e21d46c7184dd226add98a7df3ecbf9d8d11"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742496595~acl=/*~id=72181073639117900031065053049100~hmac=9c3249cfd172ef1b41a32e83e2abe5470f76a41a3f97f10590121cedccf48bbd",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742496595~acl=/*~id=72181073639117900031065053049100~hmac=9c3249cfd172ef1b41a32e83e2abe5470f76a41a3f97f10590121cedccf48bbd",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1742496595~acl=/*~id=72181073639117900031065053049100~hmac=9c3249cfd172ef1b41a32e83e2abe5470f76a41a3f97f10590121cedccf48bbd"
         },
         {
             "event_category": "Football",
@@ -64,6 +64,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Italy vs Germany - UEFA Nations League"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090475104,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000531/1742413456406204_UFC_Puja_Tomar_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - UFC Fight Night - Puja Tomar vs Shauna Bannon"
         }
     ]
 }
