@@ -1,1 +1,51 @@
-error code: 502
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "03:51:51 22-03-2025",
+    "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090475080,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000499/1742301289898123_ATP_Miami_open25_18mar_RD2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Miami Open 2025",
+            "match_name": "Day 3 - 21 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1742638911~acl=/*~id=93175747270778703955422293552113~hmac=3d8d5a335593e7f29edd555aa2ddaa6021b0831f12f87ad0736d9a8adef60fe1"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090475059,
+            "src": null,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Cricket Classics",
+            "match_name": "Cricket Blockbusters 24x7",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742638911~acl=/*~id=93175747270778703955422293552113~hmac=3d8d5a335593e7f29edd555aa2ddaa6021b0831f12f87ad0736d9a8adef60fe1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475315,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000607/1742573241222221_UNL_Combo_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Nations League QF Leg 2 - 24 Mar 2025"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090475104,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000531/1742413456406204_UFC_Puja_Tomar_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - UFC Fight Night - Puja Tomar vs Shauna Bannon"
+        }
+    ]
+}
