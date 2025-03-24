@@ -1,18 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:52:05 24-03-2025",
+    "last update time": "10:02:10 24-03-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090475276,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000499/1742301303653123_ATP_Miami_open25_18mar_RD3_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Miami Open 2025",
-            "match_name": "Day 5 - 23 Mar 2025"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -24,7 +14,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742833324~acl=/*~id=11872876816417315486045998573228~hmac=767264f602a88a7b5791058fd66a1f1768556a1a9291fc558c2e693ce2c425fe"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742833930~acl=/*~id=49440105247643803516588016853914~hmac=567a27f6b056670f55f43a5c32fc060c239bd009a27cbcfcf8b3b3f8965743c7"
         }
     ]
 }
