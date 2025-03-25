@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:47:20 25-03-2025",
+    "last update time": "21:57:27 25-03-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,20 @@
             "match_name": "Day 7 - 25 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1742962639~acl=/*~id=50534550376881709564850387015121~hmac=274d925da088ff9312cb2d572c624f376db826d8afa6d6646c8529a0f8ed1e3d"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1742963246~acl=/*~id=60621462104056633684050974892934~hmac=1cf023e0b09e4420c6f34bd49d83c7961a7d894428fa74ec87f525166372d53c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475561,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000534/1742421381150571_EQFs_for_FIFAWC26_MD2_Moldova_vs_Estonia_20mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Moldova vs Estonia - MD 2 - 25 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1742963246~acl=/*~id=60621462104056633684050974892934~hmac=1cf023e0b09e4420c6f34bd49d83c7961a7d894428fa74ec87f525166372d53c"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +40,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742962639~acl=/*~id=50534550376881709564850387015121~hmac=274d925da088ff9312cb2d572c624f376db826d8afa6d6646c8529a0f8ed1e3d"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1742963246~acl=/*~id=60621462104056633684050974892934~hmac=1cf023e0b09e4420c6f34bd49d83c7961a7d894428fa74ec87f525166372d53c"
         }
     ]
 }
