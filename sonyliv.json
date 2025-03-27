@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:23:56 27-03-2025",
+    "last update time": "16:34:01 27-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,20 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743116035~acl=/*~id=75267406374601356318784822807782~hmac=fadbbb51aee7837dfbff8f78effa688a636d26ea5b16d1ab0a32d74aac18c619"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743116640~acl=/*~id=52178487985257855576531465403481~hmac=49c0bdc803fdc2182fec2390aaf535b05d7aa86b779fd816821ca221b4a7cb75"
+        },
+        {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1090475677,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000822/1743072572607938_WTTSC25_R16_and_R64_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Star Contender Chennai 2025",
+            "match_name": "Round Of 16 & Round Of 48 - 27 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1743116640~acl=/*~id=52178487985257855576531465403481~hmac=49c0bdc803fdc2182fec2390aaf535b05d7aa86b779fd816821ca221b4a7cb75"
         },
         {
             "event_category": "Tennis",
