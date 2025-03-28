@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:55:19 29-03-2025",
+    "last update time": "04:05:25 29-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "1st ODI - 29 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1743243918~acl=/*~id=15981559761997663005766606968114~hmac=5eaf575c1021d0ccf83aa2b59d871be23e8d4e9bbfdc7498d610ecbc3fb5c87c"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1743244525~acl=/*~id=57545958836064919797287755138792~hmac=95bb4be62616954e9b48afe1ab5abb6953914179562935724160cea6734acf57"
         },
         {
             "event_category": "WWE",
@@ -27,7 +27,7 @@
             "match_name": "WWE SmackDown - 29 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1743243918~acl=/*~id=15981559761997663005766606968114~hmac=5eaf575c1021d0ccf83aa2b59d871be23e8d4e9bbfdc7498d610ecbc3fb5c87c"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1743244525~acl=/*~id=57545958836064919797287755138792~hmac=95bb4be62616954e9b48afe1ab5abb6953914179562935724160cea6734acf57"
         },
         {
             "event_category": "Cricket",
@@ -40,7 +40,25 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743243918~acl=/*~id=15981559761997663005766606968114~hmac=5eaf575c1021d0ccf83aa2b59d871be23e8d4e9bbfdc7498d610ecbc3fb5c87c"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743244525~acl=/*~id=57545958836064919797287755138792~hmac=95bb4be62616954e9b48afe1ab5abb6953914179562935724160cea6734acf57"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475673,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000781/1742980676770792_Fulham_vs_Crystal_Palace_29th_Mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Fulham vs Crystal Palace - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475674,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000781/1742980642469792_Brighton_vs_Nottm_Forest_29th_Mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Brighton vs Nottingham Forest - The Emirates FA Cup 2024-25"
         },
         {
             "event_category": "Football",
