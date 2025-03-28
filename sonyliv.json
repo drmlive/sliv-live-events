@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:27:39 28-03-2025",
+    "last update time": "16:37:45 28-03-2025",
     "matches": [
+        {
+            "event_category": "Table Tennis",
+            "isLive": true,
+            "contentId": 1090475743,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000805/1743031922955632_WTTSC25_SemiFinal_and_R_32_landscape_thumb_live.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "WTT Star Contender Chennai 2025",
+            "match_name": "SF & Round Of 32 - 28 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1743203264~acl=/*~id=79110181319421964805487435222356~hmac=3b704f1e18d8787455e003adb22e5521a76e4cdada51fcfdbf54f1b116791739"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743202659~acl=/*~id=43375432131844367265523647291187~hmac=288b0d7e8a7b5b2793d87a2b563016faa253fcee59e1fa9eb03ba499352b6151"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743203264~acl=/*~id=79110181319421964805487435222356~hmac=3b704f1e18d8787455e003adb22e5521a76e4cdada51fcfdbf54f1b116791739"
         },
         {
             "event_category": "Tennis",
