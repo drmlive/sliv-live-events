@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:02:24 28-03-2025",
+    "last update time": "07:12:31 28-03-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Fritz vs Berrettini - QF - 27 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1743168744~acl=/*~id=27303340068329609320223264766816~hmac=b78fb8f45b32c8c1d1ac48841d53346afdd018945770dc57c5fd1ea124008380"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1743169351~acl=/*~id=41778123123474358200961656329663~hmac=66878911d44244799e88696a0f01753a8c4fcf0dc08fd21187d923a19e3f032b"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743168744~acl=/*~id=27303340068329609320223264766816~hmac=b78fb8f45b32c8c1d1ac48841d53346afdd018945770dc57c5fd1ea124008380"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743169351~acl=/*~id=41778123123474358200961656329663~hmac=66878911d44244799e88696a0f01753a8c4fcf0dc08fd21187d923a19e3f032b"
         },
         {
             "event_category": "Football",
@@ -46,6 +46,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Preston vs Aston Villa - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475596,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000725/1742829563695606_BLIGA_Leverkusen_vs_Bochum_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs VfL Bochum"
         }
     ]
 }
