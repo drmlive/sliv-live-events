@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:13:00 29-03-2025",
+    "last update time": "00:23:06 29-03-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,20 @@
             "match_name": "Semi-Final - 29 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1743230580~acl=/*~id=75509187689184614711753418190509~hmac=28bfb0030b48a56f4e5812962f5930238655bae36e615d131093ce2295a9cbfa"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1743231186~acl=/*~id=09284557743374719891327803243094~hmac=cb26a5d9c440efca1347080efc38e88ba91b7e3ae2e60ec2836425d7ab56a001"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475632,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000353/1741891890000221_bliga2425_md27_Bayer_Leverkusen_vs_VfL_Bochum_rev_13mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Bayer Leverkusen vs VfL Bochum - MD 27 - 29 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1743231186~acl=/*~id=09284557743374719891327803243094~hmac=cb26a5d9c440efca1347080efc38e88ba91b7e3ae2e60ec2836425d7ab56a001"
         },
         {
             "event_category": "Cricket",
@@ -27,16 +40,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743230580~acl=/*~id=75509187689184614711753418190509~hmac=28bfb0030b48a56f4e5812962f5930238655bae36e615d131093ce2295a9cbfa"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090475062,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000508/1742370488838419_Miami_Open_Promo_landscape.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Miami Open 2025"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743231186~acl=/*~id=09284557743374719891327803243094~hmac=cb26a5d9c440efca1347080efc38e88ba91b7e3ae2e60ec2836425d7ab56a001"
         },
         {
             "event_category": "Football",
@@ -55,15 +59,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Preston vs Aston Villa - The Emirates FA Cup 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090475596,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000725/1742829563695606_BLIGA_Leverkusen_vs_Bochum_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs VfL Bochum"
         }
     ]
 }
