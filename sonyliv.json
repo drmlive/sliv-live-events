@@ -1,1 +1,74 @@
-error code: 502
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "14:31:50 29-03-2025",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090475059,
+            "src": null,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Cricket Classics",
+            "match_name": "Cricket Blockbusters 24x7",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743282110~acl=/*~id=23885995056925605972017323226935~hmac=e0ee8d96ff78a5f95326e5a7e77d8a989093ebbdb9c76412804fe9957774cc99"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475673,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000781/1742980676770792_Fulham_vs_Crystal_Palace_29th_Mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Fulham vs Crystal Palace - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475676,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000781/1742980602083792_Bournemouth_vs_Man_City_30th_Mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bournemouth vs Man City - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475674,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000781/1742980642469792_Brighton_vs_Nottm_Forest_29th_Mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Brighton vs Nottingham Forest - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475675,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000781/1742980715025792_Preston_vs_Aston_Villa_30th_Mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Preston vs Aston Villa - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475597,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000725/1742829458437606_BLIGA_Bayern_vs_Pauli_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs St. Pauli"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475598,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000725/1742829529855606_BLIGA_Dortmund_vs_Mainz_landscap.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs Mainz"
+        }
+    ]
+}
