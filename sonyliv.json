@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:57:44 29-03-2025",
+    "last update time": "22:07:53 29-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,20 @@
             "match_name": "Bayern Munich vs St. Pauli - MD 27 - 29 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475679,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000773/1742966465890517_FACup2425_QF_Brighton_Hove_Albion_vs_Nottingham_Forest_26mar_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Brighton & Hove Albion vs Nottingham Forest - QF - 29 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265"
         },
         {
             "event_category": "Football",
@@ -25,48 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Goal Arena Feed  - 29 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090475683,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000354/1741892686000100_bliga2425_md27_Borussia_Mgladbach_vs_RB_Leipzig_rev_13mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Borussia M'gladbach vs RB Leipzig - MD 27 - 29 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090475685,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000353/1741892376000221_bliga2425_md27_Holstein_Kiel_vs_Werder_Bremen_rev_13mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Holstein Kiel vs Werder Bremen - MD 27 - 29 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090475684,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000353/1741892308000221_bliga2425_md27_Hoffenheim_vs_Augsburg_rev_13mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Hoffenheim vs Augsburg - MD 27 - 29 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265"
         },
         {
             "event_category": "Football",
@@ -77,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "VfL Wolfsburg vs Heidenheim - MD 27 - 29 Mar 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265"
         },
         {
             "event_category": "Cricket",
@@ -92,7 +66,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743308863~acl=/*~id=89261485265821571811113758404817~hmac=d7196178077dad35acb43383137fd24f5405edf7031c24abd689c8080344e70b"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743309472~acl=/*~id=64870127874730666683468044628072~hmac=34f3dfd49483f51be4ba1adfd73ce12ad83cb3064eedf2add333e4ef993fc265"
         },
         {
             "event_category": "Football",
@@ -120,6 +94,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Preston vs Aston Villa - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090475598,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000725/1742829529855606_BLIGA_Dortmund_vs_Mainz_landscap.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs Mainz"
         }
     ]
 }
