@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:14:12 29-03-2025",
+    "last update time": "17:24:17 29-03-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475678,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000773/1742965714533517_FACup2425_QF_Fulham_vs_Crystal_Palace_26mar_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Fulham vs Crystal Palace - QF - 29 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1743292457~acl=/*~id=33221225817106456915577337301747~hmac=d4a88c62491013157cce79ac67fe53892de01a25f88b09ba795d63ce173e49da"
+        },
         {
             "event_category": "Table Tennis",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "Semi-Finals & Mixed Doubles Final - 29 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1743291851~acl=/*~id=33031632973063495929028607704057~hmac=60b008534029ed8bea8061062e49aa339898ca6e361b82c7a060fdfc19506d16"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1743292457~acl=/*~id=33221225817106456915577337301747~hmac=d4a88c62491013157cce79ac67fe53892de01a25f88b09ba795d63ce173e49da"
         },
         {
             "event_category": "Cricket",
@@ -27,16 +40,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743291851~acl=/*~id=33031632973063495929028607704057~hmac=60b008534029ed8bea8061062e49aa339898ca6e361b82c7a060fdfc19506d16"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090475673,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000781/1742980676770792_Fulham_vs_Crystal_Palace_29th_Mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Fulham vs Crystal Palace - The Emirates FA Cup 2024-25"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743292457~acl=/*~id=33221225817106456915577337301747~hmac=d4a88c62491013157cce79ac67fe53892de01a25f88b09ba795d63ce173e49da"
         },
         {
             "event_category": "Football",
