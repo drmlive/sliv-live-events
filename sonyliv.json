@@ -1,1 +1,29 @@
-error code: 524
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "23:46:49 30-03-2025",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090475059,
+            "src": null,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Cricket Classics",
+            "match_name": "Cricket Blockbusters 24x7",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743401808~acl=/*~id=72396516207064938538449398804104~hmac=5979181a5958071516cbe4db3e45f9f6d3575c64e5e35e761fdd1d3da3ddd382"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090475062,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000508/1742370488838419_Miami_Open_Promo_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Miami Open 2025"
+        }
+    ]
+}
