@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:08:38 31-03-2025",
+    "last update time": "00:18:45 31-03-2025",
     "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090475753,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000922/1743257584221351_atp1000_miami25_mensik_vs_djokovic_29mar_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Miami Open 2025",
+            "match_name": "Mensik vs Djokovic - Final - 31 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1743403724~acl=/*~id=71719121425719270107642435180528~hmac=43c987454e3dff9ea58aa3ba66f2c528807230dee5c98a15710d28997d36fc67"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,16 +27,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743403118~acl=/*~id=96795317310370010247028000864925~hmac=d89d0b9c1717caca4c3f423caa1417f05c560971f478ff50f4487d354108da69"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090475062,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000508/1742370488838419_Miami_Open_Promo_landscape.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Miami Open 2025"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743403724~acl=/*~id=71719121425719270107642435180528~hmac=43c987454e3dff9ea58aa3ba66f2c528807230dee5c98a15710d28997d36fc67"
         }
     ]
 }
