@@ -1,1 +1,68 @@
-error code: 524
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "20:49:26 30-03-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475747,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000773/1742967845287517_FACup2425_QF_Bournemouth_vs_Man_City_26mar_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Bournemouth vs Man City - QF - 30 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1743391165~acl=/*~id=68605121278653557166191494983975~hmac=7c9a2cdc6c6d5872859841f0d7e7f26e3c32455486f42a12648a09573570df42"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475723,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000353/1741892056000221_bliga2425_md27_Borussia_Dortmund_vs_Mainz_rev_13mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Borussia Dortmund vs Mainz - MD 27 - 30 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1743391165~acl=/*~id=68605121278653557166191494983975~hmac=7c9a2cdc6c6d5872859841f0d7e7f26e3c32455486f42a12648a09573570df42"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475722,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000353/1741892436000221_bliga2425_md27_SC_Freiburg_vs_Union_Berlin_rev_13mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "SC Freiburg vs Union Berlin - MD 27 - 30 Mar 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1743391165~acl=/*~id=68605121278653557166191494983975~hmac=7c9a2cdc6c6d5872859841f0d7e7f26e3c32455486f42a12648a09573570df42"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090475059,
+            "src": null,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Cricket Classics",
+            "match_name": "Cricket Blockbusters 24x7",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743391165~acl=/*~id=68605121278653557166191494983975~hmac=7c9a2cdc6c6d5872859841f0d7e7f26e3c32455486f42a12648a09573570df42"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090475062,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000508/1742370488838419_Miami_Open_Promo_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Miami Open 2025"
+        }
+    ]
+}
