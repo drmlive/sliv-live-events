@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:15:31 30-03-2025",
+    "last update time": "11:25:37 30-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090475059,
-            "src": null,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Cricket Classics",
-            "match_name": "Cricket Blockbusters 24x7",
-            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743356730~acl=/*~id=21207894132543477360598584391814~hmac=0a80df078fafa21a2d375255d1c433ae8b18eceed87e779704253b79d720a3a1"
-        },
         {
             "event_category": "Table Tennis",
             "isLive": true,
@@ -27,7 +14,20 @@
             "match_name": "Semi-Finals & Mixed Doubles Final - 30 Mar 2025",
             "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1743356730~acl=/*~id=21207894132543477360598584391814~hmac=0a80df078fafa21a2d375255d1c433ae8b18eceed87e779704253b79d720a3a1"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1743357336~acl=/*~id=94388471798531494462421853748334~hmac=a332ad601c888d4335f0967884bb841f106dd285be879f953c068d48c31e651a"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090475059,
+            "src": null,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Cricket Classics",
+            "match_name": "Cricket Blockbusters 24x7",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743357336~acl=/*~id=94388471798531494462421853748334~hmac=a332ad601c888d4335f0967884bb841f106dd285be879f953c068d48c31e651a"
         },
         {
             "event_category": "Football",
@@ -37,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bournemouth vs Man City - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090475062,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000508/1742370488838419_Miami_Open_Promo_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Miami Open 2025"
         },
         {
             "event_category": "Football",
