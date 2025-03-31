@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:53:32 31-03-2025",
+    "last update time": "09:03:37 31-03-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090475753,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000922/1743257584221351_atp1000_miami25_mensik_vs_djokovic_29mar_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Miami Open 2025",
-            "match_name": "Mensik vs Djokovic - Final - 31 Mar 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1743434611~acl=/*~id=62213263039080099335493583569473~hmac=b4e7377e78c0bb348e3623f19510b6eb18b3f633fac0ebb15fd18793210d19ef"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "Cricket Blockbusters 24x7",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743434611~acl=/*~id=62213263039080099335493583569473~hmac=b4e7377e78c0bb348e3623f19510b6eb18b3f633fac0ebb15fd18793210d19ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1743435217~acl=/*~id=09767084731709928447458767848284~hmac=96be498b19316d3df900361155f5337233d4c17d406ee7aadd74823a8a38eda6"
         }
     ]
 }
