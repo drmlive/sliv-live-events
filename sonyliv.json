@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:51:34 02-04-2025",
+    "last update time": "23:01:41 02-04-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475988,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000970/174342161101327_SaudiKingsCup25_SF_al_Qadsiah_vs_Al_Raed_31mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "King's Cup 2024-25",
+            "match_name": "Al-Qadsiah vs Al-Raed - Semi-Final - 2 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1743658300~acl=/*~id=07877905731974761144877406965466~hmac=0fbc56bae192b0d3d065873ed118172762b752681d31971d44d1b56c7623853a"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "AZ Alkmaar vs Manchester City - Quarter-final - 2 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1743657694~acl=/*~id=61237949482637890136243351567040~hmac=60e93737c924d0cc74532e3c5ecf2267cd0b1d240c00526e04be28be2ca0ac53"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1743658300~acl=/*~id=07877905731974761144877406965466~hmac=0fbc56bae192b0d3d065873ed118172762b752681d31971d44d1b56c7623853a"
         },
         {
             "event_category": "Football",
