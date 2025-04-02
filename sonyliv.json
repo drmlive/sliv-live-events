@@ -1,0 +1,56 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "19:08:05 02-04-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090475973,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000847/1743136243692824_UYL2425_QF_Stuttgart_vs_Barcelona_25mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2024-25",
+            "match_name": "Stuttgart vs Barcelona - Quarter-final - 2 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1743644284~acl=/*~id=83423932573064133025664446643285~hmac=756f0c303472984802d0c3be874ce24a46f4a50fac50d947744e53ca73942995"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476044,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001010/1743520150408871_Arsenal_vs_Real_Madrid_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476045,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531366599155_UCL_QF_l1_BayernMunich_vs_InterPromo_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Inter - UEFA Champions League 2024-25 "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476046,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531287539155_UCL_QF_l1_Barcelona_vs_Dortmund_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Dortmund - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476047,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531320939155_UCL_QF_l1_PSG_vs_AstonVill_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Aston Villa - UEFA Champions League 2024-25"
+        }
+    ]
+}
