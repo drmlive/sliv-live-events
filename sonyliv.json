@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:30:28 05-04-2025",
+    "last update time": "02:40:33 05-04-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090475985,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001049/1743615189117733_nzvspak25_3odi_2apr_live_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour Of New Zealand 2025",
+            "match_name": "3rd ODI - 5 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1743844233~acl=/*~id=28501694813983969116626639775098~hmac=29686fc654774f3d8c559a2297eb72408e82eab3edbc7985c404150e53c3cc2f"
+        },
         {
             "event_category": "Football",
             "isLive": false,
