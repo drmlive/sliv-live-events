@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:10:20 05-04-2025",
+    "last update time": "02:20:24 05-04-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090475980,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000786/1742981737489906_Bundesliga_2024_25_Augsburg_vs_Bayern_Munich_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Augsburg vs Bayern Munich - MD 28 - 4 Apr 2025",
-            "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1743842420~acl=/*~id=19837813393403318345035448256342~hmac=b873e747b974beb6785b74bcb919eabc684b44d6fc7583949d7abd00d5a1d3a3"
-        },
         {
             "event_category": "Football",
             "isLive": false,
