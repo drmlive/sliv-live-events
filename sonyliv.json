@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:12:17 05-04-2025",
+    "last update time": "21:22:24 05-04-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476013,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000786/1742984259904906_Bundesliga_2024_25_Werder_Bremen_vs_Eintracht_Frankfurt_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Werder Bremen vs Eintracht Frankfurt - MD 28 - 5 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1743911542~acl=/*~id=24531325878825661656369009256153~hmac=0e7aa254eaca32ae6ef33c4c64dfc5c05a79f55263e8148cb29a1ac6826344a2"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "Al-Qadsiah vs Al-Ettifaq - MD 26 - 5 Apr 2025 ",
             "dai_url": "https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1743910937~acl=/*~id=93336521118016703698347230986815~hmac=e60c0df1edcdbc6ec5fafddc1fef3dc96759640b486307bd735214683f029edb"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1743911542~acl=/*~id=24531325878825661656369009256153~hmac=0e7aa254eaca32ae6ef33c4c64dfc5c05a79f55263e8148cb29a1ac6826344a2"
         },
         {
             "event_category": "Football",
@@ -42,15 +55,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090476046,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531287539155_UCL_QF_l1_Barcelona_vs_Dortmund_Promo_ddt_1apr_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Dortmund - UEFA Champions League 2024-25"
         }
     ]
 }
