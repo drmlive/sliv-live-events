@@ -1,1 +1,52 @@
-error code: 524
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "16:04:03 05-04-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476045,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531366599155_UCL_QF_l1_BayernMunich_vs_InterPromo_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Inter - UEFA Champions League 2024-25 "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476047,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531320939155_UCL_QF_l1_PSG_vs_AstonVill_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Aston Villa - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476104,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001031/1743581975382887_BLIGA_Freiburg_vs_Dortmund_lndscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - SC Freiburg vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476044,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001010/1743520150408871_Arsenal_vs_Real_Madrid_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476046,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531287539155_UCL_QF_l1_Barcelona_vs_Dortmund_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Dortmund - UEFA Champions League 2024-25"
+        }
+    ]
+}
