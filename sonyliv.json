@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:11:30 06-04-2025",
+    "last update time": "23:21:35 06-04-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090476112,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000786/1742984766953906_Bundesliga_2024_25_Union_Berlin_vs_VfL_Wolfsburg_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "Union Berlin vs VfL Wolfsburg - MD 28 - 6 Apr 2025",
-            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1744004489~acl=/*~id=05007117707928276061089815038939~hmac=9e8cc2474b554cd05188b4613dbb002f6e5b739fe5a5b2734faf8cb79f561550"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
@@ -51,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476046,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531287539155_UCL_QF_l1_Barcelona_vs_Dortmund_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Dortmund - UEFA Champions League 2024-25"
         }
     ]
 }
