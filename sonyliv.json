@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:00:20 06-04-2025",
+    "last update time": "21:10:26 06-04-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090476108,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000786/1742984546786906_Bundesliga_2024_25_St_Pauli_vs_Borussia_Mgladbach_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2024-25",
-            "match_name": "St. Pauli vs Borussia M'gladbach - MD 28 - 6 Apr 2025",
-            "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1743996619~acl=/*~id=34288714520720995281544574447965~hmac=ec8e90bdcbf863a2b1abccdb5ec3bfedac7b4fd712e7e63d865dc03a6fabf6d5"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "Union Berlin vs VfL Wolfsburg - MD 28 - 6 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1743996619~acl=/*~id=34288714520720995281544574447965~hmac=ec8e90bdcbf863a2b1abccdb5ec3bfedac7b4fd712e7e63d865dc03a6fabf6d5"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1743997225~acl=/*~id=45752478008224615026702545819560~hmac=8e2d888d86134bd1c5d424b48045088c7368b8cecf80d0e188a7649a5923a645"
         },
         {
             "event_category": "Tennis",
@@ -55,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Aston Villa - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476044,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001010/1743520150408871_Arsenal_vs_Real_Madrid_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
         }
     ]
 }
