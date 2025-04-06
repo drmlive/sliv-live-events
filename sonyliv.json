@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:56:45 06-04-2025",
+    "last update time": "06:06:49 06-04-2025",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090476175,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001104/1743776509778387_UFCFightNight_Emmett_vs_Murphy_4apr_multilang_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Emmett vs Murphy",
+            "match_name": "UFC Fight Night - Emmett vs Murphy - 6 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1743943009~acl=/*~id=77898452795640690975806874574572~hmac=adef5cfeffa3dc89e1c49b0a132549194cbd72bbb5614991990ecc5718bfbda6"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -20,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Aston Villa - UEFA Champions League 2024-25"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090476044,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001010/1743520150408871_Arsenal_vs_Real_Madrid_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
         }
     ]
 }
