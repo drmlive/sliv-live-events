@@ -1,0 +1,38 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "10:07:03 06-04-2025",
+    "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090476175,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001104/1743776509778387_UFCFightNight_Emmett_vs_Murphy_4apr_multilang_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Emmett vs Murphy",
+            "match_name": "UFC Fight Night - Emmett vs Murphy - 6 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1743957423~acl=/*~id=88528814144397392009146799477698~hmac=5e5177a6f7951d70f4e6dee604c2b024fc6e25ab3fb361d9aa158e5352032656"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476045,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531366599155_UCL_QF_l1_BayernMunich_vs_InterPromo_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Inter - UEFA Champions League 2024-25 "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476047,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531320939155_UCL_QF_l1_PSG_vs_AstonVill_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Aston Villa - UEFA Champions League 2024-25"
+        }
+    ]
+}
