@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:49:02 07-04-2025",
+    "last update time": "15:59:17 07-04-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,16 +14,7 @@
             "match_name": "Day 1 - 7 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1744064340~acl=/*~id=78787841822578849601159220999178~hmac=2957f00b8780bb7fb9bb08b5c314843d1f219930b6c73eec064c6622390e0eb9"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090476273,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001106/1743787465682447_ATP_Rolex25_Landscape_thumb_4apr.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - ATP Masters - Rolex Monte-Carlo Open 2025"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1744064956~acl=/*~id=03746450033210033248821273929626~hmac=fca8b2b9fe56c090b7c114a167449da2916afa2ef9f970678806d25a43274a76"
         },
         {
             "event_category": "Football",
@@ -51,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476046,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531287539155_UCL_QF_l1_Barcelona_vs_Dortmund_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Dortmund - UEFA Champions League 2024-25"
         }
     ]
 }
