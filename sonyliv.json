@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:23:20 08-04-2025",
+    "last update time": "22:33:28 08-04-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476117,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001077/1743740559627236_ucl2425_QF_leg1_Arsenal_vs_Real_Madrid_4apr_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Arsenal vs Real Madrid - Quarter-final - 1st Leg - 8 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1744175007~acl=/*~id=82625347385835519551913525088102~hmac=eae8875d739ee2fa20fa6a909bc2e968a8dc64dfc5caebae2054ba539a5a5a6c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476121,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001077/1743740574855236_ucl2425_QF_leg1_Arsenal_vs_Real_Madrid_4apr_multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Arsenal vs Real Madrid - Quarter-final - 1st Leg - 8 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1744175007~acl=/*~id=82625347385835519551913525088102~hmac=eae8875d739ee2fa20fa6a909bc2e968a8dc64dfc5caebae2054ba539a5a5a6c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001171/1744023412612872_ucl2425_QF_leg1_Bayern_Munich_vs_Inter_7apr_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Bayern Munich vs Inter - Quarter-final - 1st Leg - 8 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1744175007~acl=/*~id=82625347385835519551913525088102~hmac=eae8875d739ee2fa20fa6a909bc2e968a8dc64dfc5caebae2054ba539a5a5a6c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476421,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001190/1744041367607851_ucl2425_QF_leg1_Bayern_Munich_vs_Inter_7apr_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Bayern Munich vs Inter - Quarter-final - 1st Leg - 8 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1744175007~acl=/*~id=82625347385835519551913525088102~hmac=eae8875d739ee2fa20fa6a909bc2e968a8dc64dfc5caebae2054ba539a5a5a6c"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -14,16 +66,7 @@
             "match_name": "Round 1 - 8 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1744174400~acl=/*~id=82465246137254551428018875421709~hmac=99eabdd3b15cfd4c8bc4bede591802b8efe8c0093b3ca8446c3cc1bd4a8c6949"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090476045,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531366599155_UCL_QF_l1_BayernMunich_vs_InterPromo_Promo_ddt_1apr_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Inter - UEFA Champions League 2024-25 "
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1744175007~acl=/*~id=82625347385835519551913525088102~hmac=eae8875d739ee2fa20fa6a909bc2e968a8dc64dfc5caebae2054ba539a5a5a6c"
         },
         {
             "event_category": "Football",
@@ -60,15 +103,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs Borussia Dortmund"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090476044,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001010/1743520150408871_Arsenal_vs_Real_Madrid_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
         },
         {
             "event_category": "Football",
