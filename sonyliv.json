@@ -1,0 +1,74 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "15:10:53 08-04-2025",
+    "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090476401,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001096/1743772149482835_ATP1000_RolexMonteCarloMasters25_round1_4apr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ATP Masters 1000 - Rolex Monte Carlo Masters 2025",
+            "match_name": "Day 2 - 8 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1744148452~acl=/*~id=13042853689027689036407124014110~hmac=63356b1e5d93f37fb37931599874d608498828cbb5924f0edcf80b0bbba08cbf"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476045,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531366599155_UCL_QF_l1_BayernMunich_vs_InterPromo_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Inter - UEFA Champions League 2024-25 "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476047,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531320939155_UCL_QF_l1_PSG_vs_AstonVill_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Aston Villa - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476101,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001032/1743582206756274_UEL_Lyon_vs_ManUtd_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Lyon vs Manchester United - UEFA Europa League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476105,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001030/1743581877363285_UECL_Chelsea_Promo_020425_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Legia Warszawa vs Chelsea - UEFA Europa Conference League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476044,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001010/1743520150408871_Arsenal_vs_Real_Madrid_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Real Madrid - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476046,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001012/1743531287539155_UCL_QF_l1_Barcelona_vs_Dortmund_Promo_ddt_1apr_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Dortmund - UEFA Champions League 2024-25"
+        }
+    ]
+}
