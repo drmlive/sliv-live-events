@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:52:03 10-04-2025",
+    "last update time": "03:02:09 10-04-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090476239,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001077/1743740836253236_ucl2425_QF_leg1_Barcelona_vs_Dortmund_4apr_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "Barcelona vs Dortmund - Quarter-final - 1st Leg - 10 Apr 2025",
-            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1744276923~acl=/*~id=66667942372731173523144621338716~hmac=fdc612644de7129429ce621bf5ceee4ec690f4d6e0e047bea8834d30d493e141"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090476240,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001077/1743740825496236_ucl2425_QF_leg1_Barcelona_vs_Dortmund_4apr_multilang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": " Barcelona vs Dortmund - Quarter-final - 1st Leg - 10 Apr 2025",
-            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1744276923~acl=/*~id=66667942372731173523144621338716~hmac=fdc612644de7129429ce621bf5ceee4ec690f4d6e0e047bea8834d30d493e141"
-        },
         {
             "event_category": "Football",
             "isLive": false,
