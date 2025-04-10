@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:04:56 10-04-2025",
+    "last update time": "08:15:02 10-04-2025",
     "matches": [
+        {
+            "event_category": "Badminton",
+            "isLive": true,
+            "contentId": 1090476501,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001239/1744182978317446_Bank_of_Ningbo_Badminton_Asia_Champ25_RoundRobin_D2_Landscape_thumb_revised.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bank of Ningbo Badminton Asia Championships 2025",
+            "match_name": "Round Robin - Day 2 - 10 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1744296302~acl=/*~id=78750191951569519964890476136972~hmac=cb08ad10534075adb020139e5fbf19ef7ec21ead14d24605a6bc339ba01af7f2"
+        },
         {
             "event_category": "Football",
             "isLive": false,
