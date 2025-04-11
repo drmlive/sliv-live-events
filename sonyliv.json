@@ -1,0 +1,51 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "23:43:45 11-04-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476538,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001320/1744290962091997_Roshn_Saudi_League_2024_25_Al_Ettifaq_vs_Al_Hilal_10042025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Roshn Saudi League 2024-25",
+            "match_name": "Al-Ettifaq vs Al-Hilal - MD 27 - 11 Apr 2025 ",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1744438424~acl=/*~id=56802293591172240404782622003152~hmac=00c4b97a44f5da2ba09a3c6ad47295fcbaacf60c6ef462ea8ebcd0bc0713eae8"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476539,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001132/1743850618964985_bliga2425_MD29_VfL_Wolfsburg_vs_RB_Leipzig_5apr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "VfL Wolfsburg vs RB Leipzig - MD 29 - 12 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1744438424~acl=/*~id=56802293591172240404782622003152~hmac=00c4b97a44f5da2ba09a3c6ad47295fcbaacf60c6ef462ea8ebcd0bc0713eae8"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476459,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001184/174403215577926_Bayern_vs_Dortmund_12th_Apr_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476613,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090476613/thumbnail/1744265783564_1744262137571672_PROMO_RSL_AL_NASSR_vs_AL_RIYADH_30_SEC_H_APP_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al-Nassr vs Al-Riyadh - Roshn Saudi League 2024-25"
+        }
+    ]
+}
