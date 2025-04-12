@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:44:14 12-04-2025",
+    "last update time": "22:54:22 12-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Bayern Munich vs Borussia Dortmund - MD 29 - 12 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1744521253~acl=/*~id=90166679307970228379674196676583~hmac=6dc238456864e13fcd7311479c19afe446aad1c8fbd4e49575539049ae98972d"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1744521861~acl=/*~id=02145384258898101393674543716833~hmac=58f90333b139ce044b91410275d463296673912c071603fef6a3bb66190f2d09"
         },
         {
             "event_category": "Football",
@@ -27,7 +27,20 @@
             "match_name": "Tactical Feed - Bayern Munich vs Borussia Dortmund - MD 29 - 12 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1744521253~acl=/*~id=90166679307970228379674196676583~hmac=6dc238456864e13fcd7311479c19afe446aad1c8fbd4e49575539049ae98972d"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1744521861~acl=/*~id=02145384258898101393674543716833~hmac=58f90333b139ce044b91410275d463296673912c071603fef6a3bb66190f2d09"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476612,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001320/1744291103177997_Roshn_Saudi_League_2024_25_Al_Nassr_vs_Al_Riyadh_10042025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Roshn Saudi League 2024-25",
+            "match_name": "Al-Nassr vs Al-Riyadh - MD 27 - 12 Apr 2025 ",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1744521861~acl=/*~id=02145384258898101393674543716833~hmac=58f90333b139ce044b91410275d463296673912c071603fef6a3bb66190f2d09"
         },
         {
             "event_category": "Racing",
@@ -40,16 +53,7 @@
             "match_name": "Round 5 - Miami E-PRIX - Final Race - 12 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1744521253~acl=/*~id=90166679307970228379674196676583~hmac=6dc238456864e13fcd7311479c19afe446aad1c8fbd4e49575539049ae98972d"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090476613,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090476613/thumbnail/1744265783564_1744262137571672_PROMO_RSL_AL_NASSR_vs_AL_RIYADH_30_SEC_H_APP_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Al-Nassr vs Al-Riyadh - Roshn Saudi League 2024-25"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1744521861~acl=/*~id=02145384258898101393674543716833~hmac=58f90333b139ce044b91410275d463296673912c071603fef6a3bb66190f2d09"
         }
     ]
 }
