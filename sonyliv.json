@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:07:47 16-04-2025",
+    "last update time": "22:17:53 16-04-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476834,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001177/1744027127199192_ucl2425_QF_leg2_Real_Madrid_vs_Arsenal_eng_7apr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "Real Madrid vs Arsenal - Quarter-final - 2nd Leg - 17 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1744865273~acl=/*~id=21761215947422242395661449517368~hmac=3d8c02068efc6c4040b49f1d9dc477477e2259e7a7548ded7523b344e1603123"
+        },
         {
             "event_category": "Football",
             "isLive": false,
