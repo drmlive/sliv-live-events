@@ -1,0 +1,47 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "21:56:02 19-04-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476880,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000959/174340037600041_bliga2425_MD30_Union_Berlin_vs_VfB_Stuttgart_31mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Union Berlin vs VfB Stuttgart - MD 30 - 19 Apr 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745123162~acl=/*~id=18103997091333346200934043276645~hmac=67c9edc5bcef8f14213febc111db4c7ce7e7d44f93620b51bc672272e64c31ff",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745123162~acl=/*~id=18103997091333346200934043276645~hmac=67c9edc5bcef8f14213febc111db4c7ce7e7d44f93620b51bc672272e64c31ff",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1745123162~acl=/*~id=18103997091333346200934043276645~hmac=67c9edc5bcef8f14213febc111db4c7ce7e7d44f93620b51bc672272e64c31ff"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476913,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001479/1744709323431711_PROMO_Dortmund_V_MGladbach_35_SEC_H_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs Borussia Monchengladbach"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090476915,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001479/1744709291517711_PROMO_FC_ST_Pauli_V_Leverkusen_35_SEC_H_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - St. Pauli vs Bayer Leverkusen"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090477023,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001563/1744882868211178_PROMO_ATP_MUTUA_H_30SEC_APP.png",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - ATP Masters 1000 - Mutua Madrid Open 2025"
+        }
+    ]
+}
