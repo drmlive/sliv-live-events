@@ -1,0 +1,38 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "22:16:42 21-04-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090476968,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001320/1744293494304997_Roshn_Saudi_League_2024_25_Al_Hilal_vs_Al_Shabab_10042025_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Roshn Saudi League 2024-25",
+            "match_name": "Al-Hilal vs Al-Shabab  - MD 29 - 21 Apr 2025 ",
+            "dai_url": "https://dai.google.com/ssai/event/qenWJqS5QlSO2il-skKIqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/qenWJqS5QlSO2il-skKIqA/master.m3u8",
+            "video_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a63bb2432412452e98ab18fbfce9456c/master_mdh.m3u8?hdnea=exp=1745297202~acl=/*~id=76155725607978013146654599980263~hmac=b0ccd0ba245a4c78f4f772772de57236f0cfd385769376b4f43d10d562474286"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090477180,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001671/1745227384614969_RSL_Promo_Thumb_21042025_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Damac vs Al-Nassr - Roshn Saudi League 2024-25"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090477023,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001563/1744882868211178_PROMO_ATP_MUTUA_H_30SEC_APP.png",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - ATP Masters 1000 - Mutua Madrid Open 2025"
+        }
+    ]
+}
