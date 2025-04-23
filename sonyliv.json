@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:31:56 24-04-2025",
+    "last update time": "00:42:03 24-04-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Day 1 - 23 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/qenWJqS5QlSO2il-skKIqA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/qenWJqS5QlSO2il-skKIqA/master.m3u8",
-            "video_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a63bb2432412452e98ab18fbfce9456c/master_mdh.m3u8?hdnea=exp=1745478116~acl=/*~id=10052276993644596666184318426258~hmac=8e46100b90c7ab3a06885190a14983302a60be38266d73f34ebcbcd81f20d403"
+            "video_url": "https://livsp-gd-001-cf-pp.slivcdn.com/out/v1/a63bb2432412452e98ab18fbfce9456c/master_mdh.m3u8?hdnea=exp=1745478723~acl=/*~id=34052390415151483170632740116066~hmac=97adc59e95c3584ec321dc4d8cb558ed467554a60d9b3a3a404d937f793a6667"
         },
         {
             "event_category": "Football",
@@ -33,6 +33,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Crystal Palace vs Aston Villa - The Emirates FA Cup 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090477289,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001723/1745395170125672_ARSvsPSG_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs PSG - UEFA Champions League 2024-25"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090477256,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001712/1745332480685237_UCL25_Barcelona_vs_Inter_SF_Leg1_Promo_Landscape_thumb_22apr.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Inter - UEFA Champions League 2024-25"
         }
     ]
 }
