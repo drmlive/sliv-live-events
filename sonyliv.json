@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:49:02 25-04-2025",
+    "last update time": "16:59:09 25-04-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,20 @@
             "match_name": "Day 3 - 25 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1745623142~acl=/*~id=12748991687681564816496481934141~hmac=365f8cc66b7534e0ba458d47c6f556778462e3d6d6a405850e494fc8f203113e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1745623748~acl=/*~id=51831250736153337070252927147138~hmac=7c321f969237e44c523c92151e847a7999a4aceefc080691bb6562206890e972"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090477140,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001517/1744760820995955_UYL2425_SF_Salzburg_vs_Trabzonspor_16apr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2024-25",
+            "match_name": "Salzburg vs Trabzonspor - Semi-Final - 25 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1745623748~acl=/*~id=51831250736153337070252927147138~hmac=7c321f969237e44c523c92151e847a7999a4aceefc080691bb6562206890e972"
         },
         {
             "event_category": "Football",
