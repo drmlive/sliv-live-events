@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:51:43 25-04-2025",
+    "last update time": "21:01:49 25-04-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,20 @@
             "match_name": "Round 2 - 25 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1745637703~acl=/*~id=56943019330199440586273487639024~hmac=922fc92719e04ed54023716256d4951823a3d75a697f26e5266f0628d183489a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1745638309~acl=/*~id=96789156582911003256988730673773~hmac=7692ff62cd0b648133b0616540e70eb6ac43e065a91b53dab98905aca7fb055c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090477142,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001517/1744761101638955_UYL2425_SF_AZ_vs_Barcelona_16apr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2024-25",
+            "match_name": "AZ Alkmaar vs Barcelona - Semi-Final - 25 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1745638309~acl=/*~id=96789156582911003256988730673773~hmac=7692ff62cd0b648133b0616540e70eb6ac43e065a91b53dab98905aca7fb055c"
         },
         {
             "event_category": "Football",
