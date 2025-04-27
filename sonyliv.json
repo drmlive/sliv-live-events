@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:53:26 27-04-2025",
+    "last update time": "06:03:32 27-04-2025",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090477415,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001826/174566134250084_UFCFN_Machado_vs_Prates_landscape_thumb_26apr_multilang.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Machado Garry vs Prates",
+            "match_name": "UFC Fight Night - Machado Garry vs Prates - 27 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1745757212~acl=/*~id=93468316021482319970035611998782~hmac=f4402966d97418595c4aa819414536a14ce140ef638ba03ea5f1c80596ec17a9"
+        },
         {
             "event_category": "Football",
             "isLive": false,
