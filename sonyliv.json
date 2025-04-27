@@ -1,1 +1,72 @@
-error code: 502
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "20:52:58 27-04-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090477144,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001699/1745306773414123_facup25_sf_Nottingham_Forest_vs_Man_City_16apr_eng_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Nottingham Forest vs Man City - SF - 27 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1745810577~acl=/*~id=64400751976816368205151397206935~hmac=c28fcf74278df57d62b121d44640110a94df1585f4ae35dd7af776b54c93d5b4"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090477209,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001871/1745734212397307_ATP1000_MutuaMadridOpen25_Medvedev_vs_Cerundolo_27apr_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ATP Masters 1000 - Mutua Madrid Open 2025",
+            "match_name": "Medvedev vs Cerundolo - 27 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1745810577~acl=/*~id=64400751976816368205151397206935~hmac=c28fcf74278df57d62b121d44640110a94df1585f4ae35dd7af776b54c93d5b4"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090477353,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001699/1745306781739123_facup25_sf_Nottingham_Forest_vs_Man_City_16apr_multilang_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Nottingham Forest vs Man City - SF - 27 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1745810577~acl=/*~id=64400751976816368205151397206935~hmac=c28fcf74278df57d62b121d44640110a94df1585f4ae35dd7af776b54c93d5b4"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090477282,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000971/1743422873398348_bliga2425_MD31_VfL_Bochum_vs_Union_Berlin_31mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "VfL Bochum vs Union Berlin - MD 31 - 27 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1745810577~acl=/*~id=64400751976816368205151397206935~hmac=c28fcf74278df57d62b121d44640110a94df1585f4ae35dd7af776b54c93d5b4"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090477283,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000971/1743424370481348_bliga2425_MD31_Werder_Bremen_vs_Pauli_31mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2024-25",
+            "match_name": "Werder Bremen vs St. Pauli - MD 31 - 27 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5qTBYna8R8SzYpzFGIngag/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=exp=1745810577~acl=/*~id=64400751976816368205151397206935~hmac=c28fcf74278df57d62b121d44640110a94df1585f4ae35dd7af776b54c93d5b4"
+        }
+    ]
+}
