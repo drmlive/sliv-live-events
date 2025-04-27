@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:21:40 27-04-2025",
+    "last update time": "19:31:47 27-04-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090477144,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001699/1745306773414123_facup25_sf_Nottingham_Forest_vs_Man_City_16apr_eng_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Nottingham Forest vs Man City - SF - 27 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1745805707~acl=/*~id=46675196901226967682543251940986~hmac=36e1d9393c5bff385e78bcb3e776ac49767fe62752bd00df08d4040a09994632"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -14,7 +27,20 @@
             "match_name": "Alexander Zverev vs A.Davidovich Fokina- 27 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1745805100~acl=/*~id=57628014829466070626062572495935~hmac=db9384be01c5cc6873a5dbf334d823b069b8fa2df413940912b0487c18495ff8"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1745805707~acl=/*~id=46675196901226967682543251940986~hmac=36e1d9393c5bff385e78bcb3e776ac49767fe62752bd00df08d4040a09994632"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090477353,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001699/1745306781739123_facup25_sf_Nottingham_Forest_vs_Man_City_16apr_multilang_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "The Emirates FA Cup 2024-25",
+            "match_name": "Nottingham Forest vs Man City - SF - 27 Apr 2025",
+            "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1745805707~acl=/*~id=46675196901226967682543251940986~hmac=36e1d9393c5bff385e78bcb3e776ac49767fe62752bd00df08d4040a09994632"
         },
         {
             "event_category": "Football",
@@ -27,7 +53,7 @@
             "match_name": "VfL Bochum vs Union Berlin - MD 31 - 27 Apr 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1745805100~acl=/*~id=57628014829466070626062572495935~hmac=db9384be01c5cc6873a5dbf334d823b069b8fa2df413940912b0487c18495ff8"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1745805707~acl=/*~id=46675196901226967682543251940986~hmac=36e1d9393c5bff385e78bcb3e776ac49767fe62752bd00df08d4040a09994632"
         },
         {
             "event_category": "Football",
