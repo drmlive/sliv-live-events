@@ -1,1 +1,16 @@
-error code: 1033
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "12:50:03 29-04-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090477290,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001723/1745395225998672_AthleticvsUtd_promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Athletic Club vs Man United - UEFA Europa League 2024-25"
+        }
+    ]
+}
