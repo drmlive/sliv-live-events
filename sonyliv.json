@@ -1,1 +1,38 @@
-error code: 1033
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "10:33:00 02-05-2025",
+    "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1090478999,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001960/1745989961445765_The44thGSCaltexMaekyungOpenGolfCShip_Day2_30apr_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2025",
+            "match_name": "GS Caltex Maekyung Open - Day 2 - 2 May 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746205380~acl=/*~id=17189859975939006730135334236841~hmac=6552cba5f36eab2f25670057f89f6c0249b2e71112b36837a79cb4b92a23391b",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746205380~acl=/*~id=17189859975939006730135334236841~hmac=6552cba5f36eab2f25670057f89f6c0249b2e71112b36837a79cb4b92a23391b",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746205380~acl=/*~id=17189859975939006730135334236841~hmac=6552cba5f36eab2f25670057f89f6c0249b2e71112b36837a79cb4b92a23391b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090478322,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001929/1745907695268658_PROMO_RB_Leipzig_V_Bayern_35_SEC_H_APP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - RB Leipzig vs Bayern Munich"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090478932,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001957/1745973201057368_PROMO_RSL_AL_NASSR_vs_AL_ITTIHAD_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Al-Nassr vs Al-Ittihad - Roshn Saudi League 2024-25"
+        }
+    ]
+}
