@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:09:12 03-05-2025",
+    "last update time": "13:19:18 03-05-2025",
     "matches": [
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": 1090479071,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002006/1746075838879573_ABBFEWC25_Round6_MonacoEPrix_QF_Race_1may_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship 2024-25",
+            "match_name": "Round 6 - Monaco E-PRIX - Qualifying Race - 3 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1746301758~acl=/*~id=89185185970882282787540807330450~hmac=5271014e57a7246e2ce0b576c4f880f70a214950b9515f002f90742a4041c3dc"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "GS Caltex Maekyung Open - Day 3 - 3 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746301151~acl=/*~id=17280016665600212560719415780914~hmac=02621fd94e11c86a4d4f29ac53046813b02816d873b4e7973c5331d25b0fd060",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746301151~acl=/*~id=17280016665600212560719415780914~hmac=02621fd94e11c86a4d4f29ac53046813b02816d873b4e7973c5331d25b0fd060",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746301151~acl=/*~id=17280016665600212560719415780914~hmac=02621fd94e11c86a4d4f29ac53046813b02816d873b4e7973c5331d25b0fd060"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746301758~acl=/*~id=89185185970882282787540807330450~hmac=5271014e57a7246e2ce0b576c4f880f70a214950b9515f002f90742a4041c3dc",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746301758~acl=/*~id=89185185970882282787540807330450~hmac=5271014e57a7246e2ce0b576c4f880f70a214950b9515f002f90742a4041c3dc",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746301758~acl=/*~id=89185185970882282787540807330450~hmac=5271014e57a7246e2ce0b576c4f880f70a214950b9515f002f90742a4041c3dc"
         },
         {
             "event_category": "Football",
