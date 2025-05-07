@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:09:49 07-05-2025",
+    "last update time": "22:19:56 07-05-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090479101,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001928/1745888250206622_UCL25_SF_leg2_PSG_vs_Arsenal_29apr_live_landscape_thumb_english.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "PSG vs Arsenal - Semi-Final - 2nd Leg - 8 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1746679795~acl=/*~id=33648419825829388520138971668826~hmac=98e9f0daf9f03935fc4ecd5a6a943ca530d723288c2e9a23c562121de9e83920"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "Al-Raed vs Al-Hilal - MD 30 - 7 May 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1746679188~acl=/*~id=09636801879176687632175565514511~hmac=afc851ce7df96e30a029829c14187a7ca0004693472ac0a928485c621671ec57"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1746679795~acl=/*~id=33648419825829388520138971668826~hmac=98e9f0daf9f03935fc4ecd5a6a943ca530d723288c2e9a23c562121de9e83920"
         },
         {
             "event_category": "Tennis",
@@ -27,7 +40,20 @@
             "match_name": "Day 1 - 7 May 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746679188~acl=/*~id=09636801879176687632175565514511~hmac=afc851ce7df96e30a029829c14187a7ca0004693472ac0a928485c621671ec57"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1746679795~acl=/*~id=33648419825829388520138971668826~hmac=98e9f0daf9f03935fc4ecd5a6a943ca530d723288c2e9a23c562121de9e83920"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090479103,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001928/1745888277027622_UCL25_SF_leg2_PSG_vs_Arsenal_29apr_live_landscape_thumb_multilang.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UEFA Champions League 2024-25",
+            "match_name": "PSG vs Arsenal - Semi-Final - 2nd Leg - 8 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1746679795~acl=/*~id=33648419825829388520138971668826~hmac=98e9f0daf9f03935fc4ecd5a6a943ca530d723288c2e9a23c562121de9e83920"
         },
         {
             "event_category": "Football",
