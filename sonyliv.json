@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:29:47 08-05-2025",
+    "last update time": "12:39:53 08-05-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090479285,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001926/174587945597219_uecl2425_SF_leg2_Chelsea_vs_Djurgarden_29apr_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Conference League 2024-25",
+            "match_name": "Chelsea vs Djurgarden - Semi-Final - 2nd Leg - 9 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1746731393~acl=/*~id=22648171107742500717065842320553~hmac=a713a1067491e685d19e56ae9c10099d239ad33b8df3d93bfe77667b0bf00c4f"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series Japan - Day 1 - 8 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746730786~acl=/*~id=35260673277970132554788695878377~hmac=eaa6d8ac1b266aecc4bf428c7ad369ef6994c2a5dca3a162df46a280d0aced3e",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746730786~acl=/*~id=35260673277970132554788695878377~hmac=eaa6d8ac1b266aecc4bf428c7ad369ef6994c2a5dca3a162df46a280d0aced3e",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746730786~acl=/*~id=35260673277970132554788695878377~hmac=eaa6d8ac1b266aecc4bf428c7ad369ef6994c2a5dca3a162df46a280d0aced3e"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746731393~acl=/*~id=22648171107742500717065842320553~hmac=a713a1067491e685d19e56ae9c10099d239ad33b8df3d93bfe77667b0bf00c4f",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746731393~acl=/*~id=22648171107742500717065842320553~hmac=a713a1067491e685d19e56ae9c10099d239ad33b8df3d93bfe77667b0bf00c4f",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746731393~acl=/*~id=22648171107742500717065842320553~hmac=a713a1067491e685d19e56ae9c10099d239ad33b8df3d93bfe77667b0bf00c4f"
         },
         {
             "event_category": "Football",
