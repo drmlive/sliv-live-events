@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:52:54 10-05-2025",
+    "last update time": "10:03:01 10-05-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,22 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series Japan - Day 3 - 10 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746894174~acl=/*~id=85466303070090004355011707667843~hmac=a330fe108e89d07610f68bc844bd71762ab09de93fef83fa6d593f3a7a136559",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746894174~acl=/*~id=85466303070090004355011707667843~hmac=a330fe108e89d07610f68bc844bd71762ab09de93fef83fa6d593f3a7a136559",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746894174~acl=/*~id=85466303070090004355011707667843~hmac=a330fe108e89d07610f68bc844bd71762ab09de93fef83fa6d593f3a7a136559"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746894780~acl=/*~id=32595540073568743471286953357764~hmac=0fe933735e4c8a207f9e7bb8beb13be2f066681b2905860ecc7a6b01be39aefb",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746894780~acl=/*~id=32595540073568743471286953357764~hmac=0fe933735e4c8a207f9e7bb8beb13be2f066681b2905860ecc7a6b01be39aefb",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746894780~acl=/*~id=32595540073568743471286953357764~hmac=0fe933735e4c8a207f9e7bb8beb13be2f066681b2905860ecc7a6b01be39aefb"
         },
         {
-            "event_category": "Sport",
-            "isLive": true,
-            "contentId": 1090479350,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002323/1746790380000107_ArcheryWC_Central_Shanghai25_compound_team_finals_9may_live_landscape_thumb.jpg",
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090477398,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001799/1745585184540896_Roland_Garros_2025_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Hyundai Archery World Cup 2025",
-            "match_name": "Compound Team Finals - 10 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1746894174~acl=/*~id=85466303070090004355011707667843~hmac=a330fe108e89d07610f68bc844bd71762ab09de93fef83fa6d593f3a7a136559"
+            "event_name": "Upcoming - Roland-Garros 2025"
         },
         {
             "event_category": "Football",
@@ -46,15 +42,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs Borussia Dortmund"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090477398,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001799/1745585184540896_Roland_Garros_2025_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Roland-Garros 2025"
         }
     ]
 }
