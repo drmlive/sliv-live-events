@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:51:57 11-05-2025",
+    "last update time": "12:02:24 11-05-2025",
     "matches": [
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": 1090479499,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002313/1746770695116335_UFC315_ENG_9may_Landscape_thumb_live.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 315",
-            "match_name": "UFC 315 - Muhammad vs Della Maddalena - 11 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1746987717~acl=/*~id=33509423731760475033310090819928~hmac=d2dda565d04da85923392b1adf02aa8615ba11c7ad657c34a4eb5f5d54998fa1"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": 1090479498,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002313/1746770671734335_UFC315_Multilang_9may_Landscape_thumb_live.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "UFC 315",
-            "match_name": "UFC 315 - Muhammad vs Della Maddalena - 11 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1746987717~acl=/*~id=33509423731760475033310090819928~hmac=d2dda565d04da85923392b1adf02aa8615ba11c7ad657c34a4eb5f5d54998fa1"
-        },
         {
             "event_category": "Sport",
             "isLive": true,
@@ -37,10 +11,7 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup 2025",
-            "match_name": "Recurve Individual Final Fours - 11 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1746987717~acl=/*~id=33509423731760475033310090819928~hmac=d2dda565d04da85923392b1adf02aa8615ba11c7ad657c34a4eb5f5d54998fa1"
+            "match_name": "Recurve Individual Final Fours - 11 May 2025"
         },
         {
             "event_category": "Golf",
@@ -51,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series Japan - Day 4 - 11 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746987717~acl=/*~id=33509423731760475033310090819928~hmac=d2dda565d04da85923392b1adf02aa8615ba11c7ad657c34a4eb5f5d54998fa1",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746987717~acl=/*~id=33509423731760475033310090819928~hmac=d2dda565d04da85923392b1adf02aa8615ba11c7ad657c34a4eb5f5d54998fa1",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746987717~acl=/*~id=33509423731760475033310090819928~hmac=d2dda565d04da85923392b1adf02aa8615ba11c7ad657c34a4eb5f5d54998fa1"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746988344~acl=/*~id=71909519785456951095801799919249~hmac=916ba0d6e5254e9549a0d73ccd14f4786258e097787ac09e1071d36969f86a97",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746988344~acl=/*~id=71909519785456951095801799919249~hmac=916ba0d6e5254e9549a0d73ccd14f4786258e097787ac09e1071d36969f86a97",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1746988344~acl=/*~id=71909519785456951095801799919249~hmac=916ba0d6e5254e9549a0d73ccd14f4786258e097787ac09e1071d36969f86a97"
         },
         {
             "event_category": "Tennis",
