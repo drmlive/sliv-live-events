@@ -1,0 +1,38 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "03:34:12 14-05-2025",
+    "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090479578,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002174/1746516284965568_ATP_Rome_Open_25_Rd4_landscape_thumb_Live.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ATP Masters 1000 - Internazionali BNL d\u2019Italia - Rome 2025",
+            "match_name": "Day 7 - 13 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1747217052~acl=/*~id=17392726852214574937257446521939~hmac=6a2f3da02f71f2c9be15c20f55e1ef6b21137bb86debc9850dc17f1c68fddb82"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090477398,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001799/1745585184540896_Roland_Garros_2025_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Roland-Garros 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090479438,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002325/1746792604085264_Crystal-Palace-vs-Man-City-Final_9may_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Crystal Palace vs Man City - The Emirates FA Cup 2024-25"
+        }
+    ]
+}
