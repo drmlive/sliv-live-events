@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:13:32 18-05-2025",
+    "last update time": "00:23:38 18-05-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090479652,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002519/1747328268831124_facup25_final_Crystal_Palace_vs_Man_City_15may_eng_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2024-25",
-            "match_name": "Crystal Palace vs Manchester City - Final - 17 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1747550610~acl=/*~id=04539543489680097630290146943944~hmac=7af85af37d1029225fccca60134ed845e12813fc0c8515c8418eb77f52a2fa89"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090479651,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002519/1747328278215124_facup25_final_Crystal_Palace_vs_Man_City_15may_hindi_multi_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "HIN",
-            "event_name": "The Emirates FA Cup 2024-25",
-            "match_name": "Crystal Palace vs Manchester City - Final - 17 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/MA07-V3/master_mdh.m3u8?hdnea=exp=1747550610~acl=/*~id=04539543489680097630290146943944~hmac=7af85af37d1029225fccca60134ed845e12813fc0c8515c8418eb77f52a2fa89"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
