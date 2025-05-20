@@ -1,0 +1,29 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "23:12:50 20-05-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090479705,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002544/1747407905142399_SPL2425_MD33_Al_Shabab_vs_Al_Ittihad_16may_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Roshn Saudi League 2024-25",
+            "match_name": "Al-Shabab vs Al-Ittihad - MD 33 - 20 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1747806169~acl=/*~id=83651811606359018476569191432679~hmac=061a25a331aacf0aeef62f801676453932dd5760e8fb89af7b01ebc079b132c1"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090477398,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Roland-Garros 2025"
+        }
+    ]
+}
