@@ -1,0 +1,47 @@
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "21:30:50 21-05-2025",
+    "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090479867,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002544/1747408601908399_SPL2425_MD33_Al_Nassr_vs_Al_Khaleej_16may_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Roshn Saudi League 2024-25",
+            "match_name": "Al-Nassr vs Al-Khaleej - MD 33 - 21 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1747886450~acl=/*~id=62320134334931528427582073514495~hmac=313cb4f5badad417986d12cdd9bff47c2671081a56a69137f78d185ed925386e"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090477398,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Roland-Garros 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090479753,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002464/1747204114059555_ENG_VS_WI_WOMEN_10SEC_APP_LANDSCAPE.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - West Indies Women Tour of England"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090479890,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002641/1747661791247612_eng-vs-zim_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Zimbabwe Tour of England 2025"
+        }
+    ]
+}
