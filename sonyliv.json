@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:59:58 22-05-2025",
+    "last update time": "20:10:04 22-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 1 - 22 May 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1747967397~acl=/*~id=49105562955210286950040305941999~hmac=9f7c8294107ce500d0000f0efa4be20edcbc9f425adb5aa58fa2e83a77f06726"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1747968004~acl=/*~id=75914471417717486642771908879906~hmac=a9048d89e3771532316b82491dd48ce6062858aa6847ce132c9f4239ba9982b9"
         },
         {
             "event_category": "Fight Sports",
@@ -27,7 +27,7 @@
             "match_name": "Episode 2 - Season 4 - 22 May 2025",
             "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1747967397~acl=/*~id=49105562955210286950040305941999~hmac=9f7c8294107ce500d0000f0efa4be20edcbc9f425adb5aa58fa2e83a77f06726"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1747968004~acl=/*~id=75914471417717486642771908879906~hmac=a9048d89e3771532316b82491dd48ce6062858aa6847ce132c9f4239ba9982b9"
         },
         {
             "event_category": "Tennis",
@@ -37,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Roland-Garros 2025"
+        },
+        {
+            "event_category": "CHESS",
+            "isLive": false,
+            "contentId": 1090479919,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002655/1747734545149344_Promo-_Norway_Chess_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Norway Chess 2025"
         }
     ]
 }
