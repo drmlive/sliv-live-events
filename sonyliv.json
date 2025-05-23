@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:51:05 24-05-2025",
+    "last update time": "02:01:11 24-05-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090480014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002755/174790097709393_ENG_W_vs_WI_W_2t20i_22may_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "West Indies Women Tour of England 2025",
-            "match_name": "2nd T20I - 23 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1748074864~acl=/*~id=93213378080346265708102824988134~hmac=ded83fa87a862a591cf4e9899453e4a6ea2e6d3e121cc2831a4b82fa64044034"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "FC Saarbrucken vs Eintracht Braunschweig - Relegation Play-off Leg 1 - 23 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748074864~acl=/*~id=93213378080346265708102824988134~hmac=ded83fa87a862a591cf4e9899453e4a6ea2e6d3e121cc2831a4b82fa64044034",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748074864~acl=/*~id=93213378080346265708102824988134~hmac=ded83fa87a862a591cf4e9899453e4a6ea2e6d3e121cc2831a4b82fa64044034",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748074864~acl=/*~id=93213378080346265708102824988134~hmac=ded83fa87a862a591cf4e9899453e4a6ea2e6d3e121cc2831a4b82fa64044034"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748075471~acl=/*~id=79402660493292504936457609325672~hmac=6a622779041b644f5349b20848858e1c235da355f841e7211aee11c16be7a8af",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748075471~acl=/*~id=79402660493292504936457609325672~hmac=6a622779041b644f5349b20848858e1c235da355f841e7211aee11c16be7a8af",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748075471~acl=/*~id=79402660493292504936457609325672~hmac=6a622779041b644f5349b20848858e1c235da355f841e7211aee11c16be7a8af"
         },
         {
             "event_category": "Tennis",
