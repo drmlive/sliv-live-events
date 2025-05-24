@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:23:53 24-05-2025",
+    "last update time": "06:33:58 24-05-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -20,6 +20,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Norway Chess 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090480125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002811/1748029203073826_RealBetis_vs_Chelsea_Final_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Betis vs Chelsea -  UEFA Conference League 2024-25"
         }
     ]
 }
