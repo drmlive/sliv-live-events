@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:13:39 26-05-2025",
+    "last update time": "13:23:46 26-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -13,15 +13,6 @@
             "event_name": "Upcoming - PSG vs Inter Milan - UEFA Champions League 2024-25"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090480125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002871/1748180799938808_uecl25_final_real_betis_vs_chelsea_25may_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Betis vs Chelsea -  UEFA Conference League 2024-25"
-        },
-        {
             "event_category": "CHESS",
             "isLive": false,
             "contentId": 1090479919,
@@ -29,6 +20,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Norway Chess 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090480125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002871/1748180799938808_uecl25_final_real_betis_vs_chelsea_25may_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Betis vs Chelsea -  UEFA Conference League 2024-25"
         }
     ]
 }
