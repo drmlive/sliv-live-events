@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:27:38 28-05-2025",
+    "last update time": "01:37:44 28-05-2025",
     "matches": [
-        {
-            "event_category": "CHESS",
-            "isLive": true,
-            "contentId": 1090480407,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002932/1748264170916991_Norway_Chess_round2_gen_26may_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Norway Chess 2025",
-            "match_name": "Day 2 - 27 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748419057~acl=/*~id=61774416993030679597694177018823~hmac=03ff9be226957e7d6b7476feb65d27707c5f36264edc05e7d24428aaa5b565f5"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2024-25",
             "match_name": "Eintracht Braunschweig vs FC Saarbrucken - Relegation Play-off Leg 2 - 27 May 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748419057~acl=/*~id=61774416993030679597694177018823~hmac=03ff9be226957e7d6b7476feb65d27707c5f36264edc05e7d24428aaa5b565f5",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748419057~acl=/*~id=61774416993030679597694177018823~hmac=03ff9be226957e7d6b7476feb65d27707c5f36264edc05e7d24428aaa5b565f5",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748419057~acl=/*~id=61774416993030679597694177018823~hmac=03ff9be226957e7d6b7476feb65d27707c5f36264edc05e7d24428aaa5b565f5"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748419664~acl=/*~id=02840615760321014895776037318317~hmac=441bdffab766636342b88a7ec0f4465ef8fa8e12f2511a46c2d76154cb7d4425",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748419664~acl=/*~id=02840615760321014895776037318317~hmac=441bdffab766636342b88a7ec0f4465ef8fa8e12f2511a46c2d76154cb7d4425",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1748419664~acl=/*~id=02840615760321014895776037318317~hmac=441bdffab766636342b88a7ec0f4465ef8fa8e12f2511a46c2d76154cb7d4425"
         },
         {
             "event_category": "Football",
