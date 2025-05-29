@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:34:00 30-05-2025",
+    "last update time": "00:44:07 30-05-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090480694,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003124/1748435141586824_engvswi25_1odi_28may_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "West Indies Tour of England 2025",
-            "match_name": "1st ODI - 29 May 2025",
-            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1748588640~acl=/*~id=78579558580750847908088434923306~hmac=7eaf43a95e3228aa4de338d0ed03cd9ba634effd2b20c49b53c91cf18c173850"
-        },
         {
             "event_category": "CHESS",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "Round 4 - 29 May 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748588640~acl=/*~id=78579558580750847908088434923306~hmac=7eaf43a95e3228aa4de338d0ed03cd9ba634effd2b20c49b53c91cf18c173850"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748589247~acl=/*~id=66010251296978184740518058913377~hmac=90f4ca4ddf910dc5065baada4c0b2585f60e1194a831df61aad1ec8a06f1e4f3"
         }
     ]
 }
