@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:50:42 29-05-2025",
+    "last update time": "20:00:49 29-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,20 @@
             "match_name": "1st ODI - 29 May 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1748571642~acl=/*~id=83222092898922618224324961431282~hmac=fa4363e21f9a15aaaf817c913417ede69a04e8b1273e57f8e9762df240b1ea52"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1748572249~acl=/*~id=49139659671135167331499638066031~hmac=182890cde14f8b64b180dad256c6301d2d1b08ed78a9bb9ef8d501fda7867a90"
+        },
+        {
+            "event_category": "CHESS",
+            "isLive": true,
+            "contentId": 1090481025,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002932/1748264186483991_Norway_Chess_round4_gen_26may_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Norway Chess 2025",
+            "match_name": "Round 4 - 29 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748572249~acl=/*~id=49139659671135167331499638066031~hmac=182890cde14f8b64b180dad256c6301d2d1b08ed78a9bb9ef8d501fda7867a90"
         }
     ]
 }
