@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:53:43 30-05-2025",
+    "last update time": "17:03:50 30-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "India A Tour of England 2025",
             "match_name": "Day 1 - 1st Unofficial Test - 30 May 2025",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748647423~acl=/*~id=38354978029199176724427135654861~hmac=6ccc6cd2b0df3d5616279e2b0ce3bf7594f492638089e6e4396b51c3ca862425",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748647423~acl=/*~id=38354978029199176724427135654861~hmac=6ccc6cd2b0df3d5616279e2b0ce3bf7594f492638089e6e4396b51c3ca862425",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748647423~acl=/*~id=38354978029199176724427135654861~hmac=6ccc6cd2b0df3d5616279e2b0ce3bf7594f492638089e6e4396b51c3ca862425"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748648030~acl=/*~id=39624689854033144808435142130672~hmac=8765c7dea5c118f993a7b8adc184193eeafdf8a926d93d458e03a327d74e1c3a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748648030~acl=/*~id=39624689854033144808435142130672~hmac=8765c7dea5c118f993a7b8adc184193eeafdf8a926d93d458e03a327d74e1c3a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748648030~acl=/*~id=39624689854033144808435142130672~hmac=8765c7dea5c118f993a7b8adc184193eeafdf8a926d93d458e03a327d74e1c3a"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090480611,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858936386310_ENG_W_vs_WI_W_1odi_30may_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "West Indies Women Tour of England 2025",
+            "match_name": "1st ODI - 30 May 2025"
         }
     ]
 }
