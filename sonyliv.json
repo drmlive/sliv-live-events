@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:44:42 31-05-2025",
+    "last update time": "19:54:49 31-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,20 @@
             "match_name": "Day 2 - 1st Unofficial Test - 31 May 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748744082~acl=/*~id=69675069887895526410859993352487~hmac=683564001af6f216bd046de4b5e8b22d78407f3c32ff2a8c451b83a66becfe6a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748744689~acl=/*~id=55979168040403305873917066357812~hmac=ef80a60b22e7c4ad592b08c035ddb30321b0bf3166e98ad17ca7d7bc38d0edba"
+        },
+        {
+            "event_category": "CHESS",
+            "isLive": true,
+            "contentId": 1090481039,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002932/1748264195251991_Norway_Chess_round5_gen_26may_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Norway Chess 2025",
+            "match_name": "Round 5 - 31 May 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748744689~acl=/*~id=55979168040403305873917066357812~hmac=ef80a60b22e7c4ad592b08c035ddb30321b0bf3166e98ad17ca7d7bc38d0edba"
         },
         {
             "event_category": "Cricket",
