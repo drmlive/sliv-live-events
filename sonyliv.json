@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:10:42 01-06-2025",
+    "last update time": "03:20:49 01-06-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090481052,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003324/1748605810011263_UCL25_final_psg_vs_inter_30may_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "PSG vs Inter Milan - Final - 1 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1748770842~acl=/*~id=35809692045479097359725083801078~hmac=cb818897eb79586eb4007408c9f1d073ec81760d9563d414b9166c97b6ebe503"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090481058,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003324/1748605799445263_UCL25_final_psg_vs_inter_30may_multilang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "UEFA Champions League 2024-25",
-            "match_name": "PSG vs Inter Milan - Final - 1 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1748770842~acl=/*~id=35809692045479097359725083801078~hmac=cb818897eb79586eb4007408c9f1d073ec81760d9563d414b9166c97b6ebe503"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
