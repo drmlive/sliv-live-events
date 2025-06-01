@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:34:57 01-06-2025",
+    "last update time": "19:45:05 01-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Day 3 - 1st Unofficial Test - 1 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748829897~acl=/*~id=74615760507363331892762714763152~hmac=b2fafd7b07757a72db8f297fb6d9d5344ec22055758afb209f2ab53143289bb6"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748830505~acl=/*~id=86249975089488011710128500673335~hmac=7d35ea9b782b14c5541dc0f573a5039fb79dc86085910a6e40f02f8b4659bf01"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +27,20 @@
             "match_name": "2nd ODI - 1 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1748829897~acl=/*~id=74615760507363331892762714763152~hmac=b2fafd7b07757a72db8f297fb6d9d5344ec22055758afb209f2ab53143289bb6"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1748830505~acl=/*~id=86249975089488011710128500673335~hmac=7d35ea9b782b14c5541dc0f573a5039fb79dc86085910a6e40f02f8b4659bf01"
+        },
+        {
+            "event_category": "CHESS",
+            "isLive": true,
+            "contentId": 1090481705,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003518/1748776270396968_Norway_Chess_round6_gen_1jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Norway Chess 2025",
+            "match_name": "Round 6 - 1 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748830505~acl=/*~id=86249975089488011710128500673335~hmac=7d35ea9b782b14c5541dc0f573a5039fb79dc86085910a6e40f02f8b4659bf01"
         }
     ]
 }
