@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:07:35 01-06-2025",
+    "last update time": "23:17:42 01-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090481632,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003330/1748608393723848_eng_lions_vs_ind_a_unofficial_test1_day3_30may_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "India A Tour of England 2025",
-            "match_name": "Day 3 - 1st Unofficial Test - 1 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748842655~acl=/*~id=88285142206666909607640248433074~hmac=3b54ae2dd4e483948120ee91918d5142bd5f8866bdb9e08f000d29e3edda57ba"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "2nd ODI - 1 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1748842655~acl=/*~id=88285142206666909607640248433074~hmac=3b54ae2dd4e483948120ee91918d5142bd5f8866bdb9e08f000d29e3edda57ba"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1748843262~acl=/*~id=15844541054866200513303390474300~hmac=c7563fca2b68a6b7185ff614440dede6ed5a1d93bdc92336108c7195fa282604"
         },
         {
             "event_category": "CHESS",
@@ -40,7 +27,7 @@
             "match_name": "Round 6 - 1 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748842655~acl=/*~id=88285142206666909607640248433074~hmac=3b54ae2dd4e483948120ee91918d5142bd5f8866bdb9e08f000d29e3edda57ba"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748843262~acl=/*~id=15844541054866200513303390474300~hmac=c7563fca2b68a6b7185ff614440dede6ed5a1d93bdc92336108c7195fa282604"
         }
     ]
 }
