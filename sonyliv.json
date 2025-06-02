@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:40:13 02-06-2025",
+    "last update time": "19:50:20 02-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,20 @@
             "match_name": "Day 4 - 1st Unofficial Test - 2 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748916613~acl=/*~id=02115997688426009498129148144797~hmac=4fb98c279280ee889ef0432c5e79394e9565640986ec16e5a191496fb1dc31e0"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1748917220~acl=/*~id=19370680713595754978188250412696~hmac=1d5972ac881b412692b9e17045513f8dc2b24b173f5905241b9716164eba333b"
+        },
+        {
+            "event_category": "CHESS",
+            "isLive": true,
+            "contentId": 1090481948,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003518/1748776279961968_Norway_Chess_round7_gen_1jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Norway Chess 2025",
+            "match_name": "Round 7 - 2 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1748917220~acl=/*~id=19370680713595754978188250412696~hmac=1d5972ac881b412692b9e17045513f8dc2b24b173f5905241b9716164eba333b"
         },
         {
             "event_category": "Football",
