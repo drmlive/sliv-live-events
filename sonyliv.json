@@ -1,8 +1,31 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:42:51 04-06-2025",
+    "last update time": "23:52:58 04-06-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090482161,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003718/1749027445585998_UNL25_SF_germany_vs_portugal_4jun_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "Germany vs Portugal - Semi-final - 5 Jun 2025 (English)",
+            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1749104577~acl=/*~id=78463907660079516655508768441010~hmac=a5461302d0a48c539c5c010e780c59a0cd95f5f899b7a9051b54f7b3e8c5a7ec"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090482165,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003718/1749027437719998_UNL25_SF_germany_vs_portugal_4jun_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 3",
+            "audioLanguageName": null,
+            "event_name": "UEFA Nations League 2024-25",
+            "match_name": "Germany vs Portugal - Semi-final - 6 Jun 2025 (Multi)"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,7 +37,7 @@
             "match_name": "2nd ODI - 4 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1749103971~acl=/*~id=68750039646684151956798641459486~hmac=fe209bacf0a3bf593eb02b8249b699ea3ac0a3e4a3aafa10108e16ae09d97244"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35ME-V3/master_mdh.m3u8?hdnea=exp=1749104577~acl=/*~id=78463907660079516655508768441010~hmac=a5461302d0a48c539c5c010e780c59a0cd95f5f899b7a9051b54f7b3e8c5a7ec"
         },
         {
             "event_category": "Football",
