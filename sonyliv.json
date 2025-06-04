@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:45:02 05-06-2025",
+    "last update time": "02:55:08 05-06-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090482161,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003718/1749027445585998_UNL25_SF_germany_vs_portugal_4jun_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2024-25",
-            "match_name": "Germany vs Portugal - Semi-final - 5 Jun 2025 (English)",
-            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1749114902~acl=/*~id=13122751945766734256691760495876~hmac=7410f4b75bc3dcd99edf92041a192764430fbebc8a93e07397cd4d58c8d5840f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090482165,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003718/1749027437719998_UNL25_SF_germany_vs_portugal_4jun_multi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "UEFA Nations League 2024-25",
-            "match_name": "Germany vs Portugal - Semi-final - 6 Jun 2025 (Multi)",
-            "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1749114902~acl=/*~id=13122751945766734256691760495876~hmac=7410f4b75bc3dcd99edf92041a192764430fbebc8a93e07397cd4d58c8d5840f"
-        },
         {
             "event_category": "Football",
             "isLive": false,
