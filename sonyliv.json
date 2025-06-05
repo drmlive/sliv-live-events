@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:45:23 05-06-2025",
+    "last update time": "20:55:30 05-06-2025",
     "matches": [
         {
             "event_category": "CHESS",
@@ -14,7 +14,20 @@
             "match_name": "Round 9 - 5 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1749179723~acl=/*~id=64743005314385250884752080784479~hmac=59c8b1ece44c767dfa876d201c540c11b88fc418606ef2fa588b7fd116b48490"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1749180330~acl=/*~id=27648712582256573787468729584336~hmac=e9e141241732bda355289def0e71df597765fddfc3081bfa9785b6133cb4a77d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090481947,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749037092812297_UEFA_INT_Friendlies_Georgia_vs_Faroe_Island_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Georgia vs Faroe Islands - 5 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749180330~acl=/*~id=27648712582256573787468729584336~hmac=e9e141241732bda355289def0e71df597765fddfc3081bfa9785b6133cb4a77d",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749180330~acl=/*~id=27648712582256573787468729584336~hmac=e9e141241732bda355289def0e71df597765fddfc3081bfa9785b6133cb4a77d",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749180330~acl=/*~id=27648712582256573787468729584336~hmac=e9e141241732bda355289def0e71df597765fddfc3081bfa9785b6133cb4a77d"
         },
         {
             "event_category": "Football",
