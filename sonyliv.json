@@ -1,31 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:39:37 06-06-2025",
+    "last update time": "02:49:47 06-06-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090482173,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003722/1749029124846536_UNL25_SF_spain_vs_france_4jun_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2024-25",
-            "match_name": "Spain vs France - Semi-final - 6 Jun 2025 ",
-            "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1749200977~acl=/*~id=01184139825483977521750413832953~hmac=3804244e068df0b2cf7c9bbe39c1923c212bc3cb2f4971e464264006292e574f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090482177,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003722/1749029094060536_UNL25_SF_spain_vs_france_4jun_multi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "UEFA Nations League 2024-25",
-            "match_name": "Spain vs France - Semi-final - 6 Jun 2025"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
