@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:23:57 05-06-2025",
+    "last update time": "18:34:03 05-06-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090479641,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003799/1749104750556359_RG25_SF_Sabalenka_vs_Swiatek_5jun_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2025",
-            "match_name": "Sabalenka vs Swiatek - Semi-final - 5 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749171237~acl=/*~id=79705098083759871266429566901093~hmac=83094957d9cde603ff318a5679635b3a814b74ff82b7fb0b60f2601ca2f8981b"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090479640,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003801/1749106339366577_RG25_SF_mens_doubles_roger_vasselin_nys_vs_granoller_zeballos_5jun_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2025",
-            "match_name": "Nys/Roger-Vasselin vs Granollers/Zeballos - Men's Doubles - 05 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/sR08VoKrSlK-bK1TeuEtVw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI39ME-V3/master_mdh.m3u8?hdnea=exp=1749171237~acl=/*~id=79705098083759871266429566901093~hmac=83094957d9cde603ff318a5679635b3a814b74ff82b7fb0b60f2601ca2f8981b"
-        },
         {
             "event_category": "Football",
             "isLive": false,
