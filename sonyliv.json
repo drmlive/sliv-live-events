@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:44:44 05-06-2025",
+    "last update time": "19:54:51 05-06-2025",
     "matches": [
+        {
+            "event_category": "CHESS",
+            "isLive": true,
+            "contentId": 1090482483,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003518/1748776295217968_Norway_Chess_round9_gen_1jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Norway Chess 2025",
+            "match_name": "Round 9 - 5 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1749176690~acl=/*~id=14595448489491794418668348980259~hmac=b994883b902e7d8475cb313c59244fb9e3e2ed8a610802cdf53e8af6f59e739d"
+        },
         {
             "event_category": "Football",
             "isLive": false,
