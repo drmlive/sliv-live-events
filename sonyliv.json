@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:25:53 06-06-2025",
+    "last update time": "23:36:04 06-06-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Jannik Sinner vs Novak Djokovic - Men's Singles - 06 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/VAHDT5heQmq5tXdGGSejqw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI38ME-V3/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +27,20 @@
             "match_name": "1st T20I - 6 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090481979,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003654/1748868528470458_European_Qualifiers_for_the_2026_FIFA_World_Cup_Norway_vs_Italy_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Norway vs Italy - MD 3 - 7 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
         },
         {
             "event_category": "Cricket",
@@ -40,7 +53,72 @@
             "match_name": "Day 1 - 2nd Unofficial Test - 6 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090481986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003654/1748868773203458_European_Qualifiers_for_the_2026_FIFA_World_Cup_North_Macedonia_vs_Belgium_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "North Macedonia vs Belgium - MD 3 - 7 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090481987,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003890/1749203746001528_European_Qualifiers_for_the_2026_FIFA_World_Cup_Gibraltar_vs_Croatia_rev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Gibraltar vs Croatia - MD 3 - 7 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090481973,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003654/1748868304612458_European_Qualifiers_for_the_2026_FIFA_World_Cup_Wales_vs_Liechtenstein_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Wales vs Liechtenstein - MD 3 - 7 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090481985,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003654/1748869797562458_European_Qualifiers_for_the_2026_FIFA_World_Cup_Czechia_vs_Montenegro_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Czechia vs Montenegro - MD 3 - 7 June 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090481984,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003654/1748869586144458_European_Qualifiers_for_the_2026_FIFA_World_Cup_Estonia_vs_Israel_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Estonia vs Israel - MD 3 - 7 June 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
         },
         {
             "event_category": "CHESS",
@@ -53,7 +131,20 @@
             "match_name": "Round 10 - 6 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090482001,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749039680402297_UEFA_INT_Friendlies_Poland_vs_Moldova_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Poland vs Moldova - 7 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002938/LIV11UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002938/LIV11UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002938/LIV11UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
         },
         {
             "event_category": "Football",
@@ -64,22 +155,35 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Hungary vs Sweden - 6 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090481955,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749038025642297_UEFA_INT_Friendlies_Bulgaria_vs_Cyprus_4jun_landscape_thumb.jpg",
+            "contentId": 1090482002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749039801589297_UEFA_INT_Friendlies_Scotland_vs_Iceland_4jun_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
-            "match_name": "Bulgaria vs Cyprus - 6 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
+            "match_name": "Scotland vs Iceland - 7 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002939/LIV12UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002939/LIV12UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002939/LIV12UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090481994,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749039233984297_UEFA_INT_Friendlies_Republic_of_Ireland_vs_Senegal_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Republic of Ireland vs Senegal - 7 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002937/LIV10UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002937/LIV10UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002937/LIV10UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
         },
         {
             "event_category": "Football",
@@ -90,35 +194,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Kosovo vs Armenia - 6 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090481964,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003737/1749038538099297_UEFA_INT_Friendlies_Luxembourg_vs_Slovenia_4jun_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Luxembourg vs Slovenia - 6 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002931/LIV04UEFA/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090479639,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003889/1749200295003456_RG25_SF_Sinner_vs_Djokovic_6jun_multi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "Roland-Garros 2025",
-            "match_name": "Sinner vs Djokovic - Semi-final - 6 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749275752~acl=/*~id=71999125114126953853232786845444~hmac=c355594e02491398b4c9fa577d735b33b864b3ab85cf67515f175441928d68ef"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749276361~acl=/*~id=29481422705285442681080259883000~hmac=8179d1f9bdc01ecf83554cd72356cc631e522a9b29cc3c51b5d881978b3e2691"
         },
         {
             "event_category": "Cricket",
