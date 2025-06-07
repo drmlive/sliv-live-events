@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:56:59 07-06-2025",
+    "last update time": "15:07:05 07-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090482193,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003824/1749134508049476_eng_lions_vs_ind_a_2nd_unofficial_test_match_day2_5jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "India A Tour of England 2025",
+            "match_name": "Day 2 - 2nd Unofficial Test - 7 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1749332224~acl=/*~id=62852634338163531662034063520789~hmac=65c79b1d9eab46c5a9aba567f08d721d97554260ddd2c171cb20195b8f928af3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090482796,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003301/174858934612110_ENG_W_vs_WI_W_3odi_30may_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "West Indies Women Tour of England 2025",
+            "match_name": "3rd ODI - 7 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749332224~acl=/*~id=62852634338163531662034063520789~hmac=65c79b1d9eab46c5a9aba567f08d721d97554260ddd2c171cb20195b8f928af3"
+        },
         {
             "event_category": "Football",
             "isLive": false,
