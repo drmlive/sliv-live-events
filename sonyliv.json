@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:06:23 07-06-2025",
+    "last update time": "14:16:30 07-06-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup 2025",
             "match_name": "Compound Team Finals - 7 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749328582~acl=/*~id=65658550103354243725257746861678~hmac=771999b0132497e7c7bb430e52c0dd2b6ab52d66742bd85418c6a00fa2266e9e",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749328582~acl=/*~id=65658550103354243725257746861678~hmac=771999b0132497e7c7bb430e52c0dd2b6ab52d66742bd85418c6a00fa2266e9e",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749328582~acl=/*~id=65658550103354243725257746861678~hmac=771999b0132497e7c7bb430e52c0dd2b6ab52d66742bd85418c6a00fa2266e9e"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749329190~acl=/*~id=63808862497884443765652603813053~hmac=bc35db33b4e3b95a8337176df477a266bd0537134c951d9c89ee820741ed95c7",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749329190~acl=/*~id=63808862497884443765652603813053~hmac=bc35db33b4e3b95a8337176df477a266bd0537134c951d9c89ee820741ed95c7",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749329190~acl=/*~id=63808862497884443765652603813053~hmac=bc35db33b4e3b95a8337176df477a266bd0537134c951d9c89ee820741ed95c7"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090482736,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003893/1749201625089525_UNL25_final_portugal_vs_spain_6jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Nations League 2024-25 - Portugal vs Spain"
         },
         {
             "event_category": "Cricket",
