@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:57:54 08-06-2025",
+    "last update time": "05:08:01 08-06-2025",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090482634,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003990/1749298643013367_UFC316_prelims_7jun_eng_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 316 - Dvalishvili vs O'Malley 2",
+            "match_name": "UFC 316 - 8 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1749382681~acl=/*~id=21746363542976343681405876788524~hmac=1c2c4e2038e5842777bd863fa003c0309daaf34aa69f7d20501c2807dee1e012"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090482635,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003990/1749298616043367_UFC316_prelims_7jun_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UFC 316 - Dvalishvili vs O'Malley 2",
+            "match_name": "UFC 316 - 8 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1749382681~acl=/*~id=21746363542976343681405876788524~hmac=1c2c4e2038e5842777bd863fa003c0309daaf34aa69f7d20501c2807dee1e012"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
