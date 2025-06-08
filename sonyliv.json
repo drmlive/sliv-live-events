@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:52:38 08-06-2025",
+    "last update time": "12:02:44 08-06-2025",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": 1090482637,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003907/1749218371849803_HAWC2025_Turkiye_Recurve_Team_finals_6jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai Archery World Cup 2025",
+            "match_name": "Recurve Team finals - 8 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749407564~acl=/*~id=12680652337400343214972304038762~hmac=8e4901b03def3426ad41fec64338d9056a7aa8d6d4319e84b2e0b8cb2ea3010a",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749407564~acl=/*~id=12680652337400343214972304038762~hmac=8e4901b03def3426ad41fec64338d9056a7aa8d6d4319e84b2e0b8cb2ea3010a",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749407564~acl=/*~id=12680652337400343214972304038762~hmac=8e4901b03def3426ad41fec64338d9056a7aa8d6d4319e84b2e0b8cb2ea3010a"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
