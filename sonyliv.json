@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:52:01 08-06-2025",
+    "last update time": "00:02:09 09-06-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090479635,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004045/1749365202012375_RG25_sinner_vs_alcaraz_8june_live_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2025",
-            "match_name": "Jannik Sinner vs Carlos Alcaraz - Final - 8 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1749450120~acl=/*~id=47150399442038282338663124456012~hmac=35d05ecd403c4e4ffd474511a908b9f1c370f24b3042b6a90220d43bc1a382fa"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -27,7 +14,20 @@
             "match_name": "Portugal vs Spain - Final - 9 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1749450120~acl=/*~id=47150399442038282338663124456012~hmac=35d05ecd403c4e4ffd474511a908b9f1c370f24b3042b6a90220d43bc1a382fa"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/master_mdh.m3u8?hdnea=exp=1749450729~acl=/*~id=86371478769647601991956491290363~hmac=9d0c1eb57b6e0e62c18035f2645a1ed16ab6f49a1c3ec392b8419ab1777d07a5"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": 1090479635,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004045/1749365202012375_RG25_sinner_vs_alcaraz_8june_live_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Roland-Garros 2025",
+            "match_name": "Jannik Sinner vs Carlos Alcaraz - Final - 8 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1749450729~acl=/*~id=86371478769647601991956491290363~hmac=9d0c1eb57b6e0e62c18035f2645a1ed16ab6f49a1c3ec392b8419ab1777d07a5"
         },
         {
             "event_category": "Football",
@@ -40,20 +40,7 @@
             "match_name": "Portugal vs Spain - Final - 9 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1749450120~acl=/*~id=47150399442038282338663124456012~hmac=35d05ecd403c4e4ffd474511a908b9f1c370f24b3042b6a90220d43bc1a382fa"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090482895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003824/1749134534038476_eng_lions_vs_ind_a_2nd_unofficial_test_match_day3_5jun_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "India A Tour of England 2025",
-            "match_name": "Day 3 - 2nd Unofficial Test - 8 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1749450120~acl=/*~id=47150399442038282338663124456012~hmac=35d05ecd403c4e4ffd474511a908b9f1c370f24b3042b6a90220d43bc1a382fa"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/MA06-V3/master_mdh.m3u8?hdnea=exp=1749450729~acl=/*~id=86371478769647601991956491290363~hmac=9d0c1eb57b6e0e62c18035f2645a1ed16ab6f49a1c3ec392b8419ab1777d07a5"
         },
         {
             "event_category": "Tennis",
@@ -66,7 +53,7 @@
             "match_name": "Jannik Sinner vs Carlos Alcaraz - Final - 8 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749450120~acl=/*~id=47150399442038282338663124456012~hmac=35d05ecd403c4e4ffd474511a908b9f1c370f24b3042b6a90220d43bc1a382fa"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/MA04-V3/master_mdh.m3u8?hdnea=exp=1749450729~acl=/*~id=86371478769647601991956491290363~hmac=9d0c1eb57b6e0e62c18035f2645a1ed16ab6f49a1c3ec392b8419ab1777d07a5"
         },
         {
             "event_category": "Cricket",
