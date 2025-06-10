@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:43:26 10-06-2025",
+    "last update time": "21:53:34 10-06-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749046841352786_UEFA_INT_Friendlies_Denmark_vs_Lithuania_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Denmark vs Lithuania - 10 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Azerbaijan vs Hungary - 10 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749615206~acl=/*~id=68064380899469988008052352520373~hmac=7f400d9bb3b39b89933fb75b6bc840cb164e18a2dcade5ce797e256de128e8e0",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749615206~acl=/*~id=68064380899469988008052352520373~hmac=7f400d9bb3b39b89933fb75b6bc840cb164e18a2dcade5ce797e256de128e8e0",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749615206~acl=/*~id=68064380899469988008052352520373~hmac=7f400d9bb3b39b89933fb75b6bc840cb164e18a2dcade5ce797e256de128e8e0"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75"
         },
         {
             "event_category": "Football",
@@ -25,9 +38,22 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Slovenia vs Bosnia-Herzegovina - 10 Jun 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749615206~acl=/*~id=68064380899469988008052352520373~hmac=7f400d9bb3b39b89933fb75b6bc840cb164e18a2dcade5ce797e256de128e8e0",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749615206~acl=/*~id=68064380899469988008052352520373~hmac=7f400d9bb3b39b89933fb75b6bc840cb164e18a2dcade5ce797e256de128e8e0",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749615206~acl=/*~id=68064380899469988008052352520373~hmac=7f400d9bb3b39b89933fb75b6bc840cb164e18a2dcade5ce797e256de128e8e0"
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483151,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749046659335786_UEFA_INT_Friendlies_Sweden_vs_Algeria_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Sweden vs Algeria - 10 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1749615814~acl=/*~id=91319870681146626993481166750770~hmac=d0569e0fb4462a1996316243150c5a1bcffd66f310075d444421d446498e7a75"
         },
         {
             "event_category": "Cricket",
