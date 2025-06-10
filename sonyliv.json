@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:42:45 10-06-2025",
+    "last update time": "20:52:51 10-06-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483149,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003743/1749045828670786_UEFA_INT_Friendlies_Azerbaijan_vs_Hungary_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Azerbaijan vs Hungary - 10 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749612171~acl=/*~id=63067604866540357071280485768343~hmac=dce3b5887e206a523ab05ee302019d625ec2481728902c0a34c5864e6b8d5b8f",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749612171~acl=/*~id=63067604866540357071280485768343~hmac=dce3b5887e206a523ab05ee302019d625ec2481728902c0a34c5864e6b8d5b8f",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1749612171~acl=/*~id=63067604866540357071280485768343~hmac=dce3b5887e206a523ab05ee302019d625ec2481728902c0a34c5864e6b8d5b8f"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483150,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003748/1749050195969336_UEFA_INT_Friendlies_Slovenia_vs_Bosnia_Herzegovina_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Slovenia vs Bosnia-Herzegovina - 10 Jun 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749612171~acl=/*~id=63067604866540357071280485768343~hmac=dce3b5887e206a523ab05ee302019d625ec2481728902c0a34c5864e6b8d5b8f",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749612171~acl=/*~id=63067604866540357071280485768343~hmac=dce3b5887e206a523ab05ee302019d625ec2481728902c0a34c5864e6b8d5b8f",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1749612171~acl=/*~id=63067604866540357071280485768343~hmac=dce3b5887e206a523ab05ee302019d625ec2481728902c0a34c5864e6b8d5b8f"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
