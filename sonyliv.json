@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:58:15 11-06-2025",
+    "last update time": "03:08:22 11-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090483160,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003827/1749137104755134_engvswi25_3t20i_5jun_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "West Indies Tour of England 2025",
-            "match_name": "3rd T20I - 10 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140-b/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1749634095~acl=/*~id=30649382714890640839188445430119~hmac=f716f4eccec7e8185307948b42e46456ba352cef011b705dc9b27da31c540913"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090483166,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003819/174913155810390_European_Qualifiers_for_the_2026_FIFA_World_Cup_Finland_vs_Poland_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Finland vs Poland - MD 4 - 11 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1749634095~acl=/*~id=30649382714890640839188445430119~hmac=f716f4eccec7e8185307948b42e46456ba352cef011b705dc9b27da31c540913"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
