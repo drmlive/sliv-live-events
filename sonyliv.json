@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:20:24 11-06-2025",
+    "last update time": "22:30:31 11-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483242,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004175/1749640760383410_1749304318196483_VitalityBlast25_Northants_vs_Bears_7jun_landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2025",
+            "match_name": "Northants Steelbacks vs Bears - 11 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1749704430~acl=/*~id=86973431069739750398549689761649~hmac=a6c07c415f7ab3839c7de73a67d2ff9a859f4206f62c994f65cd07d460934001"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
