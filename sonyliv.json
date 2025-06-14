@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:28:11 14-06-2025",
+    "last update time": "22:38:17 14-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483310,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003997/174930553562426_VitalityBlast25_Glamorgan_vs_Sussex_7jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2025",
+            "match_name": "Glamorgan vs Sussex - 14 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1749964097~acl=/*~id=20921031021513175963027780841236~hmac=aa78811ad0e8d7c7c89c5b5c774a128c2151f71e398998ac6084286ddf004d0c"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "DFCC Noida Warriors vs Ashlar Noida Warriors - 14 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1749963490~acl=/*~id=43207280122105171503651323538432~hmac=d810b1f60e8e816eee4dcae571777f55f3263d020ee1dd6e8629df690c77c35f"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1749964097~acl=/*~id=20921031021513175963027780841236~hmac=aa78811ad0e8d7c7c89c5b5c774a128c2151f71e398998ac6084286ddf004d0c"
         },
         {
             "event_category": "Cricket",
