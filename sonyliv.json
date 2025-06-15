@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:53:06 15-06-2025",
+    "last update time": "07:03:12 15-06-2025",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090483323,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004234/1749803003587700_UFC_FN_Usman_vs_Buckley_multilang_13jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Usman vs Buckley",
+            "match_name": "UFC Fight Night - Usman vs Buckley - 15 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1749994392~acl=/*~id=97496519190030599620058440694213~hmac=28cd8fae86d38e29ede4d30233173495b006ad027b0f6b64bcb83e91c4d1befc"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
