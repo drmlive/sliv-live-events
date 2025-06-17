@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:56:23 17-06-2025",
+    "last update time": "23:06:30 17-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483421,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004149/174957349458162_VitalityBlast25_Hampshire_vs_Surrey_10jun__landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2025",
+            "match_name": "Hampshire vs Surrey - 17 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_mdh.m3u8?hdnea=exp=1750224989~acl=/*~id=23070977979796171550789832287955~hmac=dc6c4aa306c2249d5fb1aa2c2cb9d1479c0b647fb38fdab2aab4dce4c935269a"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750224383~acl=/*~id=44658340799972823833404994399874~hmac=71517ecd1e76406700074568822a5439710d9c9df53288f0fe84580483ec57ea"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750224989~acl=/*~id=23070977979796171550789832287955~hmac=dc6c4aa306c2249d5fb1aa2c2cb9d1479c0b647fb38fdab2aab4dce4c935269a"
         }
     ]
 }
