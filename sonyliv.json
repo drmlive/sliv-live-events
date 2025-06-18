@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:23:31 18-06-2025",
+    "last update time": "09:33:39 18-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,20 @@
             "match_name": "1st Test - Day 2 - 18 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750262011~acl=/*~id=21857809333820331627253937690071~hmac=d10c43683630037b50d06aeee24bac1e9e9e298b8a233785b56ca64df33d092a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750262618~acl=/*~id=03642046628628385015681746220170~hmac=bef27d8337e4ee222e0910064d9721a88f75c04e336ef07e3a41aa07efe90cf3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483476,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004295/1749960426940988_PCL2025_elite_generic_15jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Cricket League Eleven 11",
+            "match_name": "Pro Cricket League Eleven 11 - 18 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750262618~acl=/*~id=03642046628628385015681746220170~hmac=bef27d8337e4ee222e0910064d9721a88f75c04e336ef07e3a41aa07efe90cf3"
         },
         {
             "event_category": "Football",
@@ -27,7 +40,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750262011~acl=/*~id=21857809333820331627253937690071~hmac=d10c43683630037b50d06aeee24bac1e9e9e298b8a233785b56ca64df33d092a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750262618~acl=/*~id=03642046628628385015681746220170~hmac=bef27d8337e4ee222e0910064d9721a88f75c04e336ef07e3a41aa07efe90cf3"
         }
     ]
 }
