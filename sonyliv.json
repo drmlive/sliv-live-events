@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:04:47 18-06-2025",
+    "last update time": "11:14:55 18-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "1st Test - Day 2 - 18 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750268086~acl=/*~id=60397324986249500135793689257970~hmac=82f62a4527f726481b6e9850a7789206ffdf6b3c940cc073a7a29a8792d095f1"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750268694~acl=/*~id=70613370126868082386872051745891~hmac=5576695e024d75cc85aabeef72dffda78134a38a5604641622573f73c2d5876b"
         },
         {
             "event_category": "Football",
@@ -27,7 +27,20 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750268086~acl=/*~id=60397324986249500135793689257970~hmac=82f62a4527f726481b6e9850a7789206ffdf6b3c940cc073a7a29a8792d095f1"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750268694~acl=/*~id=70613370126868082386872051745891~hmac=5576695e024d75cc85aabeef72dffda78134a38a5604641622573f73c2d5876b"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483476,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004295/1749960426940988_PCL2025_elite_generic_15jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Cricket League Eleven 11",
+            "match_name": "Pro Cricket League Eleven 11 - 18 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750268694~acl=/*~id=70613370126868082386872051745891~hmac=5576695e024d75cc85aabeef72dffda78134a38a5604641622573f73c2d5876b"
         }
     ]
 }
