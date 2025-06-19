@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:22:01 19-06-2025",
+    "last update time": "09:32:09 19-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,20 @@
             "match_name": "1st Test - Day 3 - 19 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750348319~acl=/*~id=33390861183752310179561833459951~hmac=c2b35688c3a5dd59dba2d119385d5f14e895076bcbfc5b5f43f3c507e2c95cc3"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750348928~acl=/*~id=03948145228674253950210752477652~hmac=9fb6c85035437fa7a7a1f86a88982f29caf52f538d844d5090928574d3bbda6a"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483522,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004295/1749960426940988_PCL2025_elite_generic_15jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Cricket League Eleven 11",
+            "match_name": "Meerut Lemford Alpha Kings vs Ghaziabad Universal Riders - 19 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750348928~acl=/*~id=03948145228674253950210752477652~hmac=9fb6c85035437fa7a7a1f86a88982f29caf52f538d844d5090928574d3bbda6a"
         },
         {
             "event_category": "Football",
@@ -27,7 +40,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750348319~acl=/*~id=33390861183752310179561833459951~hmac=c2b35688c3a5dd59dba2d119385d5f14e895076bcbfc5b5f43f3c507e2c95cc3"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750348928~acl=/*~id=03948145228674253950210752477652~hmac=9fb6c85035437fa7a7a1f86a88982f29caf52f538d844d5090928574d3bbda6a"
         }
     ]
 }
