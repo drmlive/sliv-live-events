@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:22:33 19-06-2025",
+    "last update time": "22:32:40 19-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483521,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004150/1749574239580419_VitalityBlast25_Leicester_vs_Notts_10jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2025",
+            "match_name": "Leicester vs Nottinghamshire - 19 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1750395759~acl=/*~id=66686308226480463727230560073960~hmac=617d111932a8953f89c8c3220443c39839241a71f8e4d85345ec60b81bf4e129"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750395152~acl=/*~id=01725383952655110641267693280275~hmac=7879d5878b79f799580ee14b3f1f3eb79fc090ff8e71ab635a084ab6cf945a55"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750395759~acl=/*~id=66686308226480463727230560073960~hmac=617d111932a8953f89c8c3220443c39839241a71f8e4d85345ec60b81bf4e129"
         }
     ]
 }
