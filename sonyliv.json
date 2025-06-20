@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:32:30 21-06-2025",
+    "last update time": "02:42:36 21-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090483502,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000003997/174930620083126_VitalityBlast25_Surrey_vs_Middlesex_7jun__landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Vitality Blast 2025",
-            "match_name": "Surrey vs Middlesex - 20 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1750496550~acl=/*~id=47358251715585371949807015937556~hmac=8e58ab671f3fc5949a168aa358335a4f2f0056ec4d5bd91d3fba039b3ae84f03"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750496550~acl=/*~id=47358251715585371949807015937556~hmac=8e58ab671f3fc5949a168aa358335a4f2f0056ec4d5bd91d3fba039b3ae84f03"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750497156~acl=/*~id=66658549955760886588627520986581~hmac=53b9474811b7becd6c2b64e5a3e2cabc5ca76d2510b26a4d4ac5ac1d723af6e5"
         }
     ]
 }
