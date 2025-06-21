@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:56:06 21-06-2025",
+    "last update time": "08:06:14 21-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,20 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750515965~acl=/*~id=78173115609799262368026691390796~hmac=5a8a61d3cce11ccf1d9b054da26feac44ae762ffd12997a4d78b4b5db7d3159d"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750516573~acl=/*~id=36140588444374074573512318731988~hmac=ea384e4f1d9caa2c43f8de440a744f0d229bbbac4c596103f6b38fcdbe7ed532"
+        },
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": 1090483499,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004147/1749568879059593_ABBFEWC25_Round12_Jakarta_International_EPrix_Qualifying_Race_10jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship 2024-25",
+            "match_name": "Round 12 - Sarinah Jakarta E-Prix - Qualifying Race - 21 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1750516573~acl=/*~id=36140588444374074573512318731988~hmac=ea384e4f1d9caa2c43f8de440a744f0d229bbbac4c596103f6b38fcdbe7ed532"
         }
     ]
 }
