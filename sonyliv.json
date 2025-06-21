@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:56:50 21-06-2025",
+    "last update time": "09:06:58 21-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483489,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004283/1749907078809142_SLvsBAN25_1test_day5_14jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Bangladesh Tour of Sri Lanka 2025",
+            "match_name": "1st Test - Day 5 - 21 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750520217~acl=/*~id=13870270508728356480240975206031~hmac=5604854766529767bb27d971adde6a99f4ab8c4a7618c24b7633b48f6fcecab4"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750519610~acl=/*~id=78834457293194276161224721233583~hmac=cc3536233bd4a4462ea0e2d648603218a0b773611280feba8190c3f49b26907f"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750520217~acl=/*~id=13870270508728356480240975206031~hmac=5604854766529767bb27d971adde6a99f4ab8c4a7618c24b7633b48f6fcecab4"
         },
         {
             "event_category": "Racing",
@@ -27,7 +40,7 @@
             "match_name": "Round 12 - Sarinah Jakarta E-Prix - Qualifying Race - 21 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1750519610~acl=/*~id=78834457293194276161224721233583~hmac=cc3536233bd4a4462ea0e2d648603218a0b773611280feba8190c3f49b26907f"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1750520217~acl=/*~id=13870270508728356480240975206031~hmac=5604854766529767bb27d971adde6a99f4ab8c4a7618c24b7633b48f6fcecab4"
         }
     ]
 }
