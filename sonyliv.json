@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:59:19 21-06-2025",
+    "last update time": "12:09:27 21-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "1st Test - Day 5 - 21 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750530558~acl=/*~id=11988465932571985607504219845735~hmac=94b41a1e7122d624a0a22fc71fe2f84c716cef59bfd7e9c7fddf9479db062488"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750531166~acl=/*~id=10643022307153464629717394363383~hmac=7492fe73e7837ae0fb617a751843100708db9d2450fda4f25c7c391907f2b585"
         },
         {
             "event_category": "Football",
@@ -27,7 +27,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750530558~acl=/*~id=11988465932571985607504219845735~hmac=94b41a1e7122d624a0a22fc71fe2f84c716cef59bfd7e9c7fddf9479db062488"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750531166~acl=/*~id=10643022307153464629717394363383~hmac=7492fe73e7837ae0fb617a751843100708db9d2450fda4f25c7c391907f2b585"
         },
         {
             "event_category": "Cricket",
@@ -37,10 +37,23 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Pro Cricket League Eleven 11",
-            "match_name": "DFCC Noida Warriors vs Meerut Lemford Alpha Kings - 21 Jun 2025",
+            "match_name": "Noida Falcons vs Sky Rozo Delhi Janakpuri - 21 Jun 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750530558~acl=/*~id=11988465932571985607504219845735~hmac=94b41a1e7122d624a0a22fc71fe2f84c716cef59bfd7e9c7fddf9479db062488"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750531166~acl=/*~id=10643022307153464629717394363383~hmac=7492fe73e7837ae0fb617a751843100708db9d2450fda4f25c7c391907f2b585"
+        },
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": 1090483500,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004147/1749568888459593_ABBFEWC25_Round12_Jakarta_International_EPrix_final_Race_10jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship 2024-25",
+            "match_name": "Round 12 - Sarinah Jakarta E-Prix - Final Race - 21 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1750531166~acl=/*~id=10643022307153464629717394363383~hmac=7492fe73e7837ae0fb617a751843100708db9d2450fda4f25c7c391907f2b585"
         }
     ]
 }
