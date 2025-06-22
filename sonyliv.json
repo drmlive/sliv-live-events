@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:24:28 22-06-2025",
+    "last update time": "07:34:35 22-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483710,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004295/1749960461243988_PCL2025_Mixed_Corporate_generic_15jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Cricket League Eleven 11",
+            "match_name": "Noida Falcons vs Harnandi Warriors - Platinum SF - 22 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1750601074~acl=/*~id=57922710354865500072724826734888~hmac=b56474cd67cfed275d2652a54c017268511fad1a182d68ab7c32776286e3a0cc"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750600468~acl=/*~id=03015086266166087489624126470198~hmac=106c9a2e439662c90eebb025bcaff7ef44da2c4acddfe1c5bd1ad5db11ba0282"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750601074~acl=/*~id=57922710354865500072724826734888~hmac=b56474cd67cfed275d2652a54c017268511fad1a182d68ab7c32776286e3a0cc"
         }
     ]
 }
