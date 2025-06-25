@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:20:10 25-06-2025",
+    "last update time": "18:30:17 25-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090483743,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004547/1750692153748119_SLvsBAN25_2nd_test_day1_23jun_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Bangladesh Tour of Sri Lanka 2025",
-            "match_name": "2nd Test - Day 1 - 25 Jun 2025",
-            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1750899009~acl=/*~id=43975394562651247759404193708949~hmac=71b35392fc86a45f75c87a23f9a51cfc363ca52c122cc7db7d19487aa157c50a"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -27,7 +14,7 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750899009~acl=/*~id=43975394562651247759404193708949~hmac=71b35392fc86a45f75c87a23f9a51cfc363ca52c122cc7db7d19487aa157c50a"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1750899617~acl=/*~id=78145496328416330025726245888131~hmac=e0c5f6644c01fe0e7d6a8ad6331ab9d0d5d7bb5c9c3ea492feb7dbeb159168cf"
         }
     ]
 }
