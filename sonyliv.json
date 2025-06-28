@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:53:29 29-06-2025",
+    "last update time": "05:03:36 29-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,33 @@
             "match_name": "",
             "dai_url": "https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751196209~acl=/*~id=69536725897777792836680593804298~hmac=358fcc07260823f33344c8a5ac4129e45a292146485a9c7d22360ba279dbbb7e"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1751196815~acl=/*~id=33281989228114740818089976442628~hmac=c7e015a8b6e53f998d02e6841524bc51d61b4c87e7365239138f2afe1aca6116"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090483769,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004549/1750699216389368_UFC317_prelims_23jun_eng_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 317 - Topuria vs Oliveira",
+            "match_name": "UFC 317 - 29 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=exp=1751196815~acl=/*~id=33281989228114740818089976442628~hmac=c7e015a8b6e53f998d02e6841524bc51d61b4c87e7365239138f2afe1aca6116"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090483770,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004549/1750699234258368_UFC317_prelims_23jun_multi_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UFC 317 - Topuria vs Oliveira",
+            "match_name": "UFC 317 - 29 Jun 2025",
+            "dai_url": "https://dai.google.com/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_eXJZ6KPQcqtpwS9iLFchA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/MA08-V3/master_mdh.m3u8?hdnea=exp=1751196815~acl=/*~id=33281989228114740818089976442628~hmac=c7e015a8b6e53f998d02e6841524bc51d61b4c87e7365239138f2afe1aca6116"
         }
     ]
 }
