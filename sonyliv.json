@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:39:41 02-07-2025",
+    "last update time": "13:49:47 02-07-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090484143,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004746/175137701941948_SL_vs_BAN_25_1stODI_landscape_thumb_Live_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Bangladesh Tour of Sri Lanka 2025",
+            "match_name": "1st ODI - 2 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1751487587~acl=/*~id=32814244861845781368165226352922~hmac=2b2fbed154da60b5bbdb3a05f7dbb66d4add0470e01a9ed471b50688d317635a"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
