@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:29:47 03-07-2025",
+    "last update time": "22:39:54 03-07-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -14,7 +14,20 @@
             "match_name": "International Series Morocco - Day 1 - 3 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/Mg5z1zASRuCLCWPg-CXzug/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Mg5z1zASRuCLCWPg-CXzug/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118982/1090480307/ENG/std_lrl-800300010.m3u8?originpath=/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118982/1090480307/ENG/std_lrl-800300010.m3u8&hdnea=exp=1751562047~acl=/*~id=01405138543026956947647926426903~hmac=4f064d068272c2c2bc0379b2611f70aa909b9a976cbe9f58a50ea4e75e7a13db&hdnea=exp=1751605187~acl=/*~id=85707258760526614953455469518150~hmac=58c5f1e62e07cbc001d76a59297a3de124ab1d1b6cf930ac57687b03d24aba71"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118982/1090480307/ENG/std_lrl-800300010.m3u8?originpath=/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118982/1090480307/ENG/std_lrl-800300010.m3u8&hdnea=exp=1751562654~acl=/*~id=08848176486587916909298687693996~hmac=d713b7d5560794fbc2c14c5d5f28f0f69d87fd7959f7b318fca4f6f84ff32fb0&hdnea=exp=1751605794~acl=/*~id=87253209239804343869619343479660~hmac=f88cb285046d97bb44f5a1398c59889ad4675be32e2c5b48f6bb857b65f7ef64"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004465/1750432346348806_engvsind25_mens_mixed_disability_7t20i_20jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "England vs India Mixed Disability IT20 Series",
+            "match_name": "England vs India Mixed Disability - 7th T20I - 3 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1751605794~acl=/*~id=87253209239804343869619343479660~hmac=f88cb285046d97bb44f5a1398c59889ad4675be32e2c5b48f6bb857b65f7ef64"
         }
     ]
 }
