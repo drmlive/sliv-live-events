@@ -1,1 +1,29 @@
-error code: 1033
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "22:03:05 04-07-2025",
+    "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1090484344,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004635/1750950980839918_AsiaTour2025_International_Series_Morocco_Day2_26jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2025",
+            "match_name": "International Series Morocco - Day 2 - 4 Jul 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751689985~acl=/*~id=75755282117748869537222767073269~hmac=f80b5b0b745006674af0260ec56cbf344065be3c71c4e80571d76135e20ed708",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751689985~acl=/*~id=75755282117748869537222767073269~hmac=f80b5b0b745006674af0260ec56cbf344065be3c71c4e80571d76135e20ed708",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751689985~acl=/*~id=75755282117748869537222767073269~hmac=f80b5b0b745006674af0260ec56cbf344065be3c71c4e80571d76135e20ed708"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090483333,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004248/1749825339499141_SLvsBAN25_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bangladesh Tour of Sri Lanka 2025"
+        }
+    ]
+}
