@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:50:23 04-07-2025",
+    "last update time": "18:00:29 04-07-2025",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1090484344,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004635/1750950980839918_AsiaTour2025_International_Series_Morocco_Day2_26jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2025",
+            "match_name": "International Series Morocco - Day 2 - 4 Jul 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751675429~acl=/*~id=00788277981074965706215000773923~hmac=023213bd6efee8adf04fe2a9eb8b07ff2e4a78d3f87f4b619c2e9349f7448988",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751675429~acl=/*~id=00788277981074965706215000773923~hmac=023213bd6efee8adf04fe2a9eb8b07ff2e4a78d3f87f4b619c2e9349f7448988",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1751675429~acl=/*~id=00788277981074965706215000773923~hmac=023213bd6efee8adf04fe2a9eb8b07ff2e4a78d3f87f4b619c2e9349f7448988"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
