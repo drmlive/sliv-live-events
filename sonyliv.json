@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:12:56 10-07-2025",
+    "last update time": "18:23:01 10-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090483333,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004248/1749825339499141_SLvsBAN25_promo_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": 1090484622,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004973/1751984693225162_SL_vs_BAN_1t20i_8jul25_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bangladesh Tour of Sri Lanka 2025"
+            "event_name": "Bangladesh Tour of Sri Lanka 2025",
+            "match_name": "1st T20I - 10 Jul 2025",
+            "dai_url": "dai://7044GU7mRL2-99W6nrnbzA?hdnea=exp=1752152041~acl=/*~id=33922895845402947354254727275265~hmac=86b506c90f70c06edabe16dad8b35134edf4e666697cebd24ba72ce7abea65c7&hdnea=exp=1752195181~acl=/*~id=67560908220500805516976227071909~hmac=46d687a72a4f22bacbdfa85889b0ad6bde00f901cd30b7d5ceb8494fa7a85f77",
+            "pub_url": "dai://7044GU7mRL2-99W6nrnbzA?hdnea=exp=1752152041~acl=/*~id=33922895845402947354254727275265~hmac=86b506c90f70c06edabe16dad8b35134edf4e666697cebd24ba72ce7abea65c7&hdnea=exp=1752195181~acl=/*~id=67560908220500805516976227071909~hmac=46d687a72a4f22bacbdfa85889b0ad6bde00f901cd30b7d5ceb8494fa7a85f77",
+            "video_url": "dai://7044GU7mRL2-99W6nrnbzA?hdnea=exp=1752152041~acl=/*~id=33922895845402947354254727275265~hmac=86b506c90f70c06edabe16dad8b35134edf4e666697cebd24ba72ce7abea65c7&hdnea=exp=1752195181~acl=/*~id=67560908220500805516976227071909~hmac=46d687a72a4f22bacbdfa85889b0ad6bde00f901cd30b7d5ceb8494fa7a85f77"
         }
     ]
 }
