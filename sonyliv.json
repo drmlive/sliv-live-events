@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:58:21 12-07-2025",
+    "last update time": "17:08:26 12-07-2025",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": 1090484739,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004951/1751899003469730_HAWC_Madrid_Spain25_CompoundIndividualFinalFours_Landscape_thumb_live.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai Archery World Cup 2025",
+            "match_name": "Compound Individual Final Fours - 12 Jul 2025",
+            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752363506~acl=/*~id=15172390398070174615242336087091~hmac=4b0f5f96a88a1794657e14ad1ae3f47d637e0f40bb67fe9f5cb5b24bd56b5d18",
+            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752363506~acl=/*~id=15172390398070174615242336087091~hmac=4b0f5f96a88a1794657e14ad1ae3f47d637e0f40bb67fe9f5cb5b24bd56b5d18",
+            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752363506~acl=/*~id=15172390398070174615242336087091~hmac=4b0f5f96a88a1794657e14ad1ae3f47d637e0f40bb67fe9f5cb5b24bd56b5d18"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
