@@ -1,29 +1,6 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:58:53 12-07-2025",
-    "matches": [
-        {
-            "event_category": "Archery",
-            "isLive": true,
-            "contentId": 1090484739,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004951/1751899003469730_HAWC_Madrid_Spain25_CompoundIndividualFinalFours_Landscape_thumb_live.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Hyundai Archery World Cup 2025",
-            "match_name": "Compound Individual Final Fours - 12 Jul 2025",
-            "dai_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752366533~acl=/*~id=16182407126456831749026546041557~hmac=204c43823cf9838b13ee43dd2a24982db6c078737ec5e2b4e1bf61b23fb51919",
-            "pub_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752366533~acl=/*~id=16182407126456831749026546041557~hmac=204c43823cf9838b13ee43dd2a24982db6c078737ec5e2b4e1bf61b23fb51919",
-            "video_url": "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1752366533~acl=/*~id=16182407126456831749026546041557~hmac=204c43823cf9838b13ee43dd2a24982db6c078737ec5e2b4e1bf61b23fb51919"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090483333,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004248/1749825339499141_SLvsBAN25_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bangladesh Tour of Sri Lanka 2025"
-        }
-    ]
+    "last update time": "18:08:58 12-07-2025",
+    "matches": []
 }
