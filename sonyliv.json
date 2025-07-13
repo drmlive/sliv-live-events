@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:03:55 13-07-2025",
+    "last update time": "22:14:02 13-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,43 @@
             "match_name": "2nd T20I - 13 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752467635~acl=/*~id=84147993040756921410172168536666~hmac=ca435876c47a0cd98289c3b65fdb0d2068986f2d6d5c333979e41bbebeea0477"
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1752468241~acl=/*~id=44591284825272821863336231884720~hmac=e97eb6441f05b8c4304933778c868da8c558a707124044b9ec97b1e71fcaf7c3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090483333,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004248/1749825339499141_SLvsBAN25_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bangladesh Tour of Sri Lanka 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090484513,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004894/175172002811770_Cricket-Combo-Asia-Cup-Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - 365 Days of Cricket Action"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090483301,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004211/1749723314594166_Football_Composite_Promo_Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - 365 Days of Football Action"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090431389,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asia_cup_25022025_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Asia Cup 2025"
         }
     ]
 }
