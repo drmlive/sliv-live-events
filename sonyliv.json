@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:22:33 17-07-2025",
+    "last update time": "22:32:39 17-07-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090485052,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004640/1750961826067210_VitalityBlast25_mens_Yorkshire_vs_Lancashire_26jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2025",
+            "match_name": "Yorkshire vs Lancashire - 17 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/p87-f3NASZumBY5wYcN6dg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/p87-f3NASZumBY5wYcN6dg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118981/1090481707/ENG/std_lrl-800300010.m3u8?originpath=/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/1090481707/ENG/std_lrl-800300010.m3u8&hdnea=exp=1752773559~acl=/*~id=73280510670368054610251667187454~hmac=24a9d58c793794e4c2f86869de644982b2ec2355fb920ca520d72cef38e44573&hdnea=exp=1752814959~acl=/*~id=40415246036764584291629749470222~hmac=bc06e2610480e3e2468c5ded51fb6fa47288a9f41d10141c2b85ad56a4c3f3a2"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
