@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:55:16 25-07-2025",
+    "last update time": "16:05:22 25-07-2025",
     "matches": [
+        {
+            "event_category": "ESPORTS",
+            "isLive": true,
+            "contentId": 1090485477,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005442/1753344384248186_WC25_BGMI_Group_Stage_Day1_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "E Sports World Cup 2025",
+            "match_name": "PMWL at EWC 25 with S8UL - Day 1 - Group Stage - 25 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?originpath=/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event12_adm/2037141/DAI21ME-V3/master_lrl.m3u8&adstack=MT-SSB&ads.Idtype=uuid&ads.rdid=b9fdde005d894a0ba7cb13d210ddf01d-1712618823610&ads.Is_lat=0&ads.ppid=fa6d8264d0f1e034e4de2f8615ecea3b&hdnea=exp=1753461321~acl=/*~id=34421582654631053521077653864604~hmac=d8a451badd1ad7bce2a783fe050759563fbd42065152222571c8481361e35875&hdnea=exp=1753482921~acl=/*~id=84244001885358418760055969759003~hmac=6f1c949d2bf6f9f48930f10bb8b599ae79f9e8a3d02824d6b3748a6680f60920"
+        },
         {
             "event_category": "Football",
             "isLive": false,
