@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:27:07 26-07-2025",
+    "last update time": "13:37:15 26-07-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -13,15 +13,6 @@
             "event_name": "Upcoming - Shillong Lajong FC vs Malaysian Armed Forces - IndianOil Durand Cup 2025"
         },
         {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090485514,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005513/1753507287027572_ATP-Tour-Canadian-open_26july25_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - ATP Masters 1000 National Bank Open Toronto, Canada"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090485506,
@@ -29,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Indian Air Force FT vs South United FC - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090485514,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005513/1753507287027572_ATP-Tour-Canadian-open_26july25_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - ATP Masters 1000 National Bank Open Toronto, Canada"
         },
         {
             "event_category": "Football",
