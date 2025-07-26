@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:52:17 26-07-2025",
+    "last update time": "20:02:24 26-07-2025",
     "matches": [
         {
             "event_category": "ESPORTS",
@@ -14,7 +14,7 @@
             "match_name": "Chess at EWC 25 - Day 3 - Last Chance Qualifier - 26 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1753582937~acl=/*~id=50005599091274271986400193016178~hmac=ea78a44e888a3c4c8a004cdbef7f1d464afcc066ebcb7d247a7249653855eddf"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1753583543~acl=/*~id=40713159298441495333762270344080~hmac=c772c81261fd211308f1e37c69641f8c91da1048d0562e46b18f0f38b31f25fa"
         },
         {
             "event_category": "ESPORTS",
@@ -27,7 +27,20 @@
             "match_name": "PMWC at EWC 25 with S8UL - Day 2 - Group Stage - 26 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1753582937~acl=/*~id=50005599091274271986400193016178~hmac=ea78a44e888a3c4c8a004cdbef7f1d464afcc066ebcb7d247a7249653855eddf"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1753583543~acl=/*~id=40713159298441495333762270344080~hmac=c772c81261fd211308f1e37c69641f8c91da1048d0562e46b18f0f38b31f25fa"
+        },
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": 1090485423,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004639/1750957355865327_ABBFEWC25_Round15_London_EPrix_final_Race_26jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship 2025",
+            "match_name": "Round 15 - London E-Prix - Final Race - 26 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_lrl.m3u8?hdnea=exp=1753583543~acl=/*~id=40713159298441495333762270344080~hmac=c772c81261fd211308f1e37c69641f8c91da1048d0562e46b18f0f38b31f25fa"
         },
         {
             "event_category": "Football",
