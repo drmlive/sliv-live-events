@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:23:31 26-07-2025",
+    "last update time": "21:33:39 26-07-2025",
     "matches": [
         {
             "event_category": "ESPORTS",
@@ -14,7 +14,7 @@
             "match_name": "Chess at EWC 25 - Day 3 - Last Chance Qualifier - 26 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1753588411~acl=/*~id=12526319111186471851665003720376~hmac=d1815b23f6471725db37521c387f6ae1d97ff5244b8037a480f17b197bcb16ec"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1753589018~acl=/*~id=27290822877474098920524616792824~hmac=4d2392e02d3cf0f3e5125ea4ad2bfa856ca44ba8b5d106132d41856540ea2a86"
         },
         {
             "event_category": "Racing",
@@ -27,7 +27,7 @@
             "match_name": "Round 15 - London E-Prix - Final Race - 26 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_lrl.m3u8?hdnea=exp=1753588411~acl=/*~id=12526319111186471851665003720376~hmac=d1815b23f6471725db37521c387f6ae1d97ff5244b8037a480f17b197bcb16ec"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_lrl.m3u8?hdnea=exp=1753589018~acl=/*~id=27290822877474098920524616792824~hmac=4d2392e02d3cf0f3e5125ea4ad2bfa856ca44ba8b5d106132d41856540ea2a86"
         },
         {
             "event_category": "Cricket",
@@ -64,24 +64,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Shillong Lajong FC vs Rangdajied United FC - IndianOil Durand Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090484513,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004894/175172002811770_Cricket-Combo-Asia-Cup-Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - 365 Days of Cricket Action"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090431389,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/asia_cup_25022025_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Asia Cup 2025"
         }
     ]
 }
