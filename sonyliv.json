@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:58:18 26-07-2025",
+    "last update time": "15:08:28 26-07-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090485459,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005448/1753350435723223_Durand-Cup-Promo-Thumbs-24072025-landscape.jpg",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005512/1753505224279546_DC25_shillong_lajong_fc_vs_malaysian_armed_forces_25jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Shillong Lajong FC vs Malaysian Armed Forces - IndianOil Durand Cup 2025"
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Shillong Lajong vs Malaysian Armed Forces - 26 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1753565909~acl=/*~id=07791640271182613488492909959142~hmac=4a509b78dd05b468470c45eb17803bdeb87461d07e63ce521f56a8da8e39c01d"
         },
         {
             "event_category": "Football",
