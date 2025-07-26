@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:59:11 26-07-2025",
+    "last update time": "16:09:19 26-07-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,33 @@
             "match_name": "Shillong Lajong vs Malaysian Armed Forces - 26 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1753568952~acl=/*~id=78013937768440566802553492187716~hmac=a31bb696ab2eb2fda76ad731785d368214a0fabaf655dcade7459a8e3818e91d"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1753569559~acl=/*~id=69045901409406131017770544358476~hmac=bc14e37c9656f425639e3e44c930296fca86fe9e6f15a92ebcf8aea3b5af2db4"
+        },
+        {
+            "event_category": "ESPORTS",
+            "isLive": true,
+            "contentId": 1090485511,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005487/1753441625892718_EWC25_PMWC_group_stage_Day2_25jul_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "E Sports World Cup 2025",
+            "match_name": "PMWC at EWC 25 with S8UL - Day 2 - Group Stage - 26 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1753569559~acl=/*~id=69045901409406131017770544358476~hmac=bc14e37c9656f425639e3e44c930296fca86fe9e6f15a92ebcf8aea3b5af2db4"
+        },
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": 1090485422,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000004639/1750957345316327_ABBFEWC25_Round15_London_EPrix_Qualifying_Race_26jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship 2025",
+            "match_name": "Round 15 - London E-Prix - Qualifying Race - 26 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_lrl.m3u8?hdnea=exp=1753569559~acl=/*~id=69045901409406131017770544358476~hmac=bc14e37c9656f425639e3e44c930296fca86fe9e6f15a92ebcf8aea3b5af2db4"
         },
         {
             "event_category": "Football",
