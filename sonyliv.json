@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:57:04 27-07-2025",
+    "last update time": "15:07:11 27-07-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005544/1753551163694176_DC25_ITBP_FT_vs_KAMS_FC_26jul_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "ITBP FT vs Karbi Anglong Morning Star FC - 27 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1753652231~acl=/*~id=11773274206119435972175782850305~hmac=e7fc4d37ab74fdf4efeb6337d1374e0f19d4027084102f4ccf15bce2cfe89b68"
+        },
         {
             "event_category": "Football",
             "isLive": false,
