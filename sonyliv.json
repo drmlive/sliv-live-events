@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:18:18 28-07-2025",
+    "last update time": "18:28:23 28-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -13,15 +13,6 @@
             "event_name": "Upcoming - Asia Cup 2025"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090485598,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005561/1753613878994217_DurandCup25_27Jul_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": " Upcoming - IndianOil Durand Cup 2025"
-        },
-        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090485514,
@@ -29,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - ATP Masters 1000 National Bank Open Toronto, Canada"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090485598,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005561/1753613878994217_DurandCup25_27Jul_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": " Upcoming - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Football",
