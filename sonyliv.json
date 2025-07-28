@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:01:34 28-07-2025",
+    "last update time": "23:11:38 28-07-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Day 2 - 28 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1753767092~acl=/*~id=19120526831012658456052482670900~hmac=a02b615fc9d4c83923f236e4b70f64c9ca68232ca76826211387ac86cb9b305e"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1753767698~acl=/*~id=89583292320310839564018260020136~hmac=efde367c2d91dd642180bbe09774ee763c092cdc253439538eacda8ed66a03c7"
         },
         {
             "event_category": "Cricket",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090485513,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005513/1753507250582572_Durandcup_Shillong-vs-Rang_26july25_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Shillong Lajong FC vs Rangdajied United FC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Tennis",
@@ -42,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": " Upcoming - IndianOil Durand Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090485513,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005513/1753507250582572_Durandcup_Shillong-vs-Rang_26july25_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Shillong Lajong FC vs Rangdajied United FC - IndianOil Durand Cup 2025"
         }
     ]
 }
