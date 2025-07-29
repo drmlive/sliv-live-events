@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:54:46 29-07-2025",
+    "last update time": "16:04:53 29-07-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,20 @@
             "match_name": "Jamshedpur FC  vs Indian Army FT - 29 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1753827886~acl=/*~id=77702784164722999077158002932795~hmac=987e57e9779233f25c22b1b25b162998671ea53687d81ed77616da8a30db9cf4"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1753828492~acl=/*~id=58707617582707823302582028896102~hmac=20309ec027a12750926b1fcf3c2222ca973f7bd7b718c3b608f6bb01c7cb9ef1"
+        },
+        {
+            "event_category": "ESPORTS",
+            "isLive": true,
+            "contentId": 1090485629,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005578/1753651082448970_EWC25_PMWC_Survival_Stage_Day1_27jul_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "E Sports World Cup 2025",
+            "match_name": "PMWC at EWC 25 with S8UL - Day 1 - Survival Stage - 29 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1753828492~acl=/*~id=58707617582707823302582028896102~hmac=20309ec027a12750926b1fcf3c2222ca973f7bd7b718c3b608f6bb01c7cb9ef1"
         },
         {
             "event_category": "Football",
