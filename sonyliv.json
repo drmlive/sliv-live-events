@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:30:52 29-07-2025",
+    "last update time": "22:41:00 29-07-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Day 3 - 29 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1753851652~acl=/*~id=65641800898993230855932570298986~hmac=210866840ca4c09cd68bb4cfbf44f2eb972de29466440b42748435973b23b05f"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1753852260~acl=/*~id=37750871790740164400661047364929~hmac=9204a0d1b275957b3cfb96d91a1ac59623e211efad51db69bd07c2801f6b4b33"
         },
         {
             "event_category": "ESPORTS",
@@ -27,7 +27,7 @@
             "match_name": "Chess at EWC 25 - Day 1 - Group Stage - 29 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1753851652~acl=/*~id=65641800898993230855932570298986~hmac=210866840ca4c09cd68bb4cfbf44f2eb972de29466440b42748435973b23b05f"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1753852260~acl=/*~id=37750871790740164400661047364929~hmac=9204a0d1b275957b3cfb96d91a1ac59623e211efad51db69bd07c2801f6b4b33"
         },
         {
             "event_category": "Cricket",
@@ -37,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090485699,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005642/1753802372539691_MohunBagan_vs_MohammedanSC_31July2025_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Mohun Bagan Super Giant vs Mohammedan SC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Tennis",
