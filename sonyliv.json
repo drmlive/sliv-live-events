@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:53:05 30-07-2025",
+    "last update time": "16:03:12 30-07-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,20 @@
             "match_name": "Trau FC vs Neroca FC - 30 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1753914185~acl=/*~id=31691990865721896098948853658818~hmac=72fb4f3d32de4ec289bff4c4400b61b2e40e037f22a8295923d19394cb5044bc"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1753914791~acl=/*~id=13792373621278391370597943537880~hmac=b5a2b5faa80c32ba3f400dcea4f24ad24d05861623f8265129901f049624c9d4"
+        },
+        {
+            "event_category": "ESPORTS",
+            "isLive": true,
+            "contentId": 1090485660,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005578/1753651091444970_EWC25_PMWC_Survival_Stage_Day2_27jul_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "E Sports World Cup 2025",
+            "match_name": "PMWC at EWC 25 with S8UL - Day 2 - Survival Stage - 30 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1753914791~acl=/*~id=13792373621278391370597943537880~hmac=b5a2b5faa80c32ba3f400dcea4f24ad24d05861623f8265129901f049624c9d4"
         },
         {
             "event_category": "Cricket",
