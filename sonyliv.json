@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:42:03 31-07-2025",
+    "last update time": "19:52:08 31-07-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Mohun Bagan Super Giant vs Mohammedan SC - 31 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754014322~acl=/*~id=11600984097566074758513452424493~hmac=a4c65875ede6ae5e577a42c367459108fd56ca9f7809d510ab79411455fa64aa"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754014928~acl=/*~id=89787173757764923764775924926552~hmac=f8918954f1d1212f00a98a667553f0b2bec7b8472539dd1663439a59a0b3a5d5"
         },
         {
             "event_category": "ESPORTS",
@@ -27,7 +27,7 @@
             "match_name": "Chess at EWC 25 - Quarter-Finals & Semi-Finals - 31 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1754014322~acl=/*~id=11600984097566074758513452424493~hmac=a4c65875ede6ae5e577a42c367459108fd56ca9f7809d510ab79411455fa64aa"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1754014928~acl=/*~id=89787173757764923764775924926552~hmac=f8918954f1d1212f00a98a667553f0b2bec7b8472539dd1663439a59a0b3a5d5"
         },
         {
             "event_category": "Cricket",
@@ -37,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090484816,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005123/1752479340000499_Durand_cup25_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Football",
