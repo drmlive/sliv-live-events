@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:21:06 31-07-2025",
+    "last update time": "18:31:13 31-07-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090483661,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005580/1753654941864804_DC25_Bodoland_FC_vs_KAMSFC_27jul_landscape_thumb.jpg",
+            "contentId": 1090483662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005580/1753655678994804_DC25_Mohun_Bagan_Super_Giant_vs_Mohammedan_Sc_27jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2025",
-            "match_name": "Bodoland FC  vs Karbi Anglong Morning Star FC - 31 Jul 2025",
-            "dai_url": "https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrl-800300010.m3u8?hdnea=exp=1754009465~acl=/*~id=05875481865686920534615506028628~hmac=110e17d70db499c37a29d7c9d93c77c69a16c5ca68933e7231edda94f870ee45"
+            "match_name": "Mohun Bagan Super Giant vs Mohammedan SC - 31 Jul 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754010072~acl=/*~id=27867680019631515130763833411736~hmac=f04e416dbb0fc53b86301beb8611ba0327eb040a9e4ed47d225fb60ce6de9231"
         },
         {
             "event_category": "ESPORTS",
@@ -27,16 +27,7 @@
             "match_name": "Chess at EWC 25 - Quarter-Finals & Semi-Finals - 31 Jul 2025",
             "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1754009465~acl=/*~id=05875481865686920534615506028628~hmac=110e17d70db499c37a29d7c9d93c77c69a16c5ca68933e7231edda94f870ee45"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090485699,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005642/1753802372539691_MohunBagan_vs_MohammedanSC_31July2025_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Mohun Bagan Super Giant vs Mohammedan SC - IndianOil Durand Cup 2025"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1754010072~acl=/*~id=27867680019631515130763833411736~hmac=f04e416dbb0fc53b86301beb8611ba0327eb040a9e4ed47d225fb60ce6de9231"
         },
         {
             "event_category": "Cricket",
