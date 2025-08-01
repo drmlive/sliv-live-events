@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:54:45 01-08-2025",
+    "last update time": "16:04:51 01-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,20 @@
             "match_name": "Indian Navy FT vs Real Kashmir FC - 1 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754087084~acl=/*~id=61225989329056529604334128648012~hmac=25c60aafa47ea404e3fae5f5f9a03a4964ae765b83a5365d7551ca6380f5ae14"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754087690~acl=/*~id=20991238479042303396982165407100~hmac=c3ea60c3b20c20d6b8c5a2b87366a4308788732180a856d563a743f96932f459"
+        },
+        {
+            "event_category": "ESPORTS",
+            "isLive": true,
+            "contentId": 1090485773,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005693/1753911409429536_EWC25_PMWC_Grand_Finals_day1_31jul_hindi_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "E Sports World Cup 2025",
+            "match_name": "PMWC at EWC 25 with S8UL - Day 1 - Grand Finals - 1 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1754087690~acl=/*~id=20991238479042303396982165407100~hmac=c3ea60c3b20c20d6b8c5a2b87366a4308788732180a856d563a743f96932f459"
         },
         {
             "event_category": "Cricket",
