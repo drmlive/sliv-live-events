@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:02:20 02-08-2025",
+    "last update time": "20:12:27 02-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Northeast United FC vs Malaysian Armed Forces - 2 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754188339~acl=/*~id=65771952598386477626132790683925~hmac=51b2af5b5d5d9987adc81627e06ad9718ec065f9cd5a2b3d688ce6a9b56d1615"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754188946~acl=/*~id=55384554172131029542459470959092~hmac=5f122e7a9a9450a0211f5f6dd649aa5faf52d7c4fd3bbb9fad850f65fbab6a4b"
         },
         {
             "event_category": "ESPORTS",
@@ -27,7 +27,7 @@
             "match_name": "PMWC at EWC 25 with S8UL - Day 2 - Grand Finals - 2 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1754188339~acl=/*~id=65771952598386477626132790683925~hmac=51b2af5b5d5d9987adc81627e06ad9718ec065f9cd5a2b3d688ce6a9b56d1615"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_lrl.m3u8?hdnea=exp=1754188946~acl=/*~id=55384554172131029542459470959092~hmac=5f122e7a9a9450a0211f5f6dd649aa5faf52d7c4fd3bbb9fad850f65fbab6a4b"
         },
         {
             "event_category": "Cricket",
@@ -46,6 +46,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Mohun Bagan Super Giant vs BSF FT - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090485876,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005790/1754140948986898_DurandCup25_EBFCvsNFC_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Emami East Bengal FC vs Namdhari FC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Tennis",
