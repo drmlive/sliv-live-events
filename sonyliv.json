@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:44:04 02-08-2025",
+    "last update time": "22:54:10 02-08-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Day 7 - 2 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754198043~acl=/*~id=58893710227524415381598073700447~hmac=065ad2d63b830e71ec1b0ef14d32d4e6c394206178b9a94e337f2442b10327df"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754198649~acl=/*~id=90493301702573028973253478884850~hmac=5f0e414b33bc1ed443c65c835fa86e895166e73c5c8314875fd96c54025a7856"
         },
         {
             "event_category": "Cricket",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090485598,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005561/1753613878994217_DurandCup25_27Jul_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": " Upcoming - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Football",
@@ -60,15 +69,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Week 3 - IndianOil Durand Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090485598,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005561/1753613878994217_DurandCup25_27Jul_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": " Upcoming - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Football",
