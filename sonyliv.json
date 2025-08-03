@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:23:46 03-08-2025",
+    "last update time": "15:33:52 03-08-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090485598,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005561/1753613878994217_DurandCup25_27Jul_Promo_Landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005648/1753843752035880_dc25_Namdhari_FC_vs_Indian_Air_Force_FT_30jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": " Upcoming - IndianOil Durand Cup 2025"
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Namdhari FC vs Indian Air Force FT - 3 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754258632~acl=/*~id=60784103986402500937342742489299~hmac=51bc79f7c2dae28059f0a0c734674d1da803c55a60a1aeeded849a939e68b16b"
         },
         {
             "event_category": "Cricket",
