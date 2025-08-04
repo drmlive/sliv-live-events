@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:20:01 04-08-2025",
+    "last update time": "18:30:08 04-08-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090485838,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005773/1754109331554244_Mohun-bagan-vs-BSF-FT_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": 1090483662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005648/1753844155166880_dc25_Mohun_Bagan_Super_Giant_vs_BSF_FT_30jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Mohun Bagan Super Giant vs BSF FT - IndianOil Durand Cup 2025"
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Mohun Bagan Super Giant vs BSF FT - 4 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754355608~acl=/*~id=25774103914392698908903994448278~hmac=20110510033a6d74672d2d2fdf8972f6d5f6268725bec11b960fdaaa015fba84"
         },
         {
             "event_category": "Cricket",
