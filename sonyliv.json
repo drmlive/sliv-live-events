@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:56:42 05-08-2025",
+    "last update time": "21:06:49 05-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Rangdajied United FC vs Malaysian Armed Forces - 5 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754450801~acl=/*~id=83745324167531560107024402318218~hmac=74bb4c2defcc405e68141fafdf1f96f20d0edee4f2756b65bf4eeb8029675800"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754451408~acl=/*~id=89481185586955859972074688130055~hmac=a0b8b37eb731e25e4700c46682f12bbb447e388d61b05fd76656b01a25063869"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "match_name": "London Spirit vs Oval Invincibles - 5 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118982/London0508/ENG/std_lrl-800300010.m3u8?hdnea=exp=1754450801~acl=/*~id=83745324167531560107024402318218~hmac=74bb4c2defcc405e68141fafdf1f96f20d0edee4f2756b65bf4eeb8029675800"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118982/London0508/ENG/std_lrl-800300010.m3u8?hdnea=exp=1754451408~acl=/*~id=89481185586955859972074688130055~hmac=a0b8b37eb731e25e4700c46682f12bbb447e388d61b05fd76656b01a25063869"
         },
         {
             "event_category": "Cricket",
@@ -48,15 +48,6 @@
             "event_name": "Upcoming - The Hundred 2025"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090486003,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005881/1754390220523917_legenz_5aug_dated_tv_bg.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Legen-z T10"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090485876,
@@ -64,6 +55,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Emami East Bengal FC vs Namdhari FC - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090486003,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005881/1754390220523917_legenz_5aug_dated_tv_bg.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Legen-z T10"
         },
         {
             "event_category": "Football",
