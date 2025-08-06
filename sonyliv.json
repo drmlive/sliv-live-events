@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:22:41 06-08-2025",
+    "last update time": "22:32:48 06-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090485987,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005878/1754387008079766_Hundred25_Manchester_Originals_vs_Southern_Brave_mens_5aug_Multi_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025",
+            "match_name": "Manchester Originals vs Southern Brave - 6 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1754542968~acl=/*~id=95008165535024795589483646356400~hmac=04623df56a91e9539de2eb4b447b65cd218fc721140fa43d8195183d316b317f"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
