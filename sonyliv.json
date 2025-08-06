@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:27:41 06-08-2025",
+    "last update time": "15:37:48 06-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005817/1754271305213432_dc25_ITBP_FT_vs_Punjab_FC_3aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "ITBP FT vs Punjab FC - 6 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754518067~acl=/*~id=22467144722646642590724083740872~hmac=f0828a1eb742bed40b5e06227bc3be756204d7e8178686f7e303da16f56e912e"
+        },
         {
             "event_category": "Football",
             "isLive": false,
