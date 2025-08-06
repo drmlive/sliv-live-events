@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:42:54 06-08-2025",
+    "last update time": "22:53:01 06-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,16 +14,7 @@
             "match_name": "Manchester Originals vs Southern Brave - 6 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1754543574~acl=/*~id=29000830626636510457028375592701~hmac=91321a4ffd9a5494992724baf1e0bd2552bdda19232a66952dca06913ce9309b"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090485900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005807/1754211947176834_The100_25_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Hundred 2025"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1754544181~acl=/*~id=51811185669642304530233883033245~hmac=e813f2aa65aeb87c8cdf14cd3f5f7f1607cdf17f43d3b94bd8653d7ddf2eb298"
         },
         {
             "event_category": "Cricket",
@@ -60,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Shillong Lajong FC vs NorthEast United FC - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090485900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005807/1754211947176834_The100_25_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Hundred 2025"
         },
         {
             "event_category": "Tennis",
