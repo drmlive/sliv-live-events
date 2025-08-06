@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:29:43 06-08-2025",
+    "last update time": "18:39:50 06-08-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090485876,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005790/1754140948986898_DurandCup25_EBFCvsNFC_Promo_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": 1090483662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754001988008345_dc25_Emami_East_Bengal_FC_vs_Namdhari_FC_30jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Emami East Bengal FC vs Namdhari FC - IndianOil Durand Cup 2025"
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Emami East Bengal FC vs Namdhari FC - 6 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754528989~acl=/*~id=66363498891029980201415625460177~hmac=d072a5ff1838b10d8a86ecd63b3f8672d67e520b88f7991e522fe078338d0a25"
         },
         {
             "event_category": "Cricket",
