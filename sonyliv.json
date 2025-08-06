@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:00:54 06-08-2025",
+    "last update time": "20:11:01 06-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Emami East Bengal FC vs Namdhari FC - 6 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754533853~acl=/*~id=91258362533498156359419425594644~hmac=80d6c457ab3bcc05221aa17393cd302ef4e06efd2350b084a493ba6f49a99d26"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754534461~acl=/*~id=44612915060743472441079756014442~hmac=baf380e2618ece328cc24f82f3e72ac2944f6d82b116484113a2274a6ba2e067"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "match_name": "Manchester Originals vs Southern Brave - 6 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754533853~acl=/*~id=91258362533498156359419425594644~hmac=80d6c457ab3bcc05221aa17393cd302ef4e06efd2350b084a493ba6f49a99d26"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754534461~acl=/*~id=44612915060743472441079756014442~hmac=baf380e2618ece328cc24f82f3e72ac2944f6d82b116484113a2274a6ba2e067"
         },
         {
             "event_category": "Cricket",
@@ -59,20 +59,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090486033,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419627799692_PROMO_DURAND_CUP_SHILLONG_VS_NORTH_EAST_UNITED_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Shillong Lajong FC vs NorthEast United FC - IndianOil Durand Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090485830,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005953/1754487772935187_dc25_BSF_FT_vs_Mohammedan_Sc_6aug_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Week 3 - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486033,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419627799692_PROMO_DURAND_CUP_SHILLONG_VS_NORTH_EAST_UNITED_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Shillong Lajong FC vs NorthEast United FC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Tennis",
