@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:21:49 07-08-2025",
+    "last update time": "12:31:55 07-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -29,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005987/1754540870054104_FA-Cup-community-shield_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Crystal Palace vs Liverpool - FA Community Shield 2025"
         },
         {
             "event_category": "Football",
