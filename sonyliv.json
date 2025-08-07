@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:56:45 07-08-2025",
+    "last update time": "20:06:52 07-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Border Security Force FT vs Mohammedan SC - 7 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754620004~acl=/*~id=26077958575140802030863452405475~hmac=201942b08c80fea0d4b634137a08c68881658c79808333a6434aef9cc3a109bd"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754620611~acl=/*~id=10183433328314334703069625977675~hmac=2618292811cf50710ef861c75a85dd2ffd19ce741e10779a015c51edfc816660"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +27,20 @@
             "match_name": "Northern Superchargers vs Welsh Fire - 7 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754620004~acl=/*~id=26077958575140802030863452405475~hmac=201942b08c80fea0d4b634137a08c68881658c79808333a6434aef9cc3a109bd"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754620611~acl=/*~id=10183433328314334703069625977675~hmac=2618292811cf50710ef861c75a85dd2ffd19ce741e10779a015c51edfc816660"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483664,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005983/1754521216046904_ATP_Cincinnati_Open25_round1_7aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ATP Masters 1000 - Western and Southern Open 2025",
+            "match_name": "Day 1 - 7 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/gFOtesBcStiWCy4UzSUmyQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI36ME-V3/master_lrl.m3u8?hdnea=exp=1754620611~acl=/*~id=10183433328314334703069625977675~hmac=2618292811cf50710ef861c75a85dd2ffd19ce741e10779a015c51edfc816660"
         },
         {
             "event_category": "Football",
@@ -37,15 +50,6 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Crystal Palace vs Liverpool - FA Community Shield 2025"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090486034,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419595693692_Promo_ATP_Cincinnati_Open_2024_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - ATP Master 1000 - Cincinnati Open 2025"
         },
         {
             "event_category": "Cricket",
@@ -82,6 +86,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Week 3 - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090486034,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419595693692_Promo_ATP_Cincinnati_Open_2024_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - ATP Master 1000 - Cincinnati Open 2025"
         },
         {
             "event_category": "Football",
