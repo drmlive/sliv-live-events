@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:34:26 07-08-2025",
+    "last update time": "16:44:33 07-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Neroca FC vs Indian Navy FT - 7 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754607866~acl=/*~id=23418929874839510220357342685172~hmac=093548d8b7f5395eda816e9acd82170395ffeb2f3f94b96ccbf63ccdb9092514"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754608473~acl=/*~id=99496321218856623305277184304270~hmac=20910067cf449a09b7efe4b1c3697a34017449f22d158123471c1fe938f5c0b3"
         },
         {
             "event_category": "Football",
@@ -46,20 +46,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090486003,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006001/1754554441902372_legenz_5aug_ddt_landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Legen-z T10"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090485567,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090486003,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006001/1754554441902372_legenz_5aug_ddt_landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Legen-z T10"
         },
         {
             "event_category": "Football",
