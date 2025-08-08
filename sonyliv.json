@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:44:53 08-08-2025",
+    "last update time": "21:55:00 08-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Birmingham Phoenix vs Trent Rockets - 8 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754712892~acl=/*~id=70328266329801484756025675637497~hmac=72ff21bba2ceb924bdd984e5d50ccaeaea43c70cdd2813177a99200c9c206924"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_lrl.m3u8?hdnea=exp=1754713499~acl=/*~id=61745147023009678315448484302503~hmac=eb42ad35ed90369772577a29bc3c0cf615bb5e4dcc5fa008743f89d2f568eb96"
         },
         {
             "event_category": "Tennis",
@@ -27,7 +27,7 @@
             "match_name": "Day 2 - 8 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtlive.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754712892~acl=/*~id=70328266329801484756025675637497~hmac=72ff21bba2ceb924bdd984e5d50ccaeaea43c70cdd2813177a99200c9c206924"
+            "video_url": "https://sonymtlive.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754713499~acl=/*~id=61745147023009678315448484302503~hmac=eb42ad35ed90369772577a29bc3c0cf615bb5e4dcc5fa008743f89d2f568eb96"
         },
         {
             "event_category": "Football",
@@ -48,15 +48,6 @@
             "event_name": "Upcoming - Asia Cup 2025"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090485900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006038/1754591075578419_the_hundred_mens25_Birmingham_Phoenix_vs_Trent_Rockets_7aug_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Hundred 2025"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090486168,
@@ -64,6 +55,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Diamond Harbour FC vs Mohun Bagan Super Giant - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090485900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006038/1754591075578419_the_hundred_mens25_Birmingham_Phoenix_vs_Trent_Rockets_7aug_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Hundred 2025"
         },
         {
             "event_category": "Football",
