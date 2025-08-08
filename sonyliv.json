@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:21:37 08-08-2025",
+    "last update time": "18:31:44 08-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754003020401344_dc25_Shillong_Lajong_FC_vs_Northeast_United_FC_30jul_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Shillong Lajong FC vs Northeast United FC - 8 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754701304~acl=/*~id=89964759042423952625358523408141~hmac=f265cd66cd39feea37a4a1e5d8431aa8c0ab95e2f2b315d6b107a7e00921a304"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -11,15 +24,6 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Crystal Palace vs Liverpool - FA Community Shield 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090486033,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006019/1754574833133895_dc25_Shillong_Lajong_FC_vs_Northeast_United_FC_7aug_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Shillong Lajong FC vs NorthEast United FC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Cricket",
