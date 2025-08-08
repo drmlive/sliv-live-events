@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:48:36 08-08-2025",
+    "last update time": "13:58:42 08-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -38,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Legen-z T10"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486168,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006051/1754638382230944_Durand_cup_promo_thumbs_Landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Diamond Harbour FC vs Mohun Bagan Super Giant - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Cricket",
