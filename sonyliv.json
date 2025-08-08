@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:59:17 08-08-2025",
+    "last update time": "15:09:24 08-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -31,15 +31,6 @@
             "event_name": "Upcoming - Asia Cup 2025"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090486168,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006051/1754638382230944_Durand_cup_promo_thumbs_Landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Diamond Harbour FC vs Mohun Bagan Super Giant - IndianOil Durand Cup 2025"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090485900,
@@ -47,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Hundred 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486168,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006051/1754638382230944_Durand_cup_promo_thumbs_Landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Diamond Harbour FC vs Mohun Bagan Super Giant - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Football",
