@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:25:24 08-08-2025",
+    "last update time": "22:35:31 08-08-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,20 @@
             "match_name": "Day 2 - 8 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtlive.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754715323~acl=/*~id=58544816752606502715227877438292~hmac=710033a87fdb75d1aaaba83c5572a532abc1d38644177e52696350eeec55f34f"
+            "video_url": "https://sonymtlive.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1754715931~acl=/*~id=15207343773720983631591487310065~hmac=49a2103052ac69e2a773aa836f02cbcb74c0705b4d572326e8267f13b4308050"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090486170,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005982/1754518667010648_the_hundred_mens25_Birmingham_Phoenix_vs_Trent_Rockets_7aug_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025",
+            "match_name": "Birmingham Phoenix vs Trent Rockets - 8 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/UiaQQUObQs2t7o7pkZbdpw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/UiaQQUObQs2t7o7pkZbdpw/master.m3u8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1754715931~acl=/*~id=15207343773720983631591487310065~hmac=49a2103052ac69e2a773aa836f02cbcb74c0705b4d572326e8267f13b4308050"
         },
         {
             "event_category": "Football",
