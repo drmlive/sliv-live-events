@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:39:25 09-08-2025",
+    "last update time": "18:49:32 09-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754003673838344_dc25_DHFC_vs_MBSG_30jul_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Diamond Harbour FC vs Mohun Bagan Super Giant - 9 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754788772~acl=/*~id=61430750847302400976102429696257~hmac=6c3a3f0784c04d3e66982939e1ebca82857ce1dbf06bbefc5f50903343e63aa0"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "Oval Invincibles vs Manchester Originals - 9 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1754788164~acl=/*~id=08094557340426353872110772655769~hmac=38e93867efc953bebf2cd25162b697f3edcd7b664e555d9dcf7ba06f580afcb8"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1754788772~acl=/*~id=61430750847302400976102429696257~hmac=6c3a3f0784c04d3e66982939e1ebca82857ce1dbf06bbefc5f50903343e63aa0"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +40,7 @@
             "match_name": "Welsh Fire vs London Spirit - 9 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonymtlive.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event13_adm/2022320/DAI16ME-V3/master_lrl.m3u8?hdnea=exp=1754788164~acl=/*~id=08094557340426353872110772655769~hmac=38e93867efc953bebf2cd25162b697f3edcd7b664e555d9dcf7ba06f580afcb8"
+            "video_url": "https://sonymtlive.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event13_adm/2022320/DAI16ME-V3/master_lrl.m3u8?hdnea=exp=1754788772~acl=/*~id=61430750847302400976102429696257~hmac=6c3a3f0784c04d3e66982939e1ebca82857ce1dbf06bbefc5f50903343e63aa0"
         },
         {
             "event_category": "Cricket",
