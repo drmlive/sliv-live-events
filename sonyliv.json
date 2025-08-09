@@ -1,17 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:04:57 09-08-2025",
+    "last update time": "13:15:03 09-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090485567,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -22,13 +13,13 @@
             "event_name": "Upcoming - Diamond Harbour FC vs Mohun Bagan Super Giant - IndianOil Durand Cup 2025"
         },
         {
-            "event_category": "Football",
+            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090486125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006009/1754563340919610_FAcup25_crystal_palace_vs_liverpool_dated_7aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Crystal Palace vs Liverpool - FA Community Shield 2025"
+            "contentId": 1090485567,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005617/1753775660853290_Asia_Cup25_Promo_Landscape_thumb_29Jul.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -38,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Hundred 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006009/1754563340919610_FAcup25_crystal_palace_vs_liverpool_dated_7aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Crystal Palace vs Liverpool - FA Community Shield 2025"
         },
         {
             "event_category": "Football",
