@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:55:20 10-08-2025",
+    "last update time": "19:05:26 10-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090486273,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006114/1754724273775954_FA_Community_CrystalPalace_vs_Liverpool_Multilang_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "FA Community Shield",
+            "match_name": "Crystal Palace vs Liverpool - 10 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_lrl.m3u8?hdnea=exp=1754876125~acl=/*~id=60481707941915988590776599294560~hmac=9d3a10edd9571095322e5b93f8885e9c879810dbf0e9dd85e2780792c174ca50"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +27,7 @@
             "match_name": "Emami East Bengal FC vs Indian Air Force FT - 10 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754875519~acl=/*~id=79648902085535814813479134131281~hmac=b777591eb1ffdd85f5eb0d99974242d54814827ae064f898b193ee79e943e52c"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754876125~acl=/*~id=60481707941915988590776599294560~hmac=9d3a10edd9571095322e5b93f8885e9c879810dbf0e9dd85e2780792c174ca50"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +40,7 @@
             "match_name": "Southern Brave vs Birmingham Phoenix - 10 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1754875519~acl=/*~id=79648902085535814813479134131281~hmac=b777591eb1ffdd85f5eb0d99974242d54814827ae064f898b193ee79e943e52c"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1754876125~acl=/*~id=60481707941915988590776599294560~hmac=9d3a10edd9571095322e5b93f8885e9c879810dbf0e9dd85e2780792c174ca50"
         },
         {
             "event_category": "Cricket",
@@ -40,7 +53,7 @@
             "match_name": "Trent Rockets vs Northern Superchargers - 10 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_lrl.m3u8?hdnea=exp=1754875519~acl=/*~id=79648902085535814813479134131281~hmac=b777591eb1ffdd85f5eb0d99974242d54814827ae064f898b193ee79e943e52c"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master_lrl.m3u8?hdnea=exp=1754876125~acl=/*~id=60481707941915988590776599294560~hmac=9d3a10edd9571095322e5b93f8885e9c879810dbf0e9dd85e2780792c174ca50"
         },
         {
             "event_category": "Cricket",
@@ -50,15 +63,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090486125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006009/1754563313116610_FAcup25_crystal_palace_vs_liverpool_tonight_7aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Crystal Palace vs Liverpool - FA Community Shield 2025"
         },
         {
             "event_category": "Football",
