@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:28:30 11-08-2025",
+    "last update time": "15:38:36 11-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754004507395345_dc25_Indian_Army_FT_vs_1Ladakh_FC_30jul_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Indian Army FT Vs 1 Ladakh FC - 11 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_lrl.m3u8?hdnea=exp=1754950115~acl=/*~id=96598713441213025287907751108329~hmac=2f9703c7f6b1bf78f2e55141cf007b66f516c540086dd401f9da4c5c1a2072ad"
+        },
         {
             "event_category": "Football",
             "isLive": false,
