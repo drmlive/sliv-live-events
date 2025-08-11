@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:02:02 11-08-2025",
+    "last update time": "21:12:10 11-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Northeast United FC vs Rangdajied United FC - 11 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754969521~acl=/*~id=97418718240354625122484030985950~hmac=5a12cff75ddc865b53f0ae8640b6791e4329bdfb844f40236b10eb070bd709f9"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_lrl.m3u8?hdnea=exp=1754970129~acl=/*~id=30142438916926531293672962186977~hmac=c1e0b199d462105d4bc8f6458ba12c49b3aeae4db753bb5e4b5270e94fc5e3f8"
         },
         {
             "event_category": "Cricket",
@@ -27,7 +27,7 @@
             "match_name": "Manchester Originals vs London Spirit - 11 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118982/Manche1108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1754969521~acl=/*~id=97418718240354625122484030985950~hmac=5a12cff75ddc865b53f0ae8640b6791e4329bdfb844f40236b10eb070bd709f9"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118982/Manche1108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1754970129~acl=/*~id=30142438916926531293672962186977~hmac=c1e0b199d462105d4bc8f6458ba12c49b3aeae4db753bb5e4b5270e94fc5e3f8"
         },
         {
             "event_category": "Tennis",
@@ -40,7 +40,7 @@
             "match_name": "Day 5 - 11 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118980/ATPCin1108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1754969521~acl=/*~id=97418718240354625122484030985950~hmac=5a12cff75ddc865b53f0ae8640b6791e4329bdfb844f40236b10eb070bd709f9"
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118980/ATPCin1108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1754970129~acl=/*~id=30142438916926531293672962186977~hmac=c1e0b199d462105d4bc8f6458ba12c49b3aeae4db753bb5e4b5270e94fc5e3f8"
         },
         {
             "event_category": "Football",
@@ -70,6 +70,15 @@
             "event_name": "Upcoming - The Hundred 2025"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090484816,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005123/1752479340000499_Durand_cup25_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - IndianOil Durand Cup 2025"
+        },
+        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090486034,
@@ -83,15 +92,6 @@
             "isLive": false,
             "contentId": 1090486095,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - IndianOil Durand Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090484816,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005123/1752479340000499_Durand_cup25_Promo_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - IndianOil Durand Cup 2025"
