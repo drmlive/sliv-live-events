@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:26:45 12-08-2025",
+    "last update time": "18:36:52 12-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005741/1754005181919344_dc25_Bodoland_FC_vs_ITBP_FT_30jul_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Bodoland FC  vs ITBP FT - 12 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/hls/live/2118982/Bodola1208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755047211~acl=/*~id=07938784736728082543163777188474~hmac=4ef76e280ce99dd71b9608d23d9c93f130813beaabca148c944e9541624dfb87"
+        },
         {
             "event_category": "Football",
             "isLive": false,
