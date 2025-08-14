@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:51:46 14-08-2025",
+    "last update time": "19:01:53 14-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483665,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006055/1754637957756869_the_hundred_womens25_London_Spirit_vs_Trent_Rockets_8aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025 (Women's)",
+            "match_name": "London Spirit vs Trent Rockets - 14 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/London1408/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755221511~acl=/*~id=59708639132247844987931890752647~hmac=6f044eb307a38e98f05c8dc6c4040961712975a941b371cc1aa32005124b81d1"
+        },
+        {
+            "event_category": "ESPORTS",
+            "isLive": true,
+            "contentId": 1090486586,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005694/175391224460445_EWC25_Tekken8_Group_Stage_Phase1_31jul_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "E Sports World Cup 2025",
+            "match_name": "Tekken 8 - Group Stage Phase 1 - 14 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/Tekken1408/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755221511~acl=/*~id=59708639132247844987931890752647~hmac=6f044eb307a38e98f05c8dc6c4040961712975a941b371cc1aa32005124b81d1"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
