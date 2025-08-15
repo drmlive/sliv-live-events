@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:15:30 15-08-2025",
+    "last update time": "12:25:37 15-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486628,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006407/1755170408724129_DFL_Supercup25_Stuttgart_vs_Bayern_14aug_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - DFL Supercup 2025 - VfB Stuttgart vs Bayern Munich"
         },
         {
             "event_category": "Football",
