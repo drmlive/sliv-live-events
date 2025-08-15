@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:55:15 15-08-2025",
+    "last update time": "12:05:22 15-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - IndianOil Durand Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486616,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006433/17552027845164_Durand-Cup-Promo_15AUG25_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Quarter-Finals - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Cricket",
