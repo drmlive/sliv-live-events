@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:04:53 16-08-2025",
+    "last update time": "00:15:01 16-08-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,10 +14,7 @@
             "match_name": "Andrey Rublev vs Carlos Alcaraz - Quarter-FInal - 16 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1755326092~acl=/*~id=20306931528888200339138429329188~hmac=803e24e18b5ae3d4c2390b4a855c6df2f9e8d72df9dd2498fbc47f6389bfaa33",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1755326700~acl=/*~id=29073139272236719088056555026863~hmac=a527d2b07170d10c31b930da5b19eb7190f7a86a1f8d8247482c8ebba6ae20e5"
         },
         {
             "event_category": "Cricket",
@@ -30,11 +27,7 @@
             "match_name": "Northern Superchargers vs Birmingham Phoenix - 15 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/Mg5z1zASRuCLCWPg-CXzug/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Mg5z1zASRuCLCWPg-CXzug/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6fe2prod-PlaybackConfig/2118982/TheHun1508/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755326092~acl=/*~id=20306931528888200339138429329188~hmac=803e24e18b5ae3d4c2390b4a855c6df2f9e8d72df9dd2498fbc47f6389bfaa33",
-            "supportedAudioLanguages": [
-                "ENG",
-                "HIN"
-            ]
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6fe2prod-PlaybackConfig/2118982/TheHun1508/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755326700~acl=/*~id=29073139272236719088056555026863~hmac=a527d2b07170d10c31b930da5b19eb7190f7a86a1f8d8247482c8ebba6ae20e5"
         },
         {
             "event_category": "Cricket",
@@ -43,7 +36,8 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
+            "event_name": "Upcoming - Asia Cup 2025",
+            "match_name": ""
         },
         {
             "event_category": "Football",
@@ -52,7 +46,8 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006413/1755172903567696_dc25_QF_MBSG_vs_EEBFC_14aug_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - IndianOil Durand Cup 2025"
+            "event_name": "Upcoming - IndianOil Durand Cup 2025",
+            "match_name": ""
         },
         {
             "event_category": "Football",
@@ -61,7 +56,8 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006407/1755170394015129_DFL_Supercup25_Stuttgart_vs_Bayern_14aug_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - DFL Supercup 2025 - VfB Stuttgart vs Bayern Munich"
+            "event_name": "Upcoming - DFL Supercup 2025 - VfB Stuttgart vs Bayern Munich",
+            "match_name": ""
         },
         {
             "event_category": "Football",
@@ -70,7 +66,8 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006433/17552027845164_Durand-Cup-Promo_15AUG25_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Quarter-Finals - IndianOil Durand Cup 2025"
+            "event_name": "Upcoming - Quarter-Finals - IndianOil Durand Cup 2025",
+            "match_name": ""
         },
         {
             "event_category": "Cricket",
@@ -79,7 +76,8 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006290/1754985938351832_the_hundred_mens25_Northern_Superchargers_vs_Birmingham_Phoenix_15aug_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Hundred 2025"
+            "event_name": "Upcoming - The Hundred 2025",
+            "match_name": ""
         },
         {
             "event_category": "Tennis",
@@ -88,7 +86,8 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419595693692_Promo_ATP_Cincinnati_Open_2024_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - ATP Master 1000 - Cincinnati Open 2025"
+            "event_name": "Upcoming - ATP Master 1000 - Cincinnati Open 2025",
+            "match_name": ""
         },
         {
             "event_category": "Football",
@@ -97,7 +96,8 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - IndianOil Durand Cup 2025"
+            "event_name": "Upcoming - IndianOil Durand Cup 2025",
+            "match_name": ""
         }
     ]
 }
