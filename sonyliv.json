@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:25:18 16-08-2025",
+    "last update time": "15:35:25 16-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006457/1755249654704236_dc25_QF_SHILLONG_LAJONG_FC_vs_INDIAN_NAVY_FT_15aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Shillong Lajong FC vs Indian Navy FT - Quarter-final - 16 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/4T5TtiUdQXOqPQMP4xXBgg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/4T5TtiUdQXOqPQMP4xXBgg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2118977/Quarte1608/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755381924~acl=/*~id=35119786231547512346819100233662~hmac=1dc4e16c33539e66bb05b8f7b50143c776f74128f900d6b3709476f2b0ed911f",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,7 +30,7 @@
             "match_name": "Trent Rockets vs Southern Brave - 16 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3849prod-PlaybackConfig/2118973/Womens1608/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755381317~acl=/*~id=84980138756186914748271870879556~hmac=b82c177425b856d6375e9c8f7461327391a61917cc2e78334be61e37cc9f92af",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3849prod-PlaybackConfig/2118973/Womens1608/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755381924~acl=/*~id=35119786231547512346819100233662~hmac=1dc4e16c33539e66bb05b8f7b50143c776f74128f900d6b3709476f2b0ed911f",
             "supportedAudioLanguages": [
                 "ENG"
             ]
