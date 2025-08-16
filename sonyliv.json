@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:17:26 16-08-2025",
+    "last update time": "18:27:33 16-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090483665,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006061/1754641023744165_the_hundred_womens25_Trent_Rockets_vs_Southern_Brave_8aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "The Hundred 2025 (Women's)",
-            "match_name": "Trent Rockets vs Southern Brave - 16 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3849prod-PlaybackConfig/2118973/Womens1608/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755391645~acl=/*~id=04027848128523404289148256957640~hmac=3faa10b7380ffadf822b1d3b368c7895b97e600fa8e9b82e4feb68475c6af15c",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Football",
             "isLive": false,
