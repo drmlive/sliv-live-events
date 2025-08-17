@@ -1,7 +1,68 @@
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body>
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>nginx/1.18.0 (Ubuntu)</center>
-</body>
-</html>
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "01:02:03 18-08-2025",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090486748,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006127/1754720955697851_the_hundred_mens25_Birmingham_Phoenix_vs_London_Spirit_8aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025",
+            "match_name": "Birmingham Phoenix vs London Spirit - 17 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0f4aprod-PlaybackConfig/2118976/Birmin1708/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755502323~acl=/*~id=38266010495189444884184493387526~hmac=17bd327f2352d989c82e96526b3f97c0feb18a3dea1a478ec171311fc26e96a7",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090485567,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090486776,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006572/1755446579997220_CLT10_landscape_thumb_Dated_17aug.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - CLT10"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090485900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006290/1754985938351832_the_hundred_mens25_Northern_Superchargers_vs_Birmingham_Phoenix_15aug_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Hundred 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090486034,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419595693692_Promo_ATP_Cincinnati_Open_2024_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - ATP Master 1000 - Cincinnati Open 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486095,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - IndianOil Durand Cup 2025"
+        }
+    ]
+}
