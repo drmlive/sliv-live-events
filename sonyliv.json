@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:41:04 18-08-2025",
+    "last update time": "15:51:12 18-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,19 +14,10 @@
             "match_name": "Kashi Rudras vs Gaur Gorakhpur Lions - 18 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/UP_T201808/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755555064~acl=/*~id=50211636191752907349088708608015~hmac=dd5c3affa15b8834925bcd130977284289fd1a0f5460dd4092a684d604e5400b",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/UP_T201808/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755555672~acl=/*~id=58462826946391456919656586144593~hmac=c7840fd918054561999de1a02885616b9373bc796f82e2420ef0256923991ce4",
             "supportedAudioLanguages": [
                 "HIN"
             ]
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090486034,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419595693692_Promo_ATP_Cincinnati_Open_2024_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - ATP Master 1000 - Cincinnati Open 2025"
         },
         {
             "event_category": "Cricket",
@@ -36,6 +27,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090486034,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005909/1754419595693692_Promo_ATP_Cincinnati_Open_2024_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - ATP Master 1000 - Cincinnati Open 2025"
         },
         {
             "event_category": "Cricket",
