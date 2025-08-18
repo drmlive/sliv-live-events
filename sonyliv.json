@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:48:29 19-08-2025",
+    "last update time": "01:58:37 19-08-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090483664,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006594/1755470996463662_Cincinnati_Open_25_final_Sinner_vs_Alcaraz_landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ATP Masters 1000 - Western and Southern Open 2025",
-            "match_name": "Jannik Sinner vs Carlos Alcaraz - Final - 19 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1755591509~acl=/*~id=40190446293446913171953754659865~hmac=65b5da06badd4b7246a8c9408696cd8688725f9d7b5baf4c6112c773f62f4cbf",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Southern Brave vs Oval Invincibles - 18 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1755591509~acl=/*~id=40190446293446913171953754659865~hmac=65b5da06badd4b7246a8c9408696cd8688725f9d7b5baf4c6112c773f62f4cbf",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1755592116~acl=/*~id=08231747628693094347766312415145~hmac=94b9dc72feb84ecacd5e1b3df98dd1ee38bcfce91b82c2ffa97cb5d7ab85c41d",
             "supportedAudioLanguages": [
                 "ENG",
                 "HIN"
