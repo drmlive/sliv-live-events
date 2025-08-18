@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:37:43 19-08-2025",
+    "last update time": "00:47:50 19-08-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -14,7 +14,7 @@
             "match_name": "Jannik Sinner vs Carlos Alcaraz - Final - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1755587262~acl=/*~id=12769885599345565753990357553149~hmac=325f1a19078930ba4c03199c0910c5f8044998d7e2114770a06a3175dc982657",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2022316/DAI12ME-V3/master_lrl.m3u8?hdnea=exp=1755587869~acl=/*~id=74898121482931161758781129518804~hmac=b3a01c487580dc2426ece3549212eeb3e76c3c52c03435836ba312ae82ac971c",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Southern Brave vs Oval Invincibles - 18 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1755587262~acl=/*~id=12769885599345565753990357553149~hmac=325f1a19078930ba4c03199c0910c5f8044998d7e2114770a06a3175dc982657",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event5_adm/2105079/DAI08ME-V3/master_lrl.m3u8?hdnea=exp=1755587869~acl=/*~id=74898121482931161758781129518804~hmac=b3a01c487580dc2426ece3549212eeb3e76c3c52c03435836ba312ae82ac971c",
             "supportedAudioLanguages": [
                 "ENG",
                 "HIN"
@@ -48,11 +48,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090486095,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
+            "contentId": 1090486831,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006643/1755541755523930_DC_SHILLONG_vs_NORTHEAST_18aug_Landscape_Promo_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - IndianOil Durand Cup 2025"
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Shillong Lajong FC vs NorthEast United FC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -71,6 +71,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Hundred 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486095,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Football",
