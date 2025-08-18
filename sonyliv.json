@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:26:10 18-08-2025",
+    "last update time": "22:36:17 18-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,25 @@
             "match_name": "Noida Kings vs Lucknow Falcons - 18 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/UP_T201808/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755579370~acl=/*~id=45362593923267581897459201958637~hmac=0abc282eb2582adc7ce6db1918effb129c324e9e2af63c9223284d1bf39c6805",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/UP_T201808/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755579976~acl=/*~id=98161228819551834917703192829761~hmac=f453f7a022e2facd38ac65b723c282dbbfdb4280725bd55701ddf1a5b4730bac",
             "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090486789,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006129/1754721475702828_the_hundred_mens25_Southern_Brave_vs_Oval_Invincibles_8aug_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025",
+            "match_name": "Southern Brave vs Oval Invincibles - 18 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/mens_s1808/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755579976~acl=/*~id=98161228819551834917703192829761~hmac=f453f7a022e2facd38ac65b723c282dbbfdb4280725bd55701ddf1a5b4730bac",
+            "supportedAudioLanguages": [
+                "ENG",
                 "HIN"
             ]
         },
