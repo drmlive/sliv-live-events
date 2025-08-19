@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:17:07 19-08-2025",
+    "last update time": "14:27:13 19-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090486848,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006669/1755592864356704_asiacup_rev1_Press_Conference_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "Press Conference - 19 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event10_adm/2037140/DAI20ME-V3/master_lrl.m3u8?hdnea=exp=1755637032~acl=/*~id=78992058141096817803070151369941~hmac=cdbb87467681ed493ebf0fd18ca312871eb84c8039f88e3421f8e911d5ade4c0",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
