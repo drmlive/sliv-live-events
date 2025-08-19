@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:42:52 19-08-2025",
+    "last update time": "22:52:58 19-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Meerut Mavericks vs Lucknow Falcons - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755666771~acl=/*~id=03359755109951399144516998954941~hmac=dcde559414581f6439193c26ecbe2ac243cc73b649efab517baa8e21ac9c6671",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755667378~acl=/*~id=37914036839874026167355742402951~hmac=9b1b6af13086b8f902ea075a84401ad5e964b3fb00d9b7047e757fd7d542c488",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Trent Rockets vs Manchester Originals - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/Mens_T1908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755666771~acl=/*~id=03359755109951399144516998954941~hmac=dcde559414581f6439193c26ecbe2ac243cc73b649efab517baa8e21ac9c6671",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/Mens_T1908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755667378~acl=/*~id=37914036839874026167355742402951~hmac=9b1b6af13086b8f902ea075a84401ad5e964b3fb00d9b7047e757fd7d542c488",
             "supportedAudioLanguages": [
                 "ENG",
                 "HIN"
@@ -39,11 +39,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090486095,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
+            "contentId": 1090486913,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006701/1755619586822382_Diamond-Harbour-FC-vs-East-Bengal-FC-SF_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - IndianOil Durand Cup 2025"
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Diamond Harbour FC vs East Bengal FC - Semi-final - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -89,6 +89,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Hundred 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486095,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005952/1754487263603919_Durand_Cup_Promo_Thumb_06_08_2025_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - IndianOil Durand Cup 2025"
         }
     ]
 }
