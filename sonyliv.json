@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:22:38 19-08-2025",
+    "last update time": "22:32:45 19-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,25 @@
             "match_name": "Meerut Mavericks vs Lucknow Falcons - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755665557~acl=/*~id=39065594521194919625242246612407~hmac=a34904818412a047feb2d6231f4f70ace486abc88d555fe0ed459138d950347a",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?{\"error\":\"transfer closed with 1 bytes remaining to read\"}",
             "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090486832,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006284/1754986375999198_the_hundred_mens25_Trent_Rockets_vs_Manchester_Originals_15aug_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025",
+            "match_name": "Trent Rockets vs Manchester Originals - 19 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/Mens_T1908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755666164~acl=/*~id=16542458399234626657672974802172~hmac=079b681aa82a24f4cf3d9e820c31ff773f4dd4c65e1e701b8cdf98081915a967",
+            "supportedAudioLanguages": [
+                "ENG",
                 "HIN"
             ]
         },
