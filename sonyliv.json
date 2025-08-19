@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:28:24 19-08-2025",
+    "last update time": "16:38:29 19-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Kanpur Superstars vs Kashi Rudras - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755644303~acl=/*~id=60091987329653443295724708785456~hmac=3313d057aa971d0849c78cbd02f3f0b07739e49340ce0e27b14b11e76bf1cecc",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755644908~acl=/*~id=13174758935811922705819858925243~hmac=8104ba495a33be9ae615b24fddf4619c399d1038785bb5ceb32136c2f558ff85",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -54,6 +54,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Play-offs - Leg 1 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090486869,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006680/1755600818359201_Playoff_Leg2_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - Leg 2 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
