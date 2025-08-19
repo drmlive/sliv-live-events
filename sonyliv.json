@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:00:00 19-08-2025",
+    "last update time": "19:10:08 19-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Shillong Lajong FC vs Northeast United FC - Semi-final - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/semi_f1908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755653399~acl=/*~id=85873822638175485059860978160836~hmac=10b1a1cce40d0524a81e7b1cdfe0505dc83b1a5dd1b8dea00e0ed894270ca8c7",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/semi_f1908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755654007~acl=/*~id=23776972266546789296951010836189~hmac=fe5b63892c7b6666dd5eb1b8cae9165cc7140e9365a0c05bc57208d901b844f2",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,9 +30,25 @@
             "match_name": "Kanpur Superstars vs Kashi Rudras - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755653399~acl=/*~id=85873822638175485059860978160836~hmac=10b1a1cce40d0524a81e7b1cdfe0505dc83b1a5dd1b8dea00e0ed894270ca8c7",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755654007~acl=/*~id=23776972266546789296951010836189~hmac=fe5b63892c7b6666dd5eb1b8cae9165cc7140e9365a0c05bc57208d901b844f2",
             "supportedAudioLanguages": [
                 "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483666,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006283/1754985887637328_the_hundred_womens25_Trent_Rockets_vs_Manchester_Originals_15aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025 (Women's)",
+            "match_name": "Trent Rockets vs Manchester Originals - 19 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Womens1908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755654007~acl=/*~id=23776972266546789296951010836189~hmac=fe5b63892c7b6666dd5eb1b8cae9165cc7140e9365a0c05bc57208d901b844f2",
+            "supportedAudioLanguages": [
+                "ENG"
             ]
         },
         {
