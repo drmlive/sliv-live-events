@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:29:32 19-08-2025",
+    "last update time": "18:39:45 19-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006642/1755534310956516_DC_SHILLONG_vs_NORTHEAST_18aug_landscapet_thumb_Live.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Shillong Lajong FC vs Northeast United FC - Semi-final - 19 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/semi_f1908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755652184~acl=/*~id=04424926279118771005781189865449~hmac=e658462fdd24d6cc6a60d577fd2b6f5c3d9886bccd265a8d7a9205d46e00ad8b",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,7 +30,7 @@
             "match_name": "Kanpur Superstars vs Kashi Rudras - 19 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755651571~acl=/*~id=69358500095307849650469087406291~hmac=aa64995d1b763da0fee838c0835fae95bdf388be4bd56766a4eb969531a5f158",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/UP_T201908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755652184~acl=/*~id=04424926279118771005781189865449~hmac=e658462fdd24d6cc6a60d577fd2b6f5c3d9886bccd265a8d7a9205d46e00ad8b",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -45,15 +61,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - CLT10"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090486831,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006643/1755541755523930_DC_SHILLONG_vs_NORTHEAST_18aug_Landscape_Promo_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Shillong Lajong FC vs NorthEast United FC - IndianOil Durand Cup 2025"
         },
         {
             "event_category": "Football",
