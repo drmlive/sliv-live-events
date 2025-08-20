@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:26:27 20-08-2025",
+    "last update time": "18:36:35 20-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Noida Kings vs Gaur Gorakhpur Lions - 20 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/IQsnxWliSte7Shv98y7Png/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/IQsnxWliSte7Shv98y7Png/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT8e3cprod-PlaybackConfig/2118981/UP_T202008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755737786~acl=/*~id=98700241100392717494831840798081~hmac=784e6033ad56c8b1db4c15833bbdcbec51eb754d5fe45864f0a8c1df990cefaa",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT8e3cprod-PlaybackConfig/2118981/UP_T202008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755738394~acl=/*~id=77646802190557550319463769179985~hmac=9f462dcead76938b8d034b35ab3d658a50d531fcfb86031a3656b3989af0c021",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -30,19 +30,26 @@
             "match_name": "Welsh Fire vs Southern Brave - 20 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/W0ixMg2OQc-OUVZRIyX22Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/W0ixMg2OQc-OUVZRIyX22Q/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118977/Womens2008/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755737786~acl=/*~id=98700241100392717494831840798081~hmac=784e6033ad56c8b1db4c15833bbdcbec51eb754d5fe45864f0a8c1df990cefaa",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118977/Womens2008/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755738394~acl=/*~id=77646802190557550319463769179985~hmac=9f462dcead76938b8d034b35ab3d658a50d531fcfb86031a3656b3989af0c021",
             "supportedAudioLanguages": [
                 "ENG"
             ]
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090486913,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006701/1755619586822382_Diamond-Harbour-FC-vs-East-Bengal-FC-SF_Landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": 1090483661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006642/1755536747194516_DC_DIAMOND_vs_EastBengalFC_18aug_landscape_thumbt_thumb_Live.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Diamond Harbour FC vs East Bengal FC - Semi-final - IndianOil Durand Cup 2025"
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2025",
+            "match_name": "Diamond Harbour FC vs Emami East Bengal FC - Semi-final - 20 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/semi_f2008/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755738394~acl=/*~id=77646802190557550319463769179985~hmac=9f462dcead76938b8d034b35ab3d658a50d531fcfb86031a3656b3989af0c021",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
         },
         {
             "event_category": "Cricket",
