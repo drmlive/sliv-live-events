@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:23:16 20-08-2025",
+    "last update time": "14:33:22 20-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006659/1755577582551941_UPT20_League25_Noida_Kings_vs_Gaur_Gorakhpur_Lions_19aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UP T20 League 2025",
+            "match_name": "Noida Kings vs Gaur Gorakhpur Lions - 20 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/IQsnxWliSte7Shv98y7Png/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/IQsnxWliSte7Shv98y7Png/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT8e3cprod-PlaybackConfig/2118981/UP_T202008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755723802~acl=/*~id=61080089362032789261761687408564~hmac=8c8b6547345222351fb40287150c8226a841acbf09ac59fe439b4b856f6755e3",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
         {
             "event_category": "Football",
             "isLive": false,
