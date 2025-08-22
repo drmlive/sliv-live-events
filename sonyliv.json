@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:55:37 22-08-2025",
+    "last update time": "15:05:44 22-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Stellar Stallions vs Victory Vanguard - 22 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2118979/CLT10_2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755897936~acl=/*~id=90801301112566144109093323711626~hmac=113ed9e0cc982b83facfff3a95365f331efaa4363136a53e55371186a8ff35f7",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2118979/CLT10_2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755898543~acl=/*~id=68246134637076219779112854403611~hmac=7cedecc15b1e4da6d45c0a547a8319b0a35ee7647a14ca2cb6e0a5463aef06c9",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,9 +30,25 @@
             "match_name": "Noida Kings vs Kanpur Superstars - 22 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3aebprod-PlaybackConfig/2118974/UP_T202208/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755897936~acl=/*~id=90801301112566144109093323711626~hmac=113ed9e0cc982b83facfff3a95365f331efaa4363136a53e55371186a8ff35f7",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3aebprod-PlaybackConfig/2118974/UP_T202208/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755898543~acl=/*~id=68246134637076219779112854403611~hmac=7cedecc15b1e4da6d45c0a547a8319b0a35ee7647a14ca2cb6e0a5463aef06c9",
             "supportedAudioLanguages": [
                 "HIN"
+            ]
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090487037,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006817/175578947223843_RTUFC_S4_EP5_23may_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Road To UFC",
+            "match_name": "Season 4 - Episode 5 - 22 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/K6bUQpoZT2yoiEaS3Fkm6w/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/K6bUQpoZT2yoiEaS3Fkm6w/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118981/Road_T2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755898543~acl=/*~id=68246134637076219779112854403611~hmac=7cedecc15b1e4da6d45c0a547a8319b0a35ee7647a14ca2cb6e0a5463aef06c9",
+            "supportedAudioLanguages": [
+                "ENG"
             ]
         },
         {
