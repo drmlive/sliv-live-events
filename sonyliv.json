@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:26:48 22-08-2025",
+    "last update time": "16:36:53 22-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Super Sonics vs Brave Blazers - 22 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2118979/CLT10_2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755903406~acl=/*~id=66431825930726654732086030157766~hmac=41d9f6b654ee28bec3bbbe13d3e130d2b1164d7abedd41ed0b78777f725f4e55",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2118979/CLT10_2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755904012~acl=/*~id=27992523525483133218296002367699~hmac=b1deb350d506bd21f4805ab6aa8136483132916c5b4b9f2275f5f2b5fb910b4a",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Noida Kings vs Kanpur Superstars - 22 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3aebprod-PlaybackConfig/2118974/UP_T202208/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755903406~acl=/*~id=66431825930726654732086030157766~hmac=41d9f6b654ee28bec3bbbe13d3e130d2b1164d7abedd41ed0b78777f725f4e55",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3aebprod-PlaybackConfig/2118974/UP_T202208/HIN/std_lrl-800300010.m3u8?hdnea=exp=1755904012~acl=/*~id=27992523525483133218296002367699~hmac=b1deb350d506bd21f4805ab6aa8136483132916c5b4b9f2275f5f2b5fb910b4a",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -46,7 +46,7 @@
             "match_name": "Season 4 - Episode 5 - 22 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/K6bUQpoZT2yoiEaS3Fkm6w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/K6bUQpoZT2yoiEaS3Fkm6w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118981/Road_T2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755903406~acl=/*~id=66431825930726654732086030157766~hmac=41d9f6b654ee28bec3bbbe13d3e130d2b1164d7abedd41ed0b78777f725f4e55",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118981/Road_T2208/ENG/std_lrl-800300010.m3u8?hdnea=exp=1755904012~acl=/*~id=27992523525483133218296002367699~hmac=b1deb350d506bd21f4805ab6aa8136483132916c5b4b9f2275f5f2b5fb910b4a",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -68,6 +68,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090487104,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006854/1755858968106702_Bayern_vs_leipzig_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs RB Leipzig"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090487106,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006854/1755858931386702_st_pauli_vs_Dortmund_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - St. Pauli vs Borussia Dortmund"
         },
         {
             "event_category": "Football",
