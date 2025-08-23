@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:16:27 23-08-2025",
+    "last update time": "21:26:39 23-08-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090487034,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006818/1755792183068311_Bundesliga_MD1_UnionBerlin_vs_VfB_Stuttgart_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Union Berlin vs VfB Stuttgart - MD 1 - 23 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd89fprod-PlaybackConfig/2118975/Bundes2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007184~acl=/*~id=86166707181278561721417226493939~hmac=c3a164a8d87d28b2fde17e55e3c9ca350559bdaaabaa37c60e48b634a36d782a",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -30,25 +14,25 @@
             "match_name": "Heidenheim vs VfL Wolfsburg - MD 1 - 23 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTfd7eprod-PlaybackConfig/2118973/Bundes2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007184~acl=/*~id=86166707181278561721417226493939~hmac=c3a164a8d87d28b2fde17e55e3c9ca350559bdaaabaa37c60e48b634a36d782a",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTfd7eprod-PlaybackConfig/2118973/Bundes2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007797~acl=/*~id=00138697878914584538532426857841~hmac=2f99adeccdc2987f89519334c90b00431602dbe0e64359ff16a04adcf06e54ed",
             "supportedAudioLanguages": [
                 "ENG"
             ]
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": 1090483667,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006659/1755579903019941_UPT20_League25_Gaur_Gorakhpur_Lions_vs_Kanpur_Superstars_19aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "UP T20 League 2025",
-            "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars - 23 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6fe2prod-PlaybackConfig/2118980/UP_T202308/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756007184~acl=/*~id=86166707181278561721417226493939~hmac=c3a164a8d87d28b2fde17e55e3c9ca350559bdaaabaa37c60e48b634a36d782a",
+            "contentId": 1090487036,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006826/1755817667570421_Bundesliga_MD1_StPauli_vs_BorussiaDortmund_Stuttgart_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "St. Pauli vs Borussia Dortmund - MD 1 - 23 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/3SFyFPl0QwqZx9sQ-HGncA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/3SFyFPl0QwqZx9sQ-HGncA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd7f3prod-PlaybackConfig/2118970/St_Pau2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007797~acl=/*~id=00138697878914584538532426857841~hmac=2f99adeccdc2987f89519334c90b00431602dbe0e64359ff16a04adcf06e54ed",
             "supportedAudioLanguages": [
-                "HIN"
+                "ENG"
             ]
         },
         {
@@ -62,9 +46,25 @@
             "match_name": "Northern Superchargers vs Oval Invincibles - 23 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118976/Northe2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007184~acl=/*~id=86166707181278561721417226493939~hmac=c3a164a8d87d28b2fde17e55e3c9ca350559bdaaabaa37c60e48b634a36d782a",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118976/Northe2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007797~acl=/*~id=00138697878914584538532426857841~hmac=2f99adeccdc2987f89519334c90b00431602dbe0e64359ff16a04adcf06e54ed",
             "supportedAudioLanguages": [
                 "ENG",
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006659/1755579903019941_UPT20_League25_Gaur_Gorakhpur_Lions_vs_Kanpur_Superstars_19aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UP T20 League 2025",
+            "match_name": "Gaur Gorakhpur Lions vs Kanpur Superstars - 23 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6fe2prod-PlaybackConfig/2118980/UP_T202308/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756007797~acl=/*~id=00138697878914584538532426857841~hmac=2f99adeccdc2987f89519334c90b00431602dbe0e64359ff16a04adcf06e54ed",
+            "supportedAudioLanguages": [
                 "HIN"
             ]
         },
@@ -79,67 +79,10 @@
             "match_name": "London Spirit vs Southern Brave - 23 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3aebprod-PlaybackConfig/2118977/Womens2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007184~acl=/*~id=86166707181278561721417226493939~hmac=c3a164a8d87d28b2fde17e55e3c9ca350559bdaaabaa37c60e48b634a36d782a",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3aebprod-PlaybackConfig/2118977/Womens2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007797~acl=/*~id=00138697878914584538532426857841~hmac=2f99adeccdc2987f89519334c90b00431602dbe0e64359ff16a04adcf06e54ed",
             "supportedAudioLanguages": [
                 "ENG"
             ]
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090483668,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006832/175584008951577_CLT10_Stellar_Stallions_vs_Mighty_Mavericks_21aug25_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "CLT10",
-            "match_name": "Stellar Stallions vs Mighty Mavericks - 23 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/CLT10_2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007184~acl=/*~id=86166707181278561721417226493939~hmac=c3a164a8d87d28b2fde17e55e3c9ca350559bdaaabaa37c60e48b634a36d782a",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090487144,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_goal_arena_22aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Goal Arena Feed - MD 1 - 23 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/QxO1b6g6Rd62SkzeDMED4Q/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/QxO1b6g6Rd62SkzeDMED4Q/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118982/Bundes2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007184~acl=/*~id=86166707181278561721417226493939~hmac=c3a164a8d87d28b2fde17e55e3c9ca350559bdaaabaa37c60e48b634a36d782a",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090487033,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006818/1755791678797311_Bundesliga_MD1_SC_Freiburg_vs_FC_Augsburg_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "SC Freiburg vs FC Augsburg - MD 1 - 23 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT47b9prod-PlaybackConfig/2118974/Bundes2308/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756007184~acl=/*~id=86166707181278561721417226493939~hmac=c3a164a8d87d28b2fde17e55e3c9ca350559bdaaabaa37c60e48b634a36d782a",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090487106,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006854/1755858931386702_st_pauli_vs_Dortmund_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - St. Pauli vs Borussia Dortmund"
         },
         {
             "event_category": "Cricket",
