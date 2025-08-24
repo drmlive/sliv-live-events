@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:24:52 24-08-2025",
+    "last update time": "18:35:01 24-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Might Maverics vs Super Sonic - Semi-Final - 24 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/CLT10_2408/ENG/std_lrl-800300010.m3u8?{\"error\":\"transfer closed with 1 bytes remaining to read\"}",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/CLT10_2408/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756083899~acl=/*~id=43169786447962038704381392432436~hmac=2b3266e8dca60d92d4d53cf1623073056621f91cd6cf29c8a21df6f6066f1189",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Meerut Mavericks vs Noida Kings - 24 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118982/UP_T202408/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756083292~acl=/*~id=75470216083476505581300289914752~hmac=57235a270159e3923348bb2d355471e5b047c15d85cb987810f3a323b00e2243",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3894prod-PlaybackConfig/2118982/UP_T202408/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756083899~acl=/*~id=43169786447962038704381392432436~hmac=2b3266e8dca60d92d4d53cf1623073056621f91cd6cf29c8a21df6f6066f1189",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -38,17 +38,34 @@
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1090483665,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006469/1755252068233171_the_hundred_womens25_Welsh_Fire_vs_Trent_Rockets_24aug_landscape_thumb.jpg",
+            "contentId": 1090483666,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006494/175525571947949_the_hundred_womens25_Manchester_Originals_vs_Birmingham_Phoenix_24aug_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "The Hundred 2025 (Women's)",
-            "match_name": "Welsh Fire vs Trent Rockets - 24 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/Womens2408/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756083292~acl=/*~id=75470216083476505581300289914752~hmac=57235a270159e3923348bb2d355471e5b047c15d85cb987810f3a323b00e2243",
+            "match_name": "Manchester Originals vs Birmingham Phoenix - 24 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Qm2GMP-bRE-qZiaZKmfvmQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118979/Womens2408/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756083899~acl=/*~id=43169786447962038704381392432436~hmac=2b3266e8dca60d92d4d53cf1623073056621f91cd6cf29c8a21df6f6066f1189",
             "supportedAudioLanguages": [
                 "ENG"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090487176,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006455/1755167664306285_the_hundred_mens25_Welsh_Fire_vs_Trent_Rocketse_24aug_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025",
+            "match_name": "Welsh Fire vs Trent Rockets - 24 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/Zj3sNMqySrq9HS7HAIzBrA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Zj3sNMqySrq9HS7HAIzBrA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118978/Welsh_2408/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756083899~acl=/*~id=43169786447962038704381392432436~hmac=2b3266e8dca60d92d4d53cf1623073056621f91cd6cf29c8a21df6f6066f1189",
+            "supportedAudioLanguages": [
+                "ENG",
+                "HIN"
             ]
         },
         {
@@ -62,7 +79,7 @@
             "match_name": "Mainz vs FC Koln - MD 1 - 23 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/5aAxj8T7ToGk12atUPTAbA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5aAxj8T7ToGk12atUPTAbA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120294/Mainz_2408/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756083292~acl=/*~id=75470216083476505581300289914752~hmac=57235a270159e3923348bb2d355471e5b047c15d85cb987810f3a323b00e2243",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120294/Mainz_2408/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756083899~acl=/*~id=43169786447962038704381392432436~hmac=2b3266e8dca60d92d4d53cf1623073056621f91cd6cf29c8a21df6f6066f1189",
             "supportedAudioLanguages": [
                 "ENG"
             ]
