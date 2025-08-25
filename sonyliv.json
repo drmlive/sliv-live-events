@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:27:59 25-08-2025",
+    "last update time": "14:38:06 25-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006688/1755604163825322_UPT20_League25_Kanpur_Superstars_vs_Meerut_Mavericks_19aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UP T20 League 2025",
+            "match_name": "Kanpur Superstars vs Meerut Mavericks - 25 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UPT20_2508/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756156085~acl=/*~id=50609793313700284243062853377919~hmac=a4153fd6304802c30750fe75c2983a04c4939ebe3005521066c5b147a6111ef0",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
