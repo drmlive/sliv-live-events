@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:53:21 25-08-2025",
+    "last update time": "21:03:29 25-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,7 +14,7 @@
             "match_name": "Kashi Rudras vs Gaur Gorakhpur Lions - 25 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UPT20_2508/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756178600~acl=/*~id=40694622978729471214874264195122~hmac=0dd206f49f94cdc177d7b3d5715388d37f760f6eadb28b92c7f66dd2da5f325e",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UPT20_2508/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756179208~acl=/*~id=77538493127774313171267750152601~hmac=a3a7230379a344afcf5c5f0c527ff8b732345a3b265a2aa4ba08841425b3869d",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Oval Invincibles vs London Spirit - 25 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/FtIdt0FNS0-NA7vJCouKIw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Womens2508/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756178600~acl=/*~id=40694622978729471214874264195122~hmac=0dd206f49f94cdc177d7b3d5715388d37f760f6eadb28b92c7f66dd2da5f325e",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Womens2508/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756179208~acl=/*~id=77538493127774313171267750152601~hmac=a3a7230379a344afcf5c5f0c527ff8b732345a3b265a2aa4ba08841425b3869d",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -56,20 +56,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090485567,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090485900,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006290/1754985938351832_the_hundred_mens25_Northern_Superchargers_vs_Birmingham_Phoenix_15aug_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Hundred 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090485567,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006325/1755030186146809_AsiaCup25_28Jul_Promo_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         }
     ]
 }
