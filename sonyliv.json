@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:57:13 26-08-2025",
+    "last update time": "02:07:19 26-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -11,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090487316,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007016/1756151716237581_PROMO_HOCKEY_ASIA_CUP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hero Asia Cup 2025"
         },
         {
             "event_category": "Football",
