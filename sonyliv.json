@@ -1,40 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:33:51 27-08-2025",
+    "last update time": "02:43:57 27-08-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090487277,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006897/1755938474481182_UCL2526_Playoffs_Leg2_Sturm_Graz_vs_Bodo_Glimt_21aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Sturm Graz\u00a0vs Bodo/Glimt - Play-offs Leg 2 - 27 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT154fprod-PlaybackConfig/2118977/Sturm_2608/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756285430~acl=/*~id=78300352201767831152440738096047~hmac=fd3bf5f24f22738bd924182e0da8cf5e4909c6555f369f940fcd4d27c50924ec",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090487278,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006897/1755939362019182_UCL2526_Playoffs_Leg2_Pafos_vs_Crvena_Zvezda_21aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Pafos\u00a0vs Crvena Zvezda - Play-offs Leg 2 - 27 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/OYu66B-PRtG9VX-BLWUj7w/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/OYu66B-PRtG9VX-BLWUj7w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd89fprod-PlaybackConfig/2118973/Pafos_2608/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756285430~acl=/*~id=78300352201767831152440738096047~hmac=fd3bf5f24f22738bd924182e0da8cf5e4909c6555f369f940fcd4d27c50924ec",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
