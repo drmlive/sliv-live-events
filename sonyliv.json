@@ -1,22 +1,23 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:16:19 27-08-2025",
+    "last update time": "22:36:46 27-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1090483666,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006501/1755258365988642_the_hundred_womens25_Trent_Rockets_vs_Birmingham_Phoenix_27aug_landscape_thumb.jpg",
+            "contentId": 1090487419,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006522/1755249942195194_the_hundred_mens25_Trent_Rockets_vs_Birmingham_Phoenix_27aug_multi_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "The Hundred 2025 (Women's)",
+            "event_name": "The Hundred 2025",
             "match_name": "Trent Rockets vs Birmingham Phoenix - 27 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/hLNAR03_Qs-t6e4L9iZPXw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/hLNAR03_Qs-t6e4L9iZPXw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3effprod-PlaybackConfig/2118976/Womens2708/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756356367~acl=/*~id=57891083336811117295359949239292~hmac=b2165533825505298dda3cc12a8ac05b83db7b0c1aa1327914d8f0e335679562",
+            "dai_url": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb286prod-PlaybackConfig/2118977/Mens_T2708/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756357606~acl=/*~id=77796969101113983945926198468112~hmac=93c5bc7ef4dba2bae98071bb489b4aa7742078b49069e061e26bc7afeba73240",
             "supportedAudioLanguages": [
-                "ENG"
+                "ENG",
+                "HIN"
             ]
         },
         {
@@ -30,7 +31,7 @@
             "match_name": "Gaur Gorakhpur Lions vs Noida Kings - 27 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/bdRpTNSURR6_I76sWJXssA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/bdRpTNSURR6_I76sWJXssA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc899prod-PlaybackConfig/2118982/UPT20_2708/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756356367~acl=/*~id=57891083336811117295359949239292~hmac=b2165533825505298dda3cc12a8ac05b83db7b0c1aa1327914d8f0e335679562",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc899prod-PlaybackConfig/2118982/UPT20_2708/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756357606~acl=/*~id=77796969101113983945926198468112~hmac=93c5bc7ef4dba2bae98071bb489b4aa7742078b49069e061e26bc7afeba73240",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -46,7 +47,7 @@
             "match_name": "Qarabag\u00a0vs Ferencvaros - Play-offs Leg 2 - 27 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UCL_Qa2708/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756356367~acl=/*~id=57891083336811117295359949239292~hmac=b2165533825505298dda3cc12a8ac05b83db7b0c1aa1327914d8f0e335679562",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UCL_Qa2708/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756357606~acl=/*~id=77796969101113983945926198468112~hmac=93c5bc7ef4dba2bae98071bb489b4aa7742078b49069e061e26bc7afeba73240",
             "supportedAudioLanguages": [
                 "ENG"
             ]
