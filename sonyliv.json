@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:37:16 28-08-2025",
+    "last update time": "22:47:24 28-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090487501,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006721/1755610338479743_UPT20_League25_Noida_Kings_vs_Kashi_Rudras_19aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "UP T20 League 2025",
-            "match_name": "Noida Kings vs Kashi Rudras - 28 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event4_adm/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1756444035~acl=/*~id=31897346094758269302930704624312~hmac=e99ed4f81e856792cce681b23a6da442957b294614977ce4b11a8ec9b93c35ab",
-            "supportedAudioLanguages": [
-                "HIN"
-            ]
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "League Phase Draw - 28 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Champi2808/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756444035~acl=/*~id=31897346094758269302930704624312~hmac=e99ed4f81e856792cce681b23a6da442957b294614977ce4b11a8ec9b93c35ab",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Champi2808/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756444643~acl=/*~id=78634020850524642705762959044652~hmac=ef9dc2a06a8c726c85bb6d478aecb0370b66bc2dd061b055fd59d240387edcb9",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -46,9 +30,25 @@
             "match_name": "Southern Brave vs Welsh Fire - 28 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/JX6SebEQTjyVdexY_GRu5A/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/JX6SebEQTjyVdexY_GRu5A/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT8e9cprod-PlaybackConfig/2118975/Southe2808/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756444035~acl=/*~id=31897346094758269302930704624312~hmac=e99ed4f81e856792cce681b23a6da442957b294614977ce4b11a8ec9b93c35ab",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT8e9cprod-PlaybackConfig/2118975/Southe2808/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756444643~acl=/*~id=78634020850524642705762959044652~hmac=ef9dc2a06a8c726c85bb6d478aecb0370b66bc2dd061b055fd59d240387edcb9",
             "supportedAudioLanguages": [
                 "ENG",
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090487501,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006721/1755610338479743_UPT20_League25_Noida_Kings_vs_Kashi_Rudras_19aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UP T20 League 2025",
+            "match_name": "Noida Kings vs Kashi Rudras - 28 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/cf6c1a8acbbb40a9b94e083a0c84baaf7d037980/Live_event4_adm/2094589/DAI05ME-V3/master_lrl.m3u8?hdnea=exp=1756444643~acl=/*~id=78634020850524642705762959044652~hmac=ef9dc2a06a8c726c85bb6d478aecb0370b66bc2dd061b055fd59d240387edcb9",
+            "supportedAudioLanguages": [
                 "HIN"
             ]
         },
