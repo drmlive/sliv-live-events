@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:06:16 30-08-2025",
+    "last update time": "02:16:23 30-08-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090487542,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006898/1755941237780812_Bundesliga_MD2_Hamburg_SV_vs_St_Pauli_hls_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Hamburg SV vs St. Pauli - MD 2 - 29 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb286prod-PlaybackConfig/2118978/Bundes2908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756542976~acl=/*~id=22985985581832122173111146430893~hmac=71779db9d589fd2128b4249542e3fbee71cfc8e16e256931afa1403a404c40d0",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
