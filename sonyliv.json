@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:29:49 29-08-2025",
+    "last update time": "17:39:58 29-08-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090487555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007138/1756390028727364_UEL_UECL_League_Phase_Draw_28aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa & Conference League 2025-26",
-            "match_name": "League Phase Draw - 29 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/UELDra2908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756511989~acl=/*~id=50513291220201483421594784953239~hmac=8d39f6eda661d3c542af64995f29b74ae8a62cfbfff54b8e36fc78f11b5c5a3e",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Gaur Gorakhpur Lions vs Meerut Mavericks - 29 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/UPT20_2908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756511989~acl=/*~id=50513291220201483421594784953239~hmac=8d39f6eda661d3c542af64995f29b74ae8a62cfbfff54b8e36fc78f11b5c5a3e",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/UPT20_2908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756512597~acl=/*~id=27362322725407072694472596265065~hmac=ba621ed1182116c0e97f52e2ee1b865d1eb8900d1a286525b91aaf4dfb8e11bf",
             "supportedAudioLanguages": [
                 "HIN"
             ]
