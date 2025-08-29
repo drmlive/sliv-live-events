@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:23:04 29-08-2025",
+    "last update time": "08:33:11 29-08-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090483670,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007146/1756394134581877_Hero_AsiaCup25_MALAYSIA_vs_BANGLADESH_28aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Hero Asia Cup 2025",
+            "match_name": "Malaysia vs Bangladesh - 29 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/HeroAs2908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756479790~acl=/*~id=64161858004518040490223986739009~hmac=3fb9b373703785bbc40fb9886051a60e71166157e9b542fd558f54416c777f7f",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
         {
             "event_category": "Hockey",
             "isLive": false,
