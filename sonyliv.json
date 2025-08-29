@@ -1,8 +1,40 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:27:23 29-08-2025",
+    "last update time": "14:37:32 29-08-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090487553,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007057/1756230844873878_Hero_AsiaCup25_india_vs_china_26aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Hero Asia Cup 2025",
+            "match_name": "India vs China - 29 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2118979/HeroAs2908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756501650~acl=/*~id=01955382173358864217099071179435~hmac=ac18c73235ec20aef414e7b7324cfcd417fd6b1a96d83f38ba034a8ff6a3985e",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006730/1755671215026492_UPT20_League25_Gaur_Gorakhpur_Lions_vs_Meerut_Mavericks_19aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UP T20 League 2025",
+            "match_name": "Gaur Gorakhpur Lions vs Meerut Mavericks - 29 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/UPT20_2908/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756501650~acl=/*~id=01955382173358864217099071179435~hmac=ac18c73235ec20aef414e7b7324cfcd417fd6b1a96d83f38ba034a8ff6a3985e",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
         {
             "event_category": "Hockey",
             "isLive": true,
@@ -14,7 +46,7 @@
             "match_name": "Japan vs Kazakhstan - 29 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/HeroAs2908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756501043~acl=/*~id=21111317249681429504041570462083~hmac=cfcc0ea77560ddbe569922248e3b4194e2ddb3d4c5f11359a776877ae9e060f5",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/HeroAs2908/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756501650~acl=/*~id=01955382173358864217099071179435~hmac=ac18c73235ec20aef414e7b7324cfcd417fd6b1a96d83f38ba034a8ff6a3985e",
             "supportedAudioLanguages": [
                 "ENG"
             ]
