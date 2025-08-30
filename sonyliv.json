@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:06:34 30-08-2025",
+    "last update time": "18:16:39 30-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,9 +14,25 @@
             "match_name": "Gaur Gorakhpur Lions vs Lucknow Falcons - 30 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2118970/UPT20_303008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756600593~acl=/*~id=08187817265813187168946041545610~hmac=c31770a86128a16f71afd7a90b9230bca1747855a54ff0c4f9b925c0b1e2bbd6",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2118970/UPT20_303008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756601198~acl=/*~id=84827412512287815229616484129594~hmac=fe7da9389b66745241acea38686776e4812a1ba34a8483ce4d861a3cacf5032f",
             "supportedAudioLanguages": [
                 "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483666,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007204/1756484133947789_the_hundred_womens25_Eliminator_Northern_Superchargers_vs_London_Spirit_29aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "The Hundred 2025 (Women's)",
+            "match_name": "Northern Superchargers vs London Spirit - 30 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118972/womens_e3008/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756601198~acl=/*~id=84827412512287815229616484129594~hmac=fe7da9389b66745241acea38686776e4812a1ba34a8483ce4d861a3cacf5032f",
+            "supportedAudioLanguages": [
+                "ENG"
             ]
         },
         {
