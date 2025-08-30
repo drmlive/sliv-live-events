@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:22:33 30-08-2025",
+    "last update time": "12:32:40 30-08-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090483670,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007201/1756481694722206_Hero_AsiaCup25_Bangladesh_vs_Chinese_Taipei_29aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "Hero Asia Cup 2025",
+            "match_name": "Bangladesh vs Chinese Taipei - 30 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118979/HeroAsia3008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756580560~acl=/*~id=97955910437888617847703918786753~hmac=22ec9e4955a1c42765ae4bb4b7bc8096f100ec480ddf74277dff4d961f215576",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -20,6 +36,33 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Hero Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090487661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007218/175653533192868_Bundesliga25_Weder_vs_Leverkusen_Laandscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Werder Bremen vs Bayer Leverkusen"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090487662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007218/175653541518368_Bundesliga25_Augsburg_vs_Bayer_Laandscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - FC Augsburg vs Bayern Munich"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090487663,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007218/175653545482268_Bundesliga25_Dortmund_vs_UnionBerlin_Laandscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs Union Berlin"
         },
         {
             "event_category": "Cricket",
