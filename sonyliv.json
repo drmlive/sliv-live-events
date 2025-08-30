@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:23:56 30-08-2025",
+    "last update time": "14:34:04 30-08-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -14,7 +14,23 @@
             "match_name": "Bangladesh vs Chinese Taipei - 30 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118979/HeroAsia3008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756587236~acl=/*~id=92544803786544507383495103294110~hmac=a876db0d79f37ae5d945229a1638d9234ec9aba6681db05523adcf2bbb774f9a",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118979/HeroAsia3008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756587844~acl=/*~id=94217778978662191835489226224208~hmac=149ba80e6eabef35ca59e01e3129a486bacd4e75baa3efbace3a10793ec6b150",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006738/1755672194363927_UPT20_League25_Gaur_Gorakhpur_Lions_vs_Lucknow-Falcons_19aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UP T20 League 2025",
+            "match_name": "Gaur Gorakhpur Lions vs Lucknow Falcons - 30 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2118970/UPT20_303008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756587844~acl=/*~id=94217778978662191835489226224208~hmac=149ba80e6eabef35ca59e01e3129a486bacd4e75baa3efbace3a10793ec6b150",
             "supportedAudioLanguages": [
                 "HIN"
             ]
