@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:19:36 30-08-2025",
+    "last update time": "21:29:44 30-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090487573,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006978/1755954749229800_Bundesliga_FC_Augsburg_vs_Bayern_Munich_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "FC Augsburg vs Bayern Munich - MD 2 - 30 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2118973/FC_Augsb3008/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756612783~acl=/*~id=62577864112420652151980763345096~hmac=090a4e798b7a1a1264e2f1eedadc83e06e883f3b1b5b494a7b3d6388b0d34005",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -14,7 +30,7 @@
             "match_name": "Kashi Rudras vs Meerut Mavericks - 30 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2118970/UPT20_303008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756612175~acl=/*~id=11322172264584501923345615991328~hmac=55737b585c8a126a0261fde97a0e3932ce38ed287d9bda6cbba5ba414c930362",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2118970/UPT20_303008/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756612783~acl=/*~id=62577864112420652151980763345096~hmac=090a4e798b7a1a1264e2f1eedadc83e06e883f3b1b5b494a7b3d6388b0d34005",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -30,7 +46,7 @@
             "match_name": "Northern Superchargers vs London Spirit - 30 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118972/womens_e3008/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756612175~acl=/*~id=11322172264584501923345615991328~hmac=55737b585c8a126a0261fde97a0e3932ce38ed287d9bda6cbba5ba414c930362",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118972/womens_e3008/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756612783~acl=/*~id=62577864112420652151980763345096~hmac=090a4e798b7a1a1264e2f1eedadc83e06e883f3b1b5b494a7b3d6388b0d34005",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -52,15 +68,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090487662,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007218/175653541518368_Bundesliga25_Augsburg_vs_Bayer_Laandscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - FC Augsburg vs Bayern Munich"
         },
         {
             "event_category": "Football",
