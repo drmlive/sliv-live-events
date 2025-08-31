@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:56:55 31-08-2025",
+    "last update time": "22:07:06 31-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090483665,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007215/1756507960410308_the_hundred_womens25_final_Southern_Brave_vs_Northern_Superchargers_30aug_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "The Hundred 2025 (Women's)",
-            "match_name": "Southern Brave vs Northern Superchargers - Final - 31 Aug 2025",
-            "dai_url": "https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT66f5prod-PlaybackConfig/2118975/WomensHu3108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756700814~acl=/*~id=20377140197673509090519264409143~hmac=845a0f25ab6c87fe0701044314b632a2d6ace6612c7cd5ab8646d4ec991a166b",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Meerut Mavericks vs Noida Kings - 31 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118976/UPT20_Le3108/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756700814~acl=/*~id=20377140197673509090519264409143~hmac=845a0f25ab6c87fe0701044314b632a2d6ace6612c7cd5ab8646d4ec991a166b",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118976/UPT20_Le3108/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756701424~acl=/*~id=03086852634203740095533594563275~hmac=cdb5c55664aa1251404777eb5f7f68302423e74a2d164099bb224bee57e304ce",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -46,19 +30,27 @@
             "match_name": "Borussia Dortmund vs Union Berlin - MD 2 - 31 Aug 2025",
             "dai_url": "https://dai.google.com/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/BUshkSezTbOFZbelkuu1Gw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT804fprod-PlaybackConfig/2118969/Bundesli3108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756700814~acl=/*~id=20377140197673509090519264409143~hmac=845a0f25ab6c87fe0701044314b632a2d6ace6612c7cd5ab8646d4ec991a166b",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT804fprod-PlaybackConfig/2118969/Bundesli3108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756701424~acl=/*~id=03086852634203740095533594563275~hmac=cdb5c55664aa1251404777eb5f7f68302423e74a2d164099bb224bee57e304ce",
             "supportedAudioLanguages": [
                 "ENG"
             ]
         },
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090485900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005849/1754319185161803_The_Hundred_2025_Mens_GOB_Landscape_Thumb.jpg",
+            "isLive": true,
+            "contentId": 1090487620,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007215/1756507284278308_the_hundred_mens25_final_Oval_Invincibles_vs_Trent_Rockets_30aug_multi_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Hundred 2025"
+            "event_name": "The Hundred 2025",
+            "match_name": "Oval Invincibles vs Trent Rockets - Final - 31 Aug 2025",
+            "dai_url": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118978/TheHundr3108/ENG/std_lrl-800300010.m3u8?hdnea=exp=1756701424~acl=/*~id=03086852634203740095533594563275~hmac=cdb5c55664aa1251404777eb5f7f68302423e74a2d164099bb224bee57e304ce",
+            "supportedAudioLanguages": [
+                "ENG",
+                "HIN"
+            ]
         },
         {
             "event_category": "Cricket",
