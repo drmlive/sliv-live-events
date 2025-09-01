@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:08:32 01-09-2025",
+    "last update time": "15:18:38 01-09-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -12,12 +12,21 @@
             "audioLanguageName": "HIN",
             "event_name": "Hero Asia Cup 2025",
             "match_name": "Bangladesh vs Korea - 1 Sep 2025",
-            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756762711~acl=/*~id=92767494883936986784960305575524~hmac=a49bb419c8fbded5adc21377c933efd63d8befb1b7ea0126707b774d264ef69d",
-            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756762711~acl=/*~id=92767494883936986784960305575524~hmac=a49bb419c8fbded5adc21377c933efd63d8befb1b7ea0126707b774d264ef69d",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756762711~acl=/*~id=92767494883936986784960305575524~hmac=a49bb419c8fbded5adc21377c933efd63d8befb1b7ea0126707b774d264ef69d",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756763318~acl=/*~id=15283263509063754809545580636643~hmac=f9944a2c331877d80e7970e35b67528486f8ef1684dd3aea078dc4fd73f8a289",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756763318~acl=/*~id=15283263509063754809545580636643~hmac=f9944a2c331877d80e7970e35b67528486f8ef1684dd3aea078dc4fd73f8a289",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756763318~acl=/*~id=15283263509063754809545580636643~hmac=f9944a2c331877d80e7970e35b67528486f8ef1684dd3aea078dc4fd73f8a289",
             "supportedAudioLanguages": [
                 "HIN"
             ]
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090487316,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007288/1756707457830493_Hero_AsiaCup25_India_vs_Kazakhstan_31aug_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hero Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -36,15 +45,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - South Africa Tour of England"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1090487316,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007288/1756707457830493_Hero_AsiaCup25_India_vs_Kazakhstan_31aug_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hero Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
