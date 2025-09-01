@@ -1,8 +1,40 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:51:05 01-09-2025",
+    "last update time": "19:01:12 01-09-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090487764,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007233/1756560254164403_Hero_AsiaCup25_India_vs_Kazakhstan_30aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "Hero Asia Cup 2025",
+            "match_name": "India vs Kazakhstan - 1 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118979/India_vs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756776671~acl=/*~id=00808100713334089692795749580597~hmac=dc933b1d7eafe1c0274b67ae5aad1b393367120be65ad034df5d9bf3f18d1687",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007230/175656082688065_UPT20_League25_Lucknow_Falcons_vs_Kashi_Rudras_30aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UP T20 League 2025",
+            "match_name": "Lucknow Falcons vs Kashi Rudras - 1 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT66f5prod-PlaybackConfig/2118976/UP_T20_L0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756776671~acl=/*~id=00808100713334089692795749580597~hmac=dc933b1d7eafe1c0274b67ae5aad1b393367120be65ad034df5d9bf3f18d1687",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
         {
             "event_category": "Hockey",
             "isLive": true,
@@ -14,7 +46,7 @@
             "match_name": "China vs Japan - 1 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756776064~acl=/*~id=47692856439380387712880328711744~hmac=06b2cc99183a172d89efbcc1a79c7c684edf2d6642669534436b472d6d8221af",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756776671~acl=/*~id=00808100713334089692795749580597~hmac=dc933b1d7eafe1c0274b67ae5aad1b393367120be65ad034df5d9bf3f18d1687",
             "supportedAudioLanguages": [
                 "HIN"
             ]
