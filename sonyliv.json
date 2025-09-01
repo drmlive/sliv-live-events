@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:59:54 01-09-2025",
+    "last update time": "17:10:00 01-09-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Hero Asia Cup 2025",
             "match_name": "Malaysia vs Chinese Taipei - 1 Sep 2025",
-            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756769393~acl=/*~id=60208062129384283742069243831708~hmac=8f2010c4615d24e7171f150666c36f6935ea14a6aaee383cdbf6281d76f29898",
-            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756769393~acl=/*~id=60208062129384283742069243831708~hmac=8f2010c4615d24e7171f150666c36f6935ea14a6aaee383cdbf6281d76f29898",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756769393~acl=/*~id=60208062129384283742069243831708~hmac=8f2010c4615d24e7171f150666c36f6935ea14a6aaee383cdbf6281d76f29898",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756770000~acl=/*~id=35159744635071131351107445063586~hmac=243db65f15a9a3ec23ede268b7fd9e41ab1a14ea84c7972d8bf2db52f893ca84",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756770000~acl=/*~id=35159744635071131351107445063586~hmac=243db65f15a9a3ec23ede268b7fd9e41ab1a14ea84c7972d8bf2db52f893ca84",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119726/HockeyAs0109/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756770000~acl=/*~id=35159744635071131351107445063586~hmac=243db65f15a9a3ec23ede268b7fd9e41ab1a14ea84c7972d8bf2db52f893ca84",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -27,6 +27,15 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Hero Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007300/1756723465158344_ACC25_Amitabh_promo_1sep_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
