@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:21:05 02-09-2025",
+    "last update time": "23:31:12 02-09-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -29,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - South Africa Tour of England"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487897,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007374/1756827694678583_Asia_Cup_Dates_To_Remember_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
