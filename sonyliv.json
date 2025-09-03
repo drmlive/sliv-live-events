@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:50:25 03-09-2025",
+    "last update time": "14:00:32 03-09-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090487765,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007386/1756840787157267_Hero_AsiaCup25_5th_8th_Place_Japan_vs_Chinese_Taipei_2sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "Hero Asia Cup 2025",
+            "match_name": "Japan vs Chinese Taipei - 5th-8th Place - 3 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/Q7EWPu-bRBCero8cu-Z6aQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Q7EWPu-bRBCero8cu-Z6aQ/master.m3u8",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf0dprod-PlaybackConfig/2119732/1HeroAsi0309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756931431~acl=/*~id=44198926496129578544416698031393~hmac=880528082482ae4664aa4bcdd83860086e231d922658fde5669213d7b5fc434b",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
         {
             "event_category": "Hockey",
             "isLive": false,
