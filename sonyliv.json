@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:54:17 03-09-2025",
+    "last update time": "19:04:26 03-09-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090487840,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007386/1756839556505267_Hero_AsiaCup25_India_vs_Korea_2sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "Hero Asia Cup 2025",
+            "match_name": "India vs Korea - Super 4s - 3 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/Ty728LbuSBaDCHpYmkpitg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Ty728LbuSBaDCHpYmkpitg/master.m3u8",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTbe4cprod-PlaybackConfig/2119732/2HeroAsi0309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756949665~acl=/*~id=38055744375489915425854011631426~hmac=ebaa0c0243dbe93f0121149de8967c7ab85e68ed64b829603560134a6a1723a8",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
         {
             "event_category": "Hockey",
             "isLive": true,
@@ -14,7 +30,7 @@
             "match_name": "Malaysia vs China - Super 4s - 3 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/backup_h0309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756949057~acl=/*~id=94259649276188950773355516710947~hmac=045b7a4c7658fcf62d663d6f3b1754a10ef5be0cb417de739c64c6ff89e488f2",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/backup_h0309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756949665~acl=/*~id=38055744375489915425854011631426~hmac=ebaa0c0243dbe93f0121149de8967c7ab85e68ed64b829603560134a6a1723a8",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -30,7 +46,7 @@
             "match_name": "Kashi Rudras vs Meerut Mavericks - Qualifier 1 - 3 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/3dyAWsw2SxmrWlp9Q_QlRA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/3dyAWsw2SxmrWlp9Q_QlRA/master.m3u8",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc02dprod-PlaybackConfig/2119732/UPT20_030309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756949057~acl=/*~id=94259649276188950773355516710947~hmac=045b7a4c7658fcf62d663d6f3b1754a10ef5be0cb417de739c64c6ff89e488f2",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc02dprod-PlaybackConfig/2119732/UPT20_030309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756949665~acl=/*~id=38055744375489915425854011631426~hmac=ebaa0c0243dbe93f0121149de8967c7ab85e68ed64b829603560134a6a1723a8",
             "supportedAudioLanguages": [
                 "HIN"
             ]
