@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:30:54 03-09-2025",
+    "last update time": "14:41:02 03-09-2025",
     "matches": [
-        {
-            "event_category": "Hockey",
-            "isLive": true,
-            "contentId": 1090487765,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007386/1756840787157267_Hero_AsiaCup25_5th_8th_Place_Japan_vs_Chinese_Taipei_2sep_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "HIN",
-            "event_name": "Hero Asia Cup 2025",
-            "match_name": "Japan vs Chinese Taipei - 5th-8th Place - 3 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/Q7EWPu-bRBCero8cu-Z6aQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Q7EWPu-bRBCero8cu-Z6aQ/master.m3u8",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf0dprod-PlaybackConfig/2119732/1HeroAsi0309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756933254~acl=/*~id=38306666874351341866847770377240~hmac=3812ffbbd11f2ca97621669fd27d32d04ba3866f6a4eb2d3ebaa23e8a454dbfa",
-            "supportedAudioLanguages": [
-                "HIN"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Kashi Rudras vs Meerut Mavericks - Qualifier 1 - 3 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/3dyAWsw2SxmrWlp9Q_QlRA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/3dyAWsw2SxmrWlp9Q_QlRA/master.m3u8",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc02dprod-PlaybackConfig/2119732/UPT20_030309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756933254~acl=/*~id=38306666874351341866847770377240~hmac=3812ffbbd11f2ca97621669fd27d32d04ba3866f6a4eb2d3ebaa23e8a454dbfa",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc02dprod-PlaybackConfig/2119732/UPT20_030309/HIN/std_lrl-800300010.m3u8?hdnea=exp=1756933862~acl=/*~id=12753825204383313951570687143513~hmac=58fc77b2f997f945ee330f1fade7c48a004dcccf575feb40fa9390e4c3efaef2",
             "supportedAudioLanguages": [
                 "HIN"
             ]
