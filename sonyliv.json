@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:15:03 04-09-2025",
+    "last update time": "11:25:09 04-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,6 +22,15 @@
             "event_name": "Upcoming - Asia Cup 2025"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090487951,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007418/1756917063654788_Bulgaria_vs_Spain_5th_Sept_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bulgaria vs Spain - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
             "event_category": "Hockey",
             "isLive": false,
             "contentId": 1090487316,
@@ -29,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Hero Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090487957,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007418/1756917052688788_Slovakia_vs_Germany_5th_Sept_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Slovakia vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
