@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:23:35 06-09-2025",
+    "last update time": "18:33:41 06-09-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090488132,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007356/1756808361068477_Vitality25_QF_Lancashire_vs_Kent_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2025",
+            "match_name": "Lancashire vs Kent - Quarter-Final - 6 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/Lancashi0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757207020~acl=/*~id=84745246535160561674213930434087~hmac=6b5b934c448a7d67e8aec47857fea9c72e521df5da054102478976b8479cb7f6",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -14,7 +30,7 @@
             "match_name": "Latvia vs Serbia - 6 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/EuroQual0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757206415~acl=/*~id=12166473234463075905442933424675~hmac=1e493fe608ce8330c8d5b8dcd2a631aeb4bef5a0e43cc10035721209cb588fb2",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/EuroQual0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757207020~acl=/*~id=84745246535160561674213930434087~hmac=6b5b934c448a7d67e8aec47857fea9c72e521df5da054102478976b8479cb7f6",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -28,21 +44,12 @@
             "audioLanguageName": "HIN",
             "event_name": "Hero Asia Cup 2025",
             "match_name": "Korea vs Malaysia - Super 4s - 6 Sep 2025",
-            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757206415~acl=/*~id=12166473234463075905442933424675~hmac=1e493fe608ce8330c8d5b8dcd2a631aeb4bef5a0e43cc10035721209cb588fb2",
-            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757206415~acl=/*~id=12166473234463075905442933424675~hmac=1e493fe608ce8330c8d5b8dcd2a631aeb4bef5a0e43cc10035721209cb588fb2",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757206415~acl=/*~id=12166473234463075905442933424675~hmac=1e493fe608ce8330c8d5b8dcd2a631aeb4bef5a0e43cc10035721209cb588fb2",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757207020~acl=/*~id=84745246535160561674213930434087~hmac=6b5b934c448a7d67e8aec47857fea9c72e521df5da054102478976b8479cb7f6",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757207020~acl=/*~id=84745246535160561674213930434087~hmac=6b5b934c448a7d67e8aec47857fea9c72e521df5da054102478976b8479cb7f6",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757207020~acl=/*~id=84745246535160561674213930434087~hmac=6b5b934c448a7d67e8aec47857fea9c72e521df5da054102478976b8479cb7f6",
             "supportedAudioLanguages": [
                 "HIN"
             ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488209,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007541/1757146591004149_EQ_Israel_vs_Italy_6sep_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Israel vs Italy - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -90,6 +97,15 @@
             "event_name": "Upcoming - Hungary vs Portugal - European Qualifiers for 2026 FIFA World Cup"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488209,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007541/1757146591004149_EQ_Israel_vs_Italy_6sep_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Israel vs Italy - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090488172,
@@ -103,72 +119,4 @@
             "isLive": false,
             "contentId": 1090487897,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007374/1756827694678583_Asia_Cup_Dates_To_Remember_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1090487316,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007389/1756850422818412_Hero_AsiaCup25_India_vs_China_3sep_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hero Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090488065,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007464/1757013341081699_AC25_India_vs_UAE_10sep_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs UAE - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487792,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007535/1757141576732687_AsiaCup25_6SEP_Promo_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487709,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007482/1757057196053544_ENG_vs_SA_25_3rdODI_DDT_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - South Africa Tour of England 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090487970,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007432/1756966703623482_EQ_England_Vs_Andorra_Prommo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England vs Andorra - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090487969,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007432/1756966607635482_EQ_Armenia_Vs_Portugal_Prommo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Armenia vs Portugal - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007121/1756372552820654_AsiaCup25_28Aug_Promo_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        }
-    ]
-}
+      
