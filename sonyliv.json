@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:25:04 06-09-2025",
+    "last update time": "20:35:13 06-09-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -14,7 +14,23 @@
             "match_name": "India vs China - Super 4s - 6 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2118978/HeroAsia0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757213702~acl=/*~id=51316720278033698555347694765455~hmac=de32c22db64f8f14fd50741462dcbcac951da1fc450147e5b6f040a84601e467",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2118978/HeroAsia0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757214312~acl=/*~id=82175749632557390735538860320098~hmac=6befda474a509f94310c9ba759f34794739cc8ed8fa0bd6057821d1ea73212ef",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090483667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007495/1757075791665413_UPT20_League25_Final_Kashi_Rudras_vs_Meerut_Mavericks_landscape_thumb1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UP T20 League 2025",
+            "match_name": "Kashi Rudras vs Meerut Mavericks - Final - 6 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT66f5prod-PlaybackConfig/2118976/UP_T20_L0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757214312~acl=/*~id=82175749632557390735538860320098~hmac=6befda474a509f94310c9ba759f34794739cc8ed8fa0bd6057821d1ea73212ef",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -30,51 +46,10 @@
             "match_name": "Lancashire vs Kent - Quarter-Final - 6 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/Lancashi0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757213702~acl=/*~id=51316720278033698555347694765455~hmac=de32c22db64f8f14fd50741462dcbcac951da1fc450147e5b6f040a84601e467",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/Lancashi0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757214312~acl=/*~id=82175749632557390735538860320098~hmac=6befda474a509f94310c9ba759f34794739cc8ed8fa0bd6057821d1ea73212ef",
             "supportedAudioLanguages": [
                 "ENG"
             ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488142,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007406/1756899307103374_EQ26_MD5_Latvia_vs_Serbia_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Latvia vs Serbia - 6 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/EuroQual0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757213702~acl=/*~id=51316720278033698555347694765455~hmac=de32c22db64f8f14fd50741462dcbcac951da1fc450147e5b6f040a84601e467",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090483667,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007495/1757075791665413_UPT20_League25_Final_Kashi_Rudras_vs_Meerut_Mavericks_landscape_thumb1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "UP T20 League 2025",
-            "match_name": "Kashi Rudras vs Meerut Mavericks - Final - 6 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT66f5prod-PlaybackConfig/2118976/UP_T20_L0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757213702~acl=/*~id=51316720278033698555347694765455~hmac=de32c22db64f8f14fd50741462dcbcac951da1fc450147e5b6f040a84601e467",
-            "supportedAudioLanguages": [
-                "HIN"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488209,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007541/1757146591004149_EQ_Israel_vs_Italy_6sep_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Israel vs Italy - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -122,13 +97,22 @@
             "event_name": "Upcoming - Hungary vs Portugal - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090488172,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007515/1757090013170767_AC25_Afghanistan_vs_hong_kong_9sep_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Afghanistan vs Hong Kong - Asia Cup 2025"
+            "contentId": 1090488209,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007541/1757146591004149_EQ_Israel_vs_Italy_6sep_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Israel vs Italy - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090487316,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007389/1756850422818412_Hero_AsiaCup25_India_vs_China_3sep_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hero Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -140,13 +124,13 @@
             "event_name": "Upcoming - Asia Cup 2025"
         },
         {
-            "event_category": "Hockey",
+            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090487316,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007389/1756850422818412_Hero_AsiaCup25_India_vs_China_3sep_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hero Asia Cup 2025"
+            "contentId": 1090488172,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007515/1757090013170767_AC25_Afghanistan_vs_hong_kong_9sep_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Afghanistan vs Hong Kong - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
