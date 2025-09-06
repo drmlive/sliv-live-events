@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:50:19 06-09-2025",
+    "last update time": "14:00:28 06-09-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": 1090487765,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007514/1757087566409976_Hero_AsiaCup25_7th_8th_place_Chinese_Taipei_vs_Kazakhstan_5sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "HIN",
+            "event_name": "Hero Asia Cup 2025",
+            "match_name": "Chinese Taipei vs Kazakhstan - 7th/8th Place - 6 Sep 2025",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757190627~acl=/*~id=37592499933270545104946603357212~hmac=b3424a31af90ac06e753473f321c967bba6ad9f8777024e8e2d5dc88b7bf56c9",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757190627~acl=/*~id=37592499933270545104946603357212~hmac=b3424a31af90ac06e753473f321c967bba6ad9f8777024e8e2d5dc88b7bf56c9",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757190627~acl=/*~id=37592499933270545104946603357212~hmac=b3424a31af90ac06e753473f321c967bba6ad9f8777024e8e2d5dc88b7bf56c9",
+            "supportedAudioLanguages": [
+                "HIN"
+            ]
+        },
         {
             "event_category": "Hockey",
             "isLive": false,
