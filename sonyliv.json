@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:58:34 06-09-2025",
+    "last update time": "11:08:42 06-09-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -13,22 +13,13 @@
             "event_name": "Upcoming - Hero Asia Cup 2025"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090487792,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007351/175680437305257_AsiaCup_2025_GOB_3_Rev_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487709,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007482/1757057196053544_ENG_vs_SA_25_3rdODI_DDT_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - South Africa Tour of England 2025"
+            "contentId": 1090487969,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007432/1756966607635482_EQ_Armenia_Vs_Portugal_Prommo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Armenia vs Portugal - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -40,13 +31,22 @@
             "event_name": "Upcoming - England vs Andorra - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Football",
+            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090487969,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007432/1756966607635482_EQ_Armenia_Vs_Portugal_Prommo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Armenia vs Portugal - European Qualifiers for 2026 FIFA World Cup"
+            "contentId": 1090487709,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007482/1757057196053544_ENG_vs_SA_25_3rdODI_DDT_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - South Africa Tour of England 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007351/175680437305257_AsiaCup_2025_GOB_3_Rev_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
