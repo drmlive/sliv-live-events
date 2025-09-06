@@ -1,6 +1,152 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:40:49 07-09-2025",
-    "matches": []
+    "last update time": "03:50:54 07-09-2025",
+    "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090488166,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007544/1757151682680103_UFCFN_Imavov_vs_Borralho_multi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Imavov vs Borralho",
+            "match_name": "UFC Fight Night - Imavov vs Borralho - 7 Sep 2025 ",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT974fprod-PlaybackConfig/2119932/UFC_Figh0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757240454~acl=/*~id=29673290793317671678493781281584~hmac=b120b6b9745efeef88902477c2d83ec9ede1419c074d78eb088fd09b6b051a09",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT974fprod-PlaybackConfig/2119932/UFC_Figh0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757240454~acl=/*~id=29673290793317671678493781281584~hmac=b120b6b9745efeef88902477c2d83ec9ede1419c074d78eb088fd09b6b051a09",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT974fprod-PlaybackConfig/2119932/UFC_Figh0609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757240454~acl=/*~id=29673290793317671678493781281584~hmac=b120b6b9745efeef88902477c2d83ec9ede1419c074d78eb088fd09b6b051a09",
+            "supportedAudioLanguages": [
+                "ENG",
+                "TAM",
+                "TEL",
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487709,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007482/1757057196053544_ENG_vs_SA_25_3rdODI_DDT_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - South Africa Tour of England 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007535/1757141576732687_AsiaCup25_6SEP_Promo_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090488065,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007464/1757013341081699_AC25_India_vs_UAE_10sep_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs UAE - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090488172,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007515/1757090013170767_AC25_Afghanistan_vs_hong_kong_9sep_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Afghanistan vs Hong Kong - Asia Cup 2025"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090487316,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007389/1756850422818412_Hero_AsiaCup25_India_vs_China_3sep_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hero Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487897,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007374/1756827694678583_Asia_Cup_Dates_To_Remember_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488209,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007541/1757146591004149_EQ_Israel_vs_Italy_6sep_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Israel vs Italy - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488210,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007541/1757146670186149_EQ_Hungary_vs_Portugal_6sep_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hungary vs Portugal - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488211,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007555/1757164208018109_EQ26_Germany_vs_Northern_Ireland_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Germany vs Northern Ireland - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488212,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007541/1757146782236149_EQ_France_vs_Iceland_6sep_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - France vs Iceland - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488214,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007541/1757146529150149_EQ_Serbia-vs-England_6sep_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Serbia vs England - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007555/1757164710396109_EQ26_Turkiye_vs_Spain_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Turkiye vs Spain - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007121/1756372552820654_AsiaCup25_28Aug_Promo_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090485567,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007121/1756372552820654_AsiaCup25_28Aug_Promo_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        }
+    ]
 }
