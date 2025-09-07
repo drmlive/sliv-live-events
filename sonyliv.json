@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:47:00 07-09-2025",
+    "last update time": "14:57:05 07-09-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Hero Asia Cup 2025",
             "match_name": "Japan vs Bangladesh - 5th/6th Place - 6 Sep 2025",
-            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757279819~acl=/*~id=16295860581698377203333478936117~hmac=872e7848aa272dd8179585d0026f5213efe2cc672b46e948ed98e14260e3ad39",
-            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757279819~acl=/*~id=16295860581698377203333478936117~hmac=872e7848aa272dd8179585d0026f5213efe2cc672b46e948ed98e14260e3ad39",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757279819~acl=/*~id=16295860581698377203333478936117~hmac=872e7848aa272dd8179585d0026f5213efe2cc672b46e948ed98e14260e3ad39",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757280424~acl=/*~id=85841119423671318310667277220770~hmac=cfea9b4ef6f4e63e98b63b5696e1ee9c416361424e0e1f1b686763525282a478",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757280424~acl=/*~id=85841119423671318310667277220770~hmac=cfea9b4ef6f4e63e98b63b5696e1ee9c416361424e0e1f1b686763525282a478",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2f7cprod-PlaybackConfig/2119922/1HeroAsi0709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1757280424~acl=/*~id=85841119423671318310667277220770~hmac=cfea9b4ef6f4e63e98b63b5696e1ee9c416361424e0e1f1b686763525282a478",
             "supportedAudioLanguages": [
                 "HIN"
             ]
@@ -27,15 +27,6 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Hero Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487709,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007482/1757057196053544_ENG_vs_SA_25_3rdODI_DDT_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - South Africa Tour of England 2025"
         },
         {
             "event_category": "Football",
@@ -81,6 +72,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Afghanistan vs Hong Kong - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487709,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007482/1757057196053544_ENG_vs_SA_25_3rdODI_DDT_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - South Africa Tour of England 2025"
         },
         {
             "event_category": "Cricket",
@@ -131,4 +131,19 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090487125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007121/1756372552820654_AsiaCup25_28Aug_P
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007121/1756372552820654_AsiaCup25_28Aug_Promo_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090485567,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007121/1756372552820654_AsiaCup25_28Aug_Promo_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        }
+    ]
+}
