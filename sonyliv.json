@@ -1,72 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:21:52 09-09-2025",
+    "last update time": "02:32:00 09-09-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488241,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007504/1756979094237302_EQ26_MD6_Israel_vs_Italy_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Israel vs Italy - 9 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/2EuroQua0809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757407911~acl=/*~id=54208047664846140313875971169788~hmac=cbfa2e7de28ae69a0aa87127581a1bac84829b29260bdd6b463570f8ea447e47",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488228,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007499/1756976765604584_EQ26_MD6_Croatia_vs_Montenegro_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Croatia vs Montenegro - 9 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118977/EuroQual0809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757407911~acl=/*~id=54208047664846140313875971169788~hmac=cbfa2e7de28ae69a0aa87127581a1bac84829b29260bdd6b463570f8ea447e47",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488255,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007507/1756984959881255_EQ26_MD6_Switzerland_vs_Slovenia_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Switzerland vs Slovenia - 9 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/4EuroQua0809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757407911~acl=/*~id=54208047664846140313875971169788~hmac=cbfa2e7de28ae69a0aa87127581a1bac84829b29260bdd6b463570f8ea447e47",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488249,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007505/1756979308737217_EQ26_MD6_Kosovo_vs_Sweden_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Kosovo vs Sweden - 9 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/3EuroQua0809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757407911~acl=/*~id=54208047664846140313875971169788~hmac=cbfa2e7de28ae69a0aa87127581a1bac84829b29260bdd6b463570f8ea447e47",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -89,7 +25,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090488065,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007592/175722318456576_ACC25_promo_INDvsUAE_dated_7sep_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007697/1757362537093253_ACC25_promo_IND_vs_UAE_ddt_9sep_landscapet_thumb_re3.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs UAE - Asia Cup 2025"
