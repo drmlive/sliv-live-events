@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:24:15 10-09-2025",
+    "last update time": "02:34:22 10-09-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488437,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007510/1757062716534660_EQ26_MD6_France_vs_Iceland_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "France vs Iceland - 10 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1693prod-PlaybackConfig/2118969/EuroQual0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757494455~acl=/*~id=74226072991823930893660420513987~hmac=559496fabf3ac64d51c17a6fdc6f95cc79f5e24815a5f6077734dbba12132551",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Malta vs San Marino - 10 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/Malta_vs0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757494455~acl=/*~id=74226072991823930893660420513987~hmac=559496fabf3ac64d51c17a6fdc6f95cc79f5e24815a5f6077734dbba12132551",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/Malta_vs0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757495061~acl=/*~id=87231607780168153022581372020068~hmac=a8e5d0f8724e78d3406350d572e949d41cbb163a14d2b7a2593a1daf87f56b9f",
             "supportedAudioLanguages": [
                 "ENG"
             ]
