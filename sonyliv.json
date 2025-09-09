@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:32:32 09-09-2025",
+    "last update time": "10:42:39 09-09-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -14,7 +14,7 @@
             "match_name": "Recurve Women Elite Eight (Quarterfinals To Finals) - 9 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0f4aprod-PlaybackConfig/2118975/HyundaiA0809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757437352~acl=/*~id=22921664454452650014669638188703~hmac=709de37f70e9db0c79013bf66809da0deaefaf20d71afad5c2a6c59d1842f7a6",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0f4aprod-PlaybackConfig/2118975/HyundaiA0809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757437959~acl=/*~id=58452471963247459230240297884301~hmac=77108fb219ab5660735b8c1b838579385d66a4229b443549f07bc458d0be623f",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -31,20 +31,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090488212,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007658/1757327785534302_EQ26_france_vs_iceland_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - France vs Iceland - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090488214,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007658/1757324874255302_EQ26_Serbia_vs_England_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Serbia vs England - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488212,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007658/1757327785534302_EQ26_france_vs_iceland_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - France vs Iceland - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
