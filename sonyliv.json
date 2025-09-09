@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:00:12 09-09-2025",
+    "last update time": "22:11:09 09-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Azerbaijan vs Ukraine - 9 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb7b7prod-PlaybackConfig/2118973/EuroQual0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757478611~acl=/*~id=36385809882810326629674563754134~hmac=23fe2d398b97a43b26923846c55e8f8a03d2608766fa75313f75076204843259",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb7b7prod-PlaybackConfig/2118973/EuroQual0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757479268~acl=/*~id=76668138420853038286602366086133~hmac=dd8115cf56971acbe715fccb6c4f59df2012d6fb866a63421ee5adb4b2000adc",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Armenia vs Republic of Ireland - 9 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118974/EuroQual0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757478611~acl=/*~id=36385809882810326629674563754134~hmac=23fe2d398b97a43b26923846c55e8f8a03d2608766fa75313f75076204843259",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118974/EuroQual0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757479268~acl=/*~id=76668138420853038286602366086133~hmac=dd8115cf56971acbe715fccb6c4f59df2012d6fb866a63421ee5adb4b2000adc",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -46,10 +46,19 @@
             "match_name": "Estonia vs Andorra - 9 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Estonia_0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757478611~acl=/*~id=36385809882810326629674563754134~hmac=23fe2d398b97a43b26923846c55e8f8a03d2608766fa75313f75076204843259",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Estonia_0909/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757479268~acl=/*~id=76668138420853038286602366086133~hmac=dd8115cf56971acbe715fccb6c4f59df2012d6fb866a63421ee5adb4b2000adc",
             "supportedAudioLanguages": [
                 "ENG"
             ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090488569,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007746/1757435100244442_ACC25_india_vs_pak_9sep_dated2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - Asia Cup 2025"
         },
         {
             "event_category": "Football",
@@ -120,17 +129,4 @@
             "contentId": 1090487897,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007374/1756827694678583_Asia_Cup_Dates_To_Remember_Promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090485567,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007630/1757306118871578_asiacup25_promo1_8sep_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        }
-    ]
-}
+            "audioLa
