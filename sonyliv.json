@@ -1,8 +1,24 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:03:37 09-09-2025",
+    "last update time": "07:05:45 09-09-2025",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": 1090488463,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007516/1757091126192378_World_Archery_Championships_GWANGJU25_Compound_women_1_8_5sep_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai World Archery Championships 2025",
+            "match_name": "Compound women (1/8) - 9 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0f4aprod-PlaybackConfig/2118975/HyundaiA0809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757424945~acl=/*~id=14471044144511663725834756961752~hmac=b303987e295de057cc0d55c5d447b177d320e746522d314fe6f21e7b36212d7c",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
         {
             "event_category": "Football",
             "isLive": false,
