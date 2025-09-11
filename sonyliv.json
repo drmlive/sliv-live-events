@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:30:46 11-09-2025",
+    "last update time": "13:40:52 11-09-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -14,7 +14,7 @@
             "match_name": "41st Shinhan Donghae Open - Day 1 - 11 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/Asian_To1109/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757620845~acl=/*~id=00315561968709275435254359795390~hmac=86899934edc8f170687760da6362c4c2da345144e89bb52d5b85589b85f2eaa2",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/Asian_To1109/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757621451~acl=/*~id=55144036817222028382049337169021~hmac=4a1ce06c6ace44f277cc03da537428199b3b1e1c9e188d8575a5ceb62b739c36",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -45,6 +45,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - South Africa Tour of England 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090488844,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007917/1757577331793113_PAK_vs_OMA_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Pakistan vs Oman - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
