@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:44:11 11-09-2025",
+    "last update time": "18:54:18 11-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - South Africa Tour of England 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090488325,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007904/1757537563843275_ACC25_BAN_vs_HKC_11sep_promo_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Bangladesh vs Hong Kong, China - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
