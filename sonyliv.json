@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:56:54 12-09-2025",
+    "last update time": "00:07:00 13-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "South Africa Tour of England 2025",
             "match_name": "2nd T20I - 12 Sep 2025 ",
-            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757744813~acl=/*~id=04212257527936864031100923008582~hmac=24e9972e4e94a7e43f49244b692a11a354c0c7118bc57eac3614f1d0942ac5bf",
-            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757744813~acl=/*~id=04212257527936864031100923008582~hmac=24e9972e4e94a7e43f49244b692a11a354c0c7118bc57eac3614f1d0942ac5bf",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757744813~acl=/*~id=04212257527936864031100923008582~hmac=24e9972e4e94a7e43f49244b692a11a354c0c7118bc57eac3614f1d0942ac5bf",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757745420~acl=/*~id=80589946669647559550798904962769~hmac=99a6de4fb9173821e11f61e8b705968aa642293bf85cf98e9d36a4080d022433",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757745420~acl=/*~id=80589946669647559550798904962769~hmac=99a6de4fb9173821e11f61e8b705968aa642293bf85cf98e9d36a4080d022433",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757745420~acl=/*~id=80589946669647559550798904962769~hmac=99a6de4fb9173821e11f61e8b705968aa642293bf85cf98e9d36a4080d022433",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Bayer Leverkusen vs Eintracht Frankfurt - MD 3 - 12 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/Bundesli1209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757744813~acl=/*~id=04212257527936864031100923008582~hmac=24e9972e4e94a7e43f49244b692a11a354c0c7118bc57eac3614f1d0942ac5bf",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/Bundesli1209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757745420~acl=/*~id=80589946669647559550798904962769~hmac=99a6de4fb9173821e11f61e8b705968aa642293bf85cf98e9d36a4080d022433",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -128,4 +128,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-         
+            "contentId": 1090488920,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615632936547_PROMO_UCL_MATCH_DAY_1_40_SEC_HOR_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 1 - UEFA Champions League 2025-26"
+        }
+    ]
+}
