@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:07:48 13-09-2025",
+    "last update time": "01:17:55 13-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "South Africa Tour of England 2025",
             "match_name": "2nd T20I - 12 Sep 2025 ",
-            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757749068~acl=/*~id=06503384967003286975339603935525~hmac=4d749554b7a40a45935c3a14e0da129bfa4ec532cfe77d7d32313fefa7eba6ab",
-            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757749068~acl=/*~id=06503384967003286975339603935525~hmac=4d749554b7a40a45935c3a14e0da129bfa4ec532cfe77d7d32313fefa7eba6ab",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757749068~acl=/*~id=06503384967003286975339603935525~hmac=4d749554b7a40a45935c3a14e0da129bfa4ec532cfe77d7d32313fefa7eba6ab",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757749674~acl=/*~id=15643515890148202647324994187836~hmac=a58c88075608e946e4834850f4ec0b4add4999023135eee20c4fed158e7a19a0",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757749674~acl=/*~id=15643515890148202647324994187836~hmac=a58c88075608e946e4834850f4ec0b4add4999023135eee20c4fed158e7a19a0",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa9e3prod-PlaybackConfig/2119736/engvsa_21209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757749674~acl=/*~id=15643515890148202647324994187836~hmac=a58c88075608e946e4834850f4ec0b4add4999023135eee20c4fed158e7a19a0",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Bayer Leverkusen vs Eintracht Frankfurt - MD 3 - 12 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/Bundesli1209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757749068~acl=/*~id=06503384967003286975339603935525~hmac=4d749554b7a40a45935c3a14e0da129bfa4ec532cfe77d7d32313fefa7eba6ab",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2118979/Bundesli1209/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757749674~acl=/*~id=15643515890148202647324994187836~hmac=a58c88075608e946e4834850f4ec0b4add4999023135eee20c4fed158e7a19a0",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -88,6 +88,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090489034,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008133/1757702802987145_PROMO_UCL_Newcastle_vs_Barcelona_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Newcastle United vs FC Barcelona - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
