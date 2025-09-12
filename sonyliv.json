@@ -1,17 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:18:59 12-09-2025",
+    "last update time": "16:29:05 12-09-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090488569,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007916/1757577064736256_ACC25_IND_vs_PAK_DDT_promo_landscape_thumb_11SEP_Re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - Asia Cup 2025"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -24,11 +15,11 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090488921,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008031/1757633636409396_ACC25_BAN_vs_SL_12sep_dated_landscape_thumb.jpg",
+            "contentId": 1090488569,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007916/1757577064736256_ACC25_IND_vs_PAK_DDT_promo_landscape_thumb_11SEP_Re1.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Bangladesh vs Sri Lanka - Asia Cup 2025"
+            "event_name": "Upcoming - India vs Pakistan - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -38,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Pakistan vs Oman - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090488921,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008031/1757633636409396_ACC25_BAN_vs_SL_12sep_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Bangladesh vs Sri Lanka - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
