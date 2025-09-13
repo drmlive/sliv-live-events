@@ -1,24 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:04:40 14-09-2025",
+    "last update time": "00:14:48 14-09-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488726,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007711/1757400832032826_Bundesliga_25_26_VfL_Bayern_Munich_vs_Hamburg_SV_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Bayern Munich vs Hamburg SV - 13 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757831680~acl=/*~id=02570108081958855693550515011885~hmac=e86f8e7203ab3b9a6ec15ef5cd84da509a237e815c9de0440bce873a2492d0c2",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -30,7 +14,7 @@
             "match_name": "Somerset vs Hampshire - Final - 13 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb7b7prod-PlaybackConfig/2118973/Northamp1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757831680~acl=/*~id=02570108081958855693550515011885~hmac=e86f8e7203ab3b9a6ec15ef5cd84da509a237e815c9de0440bce873a2492d0c2",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb7b7prod-PlaybackConfig/2118973/Northamp1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757832287~acl=/*~id=52761362238941681344019947708325~hmac=4ff0bef312085b6b642cf6e4f229a6f95f4f076b2153df2cbc993a9839df3a9f",
             "supportedAudioLanguages": [
                 "ENG"
             ]
