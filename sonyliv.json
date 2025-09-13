@@ -1,84 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:11:32 13-09-2025",
+    "last update time": "21:21:40 13-09-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090488720,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007711/1757398046574825_Bundesliga_25_26_Heidenheim_vs_Borussia_Dortmund_landscape_thumb.jpg",
+            "contentId": 1090488726,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007711/1757400832032826_Bundesliga_25_26_VfL_Bayern_Munich_vs_Hamburg_SV_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
-            "match_name": "Heidenheim vs Borussia Dortmund - 13 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT66f5prod-PlaybackConfig/2118976/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821291~acl=/*~id=99967461582920170980493075491402~hmac=adccac0d35d5732005c5ee08ee469bbc54feedc4b45772b1737885f0e2146a7f",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488723,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007712/1757399379787142_Bundesliga_25_26_Mainz_vs_RB_Leipzig_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Mainz vs RB Leipzig - 13 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0f4aprod-PlaybackConfig/2118975/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821291~acl=/*~id=99967461582920170980493075491402~hmac=adccac0d35d5732005c5ee08ee469bbc54feedc4b45772b1737885f0e2146a7f",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488724,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007711/1757399888345825_Bundesliga_25_26_SC_Freiburg-vs_VfB_Stuttgart_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "SC Freiburg vs VfB Stuttgart - 13 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821291~acl=/*~id=99967461582920170980493075491402~hmac=adccac0d35d5732005c5ee08ee469bbc54feedc4b45772b1737885f0e2146a7f",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488722,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007711/1757398880658825_Bundesliga_25_26_Union-Berlin_vs_Hoffenheim_Dortmund_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Union Berlin vs Hoffenheim - 13 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe699prod-PlaybackConfig/2118980/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821291~acl=/*~id=99967461582920170980493075491402~hmac=adccac0d35d5732005c5ee08ee469bbc54feedc4b45772b1737885f0e2146a7f",
-            "supportedAudioLanguages": [
-                "ENG"
-            ]
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090488725,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007711/1757400342978826_Bundesliga_25_26_VfL_Wolfsburg_vs_FC_Koln_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "VfL Wolfsburg vs FC Koln - 13 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118974/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821291~acl=/*~id=99967461582920170980493075491402~hmac=adccac0d35d5732005c5ee08ee469bbc54feedc4b45772b1737885f0e2146a7f",
+            "match_name": "Bayern Munich vs Hamburg SV - 13 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821899~acl=/*~id=14466662568100941430128743498242~hmac=ce88f73f6f6864ebbf0c7a332a48866b57696280feb5eab72a21a4061583c467",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -94,100 +30,35 @@
             "match_name": "Northamptonshire vs Hampshire - Semi-final - 13 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb7b7prod-PlaybackConfig/2118973/Northamp1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821291~acl=/*~id=99967461582920170980493075491402~hmac=adccac0d35d5732005c5ee08ee469bbc54feedc4b45772b1737885f0e2146a7f",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb7b7prod-PlaybackConfig/2118973/Northamp1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821899~acl=/*~id=14466662568100941430128743498242~hmac=ce88f73f6f6864ebbf0c7a332a48866b57696280feb5eab72a21a4061583c467",
             "supportedAudioLanguages": [
                 "ENG"
             ]
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489115,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008164/1757748804192577_SL_vs_HKC_Promo_Landscape_thumb.png",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Sri Lanka vs Hong Kong, China - Asia Cup 2025"
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090488725,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007711/1757400342978826_Bundesliga_25_26_VfL_Wolfsburg_vs_FC_Koln_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "VfL Wolfsburg vs FC Koln - 13 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb0e7prod-PlaybackConfig/2118974/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757821899~acl=/*~id=14466662568100941430128743498242~hmac=ce88f73f6f6864ebbf0c7a332a48866b57696280feb5eab72a21a4061583c467",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090488919,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615589756547_PROMO_UCL_PSG_vs_Atalanta_40_SEC_HOR_APP_landscape.jpg",
+            "contentId": 1090488916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615769559547_PROMO_UCL_BAYERN_VS_CHELSEA_40_SEC_HOR_APP_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Paris Saint-Germain vs Atalanta - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488917,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615743170547_PROMO_UCL_Juventus_vs_Dortmund_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Juventus vs Borussia Dortmund - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090489034,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008133/1757702802987145_PROMO_UCL_Newcastle_vs_Barcelona_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Newcastle United vs FC Barcelona - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487792,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008089/1757690989463808_ACC25_GEN_landscape_thumb_re1_12SEP.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488918,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615659107547_PROMO_UCL_Liverpool_vs_Atletico_Madrid_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489116,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008164/1757748956507577_UAE_vs_OMA_Promo_Landscape_thumb.png",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - United Arab Emirates vs Oman - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487709,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007807/1757473012073535_ENG_vs_SA_3T20i_ddt_Promo_landscape_thumb_10sep.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - South Africa Tour of England 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488905,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615795469547_PROMO_UCL_Real_Madrid_vs_Marseille_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Marseille - UEFA Champions League 2025-26"
+            "event_name": "Upcoming - Bayern Munich vs Chelsea - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -201,11 +72,92 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090488916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615769559547_PROMO_UCL_BAYERN_VS_CHELSEA_40_SEC_HOR_APP_landscape.jpg",
+            "contentId": 1090488905,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615795469547_PROMO_UCL_Real_Madrid_vs_Marseille_40_SEC_HOR_APP_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Chelsea - UEFA Champions League 2025-26"
+            "event_name": "Upcoming - Real Madrid vs Marseille - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488918,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615659107547_PROMO_UCL_Liverpool_vs_Atletico_Madrid_40_SEC_HOR_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487709,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007807/1757473012073535_ENG_vs_SA_3T20i_ddt_Promo_landscape_thumb_10sep.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - South Africa Tour of England 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090489034,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008133/1757702802987145_PROMO_UCL_Newcastle_vs_Barcelona_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Newcastle United vs FC Barcelona - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489116,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008164/1757748956507577_UAE_vs_OMA_Promo_Landscape_thumb.png",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - United Arab Emirates vs Oman - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489115,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008164/1757748804192577_SL_vs_HKC_Promo_Landscape_thumb.png",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Sri Lanka vs Hong Kong, China - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008089/1757690989463808_ACC25_GEN_landscape_thumb_re1_12SEP.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488917,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615743170547_PROMO_UCL_Juventus_vs_Dortmund_40_SEC_HOR_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Juventus vs Borussia Dortmund - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488919,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615589756547_PROMO_UCL_PSG_vs_Atalanta_40_SEC_HOR_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Paris Saint-Germain vs Atalanta - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
