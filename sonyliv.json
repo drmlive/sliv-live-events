@@ -1,8 +1,27 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:56:53 14-09-2025",
+    "last update time": "03:07:01 14-09-2025",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090489109,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008165/1757753398453561_UFC-_Noche_Lopes-_vs_Silva_multi_landscpae_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Noche UFC - Lopes vs Silva",
+            "match_name": "Noche UFC - Lopes vs Silva - 13 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2118979/UFC_Noch1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757842621~acl=/*~id=79577397876176223865612787044650~hmac=68019d3b03c906603835b214a3ef2696365bd3ea2a4128f018f6b9cd61350682",
+            "supportedAudioLanguages": [
+                "ENG",
+                "HIN",
+                "TAM",
+                "TEL"
+            ]
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
