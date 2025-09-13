@@ -1,16 +1,32 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:56:38 13-09-2025",
+    "last update time": "15:06:44 13-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090488921,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008085/1757689937137437_ACC25_BAN_vs_SL_promo_ton_landscape_thumb_re1_12sep.jpg",
+            "isLive": true,
+            "contentId": 1090488716,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007812/1757477966747189_Vitality25_SF_Lancashire_vs_Somerset_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Bangladesh vs Sri Lanka - Asia Cup 2025"
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2025",
+            "match_name": "Lancashire vs Somerset - Semi-final - 13 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/OrrE0QodR-2jX2eFpzqRPg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/OrrE0QodR-2jX2eFpzqRPg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf48fprod-PlaybackConfig/2118977/Lancashi1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757799404~acl=/*~id=84927606924604283872331886199303~hmac=25b4a93ef582e01a26b1b5a113c0ee861fc132460972b406bbe5b51ff2dd18c7",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615769559547_PROMO_UCL_BAYERN_VS_CHELSEA_40_SEC_HOR_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Chelsea - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -20,15 +36,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487709,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007807/1757473012073535_ENG_vs_SA_3T20i_ddt_Promo_landscape_thumb_10sep.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - South Africa Tour of England 2025"
         },
         {
             "event_category": "Football",
@@ -42,20 +49,29 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090488916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615769559547_PROMO_UCL_BAYERN_VS_CHELSEA_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Chelsea - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090488918,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615659107547_PROMO_UCL_Liverpool_vs_Atletico_Madrid_40_SEC_HOR_APP_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487709,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007807/1757473012073535_ENG_vs_SA_3T20i_ddt_Promo_landscape_thumb_10sep.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - South Africa Tour of England 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090488921,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008085/1757689937137437_ACC25_BAN_vs_SL_promo_ton_landscape_thumb_re1_12sep.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Bangladesh vs Sri Lanka - Asia Cup 2025"
         },
         {
             "event_category": "Football",
