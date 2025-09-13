@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:23:04 13-09-2025",
+    "last update time": "22:33:15 13-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Bayern Munich vs Hamburg SV - 13 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757825583~acl=/*~id=49052678286486313325411449525058~hmac=8810a179e03606201827c06029e8af7b31813f1360e22d39336dee6d79727944",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118982/Bundesli1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757826194~acl=/*~id=28691217240868597269830321755075~hmac=7129a6284ba1556fa7fc15a99beec82cbe59dfcf032ddfaa08a0036e6c19521a",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -30,7 +30,7 @@
             "match_name": "Northamptonshire vs Hampshire - Semi-final - 13 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb7b7prod-PlaybackConfig/2118973/Northamp1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757825583~acl=/*~id=49052678286486313325411449525058~hmac=8810a179e03606201827c06029e8af7b31813f1360e22d39336dee6d79727944",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb7b7prod-PlaybackConfig/2118973/Northamp1309/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757826194~acl=/*~id=28691217240868597269830321755075~hmac=7129a6284ba1556fa7fc15a99beec82cbe59dfcf032ddfaa08a0036e6c19521a",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -137,20 +137,4 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090488919,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615589756547_PROMO_UCL_PSG_vs_Atalanta_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Paris Saint-Germain vs Atalanta - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488920,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615632936547_PROMO_UCL_MATCH_DAY_1_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 1 - UEFA Champions League 2025-26"
-        }
-    ]
-}
+ 
