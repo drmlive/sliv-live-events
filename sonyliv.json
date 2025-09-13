@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:36:27 13-09-2025",
+    "last update time": "14:46:33 13-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,6 +74,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489116,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008164/1757748956507577_UAE_vs_OMA_Promo_Landscape_thumb.png",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - United Arab Emirates vs Oman - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489115,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008164/1757748804192577_SL_vs_HKC_Promo_Landscape_thumb.png",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Sri Lanka vs Hong Kong, China - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
