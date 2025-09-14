@@ -1,18 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:19:30 14-09-2025",
+    "last update time": "21:29:37 14-09-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090488969,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007808/1757420152341955_ENG_vs_SA_25_3rdT20I_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "South Africa Tour of England 2025",
-            "match_name": "3rd T20I - 14 Sep 2025 "
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -24,7 +14,7 @@
             "match_name": "Borussia M'gladbach vs Werder Bremen - 14 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/2QAts0WiTrm6pCtkQdMp6Q/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/2QAts0WiTrm6pCtkQdMp6Q/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT804fprod-PlaybackConfig/2118968/Bundesli1409/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757908168~acl=/*~id=45212044011943668368299913611128~hmac=3d3a043be68d277d86f704e9ff18c77cf5ea397b7d2dc89e1fb79434dd048bf5",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT804fprod-PlaybackConfig/2118968/Bundesli1409/ENG/std_lrl-800300010.m3u8?hdnea=exp=1757908777~acl=/*~id=73877384799727520608655523171267~hmac=f5c683d910899b262b3722ffe7c465ffebe37e759ef673e6506b811d89fe9393",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -37,6 +27,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs Chelsea - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489115,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008259/1757806198587199_ACC25_SL_vs_HKC_14sep_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Sri Lanka vs Hong Kong, China - Asia Cup 2025"
         },
         {
             "event_category": "Football",
@@ -66,13 +65,13 @@
             "event_name": "Upcoming - United Arab Emirates vs Oman - Asia Cup 2025"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090489115,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008259/1757806198587199_ACC25_SL_vs_HKC_14sep_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Sri Lanka vs Hong Kong, China - Asia Cup 2025"
+            "contentId": 1090489034,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008133/1757702802987145_PROMO_UCL_Newcastle_vs_Barcelona_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Newcastle United vs FC Barcelona - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -109,15 +108,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090489034,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008133/1757702802987145_PROMO_UCL_Newcastle_vs_Barcelona_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Newcastle United vs FC Barcelona - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
