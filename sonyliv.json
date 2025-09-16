@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:08:21 16-09-2025",
+    "last update time": "22:18:30 16-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,28 +14,9 @@
             "match_name": "Athletic Club vs Arsenal - MD 1 - 16 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/UCL_Athl1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758083900~acl=/*~id=43915231235301292833663957733662~hmac=3f0652f5376df7af8bac7ed418c3503c1c6bcc7973340097d4af8f60afc788be",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/UCL_Athl1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758084509~acl=/*~id=11226427660245831814644305955191~hmac=e94f388bd894ff9a531fdf1b318f177d6548c3f643f8f1a7eceb4463f77f5ff5",
             "supportedAudioLanguages": [
                 "ENG"
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": 1090489496,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910310144468_ACC25_BAN_vs_AFG_Clean_live_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Asia Cup 2025",
-            "match_name": "Bangladesh vs Afghanistan - 16 Sep 2025",
-            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758083900~acl=/*~id=43915231235301292833663957733662~hmac=3f0652f5376df7af8bac7ed418c3503c1c6bcc7973340097d4af8f60afc788be",
-            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758083900~acl=/*~id=43915231235301292833663957733662~hmac=3f0652f5376df7af8bac7ed418c3503c1c6bcc7973340097d4af8f60afc788be",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758083900~acl=/*~id=43915231235301292833663957733662~hmac=3f0652f5376df7af8bac7ed418c3503c1c6bcc7973340097d4af8f60afc788be",
-            "supportedAudioLanguages": [
-                "ENG",
-                "TAM",
-                "TEL",
-                "HIN"
             ]
         },
         {
@@ -49,9 +30,28 @@
             "match_name": "PSV vs Union SG - MD 1 - 16 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2118977/UCL_PSV_1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758083900~acl=/*~id=43915231235301292833663957733662~hmac=3f0652f5376df7af8bac7ed418c3503c1c6bcc7973340097d4af8f60afc788be",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2118977/UCL_PSV_1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758084509~acl=/*~id=11226427660245831814644305955191~hmac=e94f388bd894ff9a531fdf1b318f177d6548c3f643f8f1a7eceb4463f77f5ff5",
             "supportedAudioLanguages": [
                 "ENG"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090489496,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910310144468_ACC25_BAN_vs_AFG_Clean_live_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "Bangladesh vs Afghanistan - 16 Sep 2025",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758084509~acl=/*~id=11226427660245831814644305955191~hmac=e94f388bd894ff9a531fdf1b318f177d6548c3f643f8f1a7eceb4463f77f5ff5",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758084509~acl=/*~id=11226427660245831814644305955191~hmac=e94f388bd894ff9a531fdf1b318f177d6548c3f643f8f1a7eceb4463f77f5ff5",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758084509~acl=/*~id=11226427660245831814644305955191~hmac=e94f388bd894ff9a531fdf1b318f177d6548c3f643f8f1a7eceb4463f77f5ff5",
+            "supportedAudioLanguages": [
+                "ENG",
+                "TAM",
+                "TEL",
+                "HIN"
             ]
         },
         {
