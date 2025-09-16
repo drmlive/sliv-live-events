@@ -1,20 +1,55 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:37:55 16-09-2025",
+    "last update time": "21:48:03 16-09-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090489399,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008388/1757916747809823_UYL24_RealMadrid_vs_OlympiqueMarseillen_Live_16_Sep_24_Landscape_thumb.jpg",
+            "contentId": 1090489400,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008285/1757844608268914_UCL26_MD1_Athletic_Club_vs_Arsenal_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Real Madrid vs Olympique Marseille - MD1 - 16 Sep 2025",
-            "dai_url": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
-            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6fe2prod-PlaybackConfig/2118982/UYL_Real1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758082075~acl=/*~id=01567416944726511155783830247147~hmac=d9672fab89b49bada1bc8bf92df4b67b94c23fd073692efcbdc0bca2ed96a3a1",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Athletic Club vs Arsenal - MD 1 - 16 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/UCL_Athl1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758082682~acl=/*~id=43517185561255577670507635966486~hmac=1dee85b0d2ec2518ac2157a7397c7044ebbb80b14c9218ede6dde41caa6a83e8",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090489496,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008390/1757910310144468_ACC25_BAN_vs_AFG_Clean_live_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "Bangladesh vs Afghanistan - 16 Sep 2025",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758082682~acl=/*~id=43517185561255577670507635966486~hmac=1dee85b0d2ec2518ac2157a7397c7044ebbb80b14c9218ede6dde41caa6a83e8",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758082682~acl=/*~id=43517185561255577670507635966486~hmac=1dee85b0d2ec2518ac2157a7397c7044ebbb80b14c9218ede6dde41caa6a83e8",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11609/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758082682~acl=/*~id=43517185561255577670507635966486~hmac=1dee85b0d2ec2518ac2157a7397c7044ebbb80b14c9218ede6dde41caa6a83e8",
+            "supportedAudioLanguages": [
+                "ENG",
+                "TAM",
+                "TEL",
+                "HIN"
+            ]
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090489401,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008286/1757845451677778_UCL26_MD1_PSV_vs_Union_SG_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "PSV vs Union SG - MD 1 - 16 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2118977/UCL_PSV_1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758082682~acl=/*~id=43517185561255577670507635966486~hmac=1dee85b0d2ec2518ac2157a7397c7044ebbb80b14c9218ede6dde41caa6a83e8",
             "supportedAudioLanguages": [
                 "ENG"
             ]
