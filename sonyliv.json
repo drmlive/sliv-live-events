@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:05:20 16-09-2025",
+    "last update time": "18:15:27 16-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Juventus vs Borussia Dortmund - MD 1 - 16 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UYL_Juve1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758069320~acl=/*~id=19765372473173338701315772080175~hmac=a7467858ba93513d11a55d616c867cb32e718b6e3bdae50bd32a1a9dafe5e124",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UYL_Juve1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758069926~acl=/*~id=73862440094309738541139096279116~hmac=e2d46c42aad0510919925c88b956b48c99e00709d1e9ecfad16c1a66e3a41cf7",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -92,6 +92,15 @@
             "event_name": "Upcoming - Juventus vs Borussia Dortmund - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008506/1757978551277386_ACC25_PAK_vs_UAE_dated_16sep_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Pakistan vs United Arab Emirates - Asia Cup 2025"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090488919,
@@ -99,6 +108,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Paris Saint-Germain vs Atalanta - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008506/1757979048906386_ACC25_SL_vs_AFG_dated_16sep_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Sri Lanka vs Afghanistan - Asia Cup 2025"
         },
         {
             "event_category": "Football",
