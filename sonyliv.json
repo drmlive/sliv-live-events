@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:02:33 17-09-2025",
+    "last update time": "03:12:39 17-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -11,15 +11,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs Chelsea - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008576/1758047429351464_ACC25_PAK_vs_UAE_dated_16sepr_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Pakistan vs United Arab Emirates - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -56,6 +47,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Newcastle United vs FC Barcelona - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008576/1758047429351464_ACC25_PAK_vs_UAE_dated_16sepr_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Pakistan vs United Arab Emirates - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
