@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:35:42 16-09-2025",
+    "last update time": "18:45:49 16-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,7 +14,7 @@
             "match_name": "Juventus vs Borussia Dortmund - MD 1 - 16 Sep 2025",
             "dai_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UYL_Juve1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758071142~acl=/*~id=69656044869759645518599282458600~hmac=821493acb60ed542c32c868d55ec9b203572765779eb68d569a37992785bdc2c",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UYL_Juve1609/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758071749~acl=/*~id=37720349468627944592525006551256~hmac=a948936941f193fab4aa10abb2783634f7bab07bdb2be226751c8e516d12061e",
             "supportedAudioLanguages": [
                 "ENG"
             ]
@@ -38,15 +38,6 @@
             "event_name": "Upcoming - Bayern Munich vs Chelsea - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488918,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615659107547_PROMO_UCL_Liverpool_vs_Atletico_Madrid_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2025-26"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090489555,
@@ -58,20 +49,29 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090489556,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008506/1757979048906386_ACC25_SL_vs_AFG_dated_16sep_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Sri Lanka vs Afghanistan - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090489437,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008506/1757979582169386_ACC25_IND_vs_OMA_dated_16sep_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Oman - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488918,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615659107547_PROMO_UCL_Liverpool_vs_Atletico_Madrid_40_SEC_HOR_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008506/1757979048906386_ACC25_SL_vs_AFG_dated_16sep_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Sri Lanka vs Afghanistan - Asia Cup 2025"
         },
         {
             "event_category": "Football",
