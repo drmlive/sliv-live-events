@@ -1,54 +1,93 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:26:41 18-09-2025",
+    "last update time": "00:36:49 18-09-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090489416,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008293/1757852567506162_UCL26_MD1_Olympiacos_vs_Pafos_landscape_thumb.jpg",
+            "contentId": 1090489419,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008627/175810068392329_UCL26_MD1_Liverpool_vs_Atletico_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Olympiacos vs Pafos - MD 1 - 17 Sep 2025"
+            "match_name": " Liverpool vs Atletico Madrid - MD 1 - 18 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6fe2prod-PlaybackConfig/2118982/UCL_Live1709/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758179208~acl=/*~id=36940101777581025242900801674790~hmac=5bfff7d66ff460bf2bef84354231335ec12752dbeb22fa7091fcf41e2a3199a6",
+            "supportedAudioLanguages": [
+                "ENG",
+                "HIN",
+                "TAM",
+                "TEL"
+            ]
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090489417,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008294/1757851830315261_UCL26_MD1_Slavia_Praha_vs_Bodo_Gliml_landscape_thumb.jpg",
+            "contentId": 1090489426,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008309/1757854063458366_UCL26_MD1_Bayern_vs_Chelsea_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Slavia Praha vs Bodo/Glimt - MD 1 - 17 Sep 2025"
+            "match_name": "Bayern vs Chelsea - MD 1 - 18 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/ZQ_v8v74RPSWCGJFxqFAIw/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/ZQ_v8v74RPSWCGJFxqFAIw/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe4b7prod-PlaybackConfig/2118970/UCL_Baye1709/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758179208~acl=/*~id=36940101777581025242900801674790~hmac=5bfff7d66ff460bf2bef84354231335ec12752dbeb22fa7091fcf41e2a3199a6",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090489644,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008619/1758082878914779_ACC25_PAK_vs_UAE_Clean_Landscape_Thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "Pakistan vs UAE - 17 Sep 2025",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758179208~acl=/*~id=36940101777581025242900801674790~hmac=5bfff7d66ff460bf2bef84354231335ec12752dbeb22fa7091fcf41e2a3199a6",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758179208~acl=/*~id=36940101777581025242900801674790~hmac=5bfff7d66ff460bf2bef84354231335ec12752dbeb22fa7091fcf41e2a3199a6",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc11709/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758179208~acl=/*~id=36940101777581025242900801674790~hmac=5bfff7d66ff460bf2bef84354231335ec12752dbeb22fa7091fcf41e2a3199a6",
+            "supportedAudioLanguages": [
+                "ENG",
+                "TAM",
+                "TEL",
+                "HIN"
+            ]
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615769559547_PROMO_UCL_BAYERN_VS_CHELSEA_40_SEC_HOR_APP_landscape.jpg",
+            "isLive": true,
+            "contentId": 1090489428,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008317/1757858099594144_UCL26_MD1_PSG_vs_Atalanta_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Chelsea - UEFA Champions League 2025-26"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "PSG vs Atalanta - MD 1 - 18 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2118981/UCL_Pari1709/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758179208~acl=/*~id=36940101777581025242900801674790~hmac=5bfff7d66ff460bf2bef84354231335ec12752dbeb22fa7091fcf41e2a3199a6",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488918,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615659107547_PROMO_UCL_Liverpool_vs_Atletico_Madrid_40_SEC_HOR_APP_landscape.jpg",
+            "isLive": true,
+            "contentId": 1090489427,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008316/1757854783681409_UCL26_MD1_Ajax_vs_Inter_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488919,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615589756547_PROMO_UCL_PSG_vs_Atalanta_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Paris Saint-Germain vs Atalanta - UEFA Champions League 2025-26"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Ajax vs Inter - MD 1 - 18 Sep 2025",
+            "dai_url": "https://dai.google.com/ssai/event/2QAts0WiTrm6pCtkQdMp6Q/master.m3u8",
+            "pub_url": "https://pubads.g.doubleclick.net/ssai/event/2QAts0WiTrm6pCtkQdMp6Q/master.m3u8",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT804fprod-PlaybackConfig/2118968/UCL_Ajax1709/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758179208~acl=/*~id=36940101777581025242900801674790~hmac=5bfff7d66ff460bf2bef84354231335ec12752dbeb22fa7091fcf41e2a3199a6",
+            "supportedAudioLanguages": [
+                "ENG"
+            ]
         },
         {
             "event_category": "Cricket",
