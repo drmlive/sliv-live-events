@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:39:07 18-09-2025",
+    "last update time": "19:49:15 18-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -11,16 +11,10 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
-            "match_name": "Sri Lanka vs Afghanistan - 18 Sep 2025",
-            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc_1809/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758247746~acl=/*~id=28716092627023939476938185071876~hmac=0476b55e3e20dd3e43dd198fd50ef643c0a9b977e1ce2b9e98e125a8eab950f2",
-            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc_1809/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758247746~acl=/*~id=28716092627023939476938185071876~hmac=0476b55e3e20dd3e43dd198fd50ef643c0a9b977e1ce2b9e98e125a8eab950f2",
-            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTd75aprod-PlaybackConfig/2119922/cricacc_1809/HIN/std_lrl-800300010.m3u8?hdnea=exp=1758247746~acl=/*~id=28716092627023939476938185071876~hmac=0476b55e3e20dd3e43dd198fd50ef643c0a9b977e1ce2b9e98e125a8eab950f2",
-            "supportedAudioLanguages": [
-                "ENG",
-                "TAM",
-                "TEL",
-                "HIN"
-            ]
+            "match_name": "Sri Lanka vs Afghanistan - 18 Sep 2025 [ENG]",
+            "dai_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4ae5prod-PlaybackConfig/2119932/cricacc_1809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758248353~acl=/*~id=61798268041880661045916244851115~hmac=5f94604491e0904cd201ccb8921d5b641614922e7e77ee87ab63f10d40c7f68d",
+            "pub_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4ae5prod-PlaybackConfig/2119932/cricacc_1809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758248353~acl=/*~id=61798268041880661045916244851115~hmac=5f94604491e0904cd201ccb8921d5b641614922e7e77ee87ab63f10d40c7f68d",
+            "video_url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4ae5prod-PlaybackConfig/2119932/cricacc_1809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758248353~acl=/*~id=61798268041880661045916244851115~hmac=5f94604491e0904cd201ccb8921d5b641614922e7e77ee87ab63f10d40c7f68d"
         },
         {
             "event_category": "Football",
@@ -30,10 +24,10 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Manchester City vs Napoli - 18 Sep 2025",
+            "match_name": "Manchester City vs Napoli - 18 Sep 2025 [ENG]",
             "dai_url": "https://dai.google.com/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
             "pub_url": "https://pubads.g.doubleclick.net/ssai/event/VK-ym4BcQd-8x-LWT6BucA/master.m3u8",
-            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/UYL_Manc1809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758247746~acl=/*~id=28716092627023939476938185071876~hmac=0476b55e3e20dd3e43dd198fd50ef643c0a9b977e1ce2b9e98e125a8eab950f2",
+            "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT21beprod-PlaybackConfig/2118980/UYL_Manc1809/ENG/std_lrl-800300010.m3u8?hdnea=exp=1758248353~acl=/*~id=61798268041880661045916244851115~hmac=5f94604491e0904cd201ccb8921d5b641614922e7e77ee87ab63f10d40c7f68d",
             "supportedAudioLanguages": [
                 "ENG"
             ]
