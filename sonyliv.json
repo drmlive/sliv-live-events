@@ -1,8 +1,17 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:08:45 18-09-2025",
+    "last update time": "19:18:52 18-09-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -11,15 +20,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Newcastle United vs FC Barcelona - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090488920,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615632936547_PROMO_UCL_MATCH_DAY_1_40_SEC_HOR_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 1 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -31,15 +31,6 @@
             "event_name": "Upcoming - India vs Oman - Asia Cup 2025"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090489959,
@@ -47,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Laver Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090488920,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007996/1757615632936547_PROMO_UCL_MATCH_DAY_1_40_SEC_HOR_APP_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 1 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
