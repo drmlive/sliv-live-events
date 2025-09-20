@@ -1,13 +1,26 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:53:44 21-09-2025",
+    "last update time": "01:03:52 21-09-2025",
     "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090490081_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008950/1758367555467269_Laver_cup_mens_singles_Zverev_vs_Minaur_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Laver Cup 2025",
+            "match_name": "Alexander Zverev vs Alex de Minaur - 21 Sep 2025 [ENG]",
+            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758440032~acl=/*~id=68148958734916392346722902886681~hmac=a90625fa4294e9efa39ab4147aac79cbb594f1cd739448d9ab8ae9873a458ecc",
+            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758440032~acl=/*~id=68148958734916392346722902886681~hmac=a90625fa4294e9efa39ab4147aac79cbb594f1cd739448d9ab8ae9873a458ecc",
+            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758440032~acl=/*~id=68148958734916392346722902886681~hmac=a90625fa4294e9efa39ab4147aac79cbb594f1cd739448d9ab8ae9873a458ecc"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090489988,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008940/1758326619524751_ACC25_INDvsPAK_dated_18sep_rev_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009002/1758395610735491_ACC25_INDvsPAK_tonight_21sep_rev_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - Super 4 - Asia Cup 2025"
