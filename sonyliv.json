@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:45:00 21-09-2025",
+    "last update time": "02:55:06 21-09-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Laver Cup 2025",
             "match_name": "Alexander Zverev vs Alex de Minaur - 21 Sep 2025 [ENG]",
-            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758446100~acl=/*~id=34260187033170554851083571586563~hmac=22f6783b4b5af32410b63cae8e0bf8d2136add4448982aef45a4e4905689fd2a",
-            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758446100~acl=/*~id=34260187033170554851083571586563~hmac=22f6783b4b5af32410b63cae8e0bf8d2136add4448982aef45a4e4905689fd2a",
-            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758446100~acl=/*~id=34260187033170554851083571586563~hmac=22f6783b4b5af32410b63cae8e0bf8d2136add4448982aef45a4e4905689fd2a"
+            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758446706~acl=/*~id=42710678347160180731651998049053~hmac=e559e2b6ff275ee803ef4050111338f4c5ae33da2331dae521f275a1cad04390",
+            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758446706~acl=/*~id=42710678347160180731651998049053~hmac=e559e2b6ff275ee803ef4050111338f4c5ae33da2331dae521f275a1cad04390",
+            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118975/Laver_Cu2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758446706~acl=/*~id=42710678347160180731651998049053~hmac=e559e2b6ff275ee803ef4050111338f4c5ae33da2331dae521f275a1cad04390"
         },
         {
             "event_category": "Cricket",
@@ -24,6 +24,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - Super 4 - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090490287,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295323373630_ACC25_IND_VS_BAN_S4_dated_19sep_promo_rev_LANDCAPE_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Bangladesh - Super 4 - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090490288,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295218050630_ACC25_PAK_vs_SL_S4_DATED_19sep_rev_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Pakistan vs Sri Lanka - Super 4 - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
