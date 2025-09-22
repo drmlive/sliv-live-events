@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:26:58 23-09-2025",
+    "last update time": "00:37:05 23-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Ballon d'Or 2025",
             "match_name": "Ballon d'Or 2025 Award Ceremony - 22 Sep 2025 [ENG]",
-            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118981/Ballon_d2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758610617~acl=/*~id=85280903545129184896093831671852~hmac=56f6c05e19e507ba433d737f62539374d4cf6138cb4acfc9b4fe166f7da1d05e",
-            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118981/Ballon_d2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758610617~acl=/*~id=85280903545129184896093831671852~hmac=56f6c05e19e507ba433d737f62539374d4cf6138cb4acfc9b4fe166f7da1d05e",
-            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118981/Ballon_d2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758610617~acl=/*~id=85280903545129184896093831671852~hmac=56f6c05e19e507ba433d737f62539374d4cf6138cb4acfc9b4fe166f7da1d05e"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090490287,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295323373630_ACC25_IND_VS_BAN_S4_dated_19sep_promo_rev_LANDCAPE_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Bangladesh - Super 4 - Asia Cup 2025"
+            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118981/Ballon_d2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758611225~acl=/*~id=65545388076946084227145394050099~hmac=4ceed8c9c1c11b96fa2cec406b6ab384c6740931f2db8e9992687ef224149373",
+            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118981/Ballon_d2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758611225~acl=/*~id=65545388076946084227145394050099~hmac=4ceed8c9c1c11b96fa2cec406b6ab384c6740931f2db8e9992687ef224149373",
+            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118981/Ballon_d2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758611225~acl=/*~id=65545388076946084227145394050099~hmac=4ceed8c9c1c11b96fa2cec406b6ab384c6740931f2db8e9992687ef224149373"
         },
         {
             "event_category": "Cricket",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Pakistan vs Sri Lanka - Super 4 - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090490287,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295323373630_ACC25_IND_VS_BAN_S4_dated_19sep_promo_rev_LANDCAPE_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Bangladesh - Super 4 - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
