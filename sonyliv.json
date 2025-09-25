@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:41:06 25-09-2025",
+    "last update time": "18:51:12 25-09-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090490633_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009320/1758792803561537_World_Para_Athletics25_24sep_Opening_Ceremony_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Para Athletics, New Delhi",
+            "match_name": "Opening Ceremony - 25 Sep 2025 [ENG]",
+            "dai_url": "https://liveakdai.slivcdn.com/hls/live/2118971/WorldPar2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758849672~acl=/*~id=21803831066463388997784851666552~hmac=5e27e01142eb27dc4d19e86fb33bf9cac4d7bf6bc9376f766390fa79f1b7ab0e",
+            "pub_url": "https://liveakdai.slivcdn.com/hls/live/2118971/WorldPar2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758849672~acl=/*~id=21803831066463388997784851666552~hmac=5e27e01142eb27dc4d19e86fb33bf9cac4d7bf6bc9376f766390fa79f1b7ab0e",
+            "video_url": "https://liveakdai.slivcdn.com/hls/live/2118971/WorldPar2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758849672~acl=/*~id=21803831066463388997784851666552~hmac=5e27e01142eb27dc4d19e86fb33bf9cac4d7bf6bc9376f766390fa79f1b7ab0e"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -20,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Sri Lanka - Super 4 - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090490698,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295242410630_ACC25_PAK_VS_BAN_S4_TONIGHT_19sep_promo_rev_LANDCAPE_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Pakistan vs Bangladesh - Super 4 - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
