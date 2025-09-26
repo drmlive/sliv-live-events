@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:57:28 26-09-2025",
+    "last update time": "20:07:22 26-09-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090490803_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009336/1758783399694855_ICC25_S4_IND_vs-SL_Clean_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "India vs Sri Lanka - Super Four - 26 Sep 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2119931/cricacc12609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2119931/cricacc12609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2119931/cricacc12609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090490803_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009336/1758783399694855_ICC25_S4_IND_vs-SL_Clean_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "India vs Sri Lanka - Super Four - 26 Sep 2025 [TAM]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2119951/cricacc12609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2119951/cricacc12609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2119951/cricacc12609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090490803_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009336/1758783399694855_ICC25_S4_IND_vs-SL_Clean_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "India vs Sri Lanka - Super Four - 26 Sep 2025 [TEL]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2119941/cricacc12609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2119941/cricacc12609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2119941/cricacc12609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090490803_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009336/1758783399694855_ICC25_S4_IND_vs-SL_Clean_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "India vs Sri Lanka - Super Four - 26 Sep 2025 [HIN]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758940626~acl=/*~id=96422605158479629396934164991304~hmac=5349b796912ec3a65a236c517abb077a38c5b4f8296592184ec66c93c9ca1489"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -11,6 +63,60 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - Final - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490624,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705722984323_UCL_MD2_GEN_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490629,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705771154323_UCL_MD2_Galatasaray_vs_Liverpool_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Galatasaray vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490631,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490630,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705971050323_UCL_MD2_Barcelona_vs_PSG_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs PSG - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490626,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758706013477323_UCL_MD2_Monaco_vs_ManCity_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Monaco vs Man City - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490632,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705909415323_UCL_MD2_Dortmund_vs_AthleticClub_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Dortmund vs Athletic - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -29,60 +135,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490630,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705971050323_UCL_MD2_Barcelona_vs_PSG_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs PSG - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490629,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705771154323_UCL_MD2_Galatasaray_vs_Liverpool_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Galatasaray vs Liverpool - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490626,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758706013477323_UCL_MD2_Monaco_vs_ManCity_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Monaco vs Man City - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490631,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490632,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705909415323_UCL_MD2_Dortmund_vs_AthleticClub_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs Athletic - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490624,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705722984323_UCL_MD2_GEN_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
         }
     ]
 }
