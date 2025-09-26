@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:15:53 26-09-2025",
+    "last update time": "17:25:58 26-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -11,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090490886,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009413/1758885723469806_ACC25_Final_IND_vs_PAK_Promo_DDT_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - Final - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
@@ -65,15 +74,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Dortmund vs Athletic - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090490886,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009412/1758883020477438_Asia_Cup_Final_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - Final - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
