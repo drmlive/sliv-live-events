@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:59:20 28-09-2025",
+    "last update time": "05:09:27 28-09-2025",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090490981_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009331/175880040346065_WAPC25_W1Finals_25SEP_live_Landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Archery Para Championships 2025",
+            "match_name": "W1 Finals - 28 Sep 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759059567~acl=/*~id=86731229946686287760177361988122~hmac=693628cbb1edaf7cc95d17ce75feef1ba07b6cc12523aeb2085fa43cc66faa60",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759059567~acl=/*~id=86731229946686287760177361988122~hmac=693628cbb1edaf7cc95d17ce75feef1ba07b6cc12523aeb2085fa43cc66faa60",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759059567~acl=/*~id=86731229946686287760177361988122~hmac=693628cbb1edaf7cc95d17ce75feef1ba07b6cc12523aeb2085fa43cc66faa60"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -67,15 +80,6 @@
             "event_name": "Upcoming - Monaco vs Man City - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490632,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705909415323_UCL_MD2_Dortmund_vs_AthleticClub_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs Athletic - UEFA Champions League 2025-26"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090490903,
@@ -92,6 +96,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490632,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705909415323_UCL_MD2_Dortmund_vs_AthleticClub_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Dortmund vs Athletic - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
