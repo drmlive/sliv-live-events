@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:10:12 27-09-2025",
+    "last update time": "17:20:19 27-09-2025",
     "matches": [
         {
             "event_category": "Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Para Athletics, New Delhi",
             "match_name": "Day 1 - 27 Sep 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759016408~acl=/*~id=38041100718717753326085833547597~hmac=2216cdea1009791e18f6713847cc1381a385e7b09a09eefa1741bd01148069d0",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759016408~acl=/*~id=38041100718717753326085833547597~hmac=2216cdea1009791e18f6713847cc1381a385e7b09a09eefa1741bd01148069d0",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759016408~acl=/*~id=38041100718717753326085833547597~hmac=2216cdea1009791e18f6713847cc1381a385e7b09a09eefa1741bd01148069d0"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759017019~acl=/*~id=56256427492820492935830414674047~hmac=c7a099ac8ce93c4a55524b7ade1c9ccb407175d222c5f266d4f4736a57bdb909",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759017019~acl=/*~id=56256427492820492935830414674047~hmac=c7a099ac8ce93c4a55524b7ade1c9ccb407175d222c5f266d4f4736a57bdb909",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759017019~acl=/*~id=56256427492820492935830414674047~hmac=c7a099ac8ce93c4a55524b7ade1c9ccb407175d222c5f266d4f4736a57bdb909"
         },
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090490624,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705722984323_UCL_MD2_GEN_Promo_Landscape_thumb.jpg",
+            "contentId": 1090490992,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009494/1758971081452918_UCL_Combo_promo_Kairat_vs_real_Madrid_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
@@ -51,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490624,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705722984323_UCL_MD2_GEN_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
