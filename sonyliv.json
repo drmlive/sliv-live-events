@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:55:15 28-09-2025",
+    "last update time": "12:05:22 28-09-2025",
     "matches": [
-        {
-            "event_category": "Sports",
-            "isLive": true,
-            "contentId": "1090490982_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893258026701_World_Para_Athletics_Championships_2025_DAY_2_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "World Para Athletics, New Delhi",
-            "match_name": "Day 2 - 28 Sep 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759083914~acl=/*~id=29704430126140762110609266741394~hmac=d9fc8976ac255f7e83d7f5b94ccaf832eff1d564e3ca51acabe134bffcb72815",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759083914~acl=/*~id=29704430126140762110609266741394~hmac=d9fc8976ac255f7e83d7f5b94ccaf832eff1d564e3ca51acabe134bffcb72815",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759083914~acl=/*~id=29704430126140762110609266741394~hmac=d9fc8976ac255f7e83d7f5b94ccaf832eff1d564e3ca51acabe134bffcb72815"
-        },
         {
             "event_category": "Archery",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Archery Para Championships 2025",
             "match_name": "Recurve Finals - 28 Sep 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759083914~acl=/*~id=29704430126140762110609266741394~hmac=d9fc8976ac255f7e83d7f5b94ccaf832eff1d564e3ca51acabe134bffcb72815",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759083914~acl=/*~id=29704430126140762110609266741394~hmac=d9fc8976ac255f7e83d7f5b94ccaf832eff1d564e3ca51acabe134bffcb72815",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759083914~acl=/*~id=29704430126140762110609266741394~hmac=d9fc8976ac255f7e83d7f5b94ccaf832eff1d564e3ca51acabe134bffcb72815"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759084522~acl=/*~id=95616811037823657828147514290377~hmac=e3eaa16bd6faaf1ae707d5793a7d154deb784bfbf8bd7e5cb0aef42079738352",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759084522~acl=/*~id=95616811037823657828147514290377~hmac=e3eaa16bd6faaf1ae707d5793a7d154deb784bfbf8bd7e5cb0aef42079738352",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759084522~acl=/*~id=95616811037823657828147514290377~hmac=e3eaa16bd6faaf1ae707d5793a7d154deb784bfbf8bd7e5cb0aef42079738352"
         },
         {
             "event_category": "Football",
@@ -75,6 +62,15 @@
             "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490631,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090490903,
@@ -100,15 +96,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Monaco vs Man City - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490631,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705834385323_UCL_MD2_Chelea_vs_Benficia_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
