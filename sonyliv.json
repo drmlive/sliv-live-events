@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:56:02 28-09-2025",
+    "last update time": "13:17:14 28-09-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Archery Para Championships 2025",
             "match_name": "Recurve Finals - 28 Sep 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759087562~acl=/*~id=73783114822231718301533556125610~hmac=fbc0779874aef8653261551d3c756da14f575afe278cf9c995634fb304c3b4ac",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759087562~acl=/*~id=73783114822231718301533556125610~hmac=fbc0779874aef8653261551d3c756da14f575afe278cf9c995634fb304c3b4ac",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759087562~acl=/*~id=73783114822231718301533556125610~hmac=fbc0779874aef8653261551d3c756da14f575afe278cf9c995634fb304c3b4ac"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759088833~acl=/*~id=39342474015772555217219679476337~hmac=9f288c169a0b094de02e0994630aa7f2b2333c78f1f1b619fa4c876dd27f79ed",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759088833~acl=/*~id=39342474015772555217219679476337~hmac=9f288c169a0b094de02e0994630aa7f2b2333c78f1f1b619fa4c876dd27f79ed",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759088833~acl=/*~id=39342474015772555217219679476337~hmac=9f288c169a0b094de02e0994630aa7f2b2333c78f1f1b619fa4c876dd27f79ed"
         },
         {
             "event_category": "Football",
@@ -71,24 +71,6 @@
             "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090490903,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009412/1758883020477438_Asia_Cup_Final_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - Final - Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090487792,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008900/1758304754759139_ACC25_dated_19sep_generic_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Asia Cup 2025"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090490626,
@@ -105,6 +87,24 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Dortmund vs Athletic - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090490903,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009412/1758883020477438_Asia_Cup_Final_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - Final - Asia Cup 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090487792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008900/1758304754759139_ACC25_dated_19sep_generic_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
