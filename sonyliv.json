@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:29:34 29-09-2025",
+    "last update time": "16:39:43 29-09-2025",
     "matches": [
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090491076_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893242148701_World_Para_Athletics_Championships_2025_DAY_3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Para Athletics, New Delhi",
+            "match_name": "Day 3 - 29 Sep 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759187382~acl=/*~id=91563923234600113841154160646078~hmac=9e8645c3ed0cc61cbb2eb59edab1e20a36ccc14c802d6cd2604864641229976e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759187382~acl=/*~id=91563923234600113841154160646078~hmac=9e8645c3ed0cc61cbb2eb59edab1e20a36ccc14c802d6cd2604864641229976e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759187382~acl=/*~id=91563923234600113841154160646078~hmac=9e8645c3ed0cc61cbb2eb59edab1e20a36ccc14c802d6cd2604864641229976e"
+        },
         {
             "event_category": "Football",
             "isLive": false,
