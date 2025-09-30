@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:45 30-09-2025",
+    "last update time": "10:53:54 30-09-2025",
     "matches": [
         {
             "event_category": "Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Para Athletics, New Delhi",
             "match_name": "Day 4 - 30 Sep 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759252425~acl=/*~id=60046623452209565289104575385003~hmac=2809eeeb3bad07b0758f7419e1d581d366168583b8f1e833e940eebe7a3ac922",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759252425~acl=/*~id=60046623452209565289104575385003~hmac=2809eeeb3bad07b0758f7419e1d581d366168583b8f1e833e940eebe7a3ac922",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759252425~acl=/*~id=60046623452209565289104575385003~hmac=2809eeeb3bad07b0758f7419e1d581d366168583b8f1e833e940eebe7a3ac922"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759253034~acl=/*~id=00907109201705052031300297145275~hmac=1f56009317dab54afa74107dc5c9b3c328424bd571456e1371e39730c00be037",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759253034~acl=/*~id=00907109201705052031300297145275~hmac=1f56009317dab54afa74107dc5c9b3c328424bd571456e1371e39730c00be037",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759253034~acl=/*~id=00907109201705052031300297145275~hmac=1f56009317dab54afa74107dc5c9b3c328424bd571456e1371e39730c00be037"
         },
         {
             "event_category": "Football",
@@ -24,15 +24,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490630,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009540/1759052764515903_UCL2526_Barcelona_vs_PSG_26sep_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs PSG - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -60,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Chelsea vs Benfica - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490630,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009540/1759052764515903_UCL2526_Barcelona_vs_PSG_26sep_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs PSG - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
