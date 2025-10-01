@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:59:02 01-10-2025",
+    "last update time": "15:09:13 01-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australia Tour of New Zealand 2025",
             "match_name": "1st T20I - 1 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI35ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354141~acl=/*~id=60029466412438033005553105331351~hmac=8fe663491330a067f8b26f1f887beaa21072b8de4d3761f9f079880a620ebb76",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI35ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354141~acl=/*~id=60029466412438033005553105331351~hmac=8fe663491330a067f8b26f1f887beaa21072b8de4d3761f9f079880a620ebb76",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI35ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354141~acl=/*~id=60029466412438033005553105331351~hmac=8fe663491330a067f8b26f1f887beaa21072b8de4d3761f9f079880a620ebb76"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI35ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354752~acl=/*~id=52462262370910502078449357894530~hmac=91a7d2e8d0d58d02342552f2d6945661608862583bb4cd3fc8383468e58b31b2",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI35ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354752~acl=/*~id=52462262370910502078449357894530~hmac=91a7d2e8d0d58d02342552f2d6945661608862583bb4cd3fc8383468e58b31b2",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI35ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354752~acl=/*~id=52462262370910502078449357894530~hmac=91a7d2e8d0d58d02342552f2d6945661608862583bb4cd3fc8383468e58b31b2"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 1 - 1 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354141~acl=/*~id=60029466412438033005553105331351~hmac=8fe663491330a067f8b26f1f887beaa21072b8de4d3761f9f079880a620ebb76",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354141~acl=/*~id=60029466412438033005553105331351~hmac=8fe663491330a067f8b26f1f887beaa21072b8de4d3761f9f079880a620ebb76",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354141~acl=/*~id=60029466412438033005553105331351~hmac=8fe663491330a067f8b26f1f887beaa21072b8de4d3761f9f079880a620ebb76"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354752~acl=/*~id=52462262370910502078449357894530~hmac=91a7d2e8d0d58d02342552f2d6945661608862583bb4cd3fc8383468e58b31b2",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354752~acl=/*~id=52462262370910502078449357894530~hmac=91a7d2e8d0d58d02342552f2d6945661608862583bb4cd3fc8383468e58b31b2",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759354752~acl=/*~id=52462262370910502078449357894530~hmac=91a7d2e8d0d58d02342552f2d6945661608862583bb4cd3fc8383468e58b31b2"
         },
         {
             "event_category": "Football",
@@ -46,6 +46,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Monaco vs Man City - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090490624,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705722984323_UCL_MD2_GEN_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -73,15 +82,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 2 - 2 Oct 2025 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090490624,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009235/1758705722984323_UCL_MD2_GEN_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
