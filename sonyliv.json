@@ -1,30 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:11:26 03-10-2025",
+    "last update time": "00:21:35 03-10-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090491380_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009707/1759293666090104_UEL_MD2_Roma_vs_Lille_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Roma vs Lille - MD 2 - 2 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759473686~acl=/*~id=46690848377026448956791366336034~hmac=ce2efe2440ea241baa307e81174aac547a49c17782de1197dc571fe044f10d67",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759473686~acl=/*~id=46690848377026448956791366336034~hmac=ce2efe2440ea241baa307e81174aac547a49c17782de1197dc571fe044f10d67",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759473686~acl=/*~id=46690848377026448956791366336034~hmac=ce2efe2440ea241baa307e81174aac547a49c17782de1197dc571fe044f10d67"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491367,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009701/175931121755978_UEL_MD_2_Promo_Thumbs_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League 2025-26"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
