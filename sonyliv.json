@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:32:34 02-10-2025",
+    "last update time": "15:42:43 02-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,31 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 2 - 2 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759442553~acl=/*~id=45714760187485572910198870858622~hmac=af9dd6e6a30531d3a1939823ea27cf85d7c59deb57d9fc052844d4edc62e0a32",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759442553~acl=/*~id=45714760187485572910198870858622~hmac=af9dd6e6a30531d3a1939823ea27cf85d7c59deb57d9fc052844d4edc62e0a32",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759442553~acl=/*~id=45714760187485572910198870858622~hmac=af9dd6e6a30531d3a1939823ea27cf85d7c59deb57d9fc052844d4edc62e0a32"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090491437_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009713/1759316888275971_asiantour2024_IndonesianMasters_day1_1oct_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2025",
-            "match_name": "Indonesian Masters - Day 1 - 2 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759442553~acl=/*~id=45714760187485572910198870858622~hmac=af9dd6e6a30531d3a1939823ea27cf85d7c59deb57d9fc052844d4edc62e0a32",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759442553~acl=/*~id=45714760187485572910198870858622~hmac=af9dd6e6a30531d3a1939823ea27cf85d7c59deb57d9fc052844d4edc62e0a32",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759442553~acl=/*~id=45714760187485572910198870858622~hmac=af9dd6e6a30531d3a1939823ea27cf85d7c59deb57d9fc052844d4edc62e0a32"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491245,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009655/1759232578000127_NZvsAUS_2025_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australia Tour of New Zealand 2025"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443163~acl=/*~id=02112875506351866672314909813786~hmac=6d9ef425eb9418be483ee430acffba401a3f974153c41e06d902268843bbbf7c",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443163~acl=/*~id=02112875506351866672314909813786~hmac=6d9ef425eb9418be483ee430acffba401a3f974153c41e06d902268843bbbf7c",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443163~acl=/*~id=02112875506351866672314909813786~hmac=6d9ef425eb9418be483ee430acffba401a3f974153c41e06d902268843bbbf7c"
         },
         {
             "event_category": "Football",
@@ -46,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Europa League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491245,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009655/1759232578000127_NZvsAUS_2025_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australia Tour of New Zealand 2025"
         },
         {
             "event_category": "Cricket",
