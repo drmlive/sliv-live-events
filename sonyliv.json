@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:42:43 02-10-2025",
+    "last update time": "15:52:51 02-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 2 - 2 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443163~acl=/*~id=02112875506351866672314909813786~hmac=6d9ef425eb9418be483ee430acffba401a3f974153c41e06d902268843bbbf7c",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443163~acl=/*~id=02112875506351866672314909813786~hmac=6d9ef425eb9418be483ee430acffba401a3f974153c41e06d902268843bbbf7c",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443163~acl=/*~id=02112875506351866672314909813786~hmac=6d9ef425eb9418be483ee430acffba401a3f974153c41e06d902268843bbbf7c"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443771~acl=/*~id=01768726619554303203212030307825~hmac=b16ac98583033038d5913e3f14860dc8bfc6b6459977cf3d1f9bc4a074854579",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443771~acl=/*~id=01768726619554303203212030307825~hmac=b16ac98583033038d5913e3f14860dc8bfc6b6459977cf3d1f9bc4a074854579",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759443771~acl=/*~id=01768726619554303203212030307825~hmac=b16ac98583033038d5913e3f14860dc8bfc6b6459977cf3d1f9bc4a074854579"
         },
         {
             "event_category": "Football",
@@ -35,15 +35,6 @@
             "event_name": "Upcoming - Australia Tour of New Zealand 2025"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
             "event_category": "Archery",
             "isLive": false,
             "contentId": 1090491525,
@@ -51,6 +42,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Archery Premier League 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
         }
     ]
 }
