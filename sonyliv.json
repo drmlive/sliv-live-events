@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:13:15 03-10-2025",
+    "last update time": "23:23:22 03-10-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090491597_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945069825589_bliga2526_MD6_Hoffenheim_vs_FC_Koln_2oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Hoffenheim vs. FC Koln - MD 6 - 3 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759557202~acl=/*~id=10682749605706845933071137094384~hmac=dd7612427e0e422ac0eea3cee06ff50997f1b4450124cca20e4d9650d88e8721",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759557202~acl=/*~id=10682749605706845933071137094384~hmac=dd7612427e0e422ac0eea3cee06ff50997f1b4450124cca20e4d9650d88e8721",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759557202~acl=/*~id=10682749605706845933071137094384~hmac=dd7612427e0e422ac0eea3cee06ff50997f1b4450124cca20e4d9650d88e8721"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
