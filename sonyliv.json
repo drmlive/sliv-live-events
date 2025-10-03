@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:42:00 03-10-2025",
+    "last update time": "21:52:12 03-10-2025",
     "matches": [
-        {
-            "event_category": "Archery",
-            "isLive": true,
-            "contentId": "1090491594_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009775/175940952620782_ATP25_Day2_Landscape_thumb_2oct.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Archery Premier League 2025",
-            "match_name": "Day 2 - 3 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759551120~acl=/*~id=48125553005104133600957358381111~hmac=a8f18b09ffd18a355450dc96e74b770482c4700af228d11051a32b5eae1763fa",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759551120~acl=/*~id=48125553005104133600957358381111~hmac=a8f18b09ffd18a355450dc96e74b770482c4700af228d11051a32b5eae1763fa",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759551120~acl=/*~id=48125553005104133600957358381111~hmac=a8f18b09ffd18a355450dc96e74b770482c4700af228d11051a32b5eae1763fa"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -24,6 +11,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australia Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491659,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009830/1759500448904198_Bundesliga_Promo_Thumbs_DORTMUND_vs_LEIPZIG_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs RB Leipzig"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491660,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009827/1759499752057524_Bundesliga_Promo_Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Eintracht Frankfurt vs Bayern Munich"
         },
         {
             "event_category": "Archery",
