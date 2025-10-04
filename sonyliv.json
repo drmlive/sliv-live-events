@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:17:07 04-10-2025",
+    "last update time": "18:27:21 04-10-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090491614_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945325884889_bliga2526_MD6_Dortmund_vs_RB_Leipzig_2oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Borussia Dortmund vs RB Leipzig - 4 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090491613_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945300580089_bliga2526_MD6_Leverkusen_vs_Union_Berlin_2oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Bayer Leverkusen vs Union Berlin - 4 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 4 - 4 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1"
         },
         {
             "event_category": "Sports",
@@ -25,9 +51,48 @@
             "audioLanguageName": "ENG",
             "event_name": "World Para Athletics, New Delhi",
             "match_name": "Day 8 - 4 Oct 2025  [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090491612_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/bundesliga2425_goal_arena_22aug_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Goal Arena Feed - MD 6 - 4 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090491615_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945358993389_bliga2526_MD6_FC_Augsburg_vs_VfL_Wolfsburg_2oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "FC Augsburg vs VfL Wolfsburg - 4 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090491617_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945471941089_bliga2526_MD6_Werder_Bremen_vs_St_Pauli_2oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Werder Bremen vs St. Pauli - 4 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1"
         },
         {
             "event_category": "Racing",
@@ -38,9 +103,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Extreme E 2025",
             "match_name": "Extreme E Desert X Prix - 4 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625224~acl=/*~id=72697935097033642389894220365423~hmac=5e181e7bab45b4ad5dc7494058be86cce4c88e7fef36c97180f5c4f76893ba60"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759625836~acl=/*~id=81812181285416119420133172852354~hmac=b8331408353e5cc731e2e1087b978f39bd1dfb71b168b9f44eae98d5bf6e67d1"
         },
         {
             "event_category": "Football",
@@ -50,15 +115,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Eintracht Frankfurt vs Bayern Munich"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491659,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009830/1759500448904198_Bundesliga_Promo_Thumbs_DORTMUND_vs_LEIPZIG_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Borussia Dortmund vs RB Leipzig"
         },
         {
             "event_category": "Archery",
