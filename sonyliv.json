@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:50:54 05-10-2025",
+    "last update time": "17:01:03 05-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 5 - 5 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759706454~acl=/*~id=93073004236841877075369874786333~hmac=35546a0b53d77ba8a6f3766058e6cb01be83af0a169f3ea0bdd6cbee3739b9b0",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759706454~acl=/*~id=93073004236841877075369874786333~hmac=35546a0b53d77ba8a6f3766058e6cb01be83af0a169f3ea0bdd6cbee3739b9b0",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759706454~acl=/*~id=93073004236841877075369874786333~hmac=35546a0b53d77ba8a6f3766058e6cb01be83af0a169f3ea0bdd6cbee3739b9b0"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83"
         },
         {
             "event_category": "Sports",
@@ -25,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "World Para Athletics, New Delhi",
             "match_name": "Day 9 - 5 Oct 2025  [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759706454~acl=/*~id=93073004236841877075369874786333~hmac=35546a0b53d77ba8a6f3766058e6cb01be83af0a169f3ea0bdd6cbee3739b9b0",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759706454~acl=/*~id=93073004236841877075369874786333~hmac=35546a0b53d77ba8a6f3766058e6cb01be83af0a169f3ea0bdd6cbee3739b9b0",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759706454~acl=/*~id=93073004236841877075369874786333~hmac=35546a0b53d77ba8a6f3766058e6cb01be83af0a169f3ea0bdd6cbee3739b9b0"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83"
+        },
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": "1090491698_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009839/1759514505351540_ExtremeE2025_DesertXPRIX_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Extreme E 2025",
+            "match_name": "Extreme E Desert X Prix - 5 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759707061~acl=/*~id=71803077560050144131640012584798~hmac=d6aa2b70da0845ea2d5243d95896d126786115046633d0c3b6be74eb67ff8d83"
         },
         {
             "event_category": "Archery",
