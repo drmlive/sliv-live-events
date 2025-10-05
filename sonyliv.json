@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:52:45 05-10-2025",
+    "last update time": "19:02:56 05-10-2025",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090491700_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009845/1759542928888452_APL25_Day4_3oct_Landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2025",
+            "match_name": "Day 4 - 5 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 5 - 5 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e"
         },
         {
             "event_category": "Sports",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Para Athletics, New Delhi",
             "match_name": "Day 9 - 5 Oct 2025  [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e"
         },
         {
             "event_category": "Football",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfB Stuttgart vs Heidenheim - 4 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e"
         },
         {
             "event_category": "Racing",
@@ -51,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Extreme E 2025",
             "match_name": "Extreme E Desert X Prix - 5 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759713763~acl=/*~id=20907283745460279028946261958887~hmac=40ccc19cc12631f7a270bcb82fa3fa79dbc2b58c9ffd5b9ac9011b85eaefabef"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714374~acl=/*~id=18262528958989715987670246902365~hmac=6b2d1c24c826e5b8089fb62b22d7b6412168c258d5d3aca085b515d5aa54088e"
         },
         {
             "event_category": "Archery",
