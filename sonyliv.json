@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:36:32 05-10-2025",
+    "last update time": "22:46:41 05-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Borussia M'gladbach vs SC Freiburg - 5 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727191~acl=/*~id=45313601235909666708667965724707~hmac=2eaa1c9da79599201fc3346613486c320949b0af629c1fb657bd7aa249d5bf9c",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727191~acl=/*~id=45313601235909666708667965724707~hmac=2eaa1c9da79599201fc3346613486c320949b0af629c1fb657bd7aa249d5bf9c",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727191~acl=/*~id=45313601235909666708667965724707~hmac=2eaa1c9da79599201fc3346613486c320949b0af629c1fb657bd7aa249d5bf9c"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727800~acl=/*~id=38724176782396029015727635364144~hmac=30eb2542baac2b1d883ebbdafc3e9c5f58863be6ed20f54a49b2cea57d421b30",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727800~acl=/*~id=38724176782396029015727635364144~hmac=30eb2542baac2b1d883ebbdafc3e9c5f58863be6ed20f54a49b2cea57d421b30",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727800~acl=/*~id=38724176782396029015727635364144~hmac=30eb2542baac2b1d883ebbdafc3e9c5f58863be6ed20f54a49b2cea57d421b30"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Hamburg SV vs Mainz - 5 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727191~acl=/*~id=45313601235909666708667965724707~hmac=2eaa1c9da79599201fc3346613486c320949b0af629c1fb657bd7aa249d5bf9c",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727191~acl=/*~id=45313601235909666708667965724707~hmac=2eaa1c9da79599201fc3346613486c320949b0af629c1fb657bd7aa249d5bf9c",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727191~acl=/*~id=45313601235909666708667965724707~hmac=2eaa1c9da79599201fc3346613486c320949b0af629c1fb657bd7aa249d5bf9c"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727800~acl=/*~id=38724176782396029015727635364144~hmac=30eb2542baac2b1d883ebbdafc3e9c5f58863be6ed20f54a49b2cea57d421b30",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727800~acl=/*~id=38724176782396029015727635364144~hmac=30eb2542baac2b1d883ebbdafc3e9c5f58863be6ed20f54a49b2cea57d421b30",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759727800~acl=/*~id=38724176782396029015727635364144~hmac=30eb2542baac2b1d883ebbdafc3e9c5f58863be6ed20f54a49b2cea57d421b30"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australia Tour of New Zealand 2025"
         },
         {
             "event_category": "Archery",
