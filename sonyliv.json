@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:52:42 06-10-2025",
+    "last update time": "19:02:51 06-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 6 - 6 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800162~acl=/*~id=22050774647611212261396209664894~hmac=9b1fc7ac30dbbeaa03e052a4352815037fbb341e31f0e33ff784c81215abd92e",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800162~acl=/*~id=22050774647611212261396209664894~hmac=9b1fc7ac30dbbeaa03e052a4352815037fbb341e31f0e33ff784c81215abd92e",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800162~acl=/*~id=22050774647611212261396209664894~hmac=9b1fc7ac30dbbeaa03e052a4352815037fbb341e31f0e33ff784c81215abd92e"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800770~acl=/*~id=76538241319540392664362269130432~hmac=63cb11c2871ddf1a41990f866efa0130d84aa85bb4bb2eb21dd9257980c10420",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800770~acl=/*~id=76538241319540392664362269130432~hmac=63cb11c2871ddf1a41990f866efa0130d84aa85bb4bb2eb21dd9257980c10420",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800770~acl=/*~id=76538241319540392664362269130432~hmac=63cb11c2871ddf1a41990f866efa0130d84aa85bb4bb2eb21dd9257980c10420"
+        },
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090491805_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009845/1759543037386452_APL25_Day5_3oct_Landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2025",
+            "match_name": "Day 5 - 6 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800770~acl=/*~id=76538241319540392664362269130432~hmac=63cb11c2871ddf1a41990f866efa0130d84aa85bb4bb2eb21dd9257980c10420",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800770~acl=/*~id=76538241319540392664362269130432~hmac=63cb11c2871ddf1a41990f866efa0130d84aa85bb4bb2eb21dd9257980c10420",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759800770~acl=/*~id=76538241319540392664362269130432~hmac=63cb11c2871ddf1a41990f866efa0130d84aa85bb4bb2eb21dd9257980c10420"
         },
         {
             "event_category": "Archery",
