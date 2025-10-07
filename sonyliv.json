@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:14:46 07-10-2025",
+    "last update time": "20:24:57 07-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 7 - 7 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759891486~acl=/*~id=37511742769049486019798545871428~hmac=f2ae358e17cabd70ffb5eef0ee62dc366b3ead36fb26198461de1caedf7e9c60",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759891486~acl=/*~id=37511742769049486019798545871428~hmac=f2ae358e17cabd70ffb5eef0ee62dc366b3ead36fb26198461de1caedf7e9c60",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759891486~acl=/*~id=37511742769049486019798545871428~hmac=f2ae358e17cabd70ffb5eef0ee62dc366b3ead36fb26198461de1caedf7e9c60"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759892097~acl=/*~id=38040626477418917291778806225147~hmac=300d7efc05b39445cd41671dfd2d3a14334a8de6283f7610466990e86e714147",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759892097~acl=/*~id=38040626477418917291778806225147~hmac=300d7efc05b39445cd41671dfd2d3a14334a8de6283f7610466990e86e714147",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759892097~acl=/*~id=38040626477418917291778806225147~hmac=300d7efc05b39445cd41671dfd2d3a14334a8de6283f7610466990e86e714147"
         },
         {
             "event_category": "Football",
@@ -28,11 +28,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090491895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825734125296_EQ_Promo_malta_v_nertherlands_landscape.jpg",
+            "contentId": 1090491892,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Malta vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
+            "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -46,20 +46,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090491892,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090491891,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826191816296_EQ_Promo_Spain-vs-Georgia_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491895,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825734125296_EQ_Promo_malta_v_nertherlands_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Malta vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
