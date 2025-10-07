@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:22:36 07-10-2025",
+    "last update time": "18:32:45 07-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 7 - 7 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759884755~acl=/*~id=46458221663396156772707507160695~hmac=ff6744532866136f34b9bbde49b08814eaaecbfd7a7fd5b8d5c2fa02424a8e10",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759884755~acl=/*~id=46458221663396156772707507160695~hmac=ff6744532866136f34b9bbde49b08814eaaecbfd7a7fd5b8d5c2fa02424a8e10",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759884755~acl=/*~id=46458221663396156772707507160695~hmac=ff6744532866136f34b9bbde49b08814eaaecbfd7a7fd5b8d5c2fa02424a8e10"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759885365~acl=/*~id=42706116033540036092746847289855~hmac=3ba76a4b5405083a7c9e323578b29e27c439b8c91d4f83586dfec667d4e506ee",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759885365~acl=/*~id=42706116033540036092746847289855~hmac=3ba76a4b5405083a7c9e323578b29e27c439b8c91d4f83586dfec667d4e506ee",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759885365~acl=/*~id=42706116033540036092746847289855~hmac=3ba76a4b5405083a7c9e323578b29e27c439b8c91d4f83586dfec667d4e506ee"
         },
         {
             "event_category": "Football",
@@ -37,20 +37,20 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090491892,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090491891,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826191816296_EQ_Promo_Spain-vs-Georgia_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491890,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826225455296_EQ_Promo_Zcechia-v-Croatia_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Czechia vs Croatia - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
@@ -82,20 +82,20 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090491890,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826225455296_EQ_Promo_Zcechia-v-Croatia_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Czechia vs Croatia - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090491894,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - France vs Azerbaijan - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491892,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
