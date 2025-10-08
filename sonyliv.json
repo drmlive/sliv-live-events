@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:21:48 09-10-2025",
+    "last update time": "00:31:57 09-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Gibraltar vs New Caledonia - 8 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759992708~acl=/*~id=18706885185570964764471357757278~hmac=b8cd543f9843b168a5d65b44ac614407b40e8b99d7f75380e5faf676e0b7fc81",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759992708~acl=/*~id=18706885185570964764471357757278~hmac=b8cd543f9843b168a5d65b44ac614407b40e8b99d7f75380e5faf676e0b7fc81",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759992708~acl=/*~id=18706885185570964764471357757278~hmac=b8cd543f9843b168a5d65b44ac614407b40e8b99d7f75380e5faf676e0b7fc81"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759993317~acl=/*~id=86152673600163315426204496567958~hmac=23ba3fa3754eaf761ddf7da9d00f260448657492b57b53e8b1acda18d179f565",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759993317~acl=/*~id=86152673600163315426204496567958~hmac=23ba3fa3754eaf761ddf7da9d00f260448657492b57b53e8b1acda18d179f565",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759993317~acl=/*~id=86152673600163315426204496567958~hmac=23ba3fa3754eaf761ddf7da9d00f260448657492b57b53e8b1acda18d179f565"
         },
         {
             "event_category": "Football",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Archery",
+            "isLive": false,
+            "contentId": 1090491525,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Archery Premier League 2025"
         },
         {
             "event_category": "Football",
@@ -78,15 +87,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England Tour of New Zealand 2025"
-        },
-        {
-            "event_category": "Archery",
-            "isLive": false,
-            "contentId": 1090491525,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Archery Premier League 2025"
         },
         {
             "event_category": "Cricket",
