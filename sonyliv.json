@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:19:36 08-10-2025",
+    "last update time": "13:29:47 08-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Day 8 - 8 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759952976~acl=/*~id=06620576676897566647807442836896~hmac=dc10df812d646b654310a25a79531d9fb1e16199cf36ecffa958ec76b40c8055",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759952976~acl=/*~id=06620576676897566647807442836896~hmac=dc10df812d646b654310a25a79531d9fb1e16199cf36ecffa958ec76b40c8055",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759952976~acl=/*~id=06620576676897566647807442836896~hmac=dc10df812d646b654310a25a79531d9fb1e16199cf36ecffa958ec76b40c8055"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759953587~acl=/*~id=20881544311446950890098637558913~hmac=be0a494d9c1f2f3dab9232ea3ce6a2dfaa44c96d8bf8176c16765527399f2c21",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759953587~acl=/*~id=20881544311446950890098637558913~hmac=be0a494d9c1f2f3dab9232ea3ce6a2dfaa44c96d8bf8176c16765527399f2c21",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759953587~acl=/*~id=20881544311446950890098637558913~hmac=be0a494d9c1f2f3dab9232ea3ce6a2dfaa44c96d8bf8176c16765527399f2c21"
         },
         {
             "event_category": "Football",
@@ -37,11 +37,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090491896,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009968/1759845069408971_Germany_vs_Luxembourg_landscape.jpg",
+            "contentId": 1090491894,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
+            "event_name": "Upcoming - France vs Azerbaijan - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -51,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491896,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009968/1759845069408971_Germany_vs_Luxembourg_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -96,15 +105,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Czechia vs Croatia - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491894,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - France vs Azerbaijan - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
