@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:20:42 08-10-2025",
+    "last update time": "14:30:52 08-10-2025",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090491806_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2025",
+            "match_name": "Day 7 - 8 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759957251~acl=/*~id=76352329706785406028046458979152~hmac=6120462c035a651b0e3505c978ca5efb4b0be2199b53761ee3bbdf335430c926",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759957251~acl=/*~id=76352329706785406028046458979152~hmac=6120462c035a651b0e3505c978ca5efb4b0be2199b53761ee3bbdf335430c926",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759957251~acl=/*~id=76352329706785406028046458979152~hmac=6120462c035a651b0e3505c978ca5efb4b0be2199b53761ee3bbdf335430c926"
+        },
         {
             "event_category": "Football",
             "isLive": false,
