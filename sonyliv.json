@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:36:55 09-10-2025",
+    "last update time": "19:47:05 09-10-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2025",
             "match_name": "Day 8 - 9 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062014~acl=/*~id=98671189272526999927463012695986~hmac=d2f17135fa30da198128b41cdf39b6e20c54f07d9825ae37986d4a056b4ff851",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062014~acl=/*~id=98671189272526999927463012695986~hmac=d2f17135fa30da198128b41cdf39b6e20c54f07d9825ae37986d4a056b4ff851",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062014~acl=/*~id=98671189272526999927463012695986~hmac=d2f17135fa30da198128b41cdf39b6e20c54f07d9825ae37986d4a056b4ff851"
-        },
-        {
-            "event_category": "Racing",
-            "isLive": true,
-            "contentId": "1090491954_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010040/1760014194948839_Extreme_E_and_Extreme_H_WC25_day1_9oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Extreme E 2025",
-            "match_name": "Day 1 - Extreme H World Cup - 9 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062014~acl=/*~id=98671189272526999927463012695986~hmac=d2f17135fa30da198128b41cdf39b6e20c54f07d9825ae37986d4a056b4ff851",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062014~acl=/*~id=98671189272526999927463012695986~hmac=d2f17135fa30da198128b41cdf39b6e20c54f07d9825ae37986d4a056b4ff851",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062014~acl=/*~id=98671189272526999927463012695986~hmac=d2f17135fa30da198128b41cdf39b6e20c54f07d9825ae37986d4a056b4ff851"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062625~acl=/*~id=92019339844078819551775632105218~hmac=b04c858c12f0e8aba105337218731b5ccbfc30340507517939e08cb1f038400c",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062625~acl=/*~id=92019339844078819551775632105218~hmac=b04c858c12f0e8aba105337218731b5ccbfc30340507517939e08cb1f038400c",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760062625~acl=/*~id=92019339844078819551775632105218~hmac=b04c858c12f0e8aba105337218731b5ccbfc30340507517939e08cb1f038400c"
         },
         {
             "event_category": "Football",
@@ -46,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Malta vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Football",
@@ -91,6 +69,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Archery",
