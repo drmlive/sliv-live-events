@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:05:33 09-10-2025",
+    "last update time": "18:15:42 09-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Bergs vs Djokovic - Quarter-final - 9 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760056532~acl=/*~id=28294921462782180873069814760241~hmac=944b1a088f1267c7222bf46fa95a2f1597ab4e278c488e806119e5ec161211ba",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760056532~acl=/*~id=28294921462782180873069814760241~hmac=944b1a088f1267c7222bf46fa95a2f1597ab4e278c488e806119e5ec161211ba",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760056532~acl=/*~id=28294921462782180873069814760241~hmac=944b1a088f1267c7222bf46fa95a2f1597ab4e278c488e806119e5ec161211ba"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760057141~acl=/*~id=51836022800861580483364082732143~hmac=0f40cb05633043034054c227d59cc15e1ff191ad79ca195f9b25f15c5e911d05",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760057141~acl=/*~id=51836022800861580483364082732143~hmac=0f40cb05633043034054c227d59cc15e1ff191ad79ca195f9b25f15c5e911d05",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760057141~acl=/*~id=51836022800861580483364082732143~hmac=0f40cb05633043034054c227d59cc15e1ff191ad79ca195f9b25f15c5e911d05"
         },
         {
             "event_category": "Racing",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Extreme E 2025",
             "match_name": "Day 1 - Extreme H World Cup - 9 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760056532~acl=/*~id=28294921462782180873069814760241~hmac=944b1a088f1267c7222bf46fa95a2f1597ab4e278c488e806119e5ec161211ba",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760056532~acl=/*~id=28294921462782180873069814760241~hmac=944b1a088f1267c7222bf46fa95a2f1597ab4e278c488e806119e5ec161211ba",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760056532~acl=/*~id=28294921462782180873069814760241~hmac=944b1a088f1267c7222bf46fa95a2f1597ab4e278c488e806119e5ec161211ba"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760057141~acl=/*~id=51836022800861580483364082732143~hmac=0f40cb05633043034054c227d59cc15e1ff191ad79ca195f9b25f15c5e911d05",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760057141~acl=/*~id=51836022800861580483364082732143~hmac=0f40cb05633043034054c227d59cc15e1ff191ad79ca195f9b25f15c5e911d05",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760057141~acl=/*~id=51836022800861580483364082732143~hmac=0f40cb05633043034054c227d59cc15e1ff191ad79ca195f9b25f15c5e911d05"
         },
         {
             "event_category": "Football",
@@ -55,6 +55,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Malta vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Football",
@@ -95,15 +104,6 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090489002,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -124,18 +124,4 @@
             "isLive": false,
             "contentId": 1090491897,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825645469296_EQ_Promo_Estonia-vs-Italy_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Estonia vs Italy - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491893,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825892596296_EQ_Promo_norway_v_israel_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Norway vs Israel - European Qualifiers for 2026 FIFA World Cup"
-        }
-    ]
-}
+            "broadcast_channel": 
