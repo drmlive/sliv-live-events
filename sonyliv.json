@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:51:02 09-10-2025",
+    "last update time": "13:01:10 09-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Rune vs Vacherot - Quarterfinal - 9 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760037661~acl=/*~id=14726271745510249136444955902979~hmac=2a878a3f74bd0488c9d155194769f14bc6a4a7be0b0f0fb8bff628b4d1b39304",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760037661~acl=/*~id=14726271745510249136444955902979~hmac=2a878a3f74bd0488c9d155194769f14bc6a4a7be0b0f0fb8bff628b4d1b39304",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760037661~acl=/*~id=14726271745510249136444955902979~hmac=2a878a3f74bd0488c9d155194769f14bc6a4a7be0b0f0fb8bff628b4d1b39304"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760038270~acl=/*~id=18189717418209085051618891599947~hmac=08b68f44b6888ecec375770d4b99bc59bd4defaa8c8869e820922248423d135d",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760038270~acl=/*~id=18189717418209085051618891599947~hmac=08b68f44b6888ecec375770d4b99bc59bd4defaa8c8869e820922248423d135d",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760038270~acl=/*~id=18189717418209085051618891599947~hmac=08b68f44b6888ecec375770d4b99bc59bd4defaa8c8869e820922248423d135d"
         },
         {
             "event_category": "Football",
@@ -33,6 +33,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Archery Premier League 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491895,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825734125296_EQ_Promo_malta_v_nertherlands_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Malta vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -69,15 +78,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825734125296_EQ_Promo_malta_v_nertherlands_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Malta vs Netherlands - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
