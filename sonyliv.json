@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:15:54 10-10-2025",
+    "last update time": "17:26:05 10-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Daniil Medvedev vs Alex de Minaur - QF - 10 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139954~acl=/*~id=67531096090502491037758987369400~hmac=d0db66d23087e57773834124b78f2a195e758630af53676f67cfc7e7121d6d2e",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139954~acl=/*~id=67531096090502491037758987369400~hmac=d0db66d23087e57773834124b78f2a195e758630af53676f67cfc7e7121d6d2e",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139954~acl=/*~id=67531096090502491037758987369400~hmac=d0db66d23087e57773834124b78f2a195e758630af53676f67cfc7e7121d6d2e"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760140563~acl=/*~id=16325755996872434737568365568627~hmac=275d0df18c0b2ba3ef656d9248aa2f4463bdf41c663a063208025af238ab249c",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760140563~acl=/*~id=16325755996872434737568365568627~hmac=275d0df18c0b2ba3ef656d9248aa2f4463bdf41c663a063208025af238ab249c",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760140563~acl=/*~id=16325755996872434737568365568627~hmac=275d0df18c0b2ba3ef656d9248aa2f4463bdf41c663a063208025af238ab249c"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090492070_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Asia Cup 2025",
+            "match_name": "India's Asia Cup Glory 24x7 [ENG]"
         },
         {
             "event_category": "Football",
