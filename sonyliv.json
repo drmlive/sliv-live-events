@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:05:46 10-10-2025",
+    "last update time": "17:15:54 10-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Daniil Medvedev vs Alex de Minaur - QF - 10 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139345~acl=/*~id=94040296114209173507577791658891~hmac=59f5ee2c7e6118062303e058eab0cd77f8a973b64a2324798e93c2cf0023372f",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139345~acl=/*~id=94040296114209173507577791658891~hmac=59f5ee2c7e6118062303e058eab0cd77f8a973b64a2324798e93c2cf0023372f",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139345~acl=/*~id=94040296114209173507577791658891~hmac=59f5ee2c7e6118062303e058eab0cd77f8a973b64a2324798e93c2cf0023372f"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139954~acl=/*~id=67531096090502491037758987369400~hmac=d0db66d23087e57773834124b78f2a195e758630af53676f67cfc7e7121d6d2e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139954~acl=/*~id=67531096090502491037758987369400~hmac=d0db66d23087e57773834124b78f2a195e758630af53676f67cfc7e7121d6d2e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760139954~acl=/*~id=67531096090502491037758987369400~hmac=d0db66d23087e57773834124b78f2a195e758630af53676f67cfc7e7121d6d2e"
         },
         {
             "event_category": "Football",
@@ -24,15 +24,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Archery",
-            "isLive": false,
-            "contentId": 1090491525,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Archery Premier League 2025"
         },
         {
             "event_category": "Football",
@@ -78,6 +69,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "Archery",
+            "isLive": false,
+            "contentId": 1090491525,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Archery Premier League 2025"
         },
         {
             "event_category": "Cricket",
