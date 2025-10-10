@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:56:35 10-10-2025",
+    "last update time": "18:16:49 10-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": "Daniil Medvedev vs Alex de Minaur - QF - 10 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760142394~acl=/*~id=10195420252550088256315819019890~hmac=c8820489bf2981f397450ee5ea79833ab285e2a1d9b593e6a503488018a7bc36",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760142394~acl=/*~id=10195420252550088256315819019890~hmac=c8820489bf2981f397450ee5ea79833ab285e2a1d9b593e6a503488018a7bc36",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760142394~acl=/*~id=10195420252550088256315819019890~hmac=c8820489bf2981f397450ee5ea79833ab285e2a1d9b593e6a503488018a7bc36"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760143607~acl=/*~id=72527648625297568000500820581609~hmac=2ae032f4f4eba9a7bc847c0282a988cde2531669bd7dc3f62155f1515e0a9631",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760143607~acl=/*~id=72527648625297568000500820581609~hmac=2ae032f4f4eba9a7bc847c0282a988cde2531669bd7dc3f62155f1515e0a9631",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760143607~acl=/*~id=72527648625297568000500820581609~hmac=2ae032f4f4eba9a7bc847c0282a988cde2531669bd7dc3f62155f1515e0a9631"
         },
         {
             "event_category": "Cricket",
@@ -25,6 +25,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": "1090491972_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010040/1760014215356839_Extreme_E_and_Extreme_H_WC25_day2_9oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Extreme E 2025",
+            "match_name": "Day 2 - Extreme H World Cup - 10 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760143607~acl=/*~id=72527648625297568000500820581609~hmac=2ae032f4f4eba9a7bc847c0282a988cde2531669bd7dc3f62155f1515e0a9631",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760143607~acl=/*~id=72527648625297568000500820581609~hmac=2ae032f4f4eba9a7bc847c0282a988cde2531669bd7dc3f62155f1515e0a9631",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760143607~acl=/*~id=72527648625297568000500820581609~hmac=2ae032f4f4eba9a7bc847c0282a988cde2531669bd7dc3f62155f1515e0a9631"
         },
         {
             "event_category": "Football",
