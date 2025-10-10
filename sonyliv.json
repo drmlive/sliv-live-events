@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:17:08 10-10-2025",
+    "last update time": "06:27:14 10-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -15,15 +15,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090491892,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090491894,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825550656296_EQ_Promo_France_vs_Azerbaijan_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -33,20 +24,29 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090491891,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826191816296_EQ_Promo_Spain-vs-Georgia_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090491896,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009968/1759845069408971_Germany_vs_Luxembourg_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Germany vs Luxembourg - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491892,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826282927296_EQ_Promo_Portugal-vs-Republic-of-Ireland_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491891,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826191816296_EQ_Promo_Spain-vs-Georgia_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
