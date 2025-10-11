@@ -1,33 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:51:52 11-10-2025",
+    "last update time": "20:02:03 11-10-2025",
     "matches": [
         {
             "event_category": "Archery",
             "isLive": true,
             "contentId": "1090492069_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009845/1759543088821452_APL25_Day10_3oct_Landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010123/1760158127102773_APL25_day10_10oct_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2025",
             "match_name": "Day 10 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760235711~acl=/*~id=39597122797503425112264936865991~hmac=4c01e291a17c6cd38e154933c3897d8b325eecc03c6402db75337efe97eacc2b",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760235711~acl=/*~id=39597122797503425112264936865991~hmac=4c01e291a17c6cd38e154933c3897d8b325eecc03c6402db75337efe97eacc2b",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760235711~acl=/*~id=39597122797503425112264936865991~hmac=4c01e291a17c6cd38e154933c3897d8b325eecc03c6402db75337efe97eacc2b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492075_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541222127830_EQ2526_Latvia_vs_Andorra_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Latvia vs Andorra - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760235711~acl=/*~id=39597122797503425112264936865991~hmac=4c01e291a17c6cd38e154933c3897d8b325eecc03c6402db75337efe97eacc2b",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760235711~acl=/*~id=39597122797503425112264936865991~hmac=4c01e291a17c6cd38e154933c3897d8b325eecc03c6402db75337efe97eacc2b",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760235711~acl=/*~id=39597122797503425112264936865991~hmac=4c01e291a17c6cd38e154933c3897d8b325eecc03c6402db75337efe97eacc2b"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760236321~acl=/*~id=74860323640607479981118830539609~hmac=c28107898256d49505c64f28735bea82909783277c8743dbbd993402f10a4b01",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760236321~acl=/*~id=74860323640607479981118830539609~hmac=c28107898256d49505c64f28735bea82909783277c8743dbbd993402f10a4b01",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760236321~acl=/*~id=74860323640607479981118830539609~hmac=c28107898256d49505c64f28735bea82909783277c8743dbbd993402f10a4b01"
         },
         {
             "event_category": "Cricket",
@@ -38,6 +25,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492075_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541222127830_EQ2526_Latvia_vs_Andorra_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Latvia vs Andorra - MD 7 - 11 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760236321~acl=/*~id=74860323640607479981118830539609~hmac=c28107898256d49505c64f28735bea82909783277c8743dbbd993402f10a4b01",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760236321~acl=/*~id=74860323640607479981118830539609~hmac=c28107898256d49505c64f28735bea82909783277c8743dbbd993402f10a4b01",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760236321~acl=/*~id=74860323640607479981118830539609~hmac=c28107898256d49505c64f28735bea82909783277c8743dbbd993402f10a4b01"
         },
         {
             "event_category": "Football",
