@@ -1,8 +1,47 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:25:34 11-10-2025",
+    "last update time": "23:35:44 11-10-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492080_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541902794830_EQ2526_Portugal_vs_Republicof_Ireland_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Portugal vs Republic of Ireland - MD 7 - 12 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492082_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759542182049830_EQ2526_Spain_vs_Georgia_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Spain vs Georgia - MD 7 - 12 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492079_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541768631830_EQ2526_Estonia_vs_Italy_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Estonia vs Italy - MD 7 - 12 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -16,46 +55,28 @@
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090492077_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541499854830_EQ2526_Norway_vs_Israel_3oct_landscape_thumb.jpg",
+            "contentId": "1090492078_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541633783830_EQ2526_Bulgaria_vs_Turkiye_3oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Norway vs Israel - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760248533~acl=/*~id=74990362520065767133673404465465~hmac=36ac7702369e01e5b24f9cd74f25fd43c2a58d15309581902cf75081981cc77f",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760248533~acl=/*~id=74990362520065767133673404465465~hmac=36ac7702369e01e5b24f9cd74f25fd43c2a58d15309581902cf75081981cc77f",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760248533~acl=/*~id=74990362520065767133673404465465~hmac=36ac7702369e01e5b24f9cd74f25fd43c2a58d15309581902cf75081981cc77f"
+            "match_name": "Bulgaria vs Turkiye - MD 7 - 12 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090492076_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg",
+            "contentId": "1090492081_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759542036725830_EQ2526_Serbia_vs_Albania_3oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Hungary vs Armenia - MD 7 - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760248533~acl=/*~id=74990362520065767133673404465465~hmac=36ac7702369e01e5b24f9cd74f25fd43c2a58d15309581902cf75081981cc77f",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760248533~acl=/*~id=74990362520065767133673404465465~hmac=36ac7702369e01e5b24f9cd74f25fd43c2a58d15309581902cf75081981cc77f",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760248533~acl=/*~id=74990362520065767133673404465465~hmac=36ac7702369e01e5b24f9cd74f25fd43c2a58d15309581902cf75081981cc77f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491892,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010126/1760163148809263_EQ2526_Portugal_vs_Republicof_Ireland_11oct_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491891,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759826191816296_EQ_Promo_Spain-vs-Georgia_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs Georgia - European Qualifiers for 2026 FIFA World Cup"
+            "match_name": "Serbia vs Albania - MD 7 - 12 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760249141~acl=/*~id=25089816245175804077104469064960~hmac=e3e6f998a7ada9b230f60cd41f1fc7ec7aa3690620829387a569f1c83bb1adfe"
         },
         {
             "event_category": "Cricket",
@@ -137,15 +158,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491897,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009949/1759825645469296_EQ_Promo_Estonia-vs-Italy_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Estonia vs Italy - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
