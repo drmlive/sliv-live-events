@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:48:54 11-10-2025",
+    "last update time": "16:59:04 11-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
             "match_name": " Medvedev vs Rinderknech - Semi-Finals - 11 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760224733~acl=/*~id=76904035566060544649620889325708~hmac=c8e477674d4c539bf636ca08f777dcd9843809f410377dc1f549c0d0431b9306",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760224733~acl=/*~id=76904035566060544649620889325708~hmac=c8e477674d4c539bf636ca08f777dcd9843809f410377dc1f549c0d0431b9306",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760224733~acl=/*~id=76904035566060544649620889325708~hmac=c8e477674d4c539bf636ca08f777dcd9843809f410377dc1f549c0d0431b9306"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760225342~acl=/*~id=84024531607141415544703919115748~hmac=2250c24bd50f768b520a2d4711a710477c815c44288253bb60683bc0c650ed17",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760225342~acl=/*~id=84024531607141415544703919115748~hmac=2250c24bd50f768b520a2d4711a710477c815c44288253bb60683bc0c650ed17",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760225342~acl=/*~id=84024531607141415544703919115748~hmac=2250c24bd50f768b520a2d4711a710477c815c44288253bb60683bc0c650ed17"
         },
         {
             "event_category": "Cricket",
@@ -136,30 +136,4 @@
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492102,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112076996245_UEL_MD8_Spain_vs_Bulgaria_DDT_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs Bulgaria - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492101,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112020806245_UEL_MD8_Portugal_Vs_Hungary_DDT_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Hungary - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492099,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760111913094245_UEL_MD8_ITALY_vs_ISRAEL_DDT_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Italy vs Israel - European Qualifiers for 2026 FIFA World Cup"
-        }
-    ]
-}
+            "isLiv
