@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:29:29 12-10-2025",
+    "last update time": "03:39:36 12-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,15 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492091,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009112593998_EQ_promo_netherlands_vs_finland_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Netherlands vs Finland - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
@@ -93,15 +102,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492091,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009112593998_EQ_promo_netherlands_vs_finland_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Netherlands vs Finland - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
