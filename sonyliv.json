@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:29:52 11-10-2025",
+    "last update time": "07:40:00 11-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,15 +14,6 @@
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
         },
         {
-            "event_category": "Archery",
-            "isLive": false,
-            "contentId": 1090491525,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Archery Premier League 2025"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090491892,
@@ -30,6 +21,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Portugal vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Archery",
+            "isLive": false,
+            "contentId": 1090491525,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009741/1759353179080972_APL25_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Archery Premier League 2025"
         },
         {
             "event_category": "Football",
