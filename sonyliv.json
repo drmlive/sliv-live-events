@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:41:58 13-10-2025",
+    "last update time": "03:52:05 13-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,15 +32,6 @@
             "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090491833,
@@ -48,6 +39,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Cricket",
@@ -70,20 +70,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090492102,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112076996245_UEL_MD8_Spain_vs_Bulgaria_DDT_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs Bulgaria - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090492101,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112020806245_UEL_MD8_Portugal_Vs_Hungary_DDT_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Portugal vs Hungary - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492102,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112076996245_UEL_MD8_Spain_vs_Bulgaria_DDT_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Spain vs Bulgaria - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
