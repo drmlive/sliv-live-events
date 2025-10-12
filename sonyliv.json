@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:22:28 12-10-2025",
+    "last update time": "17:32:39 12-10-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090492134_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010142/1760197212593374_ATP25_9oct_Rinderknech_vs_Vacherot_Landscape_thumb_Live.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ATP Masters 1000 - 2025 Shanghai Open",
-            "match_name": "A. Rinderknech vs V. Vacherot - Final - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760313147~acl=/*~id=83260776151423199017727728470425~hmac=88f8dec3f12ccbdb5d26fd12dd6ff1f1dc99eb6add35cfcc4a96bc0ea2e9ea3b",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760313147~acl=/*~id=83260776151423199017727728470425~hmac=88f8dec3f12ccbdb5d26fd12dd6ff1f1dc99eb6add35cfcc4a96bc0ea2e9ea3b",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760313147~acl=/*~id=83260776151423199017727728470425~hmac=88f8dec3f12ccbdb5d26fd12dd6ff1f1dc99eb6add35cfcc4a96bc0ea2e9ea3b"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -65,6 +52,24 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090492101,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112020806245_UEL_MD8_Portugal_Vs_Hungary_DDT_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Portugal vs Hungary - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492102,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112076996245_UEL_MD8_Spain_vs_Bulgaria_DDT_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Spain vs Bulgaria - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090491833,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -97,24 +102,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Iceland vs France - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492102,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112076996245_UEL_MD8_Spain_vs_Bulgaria_DDT_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs Bulgaria - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492101,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010102/1760112020806245_UEL_MD8_Portugal_Vs_Hungary_DDT_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Hungary - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
