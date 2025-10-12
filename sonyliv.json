@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:35:21 12-10-2025",
+    "last update time": "20:45:31 12-10-2025",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2025",
             "match_name": "Day 11 - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760324720~acl=/*~id=00090098084120289028339660296947~hmac=6e29674d3124e32ee55c7f0a9c8c91a0be8d25ae11abdd6fba19b1eed6a0293c",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760324720~acl=/*~id=00090098084120289028339660296947~hmac=6e29674d3124e32ee55c7f0a9c8c91a0be8d25ae11abdd6fba19b1eed6a0293c",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760324720~acl=/*~id=00090098084120289028339660296947~hmac=6e29674d3124e32ee55c7f0a9c8c91a0be8d25ae11abdd6fba19b1eed6a0293c"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325329~acl=/*~id=11104381859964003068572928939445~hmac=7ac5e0ccd6dafb4d2b85d48f3977aa0fbe9e8c85fd2f3111ce87ef60a5758040",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325329~acl=/*~id=11104381859964003068572928939445~hmac=7ac5e0ccd6dafb4d2b85d48f3977aa0fbe9e8c85fd2f3111ce87ef60a5758040",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325329~acl=/*~id=11104381859964003068572928939445~hmac=7ac5e0ccd6dafb4d2b85d48f3977aa0fbe9e8c85fd2f3111ce87ef60a5758040"
         },
         {
             "event_category": "Cricket",
@@ -25,19 +25,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492123_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759543694637839_EQ2526_MD8_San_Marino_vs_Cyprus_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "San Marino vs Cyprus - MD 8 - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760324720~acl=/*~id=00090098084120289028339660296947~hmac=6e29674d3124e32ee55c7f0a9c8c91a0be8d25ae11abdd6fba19b1eed6a0293c",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760324720~acl=/*~id=00090098084120289028339660296947~hmac=6e29674d3124e32ee55c7f0a9c8c91a0be8d25ae11abdd6fba19b1eed6a0293c",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760324720~acl=/*~id=00090098084120289028339660296947~hmac=6e29674d3124e32ee55c7f0a9c8c91a0be8d25ae11abdd6fba19b1eed6a0293c"
         },
         {
             "event_category": "Football",
@@ -60,6 +47,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090492090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090491833,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -74,15 +70,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
