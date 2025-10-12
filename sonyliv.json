@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:45:31 12-10-2025",
+    "last update time": "20:55:40 12-10-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492143_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544003347839_EQ2526_MD8_Netherlands_vs_Finland_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Netherlands vs Finland - MD 8 - 12 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705"
+        },
         {
             "event_category": "Archery",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2025",
             "match_name": "Day 11 - 12 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325329~acl=/*~id=11104381859964003068572928939445~hmac=7ac5e0ccd6dafb4d2b85d48f3977aa0fbe9e8c85fd2f3111ce87ef60a5758040",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325329~acl=/*~id=11104381859964003068572928939445~hmac=7ac5e0ccd6dafb4d2b85d48f3977aa0fbe9e8c85fd2f3111ce87ef60a5758040",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325329~acl=/*~id=11104381859964003068572928939445~hmac=7ac5e0ccd6dafb4d2b85d48f3977aa0fbe9e8c85fd2f3111ce87ef60a5758040"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705"
         },
         {
             "event_category": "Cricket",
@@ -28,30 +41,29 @@
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492091,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009112593998_EQ_promo_netherlands_vs_finland_landscape.jpg",
+            "isLive": true,
+            "contentId": "1090492144_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544555395839_EQ2526_MD8_Scotland_vs_Belarus_3oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Netherlands vs Finland - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Scotland vs Belarus - MD 8 - 12 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705"
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg",
+            "isLive": true,
+            "contentId": "1090492137_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759543837146839_EQ2526_MD8_Faroe_Islands_vs_Czechia_3oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Faroe Islands vs Czechia - MD 8 - 12 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760325938~acl=/*~id=36090524596038072338546768611497~hmac=d3a05c2c849b9bcac9e983dd5da97296e7845cc6047a2db3a91ea24422298705"
         },
         {
             "event_category": "Football",
@@ -65,11 +77,29 @@
         {
             "event_category": "Cricket",
             "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009885/1759596746115336_NZvsENG_PROMO_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
             "contentId": 1090489002,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010075/176009128512198_EQ_promo_n_ireland_vs_germany_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
