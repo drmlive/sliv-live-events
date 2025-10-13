@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:46:31 13-10-2025",
+    "last update time": "20:56:41 13-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492217_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759599943799527_UEFA_INT_Friendlies_Montenegro_vs_Liechtenstein_4oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Montenegro vs Liechtenstein - 13 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760412399~acl=/*~id=02780872649508356590100772085002~hmac=a4f829a9d9254a4ce627036031d6776ab7cba00218d876a9d9c90e6f5ca9c759",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760412399~acl=/*~id=02780872649508356590100772085002~hmac=a4f829a9d9254a4ce627036031d6776ab7cba00218d876a9d9c90e6f5ca9c759",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760412399~acl=/*~id=02780872649508356590100772085002~hmac=a4f829a9d9254a4ce627036031d6776ab7cba00218d876a9d9c90e6f5ca9c759"
         },
         {
             "event_category": "Football",
@@ -61,15 +74,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090492102,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337677378546_EQFs_Spain_vs_Bulgaria_11oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs Bulgaria - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090491833,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -84,6 +88,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492102,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337677378546_EQFs_Spain_vs_Bulgaria_11oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Spain vs Bulgaria - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
