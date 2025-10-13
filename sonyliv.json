@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:26:04 13-10-2025",
+    "last update time": "20:36:21 13-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,15 +32,6 @@
             "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090491833,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090491779,
@@ -48,24 +39,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England Tour of New Zealand 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492100,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760338356226546_EQFs_Latvia_vs_England_11oct_dated_landscaep_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Latvia vs England - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -79,11 +52,38 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090492100,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760338356226546_EQFs_Latvia_vs_England_11oct_dated_landscaep_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Latvia vs England - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090492102,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337677378546_EQFs_Spain_vs_Bulgaria_11oct_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Spain vs Bulgaria - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090491833,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009909/1759686740092596_EWC_oct_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
         },
         {
             "event_category": "Football",
