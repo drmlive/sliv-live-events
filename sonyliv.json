@@ -1,8 +1,47 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:29:31 13-10-2025",
+    "last update time": "23:39:45 13-10-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492219_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545170537839_EQ2526_MD8_Iceland_vs_France_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Iceland vs France - MD 8 - 14 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492222_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545437379839_EQ2526_MD8_Northern_Ireland_vs_Germany_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Northern Ireland vs Germany - MD 8 - 14 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492227_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009848/1759546030300583_EQ2526_MD8_Wales_vs_Belgium_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Wales vs Belgium - MD 8 - 14 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -16,33 +55,67 @@
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090492217_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759599943799527_UEFA_INT_Friendlies_Montenegro_vs_Liechtenstein_4oct_landscape_thumb.jpg",
+            "contentId": "1090492224_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545646742839_EQ2526_MD8_Slovenia_vs_Switzerland_3oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Montenegro vs Liechtenstein - 13 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760421570~acl=/*~id=69662083280977322757959836298039~hmac=1fa7d7ed53d4de8fa76034e8ca63f78bf8d60fd1e6b5cb15118dc7a4d7b6e9b4",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760421570~acl=/*~id=69662083280977322757959836298039~hmac=1fa7d7ed53d4de8fa76034e8ca63f78bf8d60fd1e6b5cb15118dc7a4d7b6e9b4",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760421570~acl=/*~id=69662083280977322757959836298039~hmac=1fa7d7ed53d4de8fa76034e8ca63f78bf8d60fd1e6b5cb15118dc7a4d7b6e9b4"
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Slovenia vs Switzerland - MD 8 - 14 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc"
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492087,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010181/1760341275270768_EQFs_ireland_vs_france_11oct_tonight_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090492226_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009848/1759545890120583_EQ2526_MD8_Ukraine_vs_Azerbaijan_3oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Iceland vs France - European Qualifiers for 2026 FIFA World Cup"
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Ukraine vs Azerbaijan - MD 8 - 14 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc"
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337913534546_EQFs_Ireland_vs_Germany_11oct_tonight_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090492225_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009848/1759545775038583_EQ2526_MD8_Sweden_vs_Kosovo_3oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Northern Ireland vs Germany - European Qualifiers for 2026 FIFA World Cup"
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Sweden vs Kosovo - MD 8 - 14 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492223_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545546895839_EQ2526_MD8_Slovakia_vs_Luxembourg_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Slovakia vs Luxembourg - MD 8 - 14 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492221_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545302859839_EQ2526_MD8_North_Macedonia_vs_Kazakhstan_3oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "North Macedonia vs Kazakhstan - MD 8 - 14 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760422180~acl=/*~id=34804749794117939510960808590410~hmac=6c1add7535670a380192249826286edf4836fbeb6a5772373ddb3b7f3b3411cc"
         },
         {
             "event_category": "Cricket",
@@ -52,24 +125,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England Tour of New Zealand 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492101,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337752500546_EQFs_Portugal_vs_Hungary_11oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Hungary - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492100,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760338356226546_EQFs_Latvia_vs_England_11oct_dated_landscaep_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Latvia vs England - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -88,6 +143,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492100,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760338356226546_EQFs_Latvia_vs_England_11oct_dated_landscaep_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Latvia vs England - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492101,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010179/1760337752500546_EQFs_Portugal_vs_Hungary_11oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Portugal vs Hungary - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
