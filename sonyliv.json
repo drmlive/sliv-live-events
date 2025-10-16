@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:51:31 16-10-2025",
+    "last update time": "10:01:41 16-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090492351_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009911/175972039001133_AsianTour25_SJM_Macao_Open_Day1_5oct_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2025",
+            "match_name": "SJM Macao Open - Day 1 - 16 Oct 2025 [ENG]",
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760632300~acl=/*~id=24801410468481931498232559462986~hmac=4021daf8fafd51decadde98b4767662124c12c7f562f026de59f659d49049aab",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760632300~acl=/*~id=24801410468481931498232559462986~hmac=4021daf8fafd51decadde98b4767662124c12c7f562f026de59f659d49049aab",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760632300~acl=/*~id=24801410468481931498232559462986~hmac=4021daf8fafd51decadde98b4767662124c12c7f562f026de59f659d49049aab"
         },
         {
             "event_category": "Cricket",
