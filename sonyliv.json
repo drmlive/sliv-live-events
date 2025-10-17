@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:05:19 18-10-2025",
+    "last update time": "00:15:29 18-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Union Berlin vs Borussia M'gladbach - MD 7 - 18 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760769318~acl=/*~id=40628542120730565212089123687916~hmac=2d327a8bc922d4687e4ffcf4ffb241f557954683c0982b3b2ea2c0de80e226b5",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760769318~acl=/*~id=40628542120730565212089123687916~hmac=2d327a8bc922d4687e4ffcf4ffb241f557954683c0982b3b2ea2c0de80e226b5",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760769318~acl=/*~id=40628542120730565212089123687916~hmac=2d327a8bc922d4687e4ffcf4ffb241f557954683c0982b3b2ea2c0de80e226b5"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760769928~acl=/*~id=34566205316287503561598776346575~hmac=dad9340b5c0706d0c425451d3b639c1903ca34c4769e90b55fbe06c2dd02337a",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760769928~acl=/*~id=34566205316287503561598776346575~hmac=dad9340b5c0706d0c425451d3b639c1903ca34c4769e90b55fbe06c2dd02337a",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760769928~acl=/*~id=34566205316287503561598776346575~hmac=dad9340b5c0706d0c425451d3b639c1903ca34c4769e90b55fbe06c2dd02337a"
         },
         {
             "event_category": "Cricket",
@@ -135,4 +135,13 @@
             "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
         },
         {
-            "event_catego
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        }
+    ]
+}
