@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:10:10 17-10-2025",
+    "last update time": "19:20:20 17-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -52,6 +52,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090492559,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760506559701351_UCL2526_Real_Madrid_vs_Juventus_15oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Madrid vs Juventus - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090492560,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505061578351_UCL2526_Leverkusen_vs_PSG_15oct_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -66,15 +75,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Villarreal vs Man City - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492559,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760506559701351_UCL2526_Real_Madrid_vs_Juventus_15oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Juventus - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
