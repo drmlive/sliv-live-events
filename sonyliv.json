@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:08:30 19-10-2025",
+    "last update time": "00:18:38 19-10-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492488_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550682593913_bliga2526_MD7_Bayern_vs_Dortmund_3oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Bayern Munich vs Borussia Dortmund - MD 7 - 18 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855908~acl=/*~id=98013637471236389537080737468478~hmac=84ccf5ae9f0551ca4351acacacddc51c432afb6ad83f383fe635e45fb5a6bf55",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855908~acl=/*~id=98013637471236389537080737468478~hmac=84ccf5ae9f0551ca4351acacacddc51c432afb6ad83f383fe635e45fb5a6bf55",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855908~acl=/*~id=98013637471236389537080737468478~hmac=84ccf5ae9f0551ca4351acacacddc51c432afb6ad83f383fe635e45fb5a6bf55"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -25,19 +12,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090492552_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010364/1760777719951147_bliga2526_MD7_Bayern_vs_Dortmund_18oct_Tactical_Feed_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Bayern Munich vs Borussia Dortmund - Tactical Feed - 18 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855908~acl=/*~id=98013637471236389537080737468478~hmac=84ccf5ae9f0551ca4351acacacddc51c432afb6ad83f383fe635e45fb5a6bf55",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855908~acl=/*~id=98013637471236389537080737468478~hmac=84ccf5ae9f0551ca4351acacacddc51c432afb6ad83f383fe635e45fb5a6bf55",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855908~acl=/*~id=98013637471236389537080737468478~hmac=84ccf5ae9f0551ca4351acacacddc51c432afb6ad83f383fe635e45fb5a6bf55"
         },
         {
             "event_category": "Football",
@@ -85,6 +59,24 @@
             "event_name": "Upcoming - Villarreal vs Man City - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492561,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760509150400351_UCL2526_Frankfurt_vs_Liverpool_15oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Frankfurt vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492557,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760507577871351_UCL2526_Bayern_vs_Club_Brugge_15oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern vs Club Brugge - UEFA Champions League 2025-26"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090492554,
@@ -119,24 +111,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492561,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760509150400351_UCL2526_Frankfurt_vs_Liverpool_15oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Frankfurt vs Liverpool - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492557,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760507577871351_UCL2526_Bayern_vs_Club_Brugge_15oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern vs Club Brugge - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
