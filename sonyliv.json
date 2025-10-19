@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:59:08 19-10-2025",
+    "last update time": "23:09:18 19-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "St. Pauli vs TSG Hoffenheim - 19 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938147~acl=/*~id=29428247441671183186111844533396~hmac=0b61daa0e904da934d6a08e62814b84620ebe2b5b50f7162cc25c272977322d2",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938147~acl=/*~id=29428247441671183186111844533396~hmac=0b61daa0e904da934d6a08e62814b84620ebe2b5b50f7162cc25c272977322d2",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938147~acl=/*~id=29428247441671183186111844533396~hmac=0b61daa0e904da934d6a08e62814b84620ebe2b5b50f7162cc25c272977322d2"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938757~acl=/*~id=82305549917223287063157333738956~hmac=ccef443ce294c15967301f14c93ff79707b478491ffa8fc88ca37f8c41ec07e9",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938757~acl=/*~id=82305549917223287063157333738956~hmac=ccef443ce294c15967301f14c93ff79707b478491ffa8fc88ca37f8c41ec07e9",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760938757~acl=/*~id=82305549917223287063157333738956~hmac=ccef443ce294c15967301f14c93ff79707b478491ffa8fc88ca37f8c41ec07e9"
         },
         {
             "event_category": "Cricket",
@@ -137,29 +137,4 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090492589,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010352/1760726741592122_UCL25_MD3_RealMadrid_vs_Juventus_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492588,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729500812300_UEL_MD3_GEN_LANDSCAPE_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 3"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492587,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729459942300_UECL_MD2_GEN_LANDSCAPE_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Conference League - MD 2"
-        }
-    ]
-}
+            "contentId": 109049258
