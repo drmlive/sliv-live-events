@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:30:19 19-10-2025",
+    "last update time": "13:40:31 19-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup Final 2025",
             "match_name": "Recurve Men Elite Eight - 19 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904014~acl=/*~id=97948353969739616006906008925270~hmac=284d6c2c311baa609c39ad650db8ee97dd9deaca2069e553ae713dc388d4af75",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904014~acl=/*~id=97948353969739616006906008925270~hmac=284d6c2c311baa609c39ad650db8ee97dd9deaca2069e553ae713dc388d4af75",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904014~acl=/*~id=97948353969739616006906008925270~hmac=284d6c2c311baa609c39ad650db8ee97dd9deaca2069e553ae713dc388d4af75"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904628~acl=/*~id=97930373366152895591441327271054~hmac=2079883145428e3e1b1028efa3ac6246d99af16230ed95084b771b6e0572d45e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904628~acl=/*~id=97930373366152895591441327271054~hmac=2079883145428e3e1b1028efa3ac6246d99af16230ed95084b771b6e0572d45e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904628~acl=/*~id=97930373366152895591441327271054~hmac=2079883145428e3e1b1028efa3ac6246d99af16230ed95084b771b6e0572d45e"
         },
         {
             "event_category": "Golf",
@@ -35,9 +35,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "SJM Macao Open - Day 4 - 19 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904014~acl=/*~id=97948353969739616006906008925270~hmac=284d6c2c311baa609c39ad650db8ee97dd9deaca2069e553ae713dc388d4af75",
-            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904014~acl=/*~id=97948353969739616006906008925270~hmac=284d6c2c311baa609c39ad650db8ee97dd9deaca2069e553ae713dc388d4af75",
-            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904014~acl=/*~id=97948353969739616006906008925270~hmac=284d6c2c311baa609c39ad650db8ee97dd9deaca2069e553ae713dc388d4af75"
+            "dai_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904628~acl=/*~id=97930373366152895591441327271054~hmac=2079883145428e3e1b1028efa3ac6246d99af16230ed95084b771b6e0572d45e",
+            "pub_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904628~acl=/*~id=97930373366152895591441327271054~hmac=2079883145428e3e1b1028efa3ac6246d99af16230ed95084b771b6e0572d45e",
+            "video_url": "https://liveakmt-p-web.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760904628~acl=/*~id=97930373366152895591441327271054~hmac=2079883145428e3e1b1028efa3ac6246d99af16230ed95084b771b6e0572d45e"
         },
         {
             "event_category": "Football",
@@ -47,6 +47,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010304/1760609444288814_NZvsENG25_2t20i_dated_16oct_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Football",
@@ -67,15 +76,6 @@
             "event_name": "Upcoming - Real Madrid vs Juventus - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492560,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505061578351_UCL2526_Leverkusen_vs_PSG_15oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Leverkusen vs PSG - UEFA Champions League 2025-26"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090492554,
@@ -83,15 +83,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010304/1760609444288814_NZvsENG25_2t20i_dated_16oct_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Fight Sports",
@@ -110,6 +101,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492560,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010273/1760505061578351_UCL2526_Leverkusen_vs_PSG_15oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Leverkusen vs PSG - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
