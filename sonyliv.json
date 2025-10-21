@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:21:08 21-10-2025",
+    "last update time": "17:31:19 21-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,22 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Arsenal vs Atletico de Madrid - MD 3 - 21 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761090666~acl=/*~id=74386703063605844747759606112980~hmac=597e13e6f3086e923223b09afde0fc4f171a2488ff3bdcfd3c40b330a18aad37",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761090666~acl=/*~id=74386703063605844747759606112980~hmac=597e13e6f3086e923223b09afde0fc4f171a2488ff3bdcfd3c40b330a18aad37",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761090666~acl=/*~id=74386703063605844747759606112980~hmac=597e13e6f3086e923223b09afde0fc4f171a2488ff3bdcfd3c40b330a18aad37"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761091278~acl=/*~id=00493532772298686847220173239320~hmac=f7f979a5dc5c8a72b5593f5945f02fe85529a751bc26678bf1a9e389d607512b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761091278~acl=/*~id=00493532772298686847220173239320~hmac=f7f979a5dc5c8a72b5593f5945f02fe85529a751bc26678bf1a9e389d607512b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761091278~acl=/*~id=00493532772298686847220173239320~hmac=f7f979a5dc5c8a72b5593f5945f02fe85529a751bc26678bf1a9e389d607512b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492496_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010018/1759965074842519_UYL24_MD3_UnionSG_vs_Inter_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Union SG vs Inter - MD 3 - 21 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761091278~acl=/*~id=00493532772298686847220173239320~hmac=f7f979a5dc5c8a72b5593f5945f02fe85529a751bc26678bf1a9e389d607512b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761091278~acl=/*~id=00493532772298686847220173239320~hmac=f7f979a5dc5c8a72b5593f5945f02fe85529a751bc26678bf1a9e389d607512b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761091278~acl=/*~id=00493532772298686847220173239320~hmac=f7f979a5dc5c8a72b5593f5945f02fe85529a751bc26678bf1a9e389d607512b"
         },
         {
             "event_category": "Football",
