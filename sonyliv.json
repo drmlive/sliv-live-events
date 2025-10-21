@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:50:44 21-10-2025",
+    "last update time": "17:10:56 21-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492495_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010018/1759963943485519_UYL24_MD3_Arsenal_vs_AtleticodeMadrid_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Arsenal vs Atletico de Madrid - MD 3 - 21 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761090055~acl=/*~id=85766243853138283203106126392836~hmac=67c01a7e6df1578634c8a590b21763c24881e752507498212bea3dc4c6b13521",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761090055~acl=/*~id=85766243853138283203106126392836~hmac=67c01a7e6df1578634c8a590b21763c24881e752507498212bea3dc4c6b13521",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761090055~acl=/*~id=85766243853138283203106126392836~hmac=67c01a7e6df1578634c8a590b21763c24881e752507498212bea3dc4c6b13521"
         },
         {
             "event_category": "Football",
