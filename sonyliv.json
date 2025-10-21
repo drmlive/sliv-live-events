@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:36:02 21-10-2025",
+    "last update time": "21:46:19 21-10-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492499_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759563082183335_UCL_25_26_MD3_Barcelona_vs_Olympiacos_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona vs Olympiacos - MD 3 - 21 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761106575~acl=/*~id=14933280083050433478328574107038~hmac=aa9e06b012c89162a271400012a31338b62d7705529cb550399a7b0bb9c8c148",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761106575~acl=/*~id=14933280083050433478328574107038~hmac=aa9e06b012c89162a271400012a31338b62d7705529cb550399a7b0bb9c8c148",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761106575~acl=/*~id=14933280083050433478328574107038~hmac=aa9e06b012c89162a271400012a31338b62d7705529cb550399a7b0bb9c8c148"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,6 +25,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492500_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759563395413335_UCL_25_26_MD3_Kairat-Almaty-vs-Pafos_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Kairat Almaty vs Pafos - MD 3 - 21 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761106575~acl=/*~id=14933280083050433478328574107038~hmac=aa9e06b012c89162a271400012a31338b62d7705529cb550399a7b0bb9c8c148",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761106575~acl=/*~id=14933280083050433478328574107038~hmac=aa9e06b012c89162a271400012a31338b62d7705529cb550399a7b0bb9c8c148",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761106575~acl=/*~id=14933280083050433478328574107038~hmac=aa9e06b012c89162a271400012a31338b62d7705529cb550399a7b0bb9c8c148"
         },
         {
             "event_category": "Football",
