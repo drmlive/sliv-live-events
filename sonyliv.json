@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:07:50 22-10-2025",
+    "last update time": "19:18:03 22-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Monaco vs Tottenham - MD 3 - 22 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183467~acl=/*~id=68569443080397298163348387153785~hmac=e3be5c227a11528a7ab2d22b07ba518fb14bb69549120e95a5303a4acf962811",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183467~acl=/*~id=68569443080397298163348387153785~hmac=e3be5c227a11528a7ab2d22b07ba518fb14bb69549120e95a5303a4acf962811",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183467~acl=/*~id=68569443080397298163348387153785~hmac=e3be5c227a11528a7ab2d22b07ba518fb14bb69549120e95a5303a4acf962811"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761184080~acl=/*~id=44082241485486214825464499885978~hmac=11b1a7877d3340b1ee7eeac2d9aa2fc6c4894752a387d2685a7e754a68a87bcb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761184080~acl=/*~id=44082241485486214825464499885978~hmac=11b1a7877d3340b1ee7eeac2d9aa2fc6c4894752a387d2685a7e754a68a87bcb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761184080~acl=/*~id=44082241485486214825464499885978~hmac=11b1a7877d3340b1ee7eeac2d9aa2fc6c4894752a387d2685a7e754a68a87bcb"
         },
         {
             "event_category": "Football",
@@ -35,9 +35,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Bayern vs Club Brugge - MD 3 - 22 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183467~acl=/*~id=68569443080397298163348387153785~hmac=e3be5c227a11528a7ab2d22b07ba518fb14bb69549120e95a5303a4acf962811",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183467~acl=/*~id=68569443080397298163348387153785~hmac=e3be5c227a11528a7ab2d22b07ba518fb14bb69549120e95a5303a4acf962811",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761183467~acl=/*~id=68569443080397298163348387153785~hmac=e3be5c227a11528a7ab2d22b07ba518fb14bb69549120e95a5303a4acf962811"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761184080~acl=/*~id=44082241485486214825464499885978~hmac=11b1a7877d3340b1ee7eeac2d9aa2fc6c4894752a387d2685a7e754a68a87bcb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761184080~acl=/*~id=44082241485486214825464499885978~hmac=11b1a7877d3340b1ee7eeac2d9aa2fc6c4894752a387d2685a7e754a68a87bcb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761184080~acl=/*~id=44082241485486214825464499885978~hmac=11b1a7877d3340b1ee7eeac2d9aa2fc6c4894752a387d2685a7e754a68a87bcb"
         },
         {
             "event_category": "Football",
@@ -56,6 +56,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492588,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729500812300_UEL_MD3_GEN_LANDSCAPE_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League - MD 3"
         },
         {
             "event_category": "Football",
@@ -83,15 +92,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern vs Club Brugge - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492588,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729500812300_UEL_MD3_GEN_LANDSCAPE_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 3"
         },
         {
             "event_category": "Cricket",
