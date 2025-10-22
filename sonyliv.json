@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:55:58 22-10-2025",
+    "last update time": "07:06:06 22-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,15 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090492589,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010352/1760726741592122_UCL25_MD3_RealMadrid_vs_Juventus_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -84,15 +93,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090492589,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010352/1760726741592122_UCL25_MD3_RealMadrid_vs_Juventus_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
