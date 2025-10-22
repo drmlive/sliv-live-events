@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:45:19 22-10-2025",
+    "last update time": "16:55:28 22-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090492518_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010018/1759965475021519_UYL24_MD3_Monaco_vs_Tottenham_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Monaco vs Tottenham - MD 3 - 22 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761175527~acl=/*~id=59868113702639486426454426441474~hmac=3a9817a39b97fd9542fd600f5d734ae1e027890f7e78e9779530308168a336b3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761175527~acl=/*~id=59868113702639486426454426441474~hmac=3a9817a39b97fd9542fd600f5d734ae1e027890f7e78e9779530308168a336b3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761175527~acl=/*~id=59868113702639486426454426441474~hmac=3a9817a39b97fd9542fd600f5d734ae1e027890f7e78e9779530308168a336b3"
         },
         {
             "event_category": "Football",
