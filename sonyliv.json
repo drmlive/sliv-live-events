@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:54:14 23-10-2025",
+    "last update time": "11:04:24 23-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090492567_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010322/1760663481630282_NZvsENG25_3t20i_14oct_live_landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "England Tour of New Zealand 2025",
+            "match_name": "3rd T20I - 23 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761240862~acl=/*~id=05841962496907620590915769906696~hmac=ac55f60869a37c84053fa6ed9745016e19d7fb2f133de3cefba4a297480b89c7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761240862~acl=/*~id=05841962496907620590915769906696~hmac=ac55f60869a37c84053fa6ed9745016e19d7fb2f133de3cefba4a297480b89c7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761240862~acl=/*~id=05841962496907620590915769906696~hmac=ac55f60869a37c84053fa6ed9745016e19d7fb2f133de3cefba4a297480b89c7"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -22,9 +35,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series Philippines - Day 1 - 23 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761240252~acl=/*~id=92476203968424000833454301682342~hmac=a51db253bcebdc40bdde8cfa5b7f875b94096994ef18c15b6e60da7bad020a5a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761240252~acl=/*~id=92476203968424000833454301682342~hmac=a51db253bcebdc40bdde8cfa5b7f875b94096994ef18c15b6e60da7bad020a5a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761240252~acl=/*~id=92476203968424000833454301682342~hmac=a51db253bcebdc40bdde8cfa5b7f875b94096994ef18c15b6e60da7bad020a5a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761240862~acl=/*~id=05841962496907620590915769906696~hmac=ac55f60869a37c84053fa6ed9745016e19d7fb2f133de3cefba4a297480b89c7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761240862~acl=/*~id=05841962496907620590915769906696~hmac=ac55f60869a37c84053fa6ed9745016e19d7fb2f133de3cefba4a297480b89c7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761240862~acl=/*~id=05841962496907620590915769906696~hmac=ac55f60869a37c84053fa6ed9745016e19d7fb2f133de3cefba4a297480b89c7"
         },
         {
             "event_category": "Football",
