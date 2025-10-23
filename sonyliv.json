@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:27:23 23-10-2025",
+    "last update time": "23:37:32 23-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
             "match_name": "Go Ahead Eagles vs Aston Villa - MD 3 - 23 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761285442~acl=/*~id=76056658353173423997512185508335~hmac=6f05062196ca73db86a878d99edd697d6fd2061c71a7629b975f9afafaa32a00",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761285442~acl=/*~id=76056658353173423997512185508335~hmac=6f05062196ca73db86a878d99edd697d6fd2061c71a7629b975f9afafaa32a00",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761285442~acl=/*~id=76056658353173423997512185508335~hmac=6f05062196ca73db86a878d99edd697d6fd2061c71a7629b975f9afafaa32a00"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761286051~acl=/*~id=48769519118190692033969560636301~hmac=dc0faefb28773ef0968765e031f78c9076c723f165764ad54dc33f6708ea2a52",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761286051~acl=/*~id=48769519118190692033969560636301~hmac=dc0faefb28773ef0968765e031f78c9076c723f165764ad54dc33f6708ea2a52",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761286051~acl=/*~id=48769519118190692033969560636301~hmac=dc0faefb28773ef0968765e031f78c9076c723f165764ad54dc33f6708ea2a52"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
             "match_name": "Genk vs Real Betis - MD 3 - 23 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761285442~acl=/*~id=76056658353173423997512185508335~hmac=6f05062196ca73db86a878d99edd697d6fd2061c71a7629b975f9afafaa32a00",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761285442~acl=/*~id=76056658353173423997512185508335~hmac=6f05062196ca73db86a878d99edd697d6fd2061c71a7629b975f9afafaa32a00",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761285442~acl=/*~id=76056658353173423997512185508335~hmac=6f05062196ca73db86a878d99edd697d6fd2061c71a7629b975f9afafaa32a00"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761286051~acl=/*~id=48769519118190692033969560636301~hmac=dc0faefb28773ef0968765e031f78c9076c723f165764ad54dc33f6708ea2a52",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761286051~acl=/*~id=48769519118190692033969560636301~hmac=dc0faefb28773ef0968765e031f78c9076c723f165764ad54dc33f6708ea2a52",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761286051~acl=/*~id=48769519118190692033969560636301~hmac=dc0faefb28773ef0968765e031f78c9076c723f165764ad54dc33f6708ea2a52"
         },
         {
             "event_category": "Football",
@@ -73,6 +73,33 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Conference League - MD 2"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493095,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232666172949_Bundesliga_Borussia_vs_Munchen_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia M'gladbach vs Bayern Munich"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493094,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232538542949_Bundesliga_Dortmund_vs_Kolin_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs FC Koln"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493091,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010491/1761232606357949_Bundesliga_Leverkusen_vs_Freiburg_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs SC Freiburg"
         },
         {
             "event_category": "Cricket",
