@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:53:03 23-10-2025",
+    "last update time": "10:03:15 23-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090492963_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722883940903_AsianTour25_International_Series_Philippines_Day1_5oct_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2025",
+            "match_name": "International Series Philippines - Day 1 - 23 Oct 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761237193~acl=/*~id=05038889301091381424034388740731~hmac=659f4793fe5c1078b8050773a48a498f3e586fe136ccbe3e0f969e071d0a250c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761237193~acl=/*~id=05038889301091381424034388740731~hmac=659f4793fe5c1078b8050773a48a498f3e586fe136ccbe3e0f969e071d0a250c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761237193~acl=/*~id=05038889301091381424034388740731~hmac=659f4793fe5c1078b8050773a48a498f3e586fe136ccbe3e0f969e071d0a250c"
         },
         {
             "event_category": "Cricket",
