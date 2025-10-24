@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:11:21 24-10-2025",
+    "last update time": "14:21:32 24-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,27 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "International Series Philippines - Day 2 - 24 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761338480~acl=/*~id=59249491153177516694538492434617~hmac=bfb985f535155ddce61dd6f8b010082af24077e449e2e278551d50ba79a80471",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761338480~acl=/*~id=59249491153177516694538492434617~hmac=bfb985f535155ddce61dd6f8b010082af24077e449e2e278551d50ba79a80471",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761338480~acl=/*~id=59249491153177516694538492434617~hmac=bfb985f535155ddce61dd6f8b010082af24077e449e2e278551d50ba79a80471"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090492593,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729546722300_UFC321_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 321 - Aspinall vs Gane"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010294/1760596117029679_NZvsENG_2025_GOB_Landscape_Thumb_1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761339091~acl=/*~id=76250077795117244974085063736835~hmac=af53ae9f63c5879d5d6f50573842800f31982f629d8f580ba798224f77ed2df8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761339091~acl=/*~id=76250077795117244974085063736835~hmac=af53ae9f63c5879d5d6f50573842800f31982f629d8f580ba798224f77ed2df8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761339091~acl=/*~id=76250077795117244974085063736835~hmac=af53ae9f63c5879d5d6f50573842800f31982f629d8f580ba798224f77ed2df8"
         },
         {
             "event_category": "Football",
@@ -70,6 +52,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs SC Freiburg"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090492593,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010353/1760729546722300_UFC321_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 321 - Aspinall vs Gane"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010294/1760596117029679_NZvsENG_2025_GOB_Landscape_Thumb_1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Cricket",
