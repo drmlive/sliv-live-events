@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:22:29 26-10-2025",
+    "last update time": "13:42:55 26-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090492566_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362551346543_NZvsENG25_1ODI_24oct_Landscape_thumb_Live.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "England Tour of New Zealand 2025",
-            "match_name": "1st ODI - 26 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761508346~acl=/*~id=69265101438440389530984953070015~hmac=5926d6742725c50ec728f1247e3a39a563bebbae03efef11490a08c9ffa3443b",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761508346~acl=/*~id=69265101438440389530984953070015~hmac=5926d6742725c50ec728f1247e3a39a563bebbae03efef11490a08c9ffa3443b",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761508346~acl=/*~id=69265101438440389530984953070015~hmac=5926d6742725c50ec728f1247e3a39a563bebbae03efef11490a08c9ffa3443b"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -25,19 +12,6 @@
             "audioLanguageName": "ENG",
             "event_name": "Asia Cup 2025",
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090493182_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722860468903_AsianTour25_International_Series_Philippines_Day4_5oct_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2025",
-            "match_name": "International Series Philippines - Day 4 - 26 Oct 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761508346~acl=/*~id=69265101438440389530984953070015~hmac=5926d6742725c50ec728f1247e3a39a563bebbae03efef11490a08c9ffa3443b",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761508346~acl=/*~id=69265101438440389530984953070015~hmac=5926d6742725c50ec728f1247e3a39a563bebbae03efef11490a08c9ffa3443b",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761508346~acl=/*~id=69265101438440389530984953070015~hmac=5926d6742725c50ec728f1247e3a39a563bebbae03efef11490a08c9ffa3443b"
         },
         {
             "event_category": "Football",
