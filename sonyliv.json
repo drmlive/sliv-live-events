@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:44:56 29-10-2025",
+    "last update time": "22:55:09 29-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Rolex Paris Open",
             "match_name": "Round 2 - 29 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801295~acl=/*~id=10497600767813418966818551796729~hmac=6cd7ad478b1fdd452c7f8d9ae4fe3229f457148aea7f8fe63de9613b816b114d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801295~acl=/*~id=10497600767813418966818551796729~hmac=6cd7ad478b1fdd452c7f8d9ae4fe3229f457148aea7f8fe63de9613b816b114d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801295~acl=/*~id=10497600767813418966818551796729~hmac=6cd7ad478b1fdd452c7f8d9ae4fe3229f457148aea7f8fe63de9613b816b114d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801907~acl=/*~id=30330694792712685091226964802067~hmac=ca95f691c3b356c3583dbefea686d4a94c53a8b4503833f9936d2a9705944725",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801907~acl=/*~id=30330694792712685091226964802067~hmac=ca95f691c3b356c3583dbefea686d4a94c53a8b4503833f9936d2a9705944725",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801907~acl=/*~id=30330694792712685091226964802067~hmac=ca95f691c3b356c3583dbefea686d4a94c53a8b4503833f9936d2a9705944725"
         },
         {
             "event_category": "Cricket",
@@ -27,13 +27,13 @@
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
         },
         {
-            "event_category": "KHO KHO",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090493208,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090493487,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761720635574681_UCL2526_LIVERPOOL_vs_REAL_MADRID_29oct_Dated_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Ultimate Kho Kho 2025"
+            "event_name": "Upcoming - Liverpool vs Real Madrid - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -43,6 +43,33 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "KHO KHO",
+            "isLive": false,
+            "contentId": 1090493208,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Ultimate Kho Kho 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493489,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010581/1761657011106563_Bundesliga_MD_9_Bayern_vs_Leverkusen_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Bayer Leverkusen"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493488,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010581/1761655205467563_Bundesliga_MD_9_Augsburg-vs-Dortmund_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - FC Augsburg vs Borussia Dortmund"
         },
         {
             "event_category": "Tennis",
