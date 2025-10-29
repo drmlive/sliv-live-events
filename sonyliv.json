@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:55:09 29-10-2025",
+    "last update time": "23:05:22 29-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Masters 1000 - 2025 Rolex Paris Open",
             "match_name": "Round 2 - 29 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801907~acl=/*~id=30330694792712685091226964802067~hmac=ca95f691c3b356c3583dbefea686d4a94c53a8b4503833f9936d2a9705944725",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801907~acl=/*~id=30330694792712685091226964802067~hmac=ca95f691c3b356c3583dbefea686d4a94c53a8b4503833f9936d2a9705944725",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761801907~acl=/*~id=30330694792712685091226964802067~hmac=ca95f691c3b356c3583dbefea686d4a94c53a8b4503833f9936d2a9705944725"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761802521~acl=/*~id=92250654511965892909599688111850~hmac=a7d31f3e0d5418a1005f996be4370d6b554e7998ffd0e6f71a58fcd1bfe13ba3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761802521~acl=/*~id=92250654511965892909599688111850~hmac=a7d31f3e0d5418a1005f996be4370d6b554e7998ffd0e6f71a58fcd1bfe13ba3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761802521~acl=/*~id=92250654511965892909599688111850~hmac=a7d31f3e0d5418a1005f996be4370d6b554e7998ffd0e6f71a58fcd1bfe13ba3"
         },
         {
             "event_category": "Cricket",
@@ -36,24 +36,6 @@
             "event_name": "Upcoming - Liverpool vs Real Madrid - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010531/1761373761164505_NZvsENG25_3ODI_25oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
-        },
-        {
-            "event_category": "KHO KHO",
-            "isLive": false,
-            "contentId": 1090493208,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Ultimate Kho Kho 2025"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493489,
@@ -70,6 +52,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - FC Augsburg vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010531/1761373761164505_NZvsENG25_3ODI_25oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "KHO KHO",
+            "isLive": false,
+            "contentId": 1090493208,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Ultimate Kho Kho 2025"
         },
         {
             "event_category": "Tennis",
