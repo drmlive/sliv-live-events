@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:17:03 30-10-2025",
+    "last update time": "18:27:14 30-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Round 3 - 30 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761871621~acl=/*~id=34410180177411206000302263555634~hmac=7528a07fb4bfd516ab407dc5197353accfcfc19cc0a23204d383217aa46a1c9b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761871621~acl=/*~id=34410180177411206000302263555634~hmac=7528a07fb4bfd516ab407dc5197353accfcfc19cc0a23204d383217aa46a1c9b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761871621~acl=/*~id=34410180177411206000302263555634~hmac=7528a07fb4bfd516ab407dc5197353accfcfc19cc0a23204d383217aa46a1c9b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761872232~acl=/*~id=77847891232995713496434026490766~hmac=d3a23f61edefa54ed19460f1a2f784e4fd130e70b39b5d7dfbe5074cb6be364c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761872232~acl=/*~id=77847891232995713496434026490766~hmac=d3a23f61edefa54ed19460f1a2f784e4fd130e70b39b5d7dfbe5074cb6be364c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761872232~acl=/*~id=77847891232995713496434026490766~hmac=d3a23f61edefa54ed19460f1a2f784e4fd130e70b39b5d7dfbe5074cb6be364c"
         },
         {
             "event_category": "Cricket",
@@ -63,15 +63,6 @@
             "event_name": "Upcoming - Liverpool vs Real Madrid - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "KHO KHO",
-            "isLive": false,
-            "contentId": 1090493208,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Ultimate Kho Kho 2025"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493488,
@@ -79,6 +70,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - FC Augsburg vs Borussia Dortmund"
+        },
+        {
+            "event_category": "KHO KHO",
+            "isLive": false,
+            "contentId": 1090493208,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010539/1761399253798542_Ultimate_Kho-Kho_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Ultimate Kho Kho 2025"
         },
         {
             "event_category": "Cricket",
