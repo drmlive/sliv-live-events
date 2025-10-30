@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:40:23 30-10-2025",
+    "last update time": "14:50:34 30-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,15 +14,6 @@
             "match_name": "India's Asia Cup Glory 24x7 [ENG]"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090491779,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010531/1761373761164505_NZvsENG25_3ODI_25oct_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of New Zealand 2025"
-        },
-        {
             "event_category": "Sport",
             "isLive": false,
             "contentId": 1090493490,
@@ -30,6 +21,15 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - WWE - Saturday Night's Main Event"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090491779,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010531/1761373761164505_NZvsENG25_3ODI_25oct_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of New Zealand 2025"
         },
         {
             "event_category": "Football",
