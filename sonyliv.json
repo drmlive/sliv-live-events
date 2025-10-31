@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:22:25 31-10-2025",
+    "last update time": "21:32:33 31-10-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Bublik vs De Minaur - QF - 31 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761969144~acl=/*~id=47695292962905045855413684062913~hmac=e65b993ca4541d82b407316507a4977fa3cad6e3917af3ad6e24b1d2cf9aa2ab",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761969144~acl=/*~id=47695292962905045855413684062913~hmac=e65b993ca4541d82b407316507a4977fa3cad6e3917af3ad6e24b1d2cf9aa2ab",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761969144~acl=/*~id=47695292962905045855413684062913~hmac=e65b993ca4541d82b407316507a4977fa3cad6e3917af3ad6e24b1d2cf9aa2ab"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761969752~acl=/*~id=43187492139746440095308034397044~hmac=01520b879a69b10f71730a8e232aa332ec634c8bac2387a712aed580bdcea8c3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761969752~acl=/*~id=43187492139746440095308034397044~hmac=01520b879a69b10f71730a8e232aa332ec634c8bac2387a712aed580bdcea8c3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761969752~acl=/*~id=43187492139746440095308034397044~hmac=01520b879a69b10f71730a8e232aa332ec634c8bac2387a712aed580bdcea8c3"
         },
         {
             "event_category": "Sport",
@@ -136,11 +136,4 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090493560,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892729241559_UEL_MD4_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 4"
-        }
-    ]
-}
+            "contentId": 1090493
