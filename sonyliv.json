@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:37:56 01-11-2025",
+    "last update time": "03:48:02 01-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Medvedev vs Zverev - QF - 31 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761991676~acl=/*~id=70160467309062919493503273058118~hmac=5c5b187868323f9986f0969de8db709c6ebde4c1fac6c582900c9adeb2dd2a8e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761991676~acl=/*~id=70160467309062919493503273058118~hmac=5c5b187868323f9986f0969de8db709c6ebde4c1fac6c582900c9adeb2dd2a8e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761991676~acl=/*~id=70160467309062919493503273058118~hmac=5c5b187868323f9986f0969de8db709c6ebde4c1fac6c582900c9adeb2dd2a8e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761992282~acl=/*~id=81448104598137729554245359280172~hmac=acf02659b37a8963c7f7f484e4fc4467b0f56961a00ec19c86c92c1d62175029",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761992282~acl=/*~id=81448104598137729554245359280172~hmac=acf02659b37a8963c7f7f484e4fc4467b0f56961a00ec19c86c92c1d62175029",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761992282~acl=/*~id=81448104598137729554245359280172~hmac=acf02659b37a8963c7f7f484e4fc4467b0f56961a00ec19c86c92c1d62175029"
         },
         {
             "event_category": "Sport",
@@ -137,4 +137,10 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493561,
-            "src": "https://origin-staticv2.sonyliv.com/videoasse
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010676/1761892022080154_UECL25_MD3_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Conference League - MD 3"
+        }
+    ]
+}
