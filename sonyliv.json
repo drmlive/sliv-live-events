@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:56:26 01-11-2025",
+    "last update time": "02:06:35 01-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "FC Augsburg vs Borussia Dortmund - MD 9 - 1 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761985585~acl=/*~id=36830030104329127801910873231196~hmac=b25a3ef935527278426fb4250998c0760bddd1bba0163420369bd9762211a9c0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761985585~acl=/*~id=36830030104329127801910873231196~hmac=b25a3ef935527278426fb4250998c0760bddd1bba0163420369bd9762211a9c0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761985585~acl=/*~id=36830030104329127801910873231196~hmac=b25a3ef935527278426fb4250998c0760bddd1bba0163420369bd9762211a9c0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761986194~acl=/*~id=00607185418794895307692826648828~hmac=34d9f479dc490141c7f3dbcc1334f8c282cdab87b38b560175bfb7d513319e89",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761986194~acl=/*~id=00607185418794895307692826648828~hmac=34d9f479dc490141c7f3dbcc1334f8c282cdab87b38b560175bfb7d513319e89",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761986194~acl=/*~id=00607185418794895307692826648828~hmac=34d9f479dc490141c7f3dbcc1334f8c282cdab87b38b560175bfb7d513319e89"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Medvedev vs Zverev - QF - 31 Oct 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761985585~acl=/*~id=36830030104329127801910873231196~hmac=b25a3ef935527278426fb4250998c0760bddd1bba0163420369bd9762211a9c0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761985585~acl=/*~id=36830030104329127801910873231196~hmac=b25a3ef935527278426fb4250998c0760bddd1bba0163420369bd9762211a9c0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761985585~acl=/*~id=36830030104329127801910873231196~hmac=b25a3ef935527278426fb4250998c0760bddd1bba0163420369bd9762211a9c0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761986194~acl=/*~id=00607185418794895307692826648828~hmac=34d9f479dc490141c7f3dbcc1334f8c282cdab87b38b560175bfb7d513319e89",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761986194~acl=/*~id=00607185418794895307692826648828~hmac=34d9f479dc490141c7f3dbcc1334f8c282cdab87b38b560175bfb7d513319e89",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761986194~acl=/*~id=00607185418794895307692826648828~hmac=34d9f479dc490141c7f3dbcc1334f8c282cdab87b38b560175bfb7d513319e89"
         },
         {
             "event_category": "Sport",
@@ -123,4 +123,37 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493545,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892874127559_UCL_Juventus_vs_Sporting_Promo_landscape.jpg"
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892874127559_UCL_Juventus_vs_Sporting_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Juventus vs Sporting - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493548,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893076113559_UCL_Napoli_vs_Frankfurt_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Napoli vs Frankfurt - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493560,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892729241559_UEL_MD4_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League - MD 4"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493561,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010676/1761892022080154_UECL25_MD3_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Conference League - MD 3"
+        }
+    ]
+}
