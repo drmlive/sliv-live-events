@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:13:30 01-11-2025",
+    "last update time": "10:23:40 01-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "England Tour of New Zealand 2025",
             "match_name": "3rd ODI - 1 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762015409~acl=/*~id=78900491892694023152181591232311~hmac=b80079b5225040eb32318ed3e38f9b2fc3ff0fd62ac4fea4a9c22cd219d2d4e1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762015409~acl=/*~id=78900491892694023152181591232311~hmac=b80079b5225040eb32318ed3e38f9b2fc3ff0fd62ac4fea4a9c22cd219d2d4e1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762015409~acl=/*~id=78900491892694023152181591232311~hmac=b80079b5225040eb32318ed3e38f9b2fc3ff0fd62ac4fea4a9c22cd219d2d4e1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762016018~acl=/*~id=24841474600981807472116050901196~hmac=10e04e2c4410b296ae5cfae7f1197a68e0dd10316064ca0a00a807161ce01b62",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762016018~acl=/*~id=24841474600981807472116050901196~hmac=10e04e2c4410b296ae5cfae7f1197a68e0dd10316064ca0a00a807161ce01b62",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762016018~acl=/*~id=24841474600981807472116050901196~hmac=10e04e2c4410b296ae5cfae7f1197a68e0dd10316064ca0a00a807161ce01b62"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "LINK Hong Kong Open - Day 3 - 1 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762015409~acl=/*~id=78900491892694023152181591232311~hmac=b80079b5225040eb32318ed3e38f9b2fc3ff0fd62ac4fea4a9c22cd219d2d4e1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762015409~acl=/*~id=78900491892694023152181591232311~hmac=b80079b5225040eb32318ed3e38f9b2fc3ff0fd62ac4fea4a9c22cd219d2d4e1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762015409~acl=/*~id=78900491892694023152181591232311~hmac=b80079b5225040eb32318ed3e38f9b2fc3ff0fd62ac4fea4a9c22cd219d2d4e1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762016018~acl=/*~id=24841474600981807472116050901196~hmac=10e04e2c4410b296ae5cfae7f1197a68e0dd10316064ca0a00a807161ce01b62",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762016018~acl=/*~id=24841474600981807472116050901196~hmac=10e04e2c4410b296ae5cfae7f1197a68e0dd10316064ca0a00a807161ce01b62",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762016018~acl=/*~id=24841474600981807472116050901196~hmac=10e04e2c4410b296ae5cfae7f1197a68e0dd10316064ca0a00a807161ce01b62"
         },
         {
             "event_category": "Sport",
@@ -124,36 +124,4 @@
             "isLive": false,
             "contentId": 1090493548,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893076113559_UCL_Napoli_vs_Frankfurt_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Napoli vs Frankfurt - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493560,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892729241559_UEL_MD4_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 4"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493561,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010676/1761892022080154_UECL25_MD3_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Conference League - MD 3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090492554,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
-        }
-    ]
-}
+            "broadcast_channel": "Sony Spor
