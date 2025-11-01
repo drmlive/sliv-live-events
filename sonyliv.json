@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:20:49 01-11-2025",
+    "last update time": "18:31:06 01-11-2025",
     "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090493582_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010740/1761987232626157_ATP_rolex25_SF_Auger_Aliassime_vs_Bublik_1nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ATP Rolex Paris Masters 2025",
+            "match_name": "Auger Aliassime vs Bublik - Semi-Final - 1 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762045265~acl=/*~id=86436546615639020606668561655274~hmac=64086b46240763ec0a35e7f2e5eb0fbd9e4398bdc4c9e14e095181d509079450",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762045265~acl=/*~id=86436546615639020606668561655274~hmac=64086b46240763ec0a35e7f2e5eb0fbd9e4398bdc4c9e14e095181d509079450",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762045265~acl=/*~id=86436546615639020606668561655274~hmac=64086b46240763ec0a35e7f2e5eb0fbd9e4398bdc4c9e14e095181d509079450"
+        },
         {
             "event_category": "Sport",
             "isLive": false,
