@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:15:17 01-11-2025",
+    "last update time": "22:25:27 01-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090493392_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761821530697395_bliga2526_MD9_Bayern-Munich-vs-Bayer-Leverkusen_30oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Bayern Munich vs Bayer Leverkusen - MD 9 - 1 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059326~acl=/*~id=85255030633806650101021192484127~hmac=29af94095956adfd5b4ce1ce7113b29890da4cde3990891b1eb8c3db8109789f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059326~acl=/*~id=85255030633806650101021192484127~hmac=29af94095956adfd5b4ce1ce7113b29890da4cde3990891b1eb8c3db8109789f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059326~acl=/*~id=85255030633806650101021192484127~hmac=29af94095956adfd5b4ce1ce7113b29890da4cde3990891b1eb8c3db8109789f"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Zverev vs Sinner - Semi-Final - 1 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762058717~acl=/*~id=12745462637051515677594466860211~hmac=e40ce460a8b2d547f14e7cb86cea4f57d3548a0b3be280519ecb7ca7800f9a2e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762058717~acl=/*~id=12745462637051515677594466860211~hmac=e40ce460a8b2d547f14e7cb86cea4f57d3548a0b3be280519ecb7ca7800f9a2e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762058717~acl=/*~id=12745462637051515677594466860211~hmac=e40ce460a8b2d547f14e7cb86cea4f57d3548a0b3be280519ecb7ca7800f9a2e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059326~acl=/*~id=85255030633806650101021192484127~hmac=29af94095956adfd5b4ce1ce7113b29890da4cde3990891b1eb8c3db8109789f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059326~acl=/*~id=85255030633806650101021192484127~hmac=29af94095956adfd5b4ce1ce7113b29890da4cde3990891b1eb8c3db8109789f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762059326~acl=/*~id=85255030633806650101021192484127~hmac=29af94095956adfd5b4ce1ce7113b29890da4cde3990891b1eb8c3db8109789f"
         },
         {
             "event_category": "Sport",
@@ -24,15 +37,6 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - WWE - Saturday Night's Main Event"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493489,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010581/1761657030867563_Bundesliga_MD_9_Bayern_vs_Leverkusen_tonight_landscape_thumb-3.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Bayer Leverkusen"
         },
         {
             "event_category": "Football",
@@ -138,6 +142,15 @@
             "isLive": false,
             "contentId": 1090492554,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
