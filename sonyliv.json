@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:15:58 02-11-2025",
+    "last update time": "21:26:09 02-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762141558~acl=/*~id=71111083009483075194780893743433~hmac=bbc8cb11477df39173a263b624a8e8b2f929e4efd960ce252e83f503ab42973a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762141558~acl=/*~id=71111083009483075194780893743433~hmac=bbc8cb11477df39173a263b624a8e8b2f929e4efd960ce252e83f503ab42973a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762141558~acl=/*~id=71111083009483075194780893743433~hmac=bbc8cb11477df39173a263b624a8e8b2f929e4efd960ce252e83f503ab42973a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "FC Koln vs Hamburger SV - MD 9 - 2 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762141558~acl=/*~id=71111083009483075194780893743433~hmac=bbc8cb11477df39173a263b624a8e8b2f929e4efd960ce252e83f503ab42973a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762141558~acl=/*~id=71111083009483075194780893743433~hmac=bbc8cb11477df39173a263b624a8e8b2f929e4efd960ce252e83f503ab42973a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762141558~acl=/*~id=71111083009483075194780893743433~hmac=bbc8cb11477df39173a263b624a8e8b2f929e4efd960ce252e83f503ab42973a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090493537_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761826736467395_bliga2526_MD9_VfL-Wolfsburg-vs-Hoffenheim_30oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "VfL Wolfsburg vs Hoffenheim - MD 9 - 2 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762142167~acl=/*~id=18464402871866733510369738497919~hmac=b3003af56d9511e3128d226151164dd971c0b03a8dd5f21960f0aacb106178b6"
         },
         {
             "event_category": "Football",
