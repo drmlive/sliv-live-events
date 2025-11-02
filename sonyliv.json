@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:56:51 02-11-2025",
+    "last update time": "11:07:00 02-11-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,15 +12,15 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "LINK Hong Kong Open - Day 4 - 2 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762104411~acl=/*~id=07998906641534850386012562976961~hmac=ff7e1f580a4e10de74dd8d437774ac06256ae363a3940a5c54f5bfb0c9c51c6a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762104411~acl=/*~id=07998906641534850386012562976961~hmac=ff7e1f580a4e10de74dd8d437774ac06256ae363a3940a5c54f5bfb0c9c51c6a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762104411~acl=/*~id=07998906641534850386012562976961~hmac=ff7e1f580a4e10de74dd8d437774ac06256ae363a3940a5c54f5bfb0c9c51c6a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762105020~acl=/*~id=21288380985419676851223147972829~hmac=0b6c0049554efa56c1d0e72ba3032dbe5d6e42357308d198030ade94708bf70e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762105020~acl=/*~id=21288380985419676851223147972829~hmac=0b6c0049554efa56c1d0e72ba3032dbe5d6e42357308d198030ade94708bf70e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762105020~acl=/*~id=21288380985419676851223147972829~hmac=0b6c0049554efa56c1d0e72ba3032dbe5d6e42357308d198030ade94708bf70e"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090493547,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893028739559_UCL_MD4_Promo_landscape.jpg",
+            "contentId": 1090493714,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010759/1762029538563414_UCL_Combo_2nov_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - MD4 - UEFA Champions League 2025-26"
@@ -60,6 +60,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Ultimate Kho Kho 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493547,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893028739559_UCL_MD4_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - MD4 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -132,15 +141,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493714,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010759/1762029538563414_UCL_Combo_2nov_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - MD4 - UEFA Champions League 2025-26"
         }
     ]
 }
