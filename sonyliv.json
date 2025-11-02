@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:44:33 02-11-2025",
+    "last update time": "19:54:41 02-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136071~acl=/*~id=79537393005007259078945612087518~hmac=b66f9bb19aa6e325fb1342500cadeef99b659bef805871664537c16e85405050",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136071~acl=/*~id=79537393005007259078945612087518~hmac=b66f9bb19aa6e325fb1342500cadeef99b659bef805871664537c16e85405050",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136071~acl=/*~id=79537393005007259078945612087518~hmac=b66f9bb19aa6e325fb1342500cadeef99b659bef805871664537c16e85405050"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136680~acl=/*~id=86482502946102940095681015864714~hmac=c1e36c890ff277dd3aca1294ef400358df6c75fa9a7aa6d449e5689f8e7f3dfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136680~acl=/*~id=86482502946102940095681015864714~hmac=c1e36c890ff277dd3aca1294ef400358df6c75fa9a7aa6d449e5689f8e7f3dfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136680~acl=/*~id=86482502946102940095681015864714~hmac=c1e36c890ff277dd3aca1294ef400358df6c75fa9a7aa6d449e5689f8e7f3dfa"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "FC Koln vs Hamburger SV - MD 9 - 2 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136071~acl=/*~id=79537393005007259078945612087518~hmac=b66f9bb19aa6e325fb1342500cadeef99b659bef805871664537c16e85405050",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136071~acl=/*~id=79537393005007259078945612087518~hmac=b66f9bb19aa6e325fb1342500cadeef99b659bef805871664537c16e85405050",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136071~acl=/*~id=79537393005007259078945612087518~hmac=b66f9bb19aa6e325fb1342500cadeef99b659bef805871664537c16e85405050"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136680~acl=/*~id=86482502946102940095681015864714~hmac=c1e36c890ff277dd3aca1294ef400358df6c75fa9a7aa6d449e5689f8e7f3dfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136680~acl=/*~id=86482502946102940095681015864714~hmac=c1e36c890ff277dd3aca1294ef400358df6c75fa9a7aa6d449e5689f8e7f3dfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762136680~acl=/*~id=86482502946102940095681015864714~hmac=c1e36c890ff277dd3aca1294ef400358df6c75fa9a7aa6d449e5689f8e7f3dfa"
         },
         {
             "event_category": "Football",
@@ -123,4 +123,37 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493560,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892729241559_UEL_MD4_Promo_l
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892729241559_UEL_MD4_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League - MD 4"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493561,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010676/1761892022080154_UECL25_MD3_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Conference League - MD 3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090492554,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        }
+    ]
+}
