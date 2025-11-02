@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:08:50 02-11-2025",
+    "last update time": "13:18:58 02-11-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "LINK Hong Kong Open - Day 4 - 2 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762112330~acl=/*~id=01393024011078844160602667889983~hmac=ceb30749a60fa30cc24f9b2467168b04a1dccea1c3b7e9c5d4d80763dff1b610",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762112330~acl=/*~id=01393024011078844160602667889983~hmac=ceb30749a60fa30cc24f9b2467168b04a1dccea1c3b7e9c5d4d80763dff1b610",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762112330~acl=/*~id=01393024011078844160602667889983~hmac=ceb30749a60fa30cc24f9b2467168b04a1dccea1c3b7e9c5d4d80763dff1b610"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762112937~acl=/*~id=50249955026236977374739785075903~hmac=a60ede16adac2971f00adca4a235bc34465b44095e2c58d24005ccd37d10d141",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762112937~acl=/*~id=50249955026236977374739785075903~hmac=a60ede16adac2971f00adca4a235bc34465b44095e2c58d24005ccd37d10d141",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762112937~acl=/*~id=50249955026236977374739785075903~hmac=a60ede16adac2971f00adca4a235bc34465b44095e2c58d24005ccd37d10d141"
         },
         {
             "event_category": "Football",
@@ -137,4 +137,10 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090489002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        }
+    ]
+}
