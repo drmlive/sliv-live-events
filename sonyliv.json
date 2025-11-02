@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:33:29 02-11-2025",
+    "last update time": "18:43:38 02-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ATP Rolex Paris Masters 2025",
             "match_name": "Patten/Heliovaara vs Glasspool/Cash - Doubles Final - 2 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762131809~acl=/*~id=70611221232101704686793922890118~hmac=5c7abc85e970f64e6b1ced4dc3b6b2749caab76ef8d8e1d61c1549e574680aad",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762131809~acl=/*~id=70611221232101704686793922890118~hmac=5c7abc85e970f64e6b1ced4dc3b6b2749caab76ef8d8e1d61c1549e574680aad",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762131809~acl=/*~id=70611221232101704686793922890118~hmac=5c7abc85e970f64e6b1ced4dc3b6b2749caab76ef8d8e1d61c1549e574680aad"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762132418~acl=/*~id=83707256672711743346861813050068~hmac=5a2d3ac5849c663fc49cf718d69657979e402f37f2e15625d7dba2f75b770b5f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762132418~acl=/*~id=83707256672711743346861813050068~hmac=5a2d3ac5849c663fc49cf718d69657979e402f37f2e15625d7dba2f75b770b5f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762132418~acl=/*~id=83707256672711743346861813050068~hmac=5a2d3ac5849c663fc49cf718d69657979e402f37f2e15625d7dba2f75b770b5f"
         },
         {
             "event_category": "Football",
@@ -137,4 +137,10 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090489002,
-            "src": "https://origin-staticv2.son
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        }
+    ]
+}
