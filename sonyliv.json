@@ -1,59 +1,17 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:51:48 05-11-2025",
+    "last update time": "03:02:00 05-11-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090493364_ENG",
+            "contentId": 1090493364,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090493364_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090493364_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090493364_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
+            "match_name": "Liverpool vs Real Madrid - MD 4 - 5 Nov 2025"
         },
         {
             "event_category": "Football",
@@ -64,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "PSG vs Bayern - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1"
         },
         {
             "event_category": "Football",
@@ -77,9 +35,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Tottenham vs Copengahen - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1"
         },
         {
             "event_category": "Football",
@@ -90,9 +48,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Atletico vs Union SG - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1"
         },
         {
             "event_category": "Football",
@@ -103,9 +61,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Juventus vs Sporting CP - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1"
         },
         {
             "event_category": "Football",
@@ -116,9 +74,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Bodo/Glimt vs Monaco - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762335117~acl=/*~id=82406958196788813348634843297506~hmac=573e450c80d810e83af71086b7d59115e62ed819b41d5ef673ae9e4067c39ab1"
         },
         {
             "event_category": "Football",
@@ -129,72 +87,4 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Olympiacos vs PSV - MD 4 - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762334504~acl=/*~id=02939100542037252376832687757505~hmac=48ba01d23c3a69b01f2cd26c35752968fa796b199e392120fd7e1745df085f62"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493544,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722241131681_UCL2526_MAN_CITY_vs_DORTMOUD_29oct_dated_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Dortmund - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493550,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010599/1761722000042681_UCL2526_Club_Brugge_vs_Barcelona_29oct_Dated_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Club Brugge vs Barcelona - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493547,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893028739559_UCL_MD4_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - MD4 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493560,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892729241559_UEL_MD4_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 4"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493561,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010676/1761892022080154_UECL25_MD3_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Conference League - MD 3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090492554,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090489002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
-        }
-    ]
-}
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=
