@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:59:27 05-11-2025",
+    "last update time": "13:09:35 05-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "1st T20I - 5 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762370966~acl=/*~id=25384269012778091291208284482755~hmac=20ff8a0745b539b82c62a0733a41ed235114d6e9cf0ace5cbe497e4ed5352ff4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762370966~acl=/*~id=25384269012778091291208284482755~hmac=20ff8a0745b539b82c62a0733a41ed235114d6e9cf0ace5cbe497e4ed5352ff4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762370966~acl=/*~id=25384269012778091291208284482755~hmac=20ff8a0745b539b82c62a0733a41ed235114d6e9cf0ace5cbe497e4ed5352ff4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762371574~acl=/*~id=47150112420270230825495775843577~hmac=f4cca32d111aa2ba0e893687c4289a128631d0ade56cc73a242584fb143d4ac2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762371574~acl=/*~id=47150112420270230825495775843577~hmac=f4cca32d111aa2ba0e893687c4289a128631d0ade56cc73a242584fb143d4ac2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762371574~acl=/*~id=47150112420270230825495775843577~hmac=f4cca32d111aa2ba0e893687c4289a128631d0ade56cc73a242584fb143d4ac2"
         },
         {
             "event_category": "Football",
@@ -37,20 +37,20 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090493560,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010613/1761723812500339_UEL_Sturm-Graz-vs-Nottm-Forest_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League - MD 4"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090493547,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761893028739559_UCL_MD4_Promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - MD4 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493560,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010677/1761892729241559_UEL_MD4_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 4"
         },
         {
             "event_category": "Football",
