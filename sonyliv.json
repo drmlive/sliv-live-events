@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:10:23 07-11-2025",
+    "last update time": "00:20:31 07-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
             "match_name": "Sturm Graz vs Nott'm Forest - MD 4 - 6 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762497623~acl=/*~id=35105599988669696498785090448486~hmac=cabe1ac3456af4c96efa1589ceecf34f56f4bdb6b8efeda48436e8beba6ed3cf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762497623~acl=/*~id=35105599988669696498785090448486~hmac=cabe1ac3456af4c96efa1589ceecf34f56f4bdb6b8efeda48436e8beba6ed3cf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762497623~acl=/*~id=35105599988669696498785090448486~hmac=cabe1ac3456af4c96efa1589ceecf34f56f4bdb6b8efeda48436e8beba6ed3cf"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762498230~acl=/*~id=19395152420901792316930404374442~hmac=51b5945eae669a7e753e02794fd8609faa11b4b35a2a4a3f3bd621b6f62110b8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762498230~acl=/*~id=19395152420901792316930404374442~hmac=51b5945eae669a7e753e02794fd8609faa11b4b35a2a4a3f3bd621b6f62110b8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762498230~acl=/*~id=19395152420901792316930404374442~hmac=51b5945eae669a7e753e02794fd8609faa11b4b35a2a4a3f3bd621b6f62110b8"
         },
         {
             "event_category": "Football",
@@ -42,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Conference League - MD 3"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494176,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010951/1762436648445964_Union-Berlin-vs-Bayern_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Union Berlin vs Bayern Munich"
         },
         {
             "event_category": "Cricket",
