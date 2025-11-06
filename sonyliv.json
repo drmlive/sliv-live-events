@@ -1,13 +1,26 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:28:58 06-11-2025",
+    "last update time": "22:39:06 06-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090493867_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761830634001571_UEL25_MD4_Sturm_Graz_vs_Nott_Forest_30oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2025-26",
+            "match_name": "Sturm Graz vs Nott'm Forest - MD 4 - 6 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762492145~acl=/*~id=98799536435159199624065293762609~hmac=0c4e5d07e6da35314e822c4682fe0ce91b35b27244510827c9f8199767b4e98a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762492145~acl=/*~id=98799536435159199624065293762609~hmac=0c4e5d07e6da35314e822c4682fe0ce91b35b27244510827c9f8199767b4e98a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762492145~acl=/*~id=98799536435159199624065293762609~hmac=0c4e5d07e6da35314e822c4682fe0ce91b35b27244510827c9f8199767b4e98a"
+        },
         {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493560,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010613/1761723830904339_UEL_Sturm-Graz-vs-Nottm-Forest_tonight_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010613/1761731294649339_UEL_Aston-Villa-vs-M-Tel-Aviv_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Europa League - MD 4"
