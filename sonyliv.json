@@ -1,20 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:11:11 07-11-2025",
+    "last update time": "01:21:19 07-11-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090493867_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761830634001571_UEL25_MD4_Sturm_Graz_vs_Nott_Forest_30oct_landscape_thumb.jpg",
+            "contentId": "1090493937_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761831976419571_UEL25_MD4_Aston_Villa_vs_M_Tel_Aviv_30oct_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Sturm Graz vs Nott'm Forest - MD 4 - 6 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501271~acl=/*~id=56757955260491793324277411707540~hmac=a20bb2683f84148232928e868ae6fa2b3406f06f19bccaf56f1a7c20eb6deb45",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501271~acl=/*~id=56757955260491793324277411707540~hmac=a20bb2683f84148232928e868ae6fa2b3406f06f19bccaf56f1a7c20eb6deb45",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501271~acl=/*~id=56757955260491793324277411707540~hmac=a20bb2683f84148232928e868ae6fa2b3406f06f19bccaf56f1a7c20eb6deb45"
+            "match_name": "Aston Villa vs M. Tel-Aviv - MD 4 - 7 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501878~acl=/*~id=55917769308502168348939411113193~hmac=740ecdce4306c7056e150ca4781fe9e2a7e630edb6f8cfe39a6b217a77be4426",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501878~acl=/*~id=55917769308502168348939411113193~hmac=740ecdce4306c7056e150ca4781fe9e2a7e630edb6f8cfe39a6b217a77be4426",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501878~acl=/*~id=55917769308502168348939411113193~hmac=740ecdce4306c7056e150ca4781fe9e2a7e630edb6f8cfe39a6b217a77be4426"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090493947_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761875509625347_UECL25_MD3_Crystal_Palace_vs_AZ_Alkmaara_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Conference League 2025-26",
+            "match_name": "Crystal Palace vs AZ Alkmaar - MD 3 - 7 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501878~acl=/*~id=55917769308502168348939411113193~hmac=740ecdce4306c7056e150ca4781fe9e2a7e630edb6f8cfe39a6b217a77be4426",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501878~acl=/*~id=55917769308502168348939411113193~hmac=740ecdce4306c7056e150ca4781fe9e2a7e630edb6f8cfe39a6b217a77be4426",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762501878~acl=/*~id=55917769308502168348939411113193~hmac=740ecdce4306c7056e150ca4781fe9e2a7e630edb6f8cfe39a6b217a77be4426"
         },
         {
             "event_category": "Football",
