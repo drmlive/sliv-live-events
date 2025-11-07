@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:19:11 08-11-2025",
+    "last update time": "00:29:20 08-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494092_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761910205520297_bliga2526_MD10_Werder-Bremen-vs-VfL-Wolfsburg-_31oct__landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Werder Bremen vs VfL Wolfsburg - MD 10 - 8 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762585159~acl=/*~id=76967174769718869688534414172451~hmac=f01d0db0d16319f57b794a607e2a21ac03df4c06ca9e42e1623911e13f0d38b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762585159~acl=/*~id=76967174769718869688534414172451~hmac=f01d0db0d16319f57b794a607e2a21ac03df4c06ca9e42e1623911e13f0d38b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762585159~acl=/*~id=76967174769718869688534414172451~hmac=f01d0db0d16319f57b794a607e2a21ac03df4c06ca9e42e1623911e13f0d38b5"
+        },
         {
             "event_category": "Football",
             "isLive": false,
