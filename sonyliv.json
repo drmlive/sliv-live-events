@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:51:38 07-11-2025",
+    "last update time": "15:01:49 07-11-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "Moutai Singapore Open - Day 2 - 7 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762550498~acl=/*~id=73195187407116399165756283041797~hmac=0980151d30f442b8ad789bb01373e7061b2e0e658b09569414defd72310975c9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762550498~acl=/*~id=73195187407116399165756283041797~hmac=0980151d30f442b8ad789bb01373e7061b2e0e658b09569414defd72310975c9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762550498~acl=/*~id=73195187407116399165756283041797~hmac=0980151d30f442b8ad789bb01373e7061b2e0e658b09569414defd72310975c9"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493971,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Do Or Die November "
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762551108~acl=/*~id=92477918681537235712920682928008~hmac=f7bc4ad2c44cfaf7e157f22e373458f3e8f62a70d0c55b2ec0cd70cc93dc72bf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762551108~acl=/*~id=92477918681537235712920682928008~hmac=f7bc4ad2c44cfaf7e157f22e373458f3e8f62a70d0c55b2ec0cd70cc93dc72bf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762551108~acl=/*~id=92477918681537235712920682928008~hmac=f7bc4ad2c44cfaf7e157f22e373458f3e8f62a70d0c55b2ec0cd70cc93dc72bf"
         },
         {
             "event_category": "Football",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Union Berlin vs Bayern Munich"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493971,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Do Or Die November "
         },
         {
             "event_category": "Cricket",
