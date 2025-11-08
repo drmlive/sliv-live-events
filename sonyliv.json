@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:57:26 08-11-2025",
+    "last update time": "23:07:34 08-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494173_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010731/1761981223980751_bliga2526_MD10_Borussia-Mgladbach-vs-FC-Koln_1nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Borussia M'gladbach vs FC Koln - MD 10 - 8 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762666654~acl=/*~id=55346988303381068995807946391332~hmac=debd11d3b944722761fb8cc8c42174f73cdab6eede5668b96d9d18d7cb30d1c0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762666654~acl=/*~id=55346988303381068995807946391332~hmac=debd11d3b944722761fb8cc8c42174f73cdab6eede5668b96d9d18d7cb30d1c0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762666654~acl=/*~id=55346988303381068995807946391332~hmac=debd11d3b944722761fb8cc8c42174f73cdab6eede5668b96d9d18d7cb30d1c0"
+        },
         {
             "event_category": "Tennis",
             "isLive": false,
