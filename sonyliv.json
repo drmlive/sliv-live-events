@@ -1,16 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:13:43 08-11-2025",
+    "last update time": "19:23:53 08-11-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494176,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010826/1762249388730959_Bliga25_26_MD10_Union_Berlin_vs_Bayern_Munich_tonight_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "isLive": true,
+            "contentId": "1090494169_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761910708850297_bliga2526_MD10_Union-Berlin-vs-Bayern_31oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Union Berlin vs Bayern Munich"
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Union Berlin vs Bayern Munich - MD 10 - 8 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494171_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010957/1762457677340397_bliga2526_MD10_Hamburg-SV-vs-Borussia-Dortmund_7nov_landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Hamburger SV vs Borussia Dortmund - MD 10 - 8 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494170_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010708/1761911782639297_bliga2526_MD10_Bayer-Leverkusen-vs-Heidenheim_31oct_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Bayer Leverkusen vs Heidenheim - MD 10 - 8 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494168_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Goal Arena - MD 10 - 8 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494172_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010710/1761919490563474_bliga2526_MD10_Hoffenheim-vs-RB-Leipzig_31oct__landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Hoffenheim vs RB Leipzig - MD 10 - 8 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762653231~acl=/*~id=01463127952957899267915096488950~hmac=6b7c3b6aacd19c06d473df4403528faad022b73b2342e4b24cd37f1aa314e4aa"
         },
         {
             "event_category": "Tennis",
