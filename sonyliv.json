@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:22:27 08-11-2025",
+    "last update time": "17:32:34 08-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -31,6 +31,15 @@
             "event_name": "Upcoming - Do Or Die November "
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494287,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599598657955_Matchday-9-10_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 9 & 10 - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090492554,
@@ -47,6 +56,69 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494282,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599672231955_Ireland-vs-Portugal_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Republic of Ireland vs Portugal - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494281,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599628940955_Moldova-vs-Italy_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Moldova vs Italy - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494283,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599612924955_Serbia-vs-England_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England vs Serbia - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494285,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599703728955_France-vs-Ukraine_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - France vs Ukraine - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494284,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599643003955_Luxemborg-vs-germany_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Luxembourg vs Germany - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494286,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599686961955_Georgia-vs-Spain_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Georgia vs Spain - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494280,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599656850955_Kazakstan-vs-Belgium-_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
         }
     ]
 }
