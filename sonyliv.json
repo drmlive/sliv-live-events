@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:08:12 09-11-2025",
+    "last update time": "23:18:19 09-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Cash/Glasspool vs Bolelli/Vavassori - Group Stage - 9 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753090~acl=/*~id=73259454172934610504683696514824~hmac=293f27be10c3c24bf4a20b7c6e299826a603fd7c2ee93fe6c997d8680e20c564",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753090~acl=/*~id=73259454172934610504683696514824~hmac=293f27be10c3c24bf4a20b7c6e299826a603fd7c2ee93fe6c997d8680e20c564",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753090~acl=/*~id=73259454172934610504683696514824~hmac=293f27be10c3c24bf4a20b7c6e299826a603fd7c2ee93fe6c997d8680e20c564"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753698~acl=/*~id=17766935462632979916736516691938~hmac=3c7abe62eba6b71874129ab87ca0aa8bd396ec06ebc3d5519277b6fbc060d560",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753698~acl=/*~id=17766935462632979916736516691938~hmac=3c7abe62eba6b71874129ab87ca0aa8bd396ec06ebc3d5519277b6fbc060d560",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753698~acl=/*~id=17766935462632979916736516691938~hmac=3c7abe62eba6b71874129ab87ca0aa8bd396ec06ebc3d5519277b6fbc060d560"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfB Stuttgart vs FC Augsburg - MD 10 - 9 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753090~acl=/*~id=73259454172934610504683696514824~hmac=293f27be10c3c24bf4a20b7c6e299826a603fd7c2ee93fe6c997d8680e20c564",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753090~acl=/*~id=73259454172934610504683696514824~hmac=293f27be10c3c24bf4a20b7c6e299826a603fd7c2ee93fe6c997d8680e20c564",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753090~acl=/*~id=73259454172934610504683696514824~hmac=293f27be10c3c24bf4a20b7c6e299826a603fd7c2ee93fe6c997d8680e20c564"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753698~acl=/*~id=17766935462632979916736516691938~hmac=3c7abe62eba6b71874129ab87ca0aa8bd396ec06ebc3d5519277b6fbc060d560",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753698~acl=/*~id=17766935462632979916736516691938~hmac=3c7abe62eba6b71874129ab87ca0aa8bd396ec06ebc3d5519277b6fbc060d560",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762753698~acl=/*~id=17766935462632979916736516691938~hmac=3c7abe62eba6b71874129ab87ca0aa8bd396ec06ebc3d5519277b6fbc060d560"
         },
         {
             "event_category": "Football",
@@ -126,4 +126,16 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599686961955_Georgia-vs-Spain_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-         
+            "event_name": "Upcoming - Georgia vs Spain - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494280,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599656850955_Kazakstan-vs-Belgium-_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
+        }
+    ]
+}
