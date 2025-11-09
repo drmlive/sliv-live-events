@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:45:59 09-11-2025",
+    "last update time": "20:56:08 09-11-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090494274_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011012/1762597572268281_ATP_FINALS_Carlos-Alcaraz-v-Alex-de-Minaur_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Nitto ATP Finals 2025",
-            "match_name": "Alcaraz vs Alex De Minaur - Group Stage - 9 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762744558~acl=/*~id=27631981981982803628668729802997~hmac=512a94b760dabdc7ba56a66120e6efde1e113bcffc13c26d880d3cfb61510bb3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762744558~acl=/*~id=27631981981982803628668729802997~hmac=512a94b760dabdc7ba56a66120e6efde1e113bcffc13c26d880d3cfb61510bb3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762744558~acl=/*~id=27631981981982803628668729802997~hmac=512a94b760dabdc7ba56a66120e6efde1e113bcffc13c26d880d3cfb61510bb3"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "SC Freiburg vs St. Pauli - MD 10 - 9 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762744558~acl=/*~id=27631981981982803628668729802997~hmac=512a94b760dabdc7ba56a66120e6efde1e113bcffc13c26d880d3cfb61510bb3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762744558~acl=/*~id=27631981981982803628668729802997~hmac=512a94b760dabdc7ba56a66120e6efde1e113bcffc13c26d880d3cfb61510bb3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762744558~acl=/*~id=27631981981982803628668729802997~hmac=512a94b760dabdc7ba56a66120e6efde1e113bcffc13c26d880d3cfb61510bb3"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762745167~acl=/*~id=50898941740410759305806176805150~hmac=9a14c0ea332cc76df0191a62e17c7fdde69b1d297bf7fd633e4108536ba2a330",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762745167~acl=/*~id=50898941740410759305806176805150~hmac=9a14c0ea332cc76df0191a62e17c7fdde69b1d297bf7fd633e4108536ba2a330",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762745167~acl=/*~id=50898941740410759305806176805150~hmac=9a14c0ea332cc76df0191a62e17c7fdde69b1d297bf7fd633e4108536ba2a330"
         },
         {
             "event_category": "Football",
