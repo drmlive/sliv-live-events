@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:26:09 09-11-2025",
+    "last update time": "09:36:18 09-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "3rd T20I - 9 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762703768~acl=/*~id=24318086829584033268526926987225~hmac=0a327c7392411ebd182e10d9295123cb5a4d2aa9506e36993eca5e0883384596",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762703768~acl=/*~id=24318086829584033268526926987225~hmac=0a327c7392411ebd182e10d9295123cb5a4d2aa9506e36993eca5e0883384596",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762703768~acl=/*~id=24318086829584033268526926987225~hmac=0a327c7392411ebd182e10d9295123cb5a4d2aa9506e36993eca5e0883384596"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762704377~acl=/*~id=83241495575312901448870675250238~hmac=714416c0878397ae3fb857f457b5904073ee20771c774782c0bfbc2f7065f25f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762704377~acl=/*~id=83241495575312901448870675250238~hmac=714416c0878397ae3fb857f457b5904073ee20771c774782c0bfbc2f7065f25f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762704377~acl=/*~id=83241495575312901448870675250238~hmac=714416c0878397ae3fb857f457b5904073ee20771c774782c0bfbc2f7065f25f"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "Moutai Singapore Open - Day 4 - 9 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762703768~acl=/*~id=24318086829584033268526926987225~hmac=0a327c7392411ebd182e10d9295123cb5a4d2aa9506e36993eca5e0883384596",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762703768~acl=/*~id=24318086829584033268526926987225~hmac=0a327c7392411ebd182e10d9295123cb5a4d2aa9506e36993eca5e0883384596",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762703768~acl=/*~id=24318086829584033268526926987225~hmac=0a327c7392411ebd182e10d9295123cb5a4d2aa9506e36993eca5e0883384596"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762704377~acl=/*~id=83241495575312901448870675250238~hmac=714416c0878397ae3fb857f457b5904073ee20771c774782c0bfbc2f7065f25f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762704377~acl=/*~id=83241495575312901448870675250238~hmac=714416c0878397ae3fb857f457b5904073ee20771c774782c0bfbc2f7065f25f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762704377~acl=/*~id=83241495575312901448870675250238~hmac=714416c0878397ae3fb857f457b5904073ee20771c774782c0bfbc2f7065f25f"
         },
         {
             "event_category": "Tennis",
@@ -126,4 +126,16 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599686961955_Georgia-vs-Spain_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Georgia vs Spain - European Qualifiers fo
+            "event_name": "Upcoming - Georgia vs Spain - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494280,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599656850955_Kazakstan-vs-Belgium-_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
+        }
+    ]
+}
