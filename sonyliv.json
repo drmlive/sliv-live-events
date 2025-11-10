@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:51:16 11-11-2025",
+    "last update time": "01:01:26 11-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Sinner vs Auger-Aliassime - Group Stage - 10 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762845676~acl=/*~id=20579492723051001827950058082883~hmac=d4503c523548e011ad70914156aabe84630485d6aba392dc16038ee380a629d5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762845676~acl=/*~id=20579492723051001827950058082883~hmac=d4503c523548e011ad70914156aabe84630485d6aba392dc16038ee380a629d5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762845676~acl=/*~id=20579492723051001827950058082883~hmac=d4503c523548e011ad70914156aabe84630485d6aba392dc16038ee380a629d5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762846285~acl=/*~id=24455902560065214949004856955188~hmac=2c1bd5f794f29a5721e86c70cb75eb8b210ab1b5a1aee5d6c0674ff466aa101c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762846285~acl=/*~id=24455902560065214949004856955188~hmac=2c1bd5f794f29a5721e86c70cb75eb8b210ab1b5a1aee5d6c0674ff466aa101c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762846285~acl=/*~id=24455902560065214949004856955188~hmac=2c1bd5f794f29a5721e86c70cb75eb8b210ab1b5a1aee5d6c0674ff466aa101c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494287,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599598657955_Matchday-9-10_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 9 & 10 - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -33,15 +42,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Nitto ATP Finals 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494287,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011013/1762599598657955_Matchday-9-10_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 9 & 10 - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
