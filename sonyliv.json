@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:14:53 12-11-2025",
+    "last update time": "17:25:02 12-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Heliovaara/Patten vs Skupski/Salisbury  - 12 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762991092~acl=/*~id=13847633857623951135124823014889~hmac=93fa2a741555c260f6e4f138534fceba3c296895052b661da177caefe03e7602",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762991092~acl=/*~id=13847633857623951135124823014889~hmac=93fa2a741555c260f6e4f138534fceba3c296895052b661da177caefe03e7602",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762991092~acl=/*~id=13847633857623951135124823014889~hmac=93fa2a741555c260f6e4f138534fceba3c296895052b661da177caefe03e7602"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762991701~acl=/*~id=98188482216292023995185718319816~hmac=fda3fa736f730b6d2d30fbc293db3bb512c386f770f1a7898876d5d5eecf6e22",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762991701~acl=/*~id=98188482216292023995185718319816~hmac=fda3fa736f730b6d2d30fbc293db3bb512c386f770f1a7898876d5d5eecf6e22",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762991701~acl=/*~id=98188482216292023995185718319816~hmac=fda3fa736f730b6d2d30fbc293db3bb512c386f770f1a7898876d5d5eecf6e22"
         },
         {
             "event_category": "Football",
@@ -35,15 +35,6 @@
             "event_name": "Upcoming - DP World Men's Asia Cup Rising Stars 2025"
         },
         {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090494247,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011113/1762865753379555_ATP_FINALS_Shelton-vs-Auger-Aliassime_landscapet_thumb_today.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Nitto ATP Finals 2025"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090493971,
@@ -51,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Do Or Die November "
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090494247,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011113/1762865753379555_ATP_FINALS_Shelton-vs-Auger-Aliassime_landscapet_thumb_today.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Nitto ATP Finals 2025"
         },
         {
             "event_category": "Football",
