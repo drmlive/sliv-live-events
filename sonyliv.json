@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:23:58 13-11-2025",
+    "last update time": "03:34:05 13-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -40,15 +40,6 @@
             "event_name": "Upcoming - Republic of Ireland vs Portugal - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090494550,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090494283,
@@ -65,6 +56,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - France vs Ukraine - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090494550,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
         },
         {
             "event_category": "Football",
