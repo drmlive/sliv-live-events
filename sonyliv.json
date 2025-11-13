@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:17:11 13-11-2025",
+    "last update time": "07:27:19 13-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "5th T20I - 13 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763041631~acl=/*~id=18421593233741029500401891216443~hmac=65ebe8a4de0e3c711b25e9fad73da5a57ee875bb446802f22b2df1c38eca6b1a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763041631~acl=/*~id=18421593233741029500401891216443~hmac=65ebe8a4de0e3c711b25e9fad73da5a57ee875bb446802f22b2df1c38eca6b1a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763041631~acl=/*~id=18421593233741029500401891216443~hmac=65ebe8a4de0e3c711b25e9fad73da5a57ee875bb446802f22b2df1c38eca6b1a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763042238~acl=/*~id=55015623221862181574052536474911~hmac=4526ff944b7c78613edc1be94f74e16e34b0593ca213ea68dfe32923c3c76cab",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763042238~acl=/*~id=55015623221862181574052536474911~hmac=4526ff944b7c78613edc1be94f74e16e34b0593ca213ea68dfe32923c3c76cab",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763042238~acl=/*~id=55015623221862181574052536474911~hmac=4526ff944b7c78613edc1be94f74e16e34b0593ca213ea68dfe32923c3c76cab"
         },
         {
             "event_category": "Football",
@@ -136,4 +136,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090492554,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010332/1760699868359604_combo_promo_liverpool_vs_real_madrid_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        }
+    ]
+}
