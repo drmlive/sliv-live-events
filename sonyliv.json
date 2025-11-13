@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:07:56 13-11-2025",
+    "last update time": "08:18:05 13-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "5th T20I - 13 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763044676~acl=/*~id=65868303530845289002828080036257~hmac=998e8d629a3f830e713fb6e4131806ccd96432039fc9d00b568ca217d98e5b5b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763044676~acl=/*~id=65868303530845289002828080036257~hmac=998e8d629a3f830e713fb6e4131806ccd96432039fc9d00b568ca217d98e5b5b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763044676~acl=/*~id=65868303530845289002828080036257~hmac=998e8d629a3f830e713fb6e4131806ccd96432039fc9d00b568ca217d98e5b5b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763045285~acl=/*~id=25245645782509370325766365847864~hmac=cb09265700c46aa4a6c469828939bee33f3edfb58e7129f41b1ede6062d79ada",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763045285~acl=/*~id=25245645782509370325766365847864~hmac=cb09265700c46aa4a6c469828939bee33f3edfb58e7129f41b1ede6062d79ada",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763045285~acl=/*~id=25245645782509370325766365847864~hmac=cb09265700c46aa4a6c469828939bee33f3edfb58e7129f41b1ede6062d79ada"
         },
         {
             "event_category": "Football",
@@ -71,15 +71,6 @@
             "event_name": "Upcoming - France vs Ukraine - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090494550,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090494281,
@@ -92,10 +83,19 @@
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090494247,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010991/1762522853145253_Promo-Nitto-ATP-Finals_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011135/1762936819716234_ATP_Nitto_Fritz_vs_DeMinaur_Today_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Nitto ATP Finals 2025"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090494550,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
         },
         {
             "event_category": "Football",
