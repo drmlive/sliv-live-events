@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:41:51 14-11-2025",
+    "last update time": "21:52:00 14-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494569_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762354789267408_EQFs_MD9_Finland_vs_Malta_3nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Finland vs Malta - MD 9 - 14 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763180520~acl=/*~id=39492910396143528015168049066966~hmac=c59b37f3e911ddd2848c7184998cfecea450e615313de59904ddec72861349a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763180520~acl=/*~id=39492910396143528015168049066966~hmac=c59b37f3e911ddd2848c7184998cfecea450e615313de59904ddec72861349a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763180520~acl=/*~id=39492910396143528015168049066966~hmac=c59b37f3e911ddd2848c7184998cfecea450e615313de59904ddec72861349a6"
+        },
         {
             "event_category": "Football",
             "isLive": false,
