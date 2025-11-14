@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:02:20 14-11-2025",
+    "last update time": "11:22:31 14-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090494617_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011205/1763036732581604_AsiaCup_PakA_vs_OMA_12nov_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Asia Cup Rising Stars Men's 2025",
+            "match_name": "Pakistan A vs Oman - 14 Nov 2025  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763142750~acl=/*~id=24674192940068645538938601254578~hmac=5853716ee6b571a79f7220ff5888869add6eb0ca7bd2727329672b72940b4cc3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763142750~acl=/*~id=24674192940068645538938601254578~hmac=5853716ee6b571a79f7220ff5888869add6eb0ca7bd2727329672b72940b4cc3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763142750~acl=/*~id=24674192940068645538938601254578~hmac=5853716ee6b571a79f7220ff5888869add6eb0ca7bd2727329672b72940b4cc3"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
