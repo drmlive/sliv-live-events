@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:59:14 14-11-2025",
+    "last update time": "07:09:21 14-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -11,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs UAE - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494284,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011227/1763071327765563_European_QFs25_Luxembourg_vs_Germany_14nov_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Luxembourg vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -29,15 +38,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494284,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011227/1763071327765563_European_QFs25_Luxembourg_vs_Germany_14nov_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Luxembourg vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
