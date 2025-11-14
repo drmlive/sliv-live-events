@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:25:14 14-11-2025",
+    "last update time": "14:35:25 14-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "Pakistan A vs Oman - 14 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763153713~acl=/*~id=43944260547401199617704952636316~hmac=58b3a418a1c096549229cc1f0da17e53af55acaeaf7b73b9aa2b6193439bf94c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763153713~acl=/*~id=43944260547401199617704952636316~hmac=58b3a418a1c096549229cc1f0da17e53af55acaeaf7b73b9aa2b6193439bf94c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763153713~acl=/*~id=43944260547401199617704952636316~hmac=58b3a418a1c096549229cc1f0da17e53af55acaeaf7b73b9aa2b6193439bf94c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763154324~acl=/*~id=54325634521440658046395501494352~hmac=3ed5b8a3b45d6f7e7391af532a6a21b8c25de885cd894652115df12b1f31ea05",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763154324~acl=/*~id=54325634521440658046395501494352~hmac=3ed5b8a3b45d6f7e7391af532a6a21b8c25de885cd894652115df12b1f31ea05",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763154324~acl=/*~id=54325634521440658046395501494352~hmac=3ed5b8a3b45d6f7e7391af532a6a21b8c25de885cd894652115df12b1f31ea05"
         },
         {
             "event_category": "Cricket",
@@ -35,13 +35,13 @@
             "event_name": "Upcoming - Luxembourg vs Germany - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Football",
+            "event_category": "Fight Sports",
             "isLive": false,
-            "contentId": 1090493971,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
+            "contentId": 1090494550,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Do Or Die November "
+            "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
         },
         {
             "event_category": "Tennis",
@@ -51,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Nitto ATP Finals 2025"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090494550,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937508270121_UFC_322_Della_Maddalena_vs_Makhachev_dated_12nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
         },
         {
             "event_category": "Cricket",
@@ -87,6 +78,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 9 & 10 - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493971,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Do Or Die November "
         },
         {
             "event_category": "Football",
