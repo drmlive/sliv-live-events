@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:54:58 15-11-2025",
+    "last update time": "12:05:09 15-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "Bangladesh A vs Hong Kong, China - 15 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763231098~acl=/*~id=93150533866888159438771183965771~hmac=8d97e69ebf726614722238e8c27519bddbffb8f0a61e1d3837b47959a1a305a6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763231098~acl=/*~id=93150533866888159438771183965771~hmac=8d97e69ebf726614722238e8c27519bddbffb8f0a61e1d3837b47959a1a305a6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763231098~acl=/*~id=93150533866888159438771183965771~hmac=8d97e69ebf726614722238e8c27519bddbffb8f0a61e1d3837b47959a1a305a6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763231709~acl=/*~id=14917716659737453485442756570379~hmac=d360a82b8dee066e20cdff7f14010c3618932df8f068c966d72c2c346d5ede41",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763231709~acl=/*~id=14917716659737453485442756570379~hmac=d360a82b8dee066e20cdff7f14010c3618932df8f068c966d72c2c346d5ede41",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763231709~acl=/*~id=14917716659737453485442756570379~hmac=d360a82b8dee066e20cdff7f14010c3618932df8f068c966d72c2c346d5ede41"
         },
         {
             "event_category": "Football",
@@ -53,13 +53,13 @@
             "event_name": "Upcoming - India A vs Pakistan A - DP World Asia Cup Rising Stars Men's 2025"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090494509,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011092/1762788578350126_AsiaCupRisingStars2025_GOB_Landscape_Thumb_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+            "contentId": 1090494280,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011306/1763166649163468_EQ25_Kazakhstan_vs_Belgium_tonight_15nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Tennis",
@@ -69,6 +69,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Nitto ATP Finals 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090494509,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011092/1762788578350126_AsiaCupRisingStars2025_GOB_Landscape_Thumb_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
         },
         {
             "event_category": "Football",
@@ -87,15 +96,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Do Or Die November "
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494280,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011306/1763166649163468_EQ25_Kazakhstan_vs_Belgium_tonight_15nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
