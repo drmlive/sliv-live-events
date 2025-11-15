@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:14:21 15-11-2025",
+    "last update time": "11:24:31 15-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090494816_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011268/1763132195071370_ACC25_BAN_A_vs_HongKong_Live_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Asia Cup Rising Stars Men's 2025",
+            "match_name": "Bangladesh A vs Hong Kong, China - 15 Nov 2025  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763229270~acl=/*~id=12627797169920773590014798041550~hmac=afaac211374f972002cd9d52765465ad960320dd7e66db8db36ccba2792dee31",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763229270~acl=/*~id=12627797169920773590014798041550~hmac=afaac211374f972002cd9d52765465ad960320dd7e66db8db36ccba2792dee31",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763229270~acl=/*~id=12627797169920773590014798041550~hmac=afaac211374f972002cd9d52765465ad960320dd7e66db8db36ccba2792dee31"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -16,7 +29,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090494830,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011267/1763131974437749_ACC25_BAN_A_vs_HongKong_today_Landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011273/1763133791089845_ACC25_SLA_vs_AFGA_today_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
