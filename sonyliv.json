@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:00:48 15-11-2025",
+    "last update time": "18:11:00 15-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "Sri Lanka A vs Afghanistan A - 15 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253658~acl=/*~id=23868499169701921227495971154305~hmac=785ac76e58eb88b062f9c0830f48ee34ae67bc94ddcaa13c08052d351b1791a2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253658~acl=/*~id=23868499169701921227495971154305~hmac=785ac76e58eb88b062f9c0830f48ee34ae67bc94ddcaa13c08052d351b1791a2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253658~acl=/*~id=23868499169701921227495971154305~hmac=785ac76e58eb88b062f9c0830f48ee34ae67bc94ddcaa13c08052d351b1791a2"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Nitto ATP Finals 2025",
             "match_name": "Bolelli/Vavassori vs Patten/Heliovaara - 15 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253048~acl=/*~id=82949228170946775728731877175273~hmac=e6b63171c282e09570945404dba44f7ed3338900a3488a7bdcfb9ea3ab825119"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253658~acl=/*~id=23868499169701921227495971154305~hmac=785ac76e58eb88b062f9c0830f48ee34ae67bc94ddcaa13c08052d351b1791a2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253658~acl=/*~id=23868499169701921227495971154305~hmac=785ac76e58eb88b062f9c0830f48ee34ae67bc94ddcaa13c08052d351b1791a2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253658~acl=/*~id=23868499169701921227495971154305~hmac=785ac76e58eb88b062f9c0830f48ee34ae67bc94ddcaa13c08052d351b1791a2"
         },
         {
             "event_category": "Football",
@@ -66,15 +66,6 @@
             "event_name": "Upcoming - Kazakhstan vs Belgium - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090494247,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011310/1763184119701687_ATP_NITTO_SF_Sinner_vs_DeMinaur_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Nitto ATP Finals 2025"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090494830,
@@ -82,6 +73,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090494247,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011310/1763184119701687_ATP_NITTO_SF_Sinner_vs_DeMinaur_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Nitto ATP Finals 2025"
         },
         {
             "event_category": "Cricket",
