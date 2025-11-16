@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:33:57 16-11-2025",
+    "last update time": "18:44:04 16-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "UAE vs Oman - 16 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341437~acl=/*~id=93091499935110373730437343781725~hmac=8496d7e090779de395fd961b34a86907de2ed96235d630f72d7e72ff9515c85f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341437~acl=/*~id=93091499935110373730437343781725~hmac=8496d7e090779de395fd961b34a86907de2ed96235d630f72d7e72ff9515c85f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341437~acl=/*~id=93091499935110373730437343781725~hmac=8496d7e090779de395fd961b34a86907de2ed96235d630f72d7e72ff9515c85f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341990~acl=/*~id=95213667893356055015596575846446~hmac=f9d1d42e4656ca29186ce3f6ba7840cdcb218dd3d8128a766e2211a70f5ca710",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341990~acl=/*~id=95213667893356055015596575846446~hmac=f9d1d42e4656ca29186ce3f6ba7840cdcb218dd3d8128a766e2211a70f5ca710",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341990~acl=/*~id=95213667893356055015596575846446~hmac=f9d1d42e4656ca29186ce3f6ba7840cdcb218dd3d8128a766e2211a70f5ca710"
         },
         {
             "event_category": "Cricket",
@@ -28,11 +28,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090494770,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011366/1763246360239573_EQ25_Portugal_vs_Armenia_16nov_tonight_landscape_thumb.jpg",
+            "contentId": 1090494767,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011366/1763245913650573_EQ25_Azerbaijan_vs_France_16nov_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Armenia - European Qualifiers for 2026 FIFA World Cup"
+            "event_name": "Upcoming - Azerbaijan vs France - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Tennis",
@@ -55,20 +55,20 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090494770,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011366/1763246360239573_EQ25_Portugal_vs_Armenia_16nov_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Portugal vs Armenia - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090494766,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011366/1763246170363573_EQ25_Albania_vs_England_16nov_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Albania vs England - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494767,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011366/1763245913650573_EQ25_Azerbaijan_vs_France_16nov_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Azerbaijan vs France - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
