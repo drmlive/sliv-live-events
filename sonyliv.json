@@ -1,20 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:44:04 16-11-2025",
+    "last update time": "18:54:12 16-11-2025",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090494930_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214919816370_ACC25_UAE_vs_OMA_live_Landscapet_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090494883_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762154226375493_EQ2526_MD10_Portugal-vs-Armenia_3nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "DP World Asia Cup Rising Stars Men's 2025",
-            "match_name": "UAE vs Oman - 16 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341990~acl=/*~id=95213667893356055015596575846446~hmac=f9d1d42e4656ca29186ce3f6ba7840cdcb218dd3d8128a766e2211a70f5ca710",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341990~acl=/*~id=95213667893356055015596575846446~hmac=f9d1d42e4656ca29186ce3f6ba7840cdcb218dd3d8128a766e2211a70f5ca710",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763341990~acl=/*~id=95213667893356055015596575846446~hmac=f9d1d42e4656ca29186ce3f6ba7840cdcb218dd3d8128a766e2211a70f5ca710"
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Portugal vs Armenia - MD 10 - 16 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763342652~acl=/*~id=60391322104529780567865531638870~hmac=780f622ed6a0ba4fa6b08f8d3d7fe65142037c65d4cb46a21c3e11eb4e19fd12",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763342652~acl=/*~id=60391322104529780567865531638870~hmac=780f622ed6a0ba4fa6b08f8d3d7fe65142037c65d4cb46a21c3e11eb4e19fd12",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763342652~acl=/*~id=60391322104529780567865531638870~hmac=780f622ed6a0ba4fa6b08f8d3d7fe65142037c65d4cb46a21c3e11eb4e19fd12"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494880_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762153956866493_EQ2526_MD10_-Hungary-vs-Republic-of-Ireland_3nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Hungary vs Republic of Ireland - MD 10 - 16 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763342652~acl=/*~id=60391322104529780567865531638870~hmac=780f622ed6a0ba4fa6b08f8d3d7fe65142037c65d4cb46a21c3e11eb4e19fd12",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763342652~acl=/*~id=60391322104529780567865531638870~hmac=780f622ed6a0ba4fa6b08f8d3d7fe65142037c65d4cb46a21c3e11eb4e19fd12",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763342652~acl=/*~id=60391322104529780567865531638870~hmac=780f622ed6a0ba4fa6b08f8d3d7fe65142037c65d4cb46a21c3e11eb4e19fd12"
         },
         {
             "event_category": "Cricket",
@@ -51,15 +64,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494770,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011366/1763246360239573_EQ25_Portugal_vs_Armenia_16nov_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Portugal vs Armenia - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
