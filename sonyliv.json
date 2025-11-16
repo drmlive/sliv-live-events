@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:33:18 16-11-2025",
+    "last update time": "05:43:26 16-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "1st ODI - 16 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763294598~acl=/*~id=11565725676218255373187230544186~hmac=d6aa5d17067e6524b8a8226cccd7170726cfd46c1ca3d4d222367c370c9688ef",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763294598~acl=/*~id=11565725676218255373187230544186~hmac=d6aa5d17067e6524b8a8226cccd7170726cfd46c1ca3d4d222367c370c9688ef",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763294598~acl=/*~id=11565725676218255373187230544186~hmac=d6aa5d17067e6524b8a8226cccd7170726cfd46c1ca3d4d222367c370c9688ef"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763295205~acl=/*~id=45144867313975127524913868184138~hmac=6a09e959d5e4c987b2a760dcb4f8592c8d87236a2c24cb959db47d9ce8632957",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763295205~acl=/*~id=45144867313975127524913868184138~hmac=6a09e959d5e4c987b2a760dcb4f8592c8d87236a2c24cb959db47d9ce8632957",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763295205~acl=/*~id=45144867313975127524913868184138~hmac=6a09e959d5e4c987b2a760dcb4f8592c8d87236a2c24cb959db47d9ce8632957"
         },
         {
             "event_category": "Fight Sports",
@@ -44,15 +44,6 @@
             "event_name": "Upcoming - Portugal vs Armenia - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090494830,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011092/1762788578350126_AsiaCupRisingStars2025_GOB_Landscape_Thumb_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
-        },
-        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090494247,
@@ -60,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Nitto ATP Finals 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090494830,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011092/1762788578350126_AsiaCupRisingStars2025_GOB_Landscape_Thumb_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
         },
         {
             "event_category": "Cricket",
