@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:53:33 16-11-2025",
+    "last update time": "06:03:42 16-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,18 +12,61 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "1st ODI - 16 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763295813~acl=/*~id=69434706423276873170386127724590~hmac=c5d33ea68978840032fe14f84f9e458d9f2a62d3367421263bbdff836f0bef1f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763295813~acl=/*~id=69434706423276873170386127724590~hmac=c5d33ea68978840032fe14f84f9e458d9f2a62d3367421263bbdff836f0bef1f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763295813~acl=/*~id=69434706423276873170386127724590~hmac=c5d33ea68978840032fe14f84f9e458d9f2a62d3367421263bbdff836f0bef1f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7"
         },
         {
             "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090494550,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011134/1762937488205121_UFC_322_Della_Maddalena_vs_Makhachev_today_12nov_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090494837_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011194/1763019358758115_UFC_322_Della_Maddalena_vs_Makhachev_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 322 - Della Maddalena vs Makhachev"
+            "event_name": "UFC 322 - Della Maddalena vs Makhachev",
+            "match_name": "UFC 322 - Della Maddalena vs Makhachev - 16 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090494837_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011194/1763019358758115_UFC_322_Della_Maddalena_vs_Makhachev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 322 - Della Maddalena vs Makhachev",
+            "match_name": "UFC 322 - Della Maddalena vs Makhachev - 16 Nov 2025 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090494837_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011194/1763019358758115_UFC_322_Della_Maddalena_vs_Makhachev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 322 - Della Maddalena vs Makhachev",
+            "match_name": "UFC 322 - Della Maddalena vs Makhachev - 16 Nov 2025 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090494837_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011194/1763019358758115_UFC_322_Della_Maddalena_vs_Makhachev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 322 - Della Maddalena vs Makhachev",
+            "match_name": "UFC 322 - Della Maddalena vs Makhachev - 16 Nov 2025 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763296420~acl=/*~id=04594444719377162492302235294746~hmac=5211bb8c7d6798d3c1356483f7f1f87887e484bdf5edb0b73696025378fbc3e7"
         },
         {
             "event_category": "Cricket",
@@ -141,6 +184,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Germany vs Slovakia - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494771,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011255/1763122302428160_EQ_MD10_Spa_vs_Tur_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Spain vs Turkiye - European Qualifiers for 2026 FIFA World Cup"
         }
     ]
 }
