@@ -1,20 +1,85 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:27:43 18-11-2025",
+    "last update time": "00:37:51 18-11-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090495076_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011386/1763297649314524_UEFA_INT_Friendlies_Finland_vs_Andorra_16nov_landscape_thumb.jpg",
+            "contentId": "1090494997_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010927/1762269472307472_EQ2526_MD10_Germany-vs-Slovakia_4nov_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Finland vs Andorra - 17 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449063~acl=/*~id=85528742978403075801963766003655~hmac=97d7a527ee04d30372f54ba06cac5b21a0c00e920acfa6ed4ebf20d37459cc82",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449063~acl=/*~id=85528742978403075801963766003655~hmac=97d7a527ee04d30372f54ba06cac5b21a0c00e920acfa6ed4ebf20d37459cc82",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449063~acl=/*~id=85528742978403075801963766003655~hmac=97d7a527ee04d30372f54ba06cac5b21a0c00e920acfa6ed4ebf20d37459cc82"
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Germany vs Slovakia - MD 10 - 18 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090495000_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010928/1762324013227810_EQ2526_MD10_Netherlands-vs-Lithuania_4nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Netherlands vs Lithuania - MD 10 - 18 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494998_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010927/1762269690343472_EQ2526_MD10_Malta-vs-Poland_4nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Malta vs Poland - MD 10 - 18 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494999_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010927/1762269880027472_EQ2526_MD10_Montenegro-vs-Croatia_4nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Montenegro vs Croatia - MD 10 - 18 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090494995_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010927/1762260075688472_EQ2526_MD10_Czechia-vs-Gibraltar_4nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Czechia vs Gibraltar - MD 10 - 18 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090495001_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010928/1762326029907810_EQ2526_MD10_Northern-Ireland-vs-Luxembourg_4nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "European Qualifiers For 2026 FIFA World Cup",
+            "match_name": "Northern Ireland vs Luxembourg - MD 10 - 18 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763449669~acl=/*~id=00503932240164891351486374720172~hmac=b9f5756d74b78d20e4183ebfcd8d70bfc3946b264a561e722d4ca7e717209623"
         },
         {
             "event_category": "Cricket",
@@ -24,33 +89,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs Oman - DP World Asia Cup Rising Stars Men's 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494769,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011411/1763321298390147_EQ25_Germany_vs_Slovakia_17nov_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Germany vs Slovakia - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494771,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011466/1763385330952787_EQ_25_25_Spain-vs-Turkiye_ddt_Lanascape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs Turkiye - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494768,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011466/1763386603830787_EQ_25_25_Belgium-vs-Liechtenstein_tonight_Lanascape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Belgium vs Liechtenstein - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
@@ -78,6 +116,24 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Do Or Die November "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494771,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011466/1763385330952787_EQ_25_25_Spain-vs-Turkiye_ddt_Lanascape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Spain vs Turkiye - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494768,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011466/1763386603830787_EQ_25_25_Belgium-vs-Liechtenstein_tonight_Lanascape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Belgium vs Liechtenstein - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
