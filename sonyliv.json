@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:21:07 17-11-2025",
+    "last update time": "16:31:15 17-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Asia Cup Rising Stars Men's 2025",
             "match_name": "Sri Lanka A vs Hong Kong, China - 17 Nov 2025  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763419867~acl=/*~id=85260078452940051786100265752799~hmac=447c3a786fd1c11f01d6b0627e9f61b07ef794394f73e6d57d47833dfc749bd7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763419867~acl=/*~id=85260078452940051786100265752799~hmac=447c3a786fd1c11f01d6b0627e9f61b07ef794394f73e6d57d47833dfc749bd7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763419867~acl=/*~id=85260078452940051786100265752799~hmac=447c3a786fd1c11f01d6b0627e9f61b07ef794394f73e6d57d47833dfc749bd7"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090494769,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011411/1763321298390147_EQ25_Germany_vs_Slovakia_17nov_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Germany vs Slovakia - European Qualifiers for 2026 FIFA World Cup"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763420474~acl=/*~id=79909661747565182680565374884980~hmac=adbf9de57b973715c12dbdf174b11d07b65bf27a4ad04ea1de3187a9af403532",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763420474~acl=/*~id=79909661747565182680565374884980~hmac=adbf9de57b973715c12dbdf174b11d07b65bf27a4ad04ea1de3187a9af403532",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763420474~acl=/*~id=79909661747565182680565374884980~hmac=adbf9de57b973715c12dbdf174b11d07b65bf27a4ad04ea1de3187a9af403532"
         },
         {
             "event_category": "Cricket",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090494769,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011411/1763321298390147_EQ25_Germany_vs_Slovakia_17nov_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Germany vs Slovakia - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
