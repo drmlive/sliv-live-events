@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:09:23 17-11-2025",
+    "last update time": "14:19:29 17-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -20,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090495191,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011440/1763368370042947_Promo_Ind-vs-Oman_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India A vs Oman - DP World Asia Cup Rising Stars Men's 2025"
         },
         {
             "event_category": "Football",
