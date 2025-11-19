@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:42:32 19-11-2025",
+    "last update time": "11:52:43 19-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "2nd ODI - 19 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763575952~acl=/*~id=36930852728816821787208729524290~hmac=fa24cb025dccd59a514e35c196bf3bb4563f733df5f8ff2a38d845ac81d16895",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763575952~acl=/*~id=36930852728816821787208729524290~hmac=fa24cb025dccd59a514e35c196bf3bb4563f733df5f8ff2a38d845ac81d16895",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763575952~acl=/*~id=36930852728816821787208729524290~hmac=fa24cb025dccd59a514e35c196bf3bb4563f733df5f8ff2a38d845ac81d16895"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763576563~acl=/*~id=88753344582994154620359961409361~hmac=32ace309755de7c37718a15f825120f9616398e41648b15040083bcb75fedf8b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763576563~acl=/*~id=88753344582994154620359961409361~hmac=32ace309755de7c37718a15f825120f9616398e41648b15040083bcb75fedf8b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763576563~acl=/*~id=88753344582994154620359961409361~hmac=32ace309755de7c37718a15f825120f9616398e41648b15040083bcb75fedf8b"
         },
         {
             "event_category": "Cricket",
@@ -26,15 +26,6 @@
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090493971,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Do Or Die November "
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090489002,
@@ -42,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090493971,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010876/176233115781840_UCL-promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Do Or Die November "
         }
     ]
 }
