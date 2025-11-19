@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:19:36 19-11-2025",
+    "last update time": "19:29:44 19-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090495408_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011480/1763404513508453_ACRS25_SL_A_VS_BAN_A_17nov_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Asia Cup Rising Stars Men's 2025",
+            "match_name": "Sri Lanka A vs Bangladesh A - 19 Nov 2025  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763603984~acl=/*~id=44079899680350403366536546358443~hmac=eedef185f859c42f24f9cfbf853c3d1ab7e935f144fc2f9a22777b934d11177b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763603984~acl=/*~id=44079899680350403366536546358443~hmac=eedef185f859c42f24f9cfbf853c3d1ab7e935f144fc2f9a22777b934d11177b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763603984~acl=/*~id=44079899680350403366536546358443~hmac=eedef185f859c42f24f9cfbf853c3d1ab7e935f144fc2f9a22777b934d11177b"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
