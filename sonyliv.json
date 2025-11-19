@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:24:00 19-11-2025",
+    "last update time": "13:34:09 19-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "2nd ODI - 19 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763582039~acl=/*~id=23418364838858617881048789507152~hmac=54098e8a6d1fd2b1694d6057b5ee16574788188329d427406231e2894ca2448f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763582039~acl=/*~id=23418364838858617881048789507152~hmac=54098e8a6d1fd2b1694d6057b5ee16574788188329d427406231e2894ca2448f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763582039~acl=/*~id=23418364838858617881048789507152~hmac=54098e8a6d1fd2b1694d6057b5ee16574788188329d427406231e2894ca2448f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763582649~acl=/*~id=59548200529106452860050674386897~hmac=f384c43afdeca9d9434c2bd6c8c27ac685fd59f340fd04423d279070f185c413",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763582649~acl=/*~id=59548200529106452860050674386897~hmac=f384c43afdeca9d9434c2bd6c8c27ac685fd59f340fd04423d279070f185c413",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763582649~acl=/*~id=59548200529106452860050674386897~hmac=f384c43afdeca9d9434c2bd6c8c27ac685fd59f340fd04423d279070f185c413"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090495306_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763442979064963_asiantour2024_PIF_Saudi_International_day1_18nov_Landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2025",
+            "match_name": "PIF Saudi International - Day 1 - 19 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763582649~acl=/*~id=59548200529106452860050674386897~hmac=f384c43afdeca9d9434c2bd6c8c27ac685fd59f340fd04423d279070f185c413",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763582649~acl=/*~id=59548200529106452860050674386897~hmac=f384c43afdeca9d9434c2bd6c8c27ac685fd59f340fd04423d279070f185c413",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763582649~acl=/*~id=59548200529106452860050674386897~hmac=f384c43afdeca9d9434c2bd6c8c27ac685fd59f340fd04423d279070f185c413"
         },
         {
             "event_category": "Cricket",
