@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:06:39 20-11-2025",
+    "last update time": "17:16:46 20-11-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "PIF Saudi International - Day 2 - 20 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763681799~acl=/*~id=66283956636174213341597610859935~hmac=5e5e6b7198b60042db78bf13665dc301ca4a660e1da6dc0f3e7bd2afe27e7f1c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763681799~acl=/*~id=66283956636174213341597610859935~hmac=5e5e6b7198b60042db78bf13665dc301ca4a660e1da6dc0f3e7bd2afe27e7f1c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763681799~acl=/*~id=66283956636174213341597610859935~hmac=5e5e6b7198b60042db78bf13665dc301ca4a660e1da6dc0f3e7bd2afe27e7f1c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763682406~acl=/*~id=73704591652126545631448877051776~hmac=97068771f3fbe9a5651decf97f87ed70fcd322d4ca6b730886a5c51ee0edc5a7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763682406~acl=/*~id=73704591652126545631448877051776~hmac=97068771f3fbe9a5651decf97f87ed70fcd322d4ca6b730886a5c51ee0edc5a7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763682406~acl=/*~id=73704591652126545631448877051776~hmac=97068771f3fbe9a5651decf97f87ed70fcd322d4ca6b730886a5c51ee0edc5a7"
         },
         {
             "event_category": "Cricket",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495598,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726692339_UCL25_Chelsea_vs_Barcelona_ddt_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Man City vs Leverkusen - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
