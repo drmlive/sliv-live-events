@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:21:26 21-11-2025",
+    "last update time": "12:31:35 21-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,6 +47,60 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Do Or Die November "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495633,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011635/1763706957561401_UCL_MD5_Arsenal_vs_Bayern_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Bayern - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495634,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011635/1763707128238401_UCL_MD5_Atletico_vs_Inter_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico vs Inter - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495635,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011635/1763707087498401_UCL_MD5_ManCity_vs_Leverkusen_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Man City vs Leverkusen - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495636,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011636/176370727598673_UCL_MD5_GEN_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495637,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011635/1763707029243401_UCL_MD5_OLY_vs_Madrid_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Olympiacos vs Real Madrid - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495638,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011635/1763706995863401_UCL_MD5_PSG_vs_Tottenham_Promo_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Tottenham - UEFA Champions League 2025-26"
         }
     ]
 }
