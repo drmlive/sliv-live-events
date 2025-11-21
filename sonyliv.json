@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:13:11 21-11-2025",
+    "last update time": "14:23:21 21-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090495608_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763700088654728_ACC_SF_BAN-A_vs_IND-A_Live_Landscape_thumb_re2.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Asia Cup Rising Stars Men's 2025",
+            "match_name": "Bangladesh A vs India A - Semi-final - 21 Nov 2025  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763758400~acl=/*~id=38988991594751324177143174419631~hmac=a3e819232cdf896011cf37bb4541c54629b5ce7ca41c50a5d718282590cf2ece",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763758400~acl=/*~id=38988991594751324177143174419631~hmac=a3e819232cdf896011cf37bb4541c54629b5ce7ca41c50a5d718282590cf2ece",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763758400~acl=/*~id=38988991594751324177143174419631~hmac=a3e819232cdf896011cf37bb4541c54629b5ce7ca41c50a5d718282590cf2ece"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,18 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "PIF Saudi International - Day 3 - 21 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763757791~acl=/*~id=65029290989898191955518071315906~hmac=a1ece378bd332b4be8f3d3dc6a94f84bfba1ba7996fcb4545a2679a0e10fe8ab",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763757791~acl=/*~id=65029290989898191955518071315906~hmac=a1ece378bd332b4be8f3d3dc6a94f84bfba1ba7996fcb4545a2679a0e10fe8ab",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763757791~acl=/*~id=65029290989898191955518071315906~hmac=a1ece378bd332b4be8f3d3dc6a94f84bfba1ba7996fcb4545a2679a0e10fe8ab"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090495617,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011598/1763582299044309_ACRS25_SF_BAN_A_vs_IND_A_20nov_today_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Bangladesh A vs India A -  DP World Asia Cup Rising Stars Men's 2025"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763758400~acl=/*~id=38988991594751324177143174419631~hmac=a3e819232cdf896011cf37bb4541c54629b5ce7ca41c50a5d718282590cf2ece",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763758400~acl=/*~id=38988991594751324177143174419631~hmac=a3e819232cdf896011cf37bb4541c54629b5ce7ca41c50a5d718282590cf2ece",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763758400~acl=/*~id=38988991594751324177143174419631~hmac=a3e819232cdf896011cf37bb4541c54629b5ce7ca41c50a5d718282590cf2ece"
         },
         {
             "event_category": "Cricket",
