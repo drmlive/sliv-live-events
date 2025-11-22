@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:19:17 22-11-2025",
+    "last update time": "12:29:25 22-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "3rd ODI - 22 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763837357~acl=/*~id=84291851008691564158028326248123~hmac=33df4423a29b654940eaad636a698a3dfc2e4fac6df67de6891fa8610c3fccf2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763837357~acl=/*~id=84291851008691564158028326248123~hmac=33df4423a29b654940eaad636a698a3dfc2e4fac6df67de6891fa8610c3fccf2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763837357~acl=/*~id=84291851008691564158028326248123~hmac=33df4423a29b654940eaad636a698a3dfc2e4fac6df67de6891fa8610c3fccf2"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090495598,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726692339_UCL25_Chelsea_vs_Barcelona_ddt_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Chelsea vs Barcelona - UEFA Champions League 2025-26"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763837965~acl=/*~id=97272019155793046711255219958827~hmac=fb051bab8f61a090519632639281bdc2e22016c4adafe8618853cd64d3a9573d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763837965~acl=/*~id=97272019155793046711255219958827~hmac=fb051bab8f61a090519632639281bdc2e22016c4adafe8618853cd64d3a9573d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763837965~acl=/*~id=97272019155793046711255219958827~hmac=fb051bab8f61a090519632639281bdc2e22016c4adafe8618853cd64d3a9573d"
         },
         {
             "event_category": "Cricket",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495598,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356726692339_UCL25_Chelsea_vs_Barcelona_ddt_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Chelsea vs Barcelona - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
