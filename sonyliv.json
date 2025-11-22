@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:00:45 22-11-2025",
+    "last update time": "14:10:57 22-11-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "PIF Saudi International - Day 4 - 22 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763843445~acl=/*~id=58427799555302970112309158665913~hmac=7d8421b68210f4fd3f670197dd53cfce2a79977f175a960a49a263734a7ce956",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763843445~acl=/*~id=58427799555302970112309158665913~hmac=7d8421b68210f4fd3f670197dd53cfce2a79977f175a960a49a263734a7ce956",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763843445~acl=/*~id=58427799555302970112309158665913~hmac=7d8421b68210f4fd3f670197dd53cfce2a79977f175a960a49a263734a7ce956"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763844056~acl=/*~id=62430483283958238026340212717182~hmac=799a1e3158a47108c7dbb9d5fc09c2d98f6d4a547237a3b74e52bd89c78fae66",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763844056~acl=/*~id=62430483283958238026340212717182~hmac=799a1e3158a47108c7dbb9d5fc09c2d98f6d4a547237a3b74e52bd89c78fae66",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763844056~acl=/*~id=62430483283958238026340212717182~hmac=799a1e3158a47108c7dbb9d5fc09c2d98f6d4a547237a3b74e52bd89c78fae66"
         },
         {
             "event_category": "Cricket",
@@ -37,20 +37,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090495633,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011663/176371317400024_UCL25_Arsenal_vs_BayernMunich_ddt_promo_landscape_thumb_re2.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Bayern - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090495639,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011639/17637085645013_BLIGA_25_26_Bayern-Munich-vs-SC-Freiburg_tonight_landscape_thumb-3.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs SC Freiburg"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495633,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011663/176371317400024_UCL25_Arsenal_vs_BayernMunich_ddt_promo_landscape_thumb_re2.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Bayern - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
