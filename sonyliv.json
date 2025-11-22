@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:34:42 22-11-2025",
+    "last update time": "18:44:51 22-11-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "PIF Saudi International - Day 4 - 22 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763859882~acl=/*~id=30705065767544265685453207215273~hmac=ecb92ac49f497cae4a1861dfe2c0f345c406e0de88107cc02231e063397e62a2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763859882~acl=/*~id=30705065767544265685453207215273~hmac=ecb92ac49f497cae4a1861dfe2c0f345c406e0de88107cc02231e063397e62a2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763859882~acl=/*~id=30705065767544265685453207215273~hmac=ecb92ac49f497cae4a1861dfe2c0f345c406e0de88107cc02231e063397e62a2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763860491~acl=/*~id=67809333758081121115802432136998~hmac=d8345f2ee43a1f1bf91d52c101f8d69105229797003d9ff24b97f45b6a3c821a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763860491~acl=/*~id=67809333758081121115802432136998~hmac=d8345f2ee43a1f1bf91d52c101f8d69105229797003d9ff24b97f45b6a3c821a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763860491~acl=/*~id=67809333758081121115802432136998~hmac=d8345f2ee43a1f1bf91d52c101f8d69105229797003d9ff24b97f45b6a3c821a"
         },
         {
             "event_category": "Cricket",
@@ -87,6 +87,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico vs Inter - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495803,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011698/1763814806506772_UCL_Promo_oly_vs_R_Mad_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
