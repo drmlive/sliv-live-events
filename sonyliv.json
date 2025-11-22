@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:54:17 22-11-2025",
+    "last update time": "06:04:25 22-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "West Indies Tour of New Zealand 2025",
             "match_name": "3rd ODI - 22 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763814256~acl=/*~id=79337501695321665550094078484632~hmac=755a0aa2faabb58f8475413b6612b947ad384439ceb43869f7eb78bf6772fbe0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763814256~acl=/*~id=79337501695321665550094078484632~hmac=755a0aa2faabb58f8475413b6612b947ad384439ceb43869f7eb78bf6772fbe0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763814256~acl=/*~id=79337501695321665550094078484632~hmac=755a0aa2faabb58f8475413b6612b947ad384439ceb43869f7eb78bf6772fbe0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763814864~acl=/*~id=49126819042809716207552202258007~hmac=9077cb9d5823059db03300bdf4469ae667158e8f219c1e4990408b28bec8349a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763814864~acl=/*~id=49126819042809716207552202258007~hmac=9077cb9d5823059db03300bdf4469ae667158e8f219c1e4990408b28bec8349a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763814864~acl=/*~id=49126819042809716207552202258007~hmac=9077cb9d5823059db03300bdf4469ae667158e8f219c1e4990408b28bec8349a"
         },
         {
             "event_category": "Football",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Chelsea vs Barcelona - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090494830,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753029467760_ACRS25_final_BAN_A_vs_SHA_22nov_dated_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
         },
         {
             "event_category": "Football",
@@ -60,15 +69,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Tottenham - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090494830,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011092/1762788578350126_AsiaCupRisingStars2025_GOB_Landscape_Thumb_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2025"
         },
         {
             "event_category": "Football",
