@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:00:24 25-11-2025",
+    "last update time": "16:10:31 25-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -11,6 +11,24 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Chelsea vs Barcelona - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495633,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011663/176371317400024_UCL25_Arsenal_vs_BayernMunich_ddt_promo_landscape_thumb_re2.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Bayern - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090495803,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011703/1763817347773755_UCL_25_26_Liverpool-vs-PSV_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Sport",
@@ -33,29 +51,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090495633,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011663/176371317400024_UCL25_Arsenal_vs_BayernMunich_ddt_promo_landscape_thumb_re2.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Bayern - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090495638,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011583/176356871587339_UCL2526_MD5_PSG_vs_Tottenham_19nov_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Tottenham - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090495803,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011703/1763817347773755_UCL_25_26_Liverpool-vs-PSV_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
