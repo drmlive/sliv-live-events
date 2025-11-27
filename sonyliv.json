@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:38:48 27-11-2025",
+    "last update time": "22:48:57 27-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496063_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2025-26",
+            "match_name": "Aston Villa vs Young Boys - MD 5 - 27 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764307136~acl=/*~id=72772344819375341943534949115832~hmac=f4e5a4a2e9087087e2b04dd5cceec6496426027b438e9946104029440d1b84fa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764307136~acl=/*~id=72772344819375341943534949115832~hmac=f4e5a4a2e9087087e2b04dd5cceec6496426027b438e9946104029440d1b84fa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764307136~acl=/*~id=72772344819375341943534949115832~hmac=f4e5a4a2e9087087e2b04dd5cceec6496426027b438e9946104029440d1b84fa"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496062_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762616396094622_UEL25_md5_Roma_vs_Midtjylland_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2025-26",
+            "match_name": "Roma vs Midtjylland - MD 5 - 27 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764307136~acl=/*~id=72772344819375341943534949115832~hmac=f4e5a4a2e9087087e2b04dd5cceec6496426027b438e9946104029440d1b84fa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764307136~acl=/*~id=72772344819375341943534949115832~hmac=f4e5a4a2e9087087e2b04dd5cceec6496426027b438e9946104029440d1b84fa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764307136~acl=/*~id=72772344819375341943534949115832~hmac=f4e5a4a2e9087087e2b04dd5cceec6496426027b438e9946104029440d1b84fa"
+        },
         {
             "event_category": "Football",
             "isLive": false,
