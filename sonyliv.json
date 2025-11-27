@@ -1,27 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:20:20 28-11-2025",
+    "last update time": "00:30:29 28-11-2025",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090496063,
+            "contentId": "1090496063_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Aston Villa vs Young Boys - MD 5 - 27 Nov 2025"
+            "match_name": "Aston Villa vs Young Boys - MD 5 - 27 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313228~acl=/*~id=69833844261456681139517687122766~hmac=d85d7b25e3530c421dd63412c5bebc2e60922b9e2cca42459dd155dbc0c10b5d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313228~acl=/*~id=69833844261456681139517687122766~hmac=d85d7b25e3530c421dd63412c5bebc2e60922b9e2cca42459dd155dbc0c10b5d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313228~acl=/*~id=69833844261456681139517687122766~hmac=d85d7b25e3530c421dd63412c5bebc2e60922b9e2cca42459dd155dbc0c10b5d"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090496062,
+            "contentId": "1090496062_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762616396094622_UEL25_md5_Roma_vs_Midtjylland_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Roma vs Midtjylland - MD 5 - 27 Nov 2025"
+            "match_name": "Roma vs Midtjylland - MD 5 - 27 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313228~acl=/*~id=69833844261456681139517687122766~hmac=d85d7b25e3530c421dd63412c5bebc2e60922b9e2cca42459dd155dbc0c10b5d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313228~acl=/*~id=69833844261456681139517687122766~hmac=d85d7b25e3530c421dd63412c5bebc2e60922b9e2cca42459dd155dbc0c10b5d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313228~acl=/*~id=69833844261456681139517687122766~hmac=d85d7b25e3530c421dd63412c5bebc2e60922b9e2cca42459dd155dbc0c10b5d"
         },
         {
             "event_category": "Football",
