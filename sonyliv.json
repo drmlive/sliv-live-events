@@ -1,43 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:11:02 28-11-2025",
+    "last update time": "01:21:09 28-11-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090496063_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Aston Villa vs Young Boys - MD 5 - 27 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315662~acl=/*~id=12672385464701568277438242742299~hmac=720b79662a1832ff59dc77af257336f3ea131578ce2eaa055ff34ee7de15b3c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315662~acl=/*~id=12672385464701568277438242742299~hmac=720b79662a1832ff59dc77af257336f3ea131578ce2eaa055ff34ee7de15b3c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315662~acl=/*~id=12672385464701568277438242742299~hmac=720b79662a1832ff59dc77af257336f3ea131578ce2eaa055ff34ee7de15b3c8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090496062_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762616396094622_UEL25_md5_Roma_vs_Midtjylland_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Roma vs Midtjylland - MD 5 - 27 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315662~acl=/*~id=12672385464701568277438242742299~hmac=720b79662a1832ff59dc77af257336f3ea131578ce2eaa055ff34ee7de15b3c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315662~acl=/*~id=12672385464701568277438242742299~hmac=720b79662a1832ff59dc77af257336f3ea131578ce2eaa055ff34ee7de15b3c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764315662~acl=/*~id=12672385464701568277438242742299~hmac=720b79662a1832ff59dc77af257336f3ea131578ce2eaa055ff34ee7de15b3c8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090495937,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011767/1764000343920107_UEL25_promo_24nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 5"
-        },
         {
             "event_category": "Sport",
             "isLive": false,
@@ -64,15 +29,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayer Leverkusen vs Borussia Dortmund"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090495938,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011767/1764000387587107_UECL25_promo_24nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Conference League - MD 4"
         },
         {
             "event_category": "Football",
