@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:10:06 29-11-2025",
+    "last update time": "00:20:14 29-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496258_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629317785053_Bliga2526_MD12_Borussia-Mgladbach-vs-RB-Leipzig_12nov__landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Borussia M'gladbach vs RB Leipzig - MD 12 - 29 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764399013~acl=/*~id=91119035937319888458241606939066~hmac=d1028347ce3e6ce9ccfe67c2538874a30dcd2af988f8ebcbcd0a7bfc101a6e9b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764399013~acl=/*~id=91119035937319888458241606939066~hmac=d1028347ce3e6ce9ccfe67c2538874a30dcd2af988f8ebcbcd0a7bfc101a6e9b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764399013~acl=/*~id=91119035937319888458241606939066~hmac=d1028347ce3e6ce9ccfe67c2538874a30dcd2af988f8ebcbcd0a7bfc101a6e9b"
+        },
         {
             "event_category": "Sport",
             "isLive": false,
