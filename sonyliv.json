@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:19:10 29-11-2025",
+    "last update time": "22:29:17 29-11-2025",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090496098,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011809/1764149099082218_Bung_25_26_Bayer-Leverkusen-vs-Borussia-Dortmundi_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "isLive": true,
+            "contentId": "1090496286_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176336828523435_Bliga2526_MD12_Bayer-Leverkusen-vs-Borussia-Dortmund_12nov__landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs Borussia Dortmund"
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Bayer Leverkusen vs Borussia Dortmund - MD 12 - 29 Nov 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764478757~acl=/*~id=13482342279276167498500965601312~hmac=7849c1b9feeed4afe97996c5f965ae8f7e0e5bd88ed272033b46d59c80b96097",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764478757~acl=/*~id=13482342279276167498500965601312~hmac=7849c1b9feeed4afe97996c5f965ae8f7e0e5bd88ed272033b46d59c80b96097",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764478757~acl=/*~id=13482342279276167498500965601312~hmac=7849c1b9feeed4afe97996c5f965ae8f7e0e5bd88ed272033b46d59c80b96097"
         },
         {
             "event_category": "Sport",
