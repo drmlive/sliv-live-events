@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:08:57 29-11-2025",
+    "last update time": "11:19:10 29-11-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Finals - Asia-Pacific Wildcard Playoff - 29 Nov 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764437937~acl=/*~id=45427638202511031344837583962274~hmac=684d1095756b302ab459f859edc4a1d93fe88edb3d113e17a3ed6d5700a7debd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764437937~acl=/*~id=45427638202511031344837583962274~hmac=684d1095756b302ab459f859edc4a1d93fe88edb3d113e17a3ed6d5700a7debd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764437937~acl=/*~id=45427638202511031344837583962274~hmac=684d1095756b302ab459f859edc4a1d93fe88edb3d113e17a3ed6d5700a7debd"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764438549~acl=/*~id=06493771760674157696833600234095~hmac=732cc50ffb395aa9ec2ae40e88967208c18898e7b9190fa818face6a0e9043de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764438549~acl=/*~id=06493771760674157696833600234095~hmac=732cc50ffb395aa9ec2ae40e88967208c18898e7b9190fa818face6a0e9043de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764438549~acl=/*~id=06493771760674157696833600234095~hmac=732cc50ffb395aa9ec2ae40e88967208c18898e7b9190fa818face6a0e9043de"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090496098,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011809/1764149099082218_Bung_25_26_Bayer-Leverkusen-vs-Borussia-Dortmundi_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs Borussia Dortmund"
         },
         {
             "event_category": "Sport",
@@ -33,15 +42,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs St. Pauli"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090496098,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011809/1764149099082218_Bung_25_26_Bayer-Leverkusen-vs-Borussia-Dortmundi_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayer Leverkusen vs Borussia Dortmund"
         },
         {
             "event_category": "Football",
