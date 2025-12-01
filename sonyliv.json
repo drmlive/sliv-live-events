@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:21:14 02-12-2025",
+    "last update time": "02:31:22 02-12-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090494321_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507798698522_NZvsWI25_1st_test_day1_30nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "West Indies Tour of New Zealand 2025",
+            "match_name": "1st Test - Day 1 - 2 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764666082~acl=/*~id=63275414635808296163508853585927~hmac=5d9479d566047156f3850a1a310958628adf83e8b86ed5dda938497c1ed85fbb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764666082~acl=/*~id=63275414635808296163508853585927~hmac=5d9479d566047156f3850a1a310958628adf83e8b86ed5dda938497c1ed85fbb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764666082~acl=/*~id=63275414635808296163508853585927~hmac=5d9479d566047156f3850a1a310958628adf83e8b86ed5dda938497c1ed85fbb"
+        },
         {
             "event_category": "Sport",
             "isLive": false,
