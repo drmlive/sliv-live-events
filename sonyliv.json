@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:21:40 06-12-2025",
+    "last update time": "17:31:53 06-12-2025",
     "matches": [
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": "1090496700_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011993/1764738463989770_ABB_FIA_FormulaE_WC25_Round_1_Sao_Paulo_EPRIX_Qualifying_Race_2dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship",
+            "match_name": "Round 1 - Sao Paulo E-PRIX - Qualifying Race - 6 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765065713~acl=/*~id=07566747820574153356605628336112~hmac=94f3ff82f3bb75f77c1d6ffe2b41b92845348472d9ca5f604f2a501c13c74f58",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765065713~acl=/*~id=07566747820574153356605628336112~hmac=94f3ff82f3bb75f77c1d6ffe2b41b92845348472d9ca5f604f2a501c13c74f58",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765065713~acl=/*~id=07566747820574153356605628336112~hmac=94f3ff82f3bb75f77c1d6ffe2b41b92845348472d9ca5f604f2a501c13c74f58"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": false,
