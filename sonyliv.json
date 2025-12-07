@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:19:17 07-12-2025",
+    "last update time": "21:29:27 07-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496758_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764134575640656_Bundesliga_MD13_BorussiaDortmund_vs_Hoffenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Borussia Dortmund vs Hoffenheim - MD 13 - 7 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765166366~acl=/*~id=54693493769999047899819621781580~hmac=b3fc4bdb4421a1ae8e733d369a1425a5eb237545c4d9ee42e60a51acab8cde6f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765166366~acl=/*~id=54693493769999047899819621781580~hmac=b3fc4bdb4421a1ae8e733d369a1425a5eb237545c4d9ee42e60a51acab8cde6f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765166366~acl=/*~id=54693493769999047899819621781580~hmac=b3fc4bdb4421a1ae8e733d369a1425a5eb237545c4d9ee42e60a51acab8cde6f"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Hamburg SV vs Werder Bremen - MD 13 - 7 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765165757~acl=/*~id=57413779780533495581247905001975~hmac=9c700b4bb618a77ad7f0ff69be804100443e12a2523282ec160a9536a1ddc04a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765165757~acl=/*~id=57413779780533495581247905001975~hmac=9c700b4bb618a77ad7f0ff69be804100443e12a2523282ec160a9536a1ddc04a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765165757~acl=/*~id=57413779780533495581247905001975~hmac=9c700b4bb618a77ad7f0ff69be804100443e12a2523282ec160a9536a1ddc04a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765166366~acl=/*~id=54693493769999047899819621781580~hmac=b3fc4bdb4421a1ae8e733d369a1425a5eb237545c4d9ee42e60a51acab8cde6f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765166366~acl=/*~id=54693493769999047899819621781580~hmac=b3fc4bdb4421a1ae8e733d369a1425a5eb237545c4d9ee42e60a51acab8cde6f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765166366~acl=/*~id=54693493769999047899819621781580~hmac=b3fc4bdb4421a1ae8e733d369a1425a5eb237545c4d9ee42e60a51acab8cde6f"
         },
         {
             "event_category": "Football",
@@ -51,15 +64,6 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090496564,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012037/176484029539726_BLIGA_25_26_MD13_Borussia-Dortmund-vs-Hoffenheim_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Borussia Dortmund vs Hoffenheim"
         },
         {
             "event_category": "Football",
