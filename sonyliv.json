@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:14:52 09-12-2025",
+    "last update time": "12:24:59 09-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -67,6 +67,15 @@
             "event_name": "Upcoming - Athletic Club vs Paris - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090496896,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012142/1765213739769804_U19_AC25_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - DP World U-19 Asia Cup 2025"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090496665,
@@ -76,13 +85,13 @@
             "event_name": "Upcoming - Matchday 6 - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Tennis",
             "isLive": false,
-            "contentId": 1090496896,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012142/1765213739769804_U19_AC25_promo_landscape_thumb.jpg",
+            "contentId": 1090496895,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012142/1765213662329804_AO25_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - DP World U-19 Asia Cup 2025"
+            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Football",
@@ -101,6 +110,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Real Madrid vs Manchester City - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090496909,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012147/1765260878049316_UEL-MD-6-Promo-thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League - MD 6"
         },
         {
             "event_category": "Cricket",
