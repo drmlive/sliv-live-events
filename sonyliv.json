@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:29:15 09-12-2025",
+    "last update time": "18:39:22 09-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "PSV vs Atletico - MD 6 - 9 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328355~acl=/*~id=44212793922597253894513481664294~hmac=f4703e1c96dfb08cee890d57ad6fd3cd9afa0f873703c0befbe674994b4acc3d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328355~acl=/*~id=44212793922597253894513481664294~hmac=f4703e1c96dfb08cee890d57ad6fd3cd9afa0f873703c0befbe674994b4acc3d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328355~acl=/*~id=44212793922597253894513481664294~hmac=f4703e1c96dfb08cee890d57ad6fd3cd9afa0f873703c0befbe674994b4acc3d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328961~acl=/*~id=40075638756985599601763399988450~hmac=01ca747cea52c112165013ce804e6aa353313247c9c7333c5b1e8e0438dacdfa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328961~acl=/*~id=40075638756985599601763399988450~hmac=01ca747cea52c112165013ce804e6aa353313247c9c7333c5b1e8e0438dacdfa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765328961~acl=/*~id=40075638756985599601763399988450~hmac=01ca747cea52c112165013ce804e6aa353313247c9c7333c5b1e8e0438dacdfa"
         },
         {
             "event_category": "Football",
@@ -136,4 +136,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-         
+            "contentId": 1090496909,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012147/1765260878049316_UEL-MD-6-Promo-thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League - MD 6"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        }
+    ]
+}
