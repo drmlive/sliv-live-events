@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:20:53 09-12-2025",
+    "last update time": "20:31:03 09-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496500_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011784/1764062208868284_UCL_25_26_MD6_Kairat-Almaty-vs-Olympiacos_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Kairat Almaty vs Olympiacos - MD 6 - 9 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Inter vs Liverpool - MD 6 - 9 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335052~acl=/*~id=68624411485306686404334315420633~hmac=d024473998a364949fd5bde3b70628545d91b6008b8d3e9f650dd124be6a8646",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335052~acl=/*~id=68624411485306686404334315420633~hmac=d024473998a364949fd5bde3b70628545d91b6008b8d3e9f650dd124be6a8646",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335052~acl=/*~id=68624411485306686404334315420633~hmac=d024473998a364949fd5bde3b70628545d91b6008b8d3e9f650dd124be6a8646"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54"
         },
         {
             "event_category": "Football",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "PSV vs Atletico - MD 6 - 9 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335052~acl=/*~id=68624411485306686404334315420633~hmac=d024473998a364949fd5bde3b70628545d91b6008b8d3e9f650dd124be6a8646",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335052~acl=/*~id=68624411485306686404334315420633~hmac=d024473998a364949fd5bde3b70628545d91b6008b8d3e9f650dd124be6a8646",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335052~acl=/*~id=68624411485306686404334315420633~hmac=d024473998a364949fd5bde3b70628545d91b6008b8d3e9f650dd124be6a8646"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765335661~acl=/*~id=72401903499516227790684477183622~hmac=abb5070cf1766c95e124e3a92a46d8ce9fc28f763d79c50cc3a3cb2b78163c54"
         },
         {
             "event_category": "Football",
