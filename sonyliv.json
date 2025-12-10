@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:25:21 10-12-2025",
+    "last update time": "13:35:28 10-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -11,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Real Madrid vs Manchester City - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090496665,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468542813536_UCL2526_Club_Brugge_vs_Arsenal_2dec_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 6 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -29,15 +38,6 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090496665,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468542813536_UCL2526_Club_Brugge_vs_Arsenal_2dec_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 6 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
