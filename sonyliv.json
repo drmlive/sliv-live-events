@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:13:46 10-12-2025",
+    "last update time": "11:23:54 10-12-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090496903_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255330712892_NZvsWI25_2nd_test_day1_9dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "West Indies Tour of New Zealand 2025",
-            "match_name": "2nd Test - Day 1 - 10 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765388626~acl=/*~id=81076588459331795184197548794139~hmac=cad92e36e59d16d245d554b98b5b260e72b1654cb3b7e535fbfeb24d9815ed1c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765388626~acl=/*~id=81076588459331795184197548794139~hmac=cad92e36e59d16d245d554b98b5b260e72b1654cb3b7e535fbfeb24d9815ed1c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765388626~acl=/*~id=81076588459331795184197548794139~hmac=cad92e36e59d16d245d554b98b5b260e72b1654cb3b7e535fbfeb24d9815ed1c"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -46,6 +33,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090496665,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468542813536_UCL2526_Club_Brugge_vs_Arsenal_2dec_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 6 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090496662,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011983/1764689585726190_UCL_MD6_AthleticClub_vs_PSG_TON_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -60,15 +56,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090496665,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011979/176468542813536_UCL2526_Club_Brugge_vs_Arsenal_2dec_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 6 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
