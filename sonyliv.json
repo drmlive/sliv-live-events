@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:59:59 10-12-2025",
+    "last update time": "19:10:06 10-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Club Brugge vs Arsenal - MD 6 - 10 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416598~acl=/*~id=00172721947964648712996885249892~hmac=bf9481fba97ba3f62a5ad3e7dc3d817281a97cbfc2796734580631997cda1eee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416598~acl=/*~id=00172721947964648712996885249892~hmac=bf9481fba97ba3f62a5ad3e7dc3d817281a97cbfc2796734580631997cda1eee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416598~acl=/*~id=00172721947964648712996885249892~hmac=bf9481fba97ba3f62a5ad3e7dc3d817281a97cbfc2796734580631997cda1eee"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090496904_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737828465679_AsianTour25_Saudi_Open_presented_by_PIF_Day1_2dec_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2025",
-            "match_name": "PIF Saudi Open - Day 1 - 10 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416598~acl=/*~id=00172721947964648712996885249892~hmac=bf9481fba97ba3f62a5ad3e7dc3d817281a97cbfc2796734580631997cda1eee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416598~acl=/*~id=00172721947964648712996885249892~hmac=bf9481fba97ba3f62a5ad3e7dc3d817281a97cbfc2796734580631997cda1eee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765416598~acl=/*~id=00172721947964648712996885249892~hmac=bf9481fba97ba3f62a5ad3e7dc3d817281a97cbfc2796734580631997cda1eee"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765417206~acl=/*~id=19019138618873990642001961362855~hmac=9fe075dc4cf7878c1f0aad654dbf8513ba4f253eb26665a7ede269e461e5a7f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765417206~acl=/*~id=19019138618873990642001961362855~hmac=9fe075dc4cf7878c1f0aad654dbf8513ba4f253eb26665a7ede269e461e5a7f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765417206~acl=/*~id=19019138618873990642001961362855~hmac=9fe075dc4cf7878c1f0aad654dbf8513ba4f253eb26665a7ede269e461e5a7f1"
         },
         {
             "event_category": "Football",
@@ -37,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Real Madrid vs Manchester City - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090497066,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Messi's GOAT Tour of India"
         },
         {
             "event_category": "Football",
@@ -73,15 +69,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Athletic Club vs Paris - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090497066,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Messi's GOAT Tour of India"
         },
         {
             "event_category": "Tennis",
@@ -125,4 +112,17 @@
             "contentId": 1090496909,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012147/1765260878049316_UEL-MD-6-Promo-thumbs_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Europa League - MD 6"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090489002,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - The Best Sporting Action"
+        }
+    ]
+}
