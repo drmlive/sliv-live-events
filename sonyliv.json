@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:48:53 10-12-2025",
+    "last update time": "17:59:02 10-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496501_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740112914688_UYL2526_MD6_Brugge_vs_Arsenal_2dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Club Brugge vs Arsenal - MD 6 - 10 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412941~acl=/*~id=36932429923684400795871245035431~hmac=c503c3584859f7d0c59a638910fff96f9b201337aa867c3d5b633e2a80661bfe",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412941~acl=/*~id=36932429923684400795871245035431~hmac=c503c3584859f7d0c59a638910fff96f9b201337aa867c3d5b633e2a80661bfe",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412941~acl=/*~id=36932429923684400795871245035431~hmac=c503c3584859f7d0c59a638910fff96f9b201337aa867c3d5b633e2a80661bfe"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2025",
             "match_name": "PIF Saudi Open - Day 1 - 10 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412333~acl=/*~id=47723155177274941009536505608885~hmac=b8609c061fadd37fe05da931f0ec5375bde25b4c2e3c3bfee88e114b4a941ef6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412333~acl=/*~id=47723155177274941009536505608885~hmac=b8609c061fadd37fe05da931f0ec5375bde25b4c2e3c3bfee88e114b4a941ef6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412333~acl=/*~id=47723155177274941009536505608885~hmac=b8609c061fadd37fe05da931f0ec5375bde25b4c2e3c3bfee88e114b4a941ef6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412941~acl=/*~id=36932429923684400795871245035431~hmac=c503c3584859f7d0c59a638910fff96f9b201337aa867c3d5b633e2a80661bfe",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412941~acl=/*~id=36932429923684400795871245035431~hmac=c503c3584859f7d0c59a638910fff96f9b201337aa867c3d5b633e2a80661bfe",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765412941~acl=/*~id=36932429923684400795871245035431~hmac=c503c3584859f7d0c59a638910fff96f9b201337aa867c3d5b633e2a80661bfe"
         },
         {
             "event_category": "Football",
