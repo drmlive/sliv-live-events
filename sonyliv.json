@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:06:58 12-12-2025",
+    "last update time": "01:17:05 12-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090496525_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764085273329276_UEL2526_MD6_Utrecht_vs_Nottm_Forest_25nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Utrecht vs Nott'm Forest - MD 6 - 11 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525017~acl=/*~id=39380994387039281746862008816223~hmac=b66df513132ea9640cc63dbc716df004d72fbfd515512646a05ab1787b913367",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525017~acl=/*~id=39380994387039281746862008816223~hmac=b66df513132ea9640cc63dbc716df004d72fbfd515512646a05ab1787b913367",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525017~acl=/*~id=39380994387039281746862008816223~hmac=b66df513132ea9640cc63dbc716df004d72fbfd515512646a05ab1787b913367"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090496519_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764084518497276_UEL2526_MD6_GNK_Dinamo_vs_Real_Betis_25nov_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "GNK Dinamo vs Real Betis - MD 6 - 11 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525017~acl=/*~id=39380994387039281746862008816223~hmac=b66df513132ea9640cc63dbc716df004d72fbfd515512646a05ab1787b913367",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525017~acl=/*~id=39380994387039281746862008816223~hmac=b66df513132ea9640cc63dbc716df004d72fbfd515512646a05ab1787b913367",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765525017~acl=/*~id=39380994387039281746862008816223~hmac=b66df513132ea9640cc63dbc716df004d72fbfd515512646a05ab1787b913367"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -55,15 +29,6 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Messi's GOAT Tour of India"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090496909,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012016/1764781878632245_UEL25_Basel_vs_AstonVilla_landscape_thumb_ton.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Europa League - MD 6"
         },
         {
             "event_category": "Sport",
