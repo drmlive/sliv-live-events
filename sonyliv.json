@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:34:05 11-12-2025",
+    "last update time": "22:44:50 11-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496525_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764085273329276_UEL2526_MD6_Utrecht_vs_Nottm_Forest_25nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2025-26",
+            "match_name": "Utrecht vs Nott'm Forest - MD 6 - 11 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765516489~acl=/*~id=94576260621157159421297587525979~hmac=4e598df3850aabde352ed92b28ec4bc9ae74851052b40a961680c24fb398beda",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765516489~acl=/*~id=94576260621157159421297587525979~hmac=4e598df3850aabde352ed92b28ec4bc9ae74851052b40a961680c24fb398beda",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765516489~acl=/*~id=94576260621157159421297587525979~hmac=4e598df3850aabde352ed92b28ec4bc9ae74851052b40a961680c24fb398beda"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090496519_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764084518497276_UEL2526_MD6_GNK_Dinamo_vs_Real_Betis_25nov_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2025-26",
+            "match_name": "GNK Dinamo vs Real Betis - MD 6 - 11 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765516489~acl=/*~id=94576260621157159421297587525979~hmac=4e598df3850aabde352ed92b28ec4bc9ae74851052b40a961680c24fb398beda",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765516489~acl=/*~id=94576260621157159421297587525979~hmac=4e598df3850aabde352ed92b28ec4bc9ae74851052b40a961680c24fb398beda",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765516489~acl=/*~id=94576260621157159421297587525979~hmac=4e598df3850aabde352ed92b28ec4bc9ae74851052b40a961680c24fb398beda"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
