@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:58:35 13-12-2025",
+    "last update time": "02:08:43 13-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Union Berlin vs RB Leipzig - MD 14 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765614514~acl=/*~id=39691292701051613961813804843475~hmac=d18b71c2ebcb998b59aeabfa524a57c68c55ce59acb1d0342ac13a2c08102024",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765614514~acl=/*~id=39691292701051613961813804843475~hmac=d18b71c2ebcb998b59aeabfa524a57c68c55ce59acb1d0342ac13a2c08102024",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765614514~acl=/*~id=39691292701051613961813804843475~hmac=d18b71c2ebcb998b59aeabfa524a57c68c55ce59acb1d0342ac13a2c08102024"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090497219,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456067167463_ACC_INDvsPAK_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - DP World Men's U19 Asia Cup 2025"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765615123~acl=/*~id=45474680279486578355159733533977~hmac=a751a31612efcc716fa6017a68a1744f752e242cc1da5a577be89dd41d65862d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765615123~acl=/*~id=45474680279486578355159733533977~hmac=a751a31612efcc716fa6017a68a1744f752e242cc1da5a577be89dd41d65862d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765615123~acl=/*~id=45474680279486578355159733533977~hmac=a751a31612efcc716fa6017a68a1744f752e242cc1da5a577be89dd41d65862d"
         },
         {
             "event_category": "Football",
@@ -33,6 +24,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Messi's GOAT Tour of India"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090497219,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012259/1765456067167463_ACC_INDvsPAK_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - DP World Men's U19 Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
