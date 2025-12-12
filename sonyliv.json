@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:39:07 13-12-2025",
+    "last update time": "02:49:15 13-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Union Berlin vs RB Leipzig - MD 14 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765616947~acl=/*~id=58526207290435449627946787337884~hmac=b2a76ee9bf1d0cd44ec1568a541e7d780eb652c5e36e05044f8a60f271738f0f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765616947~acl=/*~id=58526207290435449627946787337884~hmac=b2a76ee9bf1d0cd44ec1568a541e7d780eb652c5e36e05044f8a60f271738f0f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765616947~acl=/*~id=58526207290435449627946787337884~hmac=b2a76ee9bf1d0cd44ec1568a541e7d780eb652c5e36e05044f8a60f271738f0f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765617555~acl=/*~id=67234959081248312195465582048810~hmac=a55ee1c6c37fa211b556eca23d65ee34784846d0aacfc7a23d5fb545ef341de5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765617555~acl=/*~id=67234959081248312195465582048810~hmac=a55ee1c6c37fa211b556eca23d65ee34784846d0aacfc7a23d5fb545ef341de5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765617555~acl=/*~id=67234959081248312195465582048810~hmac=a55ee1c6c37fa211b556eca23d65ee34784846d0aacfc7a23d5fb545ef341de5"
         },
         {
             "event_category": "Football",
@@ -53,24 +53,6 @@
             "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
         },
         {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090496895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090496316,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011940/1764578169425579_NZvsWI2025_3rd_test_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - West Indies Tour of New Zealand 2025"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090497417,
@@ -87,6 +69,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - SC Freiburg vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090496895,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090496316,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011940/1764578169425579_NZvsWI2025_3rd_test_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - West Indies Tour of New Zealand 2025"
         },
         {
             "event_category": "Cricket",
