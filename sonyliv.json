@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:47:31 13-12-2025",
+    "last update time": "00:57:42 13-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Union Berlin vs RB Leipzig - MD 14 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765610251~acl=/*~id=27266279409486292559284151383302~hmac=77226f52b6e1a0715465d3f03533aca9c0faff52d4d65c2573a30e64004d2875",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765610251~acl=/*~id=27266279409486292559284151383302~hmac=77226f52b6e1a0715465d3f03533aca9c0faff52d4d65c2573a30e64004d2875",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765610251~acl=/*~id=27266279409486292559284151383302~hmac=77226f52b6e1a0715465d3f03533aca9c0faff52d4d65c2573a30e64004d2875"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765610862~acl=/*~id=50340994935565539003144581475985~hmac=f37a5f8fe7c4c80f9206b54dfab3c92c5738427cb39cc237cebf11fb804e00d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765610862~acl=/*~id=50340994935565539003144581475985~hmac=f37a5f8fe7c4c80f9206b54dfab3c92c5738427cb39cc237cebf11fb804e00d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/bundesli1212/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765610862~acl=/*~id=50340994935565539003144581475985~hmac=f37a5f8fe7c4c80f9206b54dfab3c92c5738427cb39cc237cebf11fb804e00d6"
         },
         {
             "event_category": "Cricket",
@@ -69,6 +69,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - West Indies Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090497417,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012298/1765523274849301_Bliga2526_MD14_bayern_vs_mainz_12dec_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Mainz"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090497416,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012298/1765523249478301_Bliga2526_MD14_Freiburg_vs_Dortmund_12dec_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - SC Freiburg vs Borussia Dortmund"
         },
         {
             "event_category": "Cricket",
