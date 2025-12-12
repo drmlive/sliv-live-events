@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:04:25 12-12-2025",
+    "last update time": "21:14:35 12-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,15 +22,6 @@
             "event_name": "Upcoming - Messi's GOAT Tour of India"
         },
         {
-            "event_category": "Sport",
-            "isLive": false,
-            "contentId": 1090495939,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090496896,
@@ -38,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
+        },
+        {
+            "event_category": "Sport",
+            "isLive": false,
+            "contentId": 1090495939,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011777/1764064043261173_WWE_SNME_2025_JohnCena1_GOB_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - WWE SNME - John Cena's Final Match"
         },
         {
             "event_category": "Tennis",
