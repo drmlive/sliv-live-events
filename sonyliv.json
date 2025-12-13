@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:46:22 13-12-2025",
+    "last update time": "10:06:48 13-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,18 +12,35 @@
             "audioLanguageName": "ENG",
             "event_name": "Messi's GOAT Tour Of India",
             "match_name": "Kolkata Event - 13 Dec 2025 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765642581~acl=/*~id=53312006808873249523785213544406~hmac=e75b9701d30d8d6f092354fdba7f019d7c1460f60c8a9c71c5f503805c37c2ff",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765642581~acl=/*~id=53312006808873249523785213544406~hmac=e75b9701d30d8d6f092354fdba7f019d7c1460f60c8a9c71c5f503805c37c2ff",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765642581~acl=/*~id=53312006808873249523785213544406~hmac=e75b9701d30d8d6f092354fdba7f019d7c1460f60c8a9c71c5f503805c37c2ff"
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090497066,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "LIV",
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090497367_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012248/1765446765258679_AC25_U19_SL_vs_NEP_11dec_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Messi's GOAT Tour of India"
+            "event_name": "DP World Men's U19 Asia Cup 2025",
+            "match_name": "Sri Lanka U19 vs Nepal U19 - 13 Dec 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090497361_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Men's U19 Asia Cup 2025",
+            "match_name": "Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765643805~acl=/*~id=06328318076027186400177680128682~hmac=f4fff37df310e73f3b31b01fb57bd1c81dbbe5716b4b8f180e0ac51ddb830047"
         },
         {
             "event_category": "Cricket",
@@ -33,15 +50,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - DP World Men's U19 Asia Cup 2025"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090496896,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012296/1765518674571313_AC25_U19_AFG_vs_BAN_12dec_tonight_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
         },
         {
             "event_category": "Sport",
@@ -82,6 +90,24 @@
         {
             "event_category": "Cricket",
             "isLive": false,
+            "contentId": 1090496896,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012202/1765356766813344_U19_Asia_Cup_2025_GOB_2_Landscape_Thumb_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090497066,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Messi's GOAT Tour of India"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
             "contentId": 1090496316,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011940/1764578169425579_NZvsWI2025_3rd_test_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -92,10 +118,4 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090489002,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008092/1757691706791589_SPORTS_COMBO_PROMO_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - The Best Sporting Action"
-        }
-    ]
-}
+            
