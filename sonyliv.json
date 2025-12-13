@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:25:56 13-12-2025",
+    "last update time": "09:36:09 13-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090497335_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536429852773_Messi_India_Tour25_kolkata_12dec_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Messi's GOAT Tour Of India",
+            "match_name": "Kolkata Event - 13 Dec 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765641968~acl=/*~id=26385496422809262181607530591063~hmac=fd73756990d748c3043553497ce073406cd4af1eaa7c4c74b784b7dc9b74e479",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765641968~acl=/*~id=26385496422809262181607530591063~hmac=fd73756990d748c3043553497ce073406cd4af1eaa7c4c74b784b7dc9b74e479",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765641968~acl=/*~id=26385496422809262181607530591063~hmac=fd73756990d748c3043553497ce073406cd4af1eaa7c4c74b784b7dc9b74e479"
+        },
         {
             "event_category": "Football",
             "isLive": false,
