@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:25:08 13-12-2025",
+    "last update time": "18:35:16 13-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090497413_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536465044773_Messi_India_Tour25_Hyderabad_12dec_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Messi's GOAT Tour Of India",
+            "match_name": "Hyderabad Event - 13 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765674315~acl=/*~id=69282949384352263703753962041741~hmac=ca314cbeb5529a5b64e667265576d4e845bfc36f9648385b4a6b4ed3b17d5ac7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765674315~acl=/*~id=69282949384352263703753962041741~hmac=ca314cbeb5529a5b64e667265576d4e845bfc36f9648385b4a6b4ed3b17d5ac7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765674315~acl=/*~id=69282949384352263703753962041741~hmac=ca314cbeb5529a5b64e667265576d4e845bfc36f9648385b4a6b4ed3b17d5ac7"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Men's U19 Asia Cup 2025",
             "match_name": "Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765673708~acl=/*~id=50668767219663320151335553525749~hmac=7817453d7dba6045fc5026ede466da8faffc2b4fd21fa2b3d1a914fda699e596",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765673708~acl=/*~id=50668767219663320151335553525749~hmac=7817453d7dba6045fc5026ede466da8faffc2b4fd21fa2b3d1a914fda699e596",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765673708~acl=/*~id=50668767219663320151335553525749~hmac=7817453d7dba6045fc5026ede466da8faffc2b4fd21fa2b3d1a914fda699e596"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765674315~acl=/*~id=69282949384352263703753962041741~hmac=ca314cbeb5529a5b64e667265576d4e845bfc36f9648385b4a6b4ed3b17d5ac7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765674315~acl=/*~id=69282949384352263703753962041741~hmac=ca314cbeb5529a5b64e667265576d4e845bfc36f9648385b4a6b4ed3b17d5ac7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765674315~acl=/*~id=69282949384352263703753962041741~hmac=ca314cbeb5529a5b64e667265576d4e845bfc36f9648385b4a6b4ed3b17d5ac7"
         },
         {
             "event_category": "Cricket",
@@ -24,15 +37,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - DP World Men's U19 Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090497066,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Messi's GOAT Tour of India"
         },
         {
             "event_category": "Sport",
@@ -78,6 +82,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090497066,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012167/17652942762779_Messi_India_Tour_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Messi's GOAT Tour of India"
         },
         {
             "event_category": "Cricket",
