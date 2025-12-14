@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:21:23 14-12-2025",
+    "last update time": "22:31:33 14-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Bayern Munich vs Mainz - MD 14 - 14 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765774283~acl=/*~id=93767000184335679996530783174305~hmac=c7c763b3a2afd3f86e2d2783a9297fb69fa7d1b3a6b2019bff1b80d2cf4f0fd8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765774283~acl=/*~id=93767000184335679996530783174305~hmac=c7c763b3a2afd3f86e2d2783a9297fb69fa7d1b3a6b2019bff1b80d2cf4f0fd8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765774283~acl=/*~id=93767000184335679996530783174305~hmac=c7c763b3a2afd3f86e2d2783a9297fb69fa7d1b3a6b2019bff1b80d2cf4f0fd8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765774893~acl=/*~id=38309921176253205964867907291479~hmac=4783c8e5a2f436cbc8d5eeeb3f51eab7c4d95e385f440f917287ffcce2871e3a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765774893~acl=/*~id=38309921176253205964867907291479~hmac=4783c8e5a2f436cbc8d5eeeb3f51eab7c4d95e385f440f917287ffcce2871e3a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765774893~acl=/*~id=38309921176253205964867907291479~hmac=4783c8e5a2f436cbc8d5eeeb3f51eab7c4d95e385f440f917287ffcce2871e3a"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090497066,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012411/1765725426053619_Messi_India_Tour25_Delhi_14dec_ddt_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Messi's GOAT Tour of India"
         },
         {
             "event_category": "Cricket",
@@ -33,15 +42,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India vs Malaysia - DP World Men's U19 Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090497066,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012411/1765725426053619_Messi_India_Tour25_Delhi_14dec_ddt_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Messi's GOAT Tour of India"
         },
         {
             "event_category": "Tennis",
