@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:10:19 14-12-2025",
+    "last update time": "21:20:28 14-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090497483_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309988748124_Bundesliga_MD14_BayernMunich_vs_Mainz_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Bayern Munich vs Mainz - MD 14 - 14 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770627~acl=/*~id=57160618031742055872218854307577~hmac=d52c33e95c4df26e9ed3adad3b4905a753667d4b74d8de6a3973caeaacbee766",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770627~acl=/*~id=57160618031742055872218854307577~hmac=d52c33e95c4df26e9ed3adad3b4905a753667d4b74d8de6a3973caeaacbee766",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770627~acl=/*~id=57160618031742055872218854307577~hmac=d52c33e95c4df26e9ed3adad3b4905a753667d4b74d8de6a3973caeaacbee766"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "SC Freiburg vs Borussia Dortmund - MD 14 - 14 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770019~acl=/*~id=02568532285911759825329372090997~hmac=5fdb4a762582b348ae13bb18431cfe1080772db7fd565fff8dd4b9e697ea8fe2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770019~acl=/*~id=02568532285911759825329372090997~hmac=5fdb4a762582b348ae13bb18431cfe1080772db7fd565fff8dd4b9e697ea8fe2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770019~acl=/*~id=02568532285911759825329372090997~hmac=5fdb4a762582b348ae13bb18431cfe1080772db7fd565fff8dd4b9e697ea8fe2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770627~acl=/*~id=57160618031742055872218854307577~hmac=d52c33e95c4df26e9ed3adad3b4905a753667d4b74d8de6a3973caeaacbee766",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770627~acl=/*~id=57160618031742055872218854307577~hmac=d52c33e95c4df26e9ed3adad3b4905a753667d4b74d8de6a3973caeaacbee766",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770627~acl=/*~id=57160618031742055872218854307577~hmac=d52c33e95c4df26e9ed3adad3b4905a753667d4b74d8de6a3973caeaacbee766"
         },
         {
             "event_category": "Cricket",
@@ -24,15 +37,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090497417,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012298/1765522974453301_Bliga2526_MD14_bayern_vs_mainz_12dec_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs Mainz"
         },
         {
             "event_category": "Cricket",
@@ -47,7 +51,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090497066,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536451155773_Messi_India_Tour25_Delhi_12dec_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012411/1765725426053619_Messi_India_Tour25_Delhi_14dec_ddt_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Messi's GOAT Tour of India"
