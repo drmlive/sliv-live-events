@@ -1,60 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:57:43 14-12-2025",
+    "last update time": "09:07:52 14-12-2025",
     "matches": [
-        {
-            "event_category": "Sport",
-            "isLive": true,
-            "contentId": "1090497420_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "WWE",
-            "match_name": "Saturday Night's Main Event - 14 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558"
-        },
-        {
-            "event_category": "Sport",
-            "isLive": true,
-            "contentId": "1090497420_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "WWE",
-            "match_name": "Saturday Night's Main Event - 14 Dec 2025 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558"
-        },
-        {
-            "event_category": "Sport",
-            "isLive": true,
-            "contentId": "1090497420_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "WWE",
-            "match_name": "Saturday Night's Main Event - 14 Dec 2025 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558"
-        },
-        {
-            "event_category": "Sport",
-            "isLive": true,
-            "contentId": "1090497420_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012127/1765182556541309_WWE_SNME_2025_JohnCena1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "WWE",
-            "match_name": "Saturday Night's Main Event - 14 Dec 2025 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558"
-        },
         {
             "event_category": "Fight Sports",
             "isLive": true,
@@ -64,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Royval vs Kape",
             "match_name": "UFC Fight Night - Royval vs Kape - 14 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a"
         },
         {
             "event_category": "Fight Sports",
@@ -77,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Royval vs Kape",
             "match_name": "UFC Fight Night - Royval vs Kape - 14 Dec 2025 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a"
         },
         {
             "event_category": "Fight Sports",
@@ -90,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Royval vs Kape",
             "match_name": "UFC Fight Night - Royval vs Kape - 14 Dec 2025 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a"
         },
         {
             "event_category": "Fight Sports",
@@ -103,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Royval vs Kape",
             "match_name": "UFC Fight Night - Royval vs Kape - 14 Dec 2025 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726061~acl=/*~id=16966377919759509749323725334087~hmac=f4bc55339f96dfeef131013e7b609d4b8bcba4e05c15adc012edd01eceef6558"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765726671~acl=/*~id=02689489270102223244138732249887~hmac=e8438cc722167de94c5216e244759440d70b827d7dc97c6bbf54eaf31534156a"
         },
         {
             "event_category": "Cricket",
