@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:34:30 17-12-2025",
+    "last update time": "18:44:37 17-12-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090497811_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012422/1765779940878818_AC25_U19_BAN_vs_SL_15dec_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Men's U19 Asia Cup 2025",
-            "match_name": "Bangladesh U19 vs Sri Lanka U19 - 17 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766019870~acl=/*~id=92469413814966339503804086196750~hmac=e12f14dac9072080b61a8550130fe6cd04c07a5b42c3cda50b810325795b8cef",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766019870~acl=/*~id=92469413814966339503804086196750~hmac=e12f14dac9072080b61a8550130fe6cd04c07a5b42c3cda50b810325795b8cef",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766019870~acl=/*~id=92469413814966339503804086196750~hmac=e12f14dac9072080b61a8550130fe6cd04c07a5b42c3cda50b810325795b8cef"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -26,15 +13,6 @@
             "event_name": "Upcoming - West Indies Tour of New Zealand 2025"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090496896,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012483/1765945791370434_U19_Asia_Cup_2025_GOB_2_Landscape_Thumb_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
-        },
-        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090496895,
@@ -42,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090496896,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012483/1765945791370434_U19_Asia_Cup_2025_GOB_2_Landscape_Thumb_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
         },
         {
             "event_category": "Cricket",
