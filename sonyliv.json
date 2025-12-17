@@ -1,16 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:45:14 17-12-2025",
+    "last update time": "09:55:27 17-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090496896,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012426/1765784105746624_AC25_U19_BAN_vs_SL_15dec_today_Landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090497811_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012422/1765779940878818_AC25_U19_BAN_vs_SL_15dec_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Men's U19 Asia Cup 2025",
+            "match_name": "Bangladesh U19 vs Sri Lanka U19 - 17 Dec 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765988725~acl=/*~id=73418848259562730371319680268690~hmac=a7d2d488297f3afff6a8b7b464ac9321883740f86e4038795d2a93f92df5d8dd",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765988725~acl=/*~id=73418848259562730371319680268690~hmac=a7d2d488297f3afff6a8b7b464ac9321883740f86e4038795d2a93f92df5d8dd",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765988725~acl=/*~id=73418848259562730371319680268690~hmac=a7d2d488297f3afff6a8b7b464ac9321883740f86e4038795d2a93f92df5d8dd"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090497812_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012423/1765780570504989_AC25_U19_AFG_vs_NEP_15dec_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Men's U19 Asia Cup 2025",
+            "match_name": "Afghanistan U19 vs Nepal U19 - 17 Dec 2025 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765988725~acl=/*~id=73418848259562730371319680268690~hmac=a7d2d488297f3afff6a8b7b464ac9321883740f86e4038795d2a93f92df5d8dd",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765988725~acl=/*~id=73418848259562730371319680268690~hmac=a7d2d488297f3afff6a8b7b464ac9321883740f86e4038795d2a93f92df5d8dd",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765988725~acl=/*~id=73418848259562730371319680268690~hmac=a7d2d488297f3afff6a8b7b464ac9321883740f86e4038795d2a93f92df5d8dd"
         },
         {
             "event_category": "Cricket",
@@ -20,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - West Indies Tour of New Zealand 2025"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090496896,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012426/1765784105746624_AC25_U19_BAN_vs_SL_15dec_today_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Men's U19 Asia Cup 2025"
         },
         {
             "event_category": "Tennis",
