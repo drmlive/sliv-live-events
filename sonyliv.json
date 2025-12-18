@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:19:57 19-12-2025",
+    "last update time": "02:30:06 19-12-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498044_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546480148346_NZvsWI25_3rd_test_day_2_12dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "West Indies Tour of New Zealand 2025",
+            "match_name": "3rd Test - Day 2 - 19 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766134805~acl=/*~id=83036368169878254994436990549629~hmac=aa5a445afdb46dd953d35816b23fa34a105a82f929bfc9d6ce4c1742caf36e30",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766134805~acl=/*~id=83036368169878254994436990549629~hmac=aa5a445afdb46dd953d35816b23fa34a105a82f929bfc9d6ce4c1742caf36e30",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766134805~acl=/*~id=83036368169878254994436990549629~hmac=aa5a445afdb46dd953d35816b23fa34a105a82f929bfc9d6ce4c1742caf36e30"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Conference League 2025-26",
             "match_name": "Crystal Palace vs Kuopion Palloseura - MD 6 - 19 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766134197~acl=/*~id=99227477126242176190561858879447~hmac=83fddfac2f570d2ed07fd51eb0b0d8e2bcb975ee06cffe19a9c788ae0bb2f294",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766134197~acl=/*~id=99227477126242176190561858879447~hmac=83fddfac2f570d2ed07fd51eb0b0d8e2bcb975ee06cffe19a9c788ae0bb2f294",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766134197~acl=/*~id=99227477126242176190561858879447~hmac=83fddfac2f570d2ed07fd51eb0b0d8e2bcb975ee06cffe19a9c788ae0bb2f294"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766134805~acl=/*~id=83036368169878254994436990549629~hmac=aa5a445afdb46dd953d35816b23fa34a105a82f929bfc9d6ce4c1742caf36e30",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766134805~acl=/*~id=83036368169878254994436990549629~hmac=aa5a445afdb46dd953d35816b23fa34a105a82f929bfc9d6ce4c1742caf36e30",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766134805~acl=/*~id=83036368169878254994436990549629~hmac=aa5a445afdb46dd953d35816b23fa34a105a82f929bfc9d6ce4c1742caf36e30"
         },
         {
             "event_category": "Cricket",
