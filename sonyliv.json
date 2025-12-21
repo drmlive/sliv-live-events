@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:50 22-12-2025",
+    "last update time": "02:36:58 22-12-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498382_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546552805346_NZvsWI25_3rd_test_day_5_12dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "West Indies Tour of New Zealand 2025",
+            "match_name": "3rd Test - Day 5 - 22 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766394418~acl=/*~id=32965634479693970939541398381154~hmac=bf743e0296c94c41afb3eceb406d7814c1aae408fabbcd8c61baf210081daa1c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766394418~acl=/*~id=32965634479693970939541398381154~hmac=bf743e0296c94c41afb3eceb406d7814c1aae408fabbcd8c61baf210081daa1c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766394418~acl=/*~id=32965634479693970939541398381154~hmac=bf743e0296c94c41afb3eceb406d7814c1aae408fabbcd8c61baf210081daa1c"
+        },
         {
             "event_category": "Tennis",
             "isLive": false,
