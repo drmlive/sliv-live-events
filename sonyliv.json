@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:07:40 25-12-2025",
+    "last update time": "12:17:47 25-12-2025",
     "matches": [
         {
             "event_category": "Sports",
@@ -39,6 +39,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - The Best Sporting Action"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090498545,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012704/1766643364384822_Best-Of-Sport_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Iconic Sports Sizzlers"
         }
     ]
 }
