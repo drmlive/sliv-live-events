@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:27:31 26-12-2025",
+    "last update time": "08:37:41 26-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Northern Brave vs Auckland Aces - 26 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766761050~acl=/*~id=47443112456365536616458919727436~hmac=28a38ded0d55a27cf4185548eff34ff45ea90fe97b458a5569362169fd37f6f4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766761050~acl=/*~id=47443112456365536616458919727436~hmac=28a38ded0d55a27cf4185548eff34ff45ea90fe97b458a5569362169fd37f6f4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766761050~acl=/*~id=47443112456365536616458919727436~hmac=28a38ded0d55a27cf4185548eff34ff45ea90fe97b458a5569362169fd37f6f4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766761660~acl=/*~id=55451375124031942558517725807139~hmac=79859fb1f8df10e9274cf9bc12884787942841be03b2d16d25ff89a1161f7408",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766761660~acl=/*~id=55451375124031942558517725807139~hmac=79859fb1f8df10e9274cf9bc12884787942841be03b2d16d25ff89a1161f7408",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766761660~acl=/*~id=55451375124031942558517725807139~hmac=79859fb1f8df10e9274cf9bc12884787942841be03b2d16d25ff89a1161f7408"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090498499_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Best Of Sports 2025 ",
+            "match_name": "Best Of Sports 2025 - 24x7 [ENG]"
         },
         {
             "event_category": "Tennis",
