@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:54:52 26-12-2025",
+    "last update time": "06:05:00 26-12-2025",
     "matches": [
         {
             "event_category": "Sports",
@@ -23,15 +23,6 @@
             "event_name": "Upcoming - Australian Open 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090498539,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012710/1766659484587564_SuperSmash2526_25dec_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Super Smash 2025/26 Men's"
-        },
-        {
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090498545,
@@ -39,6 +30,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Iconic Sports Sizzlers"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090498539,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012710/1766659484587564_SuperSmash2526_25dec_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Super Smash 2025/26 Men's"
         },
         {
             "event_category": "Cricket",
