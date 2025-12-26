@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:38:40 27-12-2025",
+    "last update time": "04:48:49 27-12-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498558_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012723/1766745639823754_SuperSmash_W_CentralHinds_vs_WellingtonBlaze__landscape_thumb_Live.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Women's",
+            "match_name": "Central Hinds vs Wellington Blaze - 27 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766834327~acl=/*~id=47842579504931409004818008451974~hmac=af7eb61cd4fce33d2cb64ba250f7bb89889884d133c2baa38cf72f68797bb5e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766834327~acl=/*~id=47842579504931409004818008451974~hmac=af7eb61cd4fce33d2cb64ba250f7bb89889884d133c2baa38cf72f68797bb5e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766834327~acl=/*~id=47842579504931409004818008451974~hmac=af7eb61cd4fce33d2cb64ba250f7bb89889884d133c2baa38cf72f68797bb5e7"
+        },
         {
             "event_category": "Sports",
             "isLive": true,
