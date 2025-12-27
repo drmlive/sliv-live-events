@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:10:15 27-12-2025",
+    "last update time": "10:20:33 27-12-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090498553_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012723/1766746689773754_SuperSmash_M_CentralStags_vs_WellingtonFirebirds_landscape_thumb_Live.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Super Smash 2025/26 Men's",
-            "match_name": "Central Stags vs Wellington Firebirds- 27 Dec 2025 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766853614~acl=/*~id=05219078542607319737418747108944~hmac=737b663798bf0d41c2d714fbbc7a7a44ea42b7a18c574663f0be55b895979457",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766853614~acl=/*~id=05219078542607319737418747108944~hmac=737b663798bf0d41c2d714fbbc7a7a44ea42b7a18c574663f0be55b895979457",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766853614~acl=/*~id=05219078542607319737418747108944~hmac=737b663798bf0d41c2d714fbbc7a7a44ea42b7a18c574663f0be55b895979457"
-        },
         {
             "event_category": "Sports",
             "isLive": true,
@@ -52,15 +39,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Iconic Sports Sizzlers"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090498539,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012693/1766595141899470_SuperSmash2526_24dec_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Super Smash 2025/26 Men's"
         }
     ]
 }
