@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:01:08 02-01-2026",
+    "last update time": "20:11:16 02-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090498763_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767159010787170_UC26_greece_vs_japan_31dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "United Cup 2026 ",
-            "match_name": " Greece vs Japan - 2 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767407467~acl=/*~id=45498025490580350547509524882279~hmac=3bfdeb5d4d44b436cb2492070455fec5d2dea07fa24ef0421adad06018e3ae56",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767407467~acl=/*~id=45498025490580350547509524882279~hmac=3bfdeb5d4d44b436cb2492070455fec5d2dea07fa24ef0421adad06018e3ae56",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767407467~acl=/*~id=45498025490580350547509524882279~hmac=3bfdeb5d4d44b436cb2492070455fec5d2dea07fa24ef0421adad06018e3ae56"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
