@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:32:21 02-01-2026",
+    "last update time": "09:42:30 02-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,19 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Spain vs Argentina - 2 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767369740~acl=/*~id=77381705331930864988958718662613~hmac=992453ee3a7f88b4143d17352db577ebbd42ff63a78d0de8df791084371cd621",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767369740~acl=/*~id=77381705331930864988958718662613~hmac=992453ee3a7f88b4143d17352db577ebbd42ff63a78d0de8df791084371cd621",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767369740~acl=/*~id=77381705331930864988958718662613~hmac=992453ee3a7f88b4143d17352db577ebbd42ff63a78d0de8df791084371cd621"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767370349~acl=/*~id=71436291108019074414518899976477~hmac=3249ec9f9d76de6a29ab3672473f5285fd8be8e55af9835aa3531742320df4ea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767370349~acl=/*~id=71436291108019074414518899976477~hmac=3249ec9f9d76de6a29ab3672473f5285fd8be8e55af9835aa3531742320df4ea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767370349~acl=/*~id=71436291108019074414518899976477~hmac=3249ec9f9d76de6a29ab3672473f5285fd8be8e55af9835aa3531742320df4ea"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1090498575,
+            "contentId": "1090498575_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766777112102152_SuperSmash2526_mens_Auckland_Aces_vs_Wellington_Firebirds_26dec_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
-            "match_name": "Auckland Aces vs Wellington Firebirds - 2 Jan 2026"
+            "match_name": "Auckland Aces vs Wellington Firebirds - 2 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767370349~acl=/*~id=71436291108019074414518899976477~hmac=3249ec9f9d76de6a29ab3672473f5285fd8be8e55af9835aa3531742320df4ea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767370349~acl=/*~id=71436291108019074414518899976477~hmac=3249ec9f9d76de6a29ab3672473f5285fd8be8e55af9835aa3531742320df4ea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767370349~acl=/*~id=71436291108019074414518899976477~hmac=3249ec9f9d76de6a29ab3672473f5285fd8be8e55af9835aa3531742320df4ea"
         },
         {
             "event_category": "Tennis",
