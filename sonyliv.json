@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:37:47 03-01-2026",
+    "last update time": "04:47:57 03-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498574_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766829392461385_SuperSmash2526_womens_Central-Hinds-vs-Canterbury-Magicians_27dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Women's",
+            "match_name": "Central Hinds vs Canterbury Magicians - 3 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767439075~acl=/*~id=59267417838265007244910797507589~hmac=eff15c59ecca3447f45057497bcc6004377c1bc377e6fa878f2bb60d44c9efa2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767439075~acl=/*~id=59267417838265007244910797507589~hmac=eff15c59ecca3447f45057497bcc6004377c1bc377e6fa878f2bb60d44c9efa2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767439075~acl=/*~id=59267417838265007244910797507589~hmac=eff15c59ecca3447f45057497bcc6004377c1bc377e6fa878f2bb60d44c9efa2"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Belgium vs China - 3 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767438466~acl=/*~id=31689910190616656987062638316375~hmac=1ade93f2c188652e273447a74dd50a153ade268514ff412ca1b3d5a11f320d52",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767438466~acl=/*~id=31689910190616656987062638316375~hmac=1ade93f2c188652e273447a74dd50a153ade268514ff412ca1b3d5a11f320d52",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767438466~acl=/*~id=31689910190616656987062638316375~hmac=1ade93f2c188652e273447a74dd50a153ade268514ff412ca1b3d5a11f320d52"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767439075~acl=/*~id=59267417838265007244910797507589~hmac=eff15c59ecca3447f45057497bcc6004377c1bc377e6fa878f2bb60d44c9efa2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767439075~acl=/*~id=59267417838265007244910797507589~hmac=eff15c59ecca3447f45057497bcc6004377c1bc377e6fa878f2bb60d44c9efa2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767439075~acl=/*~id=59267417838265007244910797507589~hmac=eff15c59ecca3447f45057497bcc6004377c1bc377e6fa878f2bb60d44c9efa2"
         },
         {
             "event_category": "Tennis",
