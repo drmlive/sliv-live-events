@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:20:31 02-01-2026",
+    "last update time": "19:30:40 02-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090498763_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767159010787170_UC26_greece_vs_japan_31dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "United Cup 2026 ",
-            "match_name": " Greece vs Japan - 2 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767405031~acl=/*~id=22542746716510264688585784478885~hmac=fd05641ea74dc83e409095a55d4781a21bd85ae0dafbb2957e3302e9767b0ae6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767405031~acl=/*~id=22542746716510264688585784478885~hmac=fd05641ea74dc83e409095a55d4781a21bd85ae0dafbb2957e3302e9767b0ae6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767405031~acl=/*~id=22542746716510264688585784478885~hmac=fd05641ea74dc83e409095a55d4781a21bd85ae0dafbb2957e3302e9767b0ae6"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
@@ -26,15 +13,6 @@
             "event_name": "Upcoming - Australian Open 2026"
         },
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090498545,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Iconic Sports Sizzlers"
-        },
-        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498669,
@@ -42,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - United Cup 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090498545,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Iconic Sports Sizzlers"
         }
     ]
 }
