@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:52:04 04-01-2026",
+    "last update time": "10:02:15 04-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498578_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766817717601385_SuperSmash2526_mens_Northern-Brave-vs-Otago-Volts_27dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Men's",
+            "match_name": "Northern Brave vs Otago Volts - 4 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767544333~acl=/*~id=77895466533018304476198173245818~hmac=939e4eb8c85de379a793b8e0b8cc9185b377188c21f066dac3d7fc4a1635408d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767544333~acl=/*~id=77895466533018304476198173245818~hmac=939e4eb8c85de379a793b8e0b8cc9185b377188c21f066dac3d7fc4a1635408d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767544333~acl=/*~id=77895466533018304476198173245818~hmac=939e4eb8c85de379a793b8e0b8cc9185b377188c21f066dac3d7fc4a1635408d"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,22 +25,19 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Great Britain vs Japan - 4 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767543723~acl=/*~id=06643625403734840798189574339574~hmac=e2f607ae6cf55cbc3cf4bfec0854382bceeef9596ddd602f5d58aaf0bad86008",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767543723~acl=/*~id=06643625403734840798189574339574~hmac=e2f607ae6cf55cbc3cf4bfec0854382bceeef9596ddd602f5d58aaf0bad86008",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767543723~acl=/*~id=06643625403734840798189574339574~hmac=e2f607ae6cf55cbc3cf4bfec0854382bceeef9596ddd602f5d58aaf0bad86008"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767544333~acl=/*~id=77895466533018304476198173245818~hmac=939e4eb8c85de379a793b8e0b8cc9185b377188c21f066dac3d7fc4a1635408d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767544333~acl=/*~id=77895466533018304476198173245818~hmac=939e4eb8c85de379a793b8e0b8cc9185b377188c21f066dac3d7fc4a1635408d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767544333~acl=/*~id=77895466533018304476198173245818~hmac=939e4eb8c85de379a793b8e0b8cc9185b377188c21f066dac3d7fc4a1635408d"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": "1090498819_ENG",
+            "contentId": 1090498819,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012903/1767417783017834_UC26_Germany_vs_Netherlands_3jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "Germany vs Netherlands - 4 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767543723~acl=/*~id=06643625403734840798189574339574~hmac=e2f607ae6cf55cbc3cf4bfec0854382bceeef9596ddd602f5d58aaf0bad86008",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767543723~acl=/*~id=06643625403734840798189574339574~hmac=e2f607ae6cf55cbc3cf4bfec0854382bceeef9596ddd602f5d58aaf0bad86008",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767543723~acl=/*~id=06643625403734840798189574339574~hmac=e2f607ae6cf55cbc3cf4bfec0854382bceeef9596ddd602f5d58aaf0bad86008"
+            "match_name": "Germany vs Netherlands - 4 Jan 2026"
         },
         {
             "event_category": "Tennis",
