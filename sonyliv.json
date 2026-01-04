@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:33:51 04-01-2026",
+    "last update time": "22:44:00 04-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090498851_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012907/1767418859715450_UC26_Italy_vs_Switzerland_3jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "United Cup 2026 ",
-            "match_name": "Italy vs Switzerland - 4 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767589431~acl=/*~id=01109517915616865179849500064244~hmac=52e65994614b8d55c8326a96dd05669e135c0a17b0b5387d11568fdf8f8c8638",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767589431~acl=/*~id=01109517915616865179849500064244~hmac=52e65994614b8d55c8326a96dd05669e135c0a17b0b5387d11568fdf8f8c8638",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767589431~acl=/*~id=01109517915616865179849500064244~hmac=52e65994614b8d55c8326a96dd05669e135c0a17b0b5387d11568fdf8f8c8638"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
