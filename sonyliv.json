@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:02:25 04-01-2026",
+    "last update time": "21:12:37 04-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Italy vs Switzerland - 4 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767583944~acl=/*~id=60604512059637898683517053292220~hmac=96de8074c13e6e3c211f2e41458fb4f14d81d4a4ee6312658089e2c548be944d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767583944~acl=/*~id=60604512059637898683517053292220~hmac=96de8074c13e6e3c211f2e41458fb4f14d81d4a4ee6312658089e2c548be944d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767583944~acl=/*~id=60604512059637898683517053292220~hmac=96de8074c13e6e3c211f2e41458fb4f14d81d4a4ee6312658089e2c548be944d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767584556~acl=/*~id=36412884077265824963082649741580~hmac=ba54d0364e343eb39c195af0f3555e3dfc3632ef83272c1caf82774501c4b93b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767584556~acl=/*~id=36412884077265824963082649741580~hmac=ba54d0364e343eb39c195af0f3555e3dfc3632ef83272c1caf82774501c4b93b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767584556~acl=/*~id=36412884077265824963082649741580~hmac=ba54d0364e343eb39c195af0f3555e3dfc3632ef83272c1caf82774501c4b93b"
         },
         {
             "event_category": "Tennis",
@@ -42,24 +42,6 @@
             "broadcast_channel": "SIX HD",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090496895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012914/1767431793855494_Australian-Open-2026-Promo-Thumbs_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090498669,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - United Cup 2026"
         }
     ]
 }
