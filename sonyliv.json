@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:08:34 04-01-2026",
+    "last update time": "06:18:42 04-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498577_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012760/1766850997343265_SuperSmash2526_womens_Northern-Brave-vs-Otago-Sparks__27dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Women's",
+            "match_name": "Northern Brave vs Otago Sparks- 4 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530921~acl=/*~id=05088519266954960655886287754515~hmac=6778a495fa45184558cce1eee91dbb153d096a5140ded58e3870ac5a66ffb382",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530921~acl=/*~id=05088519266954960655886287754515~hmac=6778a495fa45184558cce1eee91dbb153d096a5140ded58e3870ac5a66ffb382",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530921~acl=/*~id=05088519266954960655886287754515~hmac=6778a495fa45184558cce1eee91dbb153d096a5140ded58e3870ac5a66ffb382"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Germany vs Netherlands - 4 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530314~acl=/*~id=96988967600778789311484299372274~hmac=c1366da6b4768b0483eb4c0014e5e330d882c2376125d8536da60fb1e988fa5b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530314~acl=/*~id=96988967600778789311484299372274~hmac=c1366da6b4768b0483eb4c0014e5e330d882c2376125d8536da60fb1e988fa5b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530314~acl=/*~id=96988967600778789311484299372274~hmac=c1366da6b4768b0483eb4c0014e5e330d882c2376125d8536da60fb1e988fa5b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530921~acl=/*~id=05088519266954960655886287754515~hmac=6778a495fa45184558cce1eee91dbb153d096a5140ded58e3870ac5a66ffb382",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530921~acl=/*~id=05088519266954960655886287754515~hmac=6778a495fa45184558cce1eee91dbb153d096a5140ded58e3870ac5a66ffb382",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767530921~acl=/*~id=05088519266954960655886287754515~hmac=6778a495fa45184558cce1eee91dbb153d096a5140ded58e3870ac5a66ffb382"
         },
         {
             "event_category": "Tennis",
