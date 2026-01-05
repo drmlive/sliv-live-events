@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:52:19 05-01-2026",
+    "last update time": "09:02:29 05-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,22 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "USA vs Spain - 5 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767626538~acl=/*~id=01502475597548810529931266851932~hmac=99313270c68ec3d606a4c1c2fb9a320f5476d2952e3bcae5e8d09c2a52c7c084",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767626538~acl=/*~id=01502475597548810529931266851932~hmac=99313270c68ec3d606a4c1c2fb9a320f5476d2952e3bcae5e8d09c2a52c7c084",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767626538~acl=/*~id=01502475597548810529931266851932~hmac=99313270c68ec3d606a4c1c2fb9a320f5476d2952e3bcae5e8d09c2a52c7c084"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767627147~acl=/*~id=00528852080360713525891784255071~hmac=f1af802dfb0d5d6f4ca8d0f0bc273f71106c29b54dfd51099ee2f3ca2dfb7650",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767627147~acl=/*~id=00528852080360713525891784255071~hmac=f1af802dfb0d5d6f4ca8d0f0bc273f71106c29b54dfd51099ee2f3ca2dfb7650",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767627147~acl=/*~id=00528852080360713525891784255071~hmac=f1af802dfb0d5d6f4ca8d0f0bc273f71106c29b54dfd51099ee2f3ca2dfb7650"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": "1090498865_ENG",
+            "contentId": 1090498865,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012908/1767419222028311_UC26_Czechia_vs_Norway_3jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "Czechia vs Norway - 5 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767626538~acl=/*~id=01502475597548810529931266851932~hmac=99313270c68ec3d606a4c1c2fb9a320f5476d2952e3bcae5e8d09c2a52c7c084",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767626538~acl=/*~id=01502475597548810529931266851932~hmac=99313270c68ec3d606a4c1c2fb9a320f5476d2952e3bcae5e8d09c2a52c7c084",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767626538~acl=/*~id=01502475597548810529931266851932~hmac=99313270c68ec3d606a4c1c2fb9a320f5476d2952e3bcae5e8d09c2a52c7c084"
+            "match_name": "Czechia vs Norway - 5 Jan 2026"
         },
         {
             "event_category": "Tennis",
@@ -55,24 +52,6 @@
             "broadcast_channel": "SIX HD",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090496895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012914/1767431793855494_Australian-Open-2026-Promo-Thumbs_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090498669,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - United Cup 2026"
         }
     ]
 }
