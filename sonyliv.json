@@ -1,27 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:27:21 05-01-2026",
+    "last update time": "14:37:29 05-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": 1090498866,
+            "contentId": "1090498866_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767425229366632_UnitedCup26_USA_vs_SPAIN_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "USA vs Spain - 5 Jan 2026"
+            "match_name": "USA vs Spain - 5 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": 1090498865,
+            "contentId": "1090498865_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767425512224238_UC26_Germany-vs-Poland_3jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "Germany vs Poland - 5 Jan 2026"
+            "match_name": "Germany vs Poland - 5 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc"
         },
         {
             "event_category": "Tennis",
