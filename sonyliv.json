@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:37:29 05-01-2026",
+    "last update time": "14:47:38 05-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "USA vs Spain - 5 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647857~acl=/*~id=18148698123592098570688053672434~hmac=8fb6bbc808394a1da04b4cdf55fc37b25b5c6610c5ea93196ae19087ecb94d8d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647857~acl=/*~id=18148698123592098570688053672434~hmac=8fb6bbc808394a1da04b4cdf55fc37b25b5c6610c5ea93196ae19087ecb94d8d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647857~acl=/*~id=18148698123592098570688053672434~hmac=8fb6bbc808394a1da04b4cdf55fc37b25b5c6610c5ea93196ae19087ecb94d8d"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Germany vs Poland - 5 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647248~acl=/*~id=88053333507451815749208373188624~hmac=f1b86ee321f6a62e84685fa06aa282817e1e863e0fdda7651be4c8fa6c8219fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647857~acl=/*~id=18148698123592098570688053672434~hmac=8fb6bbc808394a1da04b4cdf55fc37b25b5c6610c5ea93196ae19087ecb94d8d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647857~acl=/*~id=18148698123592098570688053672434~hmac=8fb6bbc808394a1da04b4cdf55fc37b25b5c6610c5ea93196ae19087ecb94d8d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767647857~acl=/*~id=18148698123592098570688053672434~hmac=8fb6bbc808394a1da04b4cdf55fc37b25b5c6610c5ea93196ae19087ecb94d8d"
         },
         {
             "event_category": "Tennis",
@@ -39,15 +39,6 @@
             "event_name": "Upcoming - Australian Open 2026"
         },
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090498545,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Iconic Sports Sizzlers"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090498875,
@@ -55,6 +46,15 @@
             "broadcast_channel": "SIX HD",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090498545,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Iconic Sports Sizzlers"
         },
         {
             "event_category": "Tennis",
