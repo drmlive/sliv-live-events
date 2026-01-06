@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:31:04 07-01-2026",
+    "last update time": "04:41:13 07-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Poland vs Netherlands - 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767783664~acl=/*~id=06784921915042968363211161450941~hmac=42e3ec66e1758aa92b7c6b8be45eb450589997c1ad69307fcecca6e0d75956b8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767783664~acl=/*~id=06784921915042968363211161450941~hmac=42e3ec66e1758aa92b7c6b8be45eb450589997c1ad69307fcecca6e0d75956b8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767783664~acl=/*~id=06784921915042968363211161450941~hmac=42e3ec66e1758aa92b7c6b8be45eb450589997c1ad69307fcecca6e0d75956b8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767784272~acl=/*~id=70860071002333944130395576115880~hmac=c89bfd25387f75bfdbffe17430c3fbf2e3ef8a7dc3521b02dd6b862f5255ff6b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767784272~acl=/*~id=70860071002333944130395576115880~hmac=c89bfd25387f75bfdbffe17430c3fbf2e3ef8a7dc3521b02dd6b862f5255ff6b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767784272~acl=/*~id=70860071002333944130395576115880~hmac=c89bfd25387f75bfdbffe17430c3fbf2e3ef8a7dc3521b02dd6b862f5255ff6b"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498838_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766836424934385_SuperSmash2526_womens_Wellington-Blaze-vs-Central-Hinds_27dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Women's",
+            "match_name": "Wellington Blaze vs Central Hinds- 7 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767784272~acl=/*~id=70860071002333944130395576115880~hmac=c89bfd25387f75bfdbffe17430c3fbf2e3ef8a7dc3521b02dd6b862f5255ff6b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767784272~acl=/*~id=70860071002333944130395576115880~hmac=c89bfd25387f75bfdbffe17430c3fbf2e3ef8a7dc3521b02dd6b862f5255ff6b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767784272~acl=/*~id=70860071002333944130395576115880~hmac=c89bfd25387f75bfdbffe17430c3fbf2e3ef8a7dc3521b02dd6b862f5255ff6b"
         },
         {
             "event_category": "Tennis",
@@ -29,7 +42,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090498875,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698455908522_SLvsPAK26_1t20i_dated_6jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698466510522_SLvsPAK26_1t20i_tonight_6jan_landscape_thumb.jpg",
             "broadcast_channel": "SIX HD",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
