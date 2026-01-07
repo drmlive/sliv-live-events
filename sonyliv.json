@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:55:34 07-01-2026",
+    "last update time": "20:05:43 07-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,19 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of Sri Lanka 2026",
             "match_name": "1st T20I - 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839133~acl=/*~id=08753496499923560277996890648333~hmac=50fab6521b3abc37415d38f402356c1eb553912256970c44632891f904d8e399",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839133~acl=/*~id=08753496499923560277996890648333~hmac=50fab6521b3abc37415d38f402356c1eb553912256970c44632891f904d8e399",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839133~acl=/*~id=08753496499923560277996890648333~hmac=50fab6521b3abc37415d38f402356c1eb553912256970c44632891f904d8e399"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": 1090499000,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767697177599902_UC26_QF_Switzerland_vs_Argentina_6jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "United Cup 2026 ",
-            "match_name": "Switzerland vs Argentina - Quarter-final - 7 Jan 2026"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839743~acl=/*~id=63258289216830244463564810570100~hmac=75c700c1dd777dc22fe2f955bceaccea65125594bbc3f5352bdaa7b32191d443",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839743~acl=/*~id=63258289216830244463564810570100~hmac=75c700c1dd777dc22fe2f955bceaccea65125594bbc3f5352bdaa7b32191d443",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839743~acl=/*~id=63258289216830244463564810570100~hmac=75c700c1dd777dc22fe2f955bceaccea65125594bbc3f5352bdaa7b32191d443"
         },
         {
             "event_category": "Tennis",
@@ -54,6 +44,15 @@
             "event_name": "Upcoming - Emirates FA Cup"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499079,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767785016471119_FA_CUP_3rdRD_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090498875,
@@ -72,6 +71,51 @@
             "event_name": "Upcoming - Australian Open 2026"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013045/1767711775694257_FAcup26_Tottenham_vs_Aston_Villa_6jan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Tottenham vs Aston Villa"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499083,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767778756103928_FAcup26_Portsmouth_vs_Arsenal_6jan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Portsmouth vs Arsenal"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499081,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767786184399119_FA_CUP_3rdRD_ManUnited_vs_Brighton_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Manchester United vs Brighton & Hove Albion"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499086,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767786257791119_FA_CUP_3rdRD_charlton_chelsea_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Charlton vs Chelsea"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499082,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767778522343928_FAcup26_Liverpool_vs_Barnsley_6jan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Liverpool vs Barnsley"
+        },
+        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498669,
@@ -79,6 +123,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - United Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499084,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767786342882119_FA_CUP_3rdRD_Macclesfiel_vs_CrystalPalace_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Macclesfield vs Crystal Palace"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499080,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767784922121120_FA_CUP_3rdRD_WREXHAM_vs_NOTTM_FOREST_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Wrexham vs Nottingham Forest "
         }
     ]
 }
