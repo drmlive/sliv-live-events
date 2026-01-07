@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:45:25 07-01-2026",
+    "last update time": "19:55:34 07-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,22 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of Sri Lanka 2026",
             "match_name": "1st T20I - 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767838525~acl=/*~id=05637996633184906997771776629209~hmac=629f2141ebe6030b28d04e7955ab5f9f27600d48e8b41be0a79ea8df962ddf41",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767838525~acl=/*~id=05637996633184906997771776629209~hmac=629f2141ebe6030b28d04e7955ab5f9f27600d48e8b41be0a79ea8df962ddf41",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767838525~acl=/*~id=05637996633184906997771776629209~hmac=629f2141ebe6030b28d04e7955ab5f9f27600d48e8b41be0a79ea8df962ddf41"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839133~acl=/*~id=08753496499923560277996890648333~hmac=50fab6521b3abc37415d38f402356c1eb553912256970c44632891f904d8e399",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839133~acl=/*~id=08753496499923560277996890648333~hmac=50fab6521b3abc37415d38f402356c1eb553912256970c44632891f904d8e399",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767839133~acl=/*~id=08753496499923560277996890648333~hmac=50fab6521b3abc37415d38f402356c1eb553912256970c44632891f904d8e399"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": "1090499000_ENG",
+            "contentId": 1090499000,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767697177599902_UC26_QF_Switzerland_vs_Argentina_6jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
-            "match_name": "Switzerland vs Argentina - Quarter-final - 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767838525~acl=/*~id=05637996633184906997771776629209~hmac=629f2141ebe6030b28d04e7955ab5f9f27600d48e8b41be0a79ea8df962ddf41",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767838525~acl=/*~id=05637996633184906997771776629209~hmac=629f2141ebe6030b28d04e7955ab5f9f27600d48e8b41be0a79ea8df962ddf41",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767838525~acl=/*~id=05637996633184906997771776629209~hmac=629f2141ebe6030b28d04e7955ab5f9f27600d48e8b41be0a79ea8df962ddf41"
+            "match_name": "Switzerland vs Argentina - Quarter-final - 7 Jan 2026"
         },
         {
             "event_category": "Tennis",
