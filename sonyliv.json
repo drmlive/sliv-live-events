@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:14:02 07-01-2026",
+    "last update time": "18:24:10 07-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090499042_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013032/1767698961481649_SLvsPAK26_1t20i_6jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of Sri Lanka 2026",
+            "match_name": "1st T20I - 7 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767833649~acl=/*~id=09280846804187627308317405218764~hmac=cef784c2df980ab6a14e45061c5f83b5fa18aafa3fa78e8e7b262288b0e7378c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767833649~acl=/*~id=09280846804187627308317405218764~hmac=cef784c2df980ab6a14e45061c5f83b5fa18aafa3fa78e8e7b262288b0e7378c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767833649~acl=/*~id=09280846804187627308317405218764~hmac=cef784c2df980ab6a14e45061c5f83b5fa18aafa3fa78e8e7b262288b0e7378c"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Switzerland vs Argentina - Quarter-final - 7 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767833042~acl=/*~id=85090814224050915420743327333406~hmac=ef029c790d9acad6196872e3eece2905338ec63907f639bfa9d422a27ef36bff",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767833042~acl=/*~id=85090814224050915420743327333406~hmac=ef029c790d9acad6196872e3eece2905338ec63907f639bfa9d422a27ef36bff",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767833042~acl=/*~id=85090814224050915420743327333406~hmac=ef029c790d9acad6196872e3eece2905338ec63907f639bfa9d422a27ef36bff"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767833649~acl=/*~id=09280846804187627308317405218764~hmac=cef784c2df980ab6a14e45061c5f83b5fa18aafa3fa78e8e7b262288b0e7378c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767833649~acl=/*~id=09280846804187627308317405218764~hmac=cef784c2df980ab6a14e45061c5f83b5fa18aafa3fa78e8e7b262288b0e7378c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767833649~acl=/*~id=09280846804187627308317405218764~hmac=cef784c2df980ab6a14e45061c5f83b5fa18aafa3fa78e8e7b262288b0e7378c"
         },
         {
             "event_category": "Tennis",
@@ -24,15 +37,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090498875,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698466510522_SLvsPAK26_1t20i_tonight_6jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
         },
         {
             "event_category": "Sports",
@@ -51,6 +55,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090498875,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698513902522_SLvsPAK26_2t20i_dated_6jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
         },
         {
             "event_category": "Tennis",
