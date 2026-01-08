@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:00:12 08-01-2026",
+    "last update time": "13:10:21 08-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": " Super Smash 2025/26 Women's",
             "match_name": "Northern Brave vs Canterbury Magicians- 8 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767901220~acl=/*~id=24703633481837543868724792552286~hmac=93c3e2a7d30e4278cae542e4d00f0ae09fd215c51ce76d0751c7ba81edf6d9dd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767901220~acl=/*~id=24703633481837543868724792552286~hmac=93c3e2a7d30e4278cae542e4d00f0ae09fd215c51ce76d0751c7ba81edf6d9dd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767901220~acl=/*~id=24703633481837543868724792552286~hmac=93c3e2a7d30e4278cae542e4d00f0ae09fd215c51ce76d0751c7ba81edf6d9dd"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767901220~acl=/*~id=24703633481837543868724792552286~hmac=93c3e2a7d30e4278cae542e4d00f0ae09fd215c51ce76d0751c7ba81edf6d9dd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767901220~acl=/*~id=24703633481837543868724792552286~hmac=93c3e2a7d30e4278cae542e4d00f0ae09fd215c51ce76d0751c7ba81edf6d9dd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767901220~acl=/*~id=24703633481837543868724792552286~hmac=93c3e2a7d30e4278cae542e4d00f0ae09fd215c51ce76d0751c7ba81edf6d9dd"
         },
         {
             "event_category": "Tennis",
@@ -46,6 +46,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090498875,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698513902522_SLvsPAK26_2t20i_dated_6jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
         },
         {
             "event_category": "Sports",
@@ -100,15 +109,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Round 3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090498875,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698513902522_SLvsPAK26_2t20i_dated_6jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
         },
         {
             "event_category": "Tennis",
