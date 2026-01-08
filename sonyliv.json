@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:03:17 09-01-2026",
+    "last update time": "05:13:24 09-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Women's",
             "match_name": "Wellington Blaze vs Otago Sparks - 9 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767958396~acl=/*~id=21077677227701693959045373272153~hmac=93d4a6890310fd180aab15221d2fcdbd576caf2dff1752ad483fcec03295d2fa",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767958396~acl=/*~id=21077677227701693959045373272153~hmac=93d4a6890310fd180aab15221d2fcdbd576caf2dff1752ad483fcec03295d2fa",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767958396~acl=/*~id=21077677227701693959045373272153~hmac=93d4a6890310fd180aab15221d2fcdbd576caf2dff1752ad483fcec03295d2fa"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767959004~acl=/*~id=87280229150335531087598051833996~hmac=162900e6a010d29e745114472875063f76169da3130e8df8fafa7b752cf40eb6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767959004~acl=/*~id=87280229150335531087598051833996~hmac=162900e6a010d29e745114472875063f76169da3130e8df8fafa7b752cf40eb6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767959004~acl=/*~id=87280229150335531087598051833996~hmac=162900e6a010d29e745114472875063f76169da3130e8df8fafa7b752cf40eb6"
         },
         {
             "event_category": "Football",
@@ -26,15 +26,6 @@
             "event_name": "Upcoming - Emirates FA Cup"
         },
         {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013035/1767702253991538_AO25_9dec_dated_Landscape_thumb_re1.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090498875,
@@ -42,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498827,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013035/1767702253991538_AO25_9dec_dated_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Sports",
