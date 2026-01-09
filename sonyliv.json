@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:41:08 10-01-2026",
+    "last update time": "03:51:15 10-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499144_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013148/176793910790478_facup26_RD3_Wrexham_vs_Nottingham_Forest_9jan_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Wrexham vs Nottingham Forest - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768039867~acl=/*~id=76316064044264374849472835198447~hmac=40633e2320ddb7ac8264183f496957c86b5c935fecba75b8da8d47e790b6701e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768039867~acl=/*~id=76316064044264374849472835198447~hmac=40633e2320ddb7ac8264183f496957c86b5c935fecba75b8da8d47e790b6701e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768039867~acl=/*~id=76316064044264374849472835198447~hmac=40633e2320ddb7ac8264183f496957c86b5c935fecba75b8da8d47e790b6701e"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -42,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Iconic Sports Sizzlers"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499086,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013195/1767994656564371_FAcup26_CharltonAthletic_vs_Chelsea_9jan_dated_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Charlton vs Chelsea"
         },
         {
             "event_category": "Football",
@@ -105,15 +101,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499086,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013195/1767994656564371_FAcup26_CharltonAthletic_vs_Chelsea_9jan_dated_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Charlton vs Chelsea"
         },
         {
             "event_category": "Football",
