@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:07:08 09-01-2026",
+    "last update time": "10:17:14 09-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Wellington Firebirds vs Otago Volts - 9 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767976628~acl=/*~id=74778624667920797563310853799080~hmac=56b82ce919f638409da844babe08eb23b5d570f7b541d25f0c71bacecfafe008",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767976628~acl=/*~id=74778624667920797563310853799080~hmac=56b82ce919f638409da844babe08eb23b5d570f7b541d25f0c71bacecfafe008",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767976628~acl=/*~id=74778624667920797563310853799080~hmac=56b82ce919f638409da844babe08eb23b5d570f7b541d25f0c71bacecfafe008"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767977234~acl=/*~id=57355551801772025534835430534916~hmac=05d0ce05d04c04f52b3b14533f311c8d6b5fdeb87f00874de90a7fd989ab30f6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767977234~acl=/*~id=57355551801772025534835430534916~hmac=05d0ce05d04c04f52b3b14533f311c8d6b5fdeb87f00874de90a7fd989ab30f6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767977234~acl=/*~id=57355551801772025534835430534916~hmac=05d0ce05d04c04f52b3b14533f311c8d6b5fdeb87f00874de90a7fd989ab30f6"
         },
         {
             "event_category": "Football",
@@ -137,4 +137,37 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499128,
-            "src": "h
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780623994080_PROMO_BUNDESLIGA_BAYERN_VS_WOLFSBURG_30_SEC_HOR_DATED_APP_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs VfL Wolfsburg"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498669,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - United Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499084,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767786342882119_FA_CUP_3rdRD_Macclesfiel_vs_CrystalPalace_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Macclesfield vs Crystal Palace"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499080,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767784922121120_FA_CUP_3rdRD_WREXHAM_vs_NOTTM_FOREST_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Wrexham vs Nottingham Forest "
+        }
+    ]
+}
