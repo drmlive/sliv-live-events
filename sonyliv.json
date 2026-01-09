@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:10:42 10-01-2026",
+    "last update time": "03:20:51 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Wrexham vs Nottingham Forest - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768038041~acl=/*~id=76266208564997006011786597657951~hmac=a237d8aca74ad998e260d52ac99cf852b6b06afd3277cde30e4821960ce56150",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768038041~acl=/*~id=76266208564997006011786597657951~hmac=a237d8aca74ad998e260d52ac99cf852b6b06afd3277cde30e4821960ce56150",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768038041~acl=/*~id=76266208564997006011786597657951~hmac=a237d8aca74ad998e260d52ac99cf852b6b06afd3277cde30e4821960ce56150"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768038651~acl=/*~id=22082355822952987513823624094540~hmac=28b95c156f87f3ad16e4d81a957e9b8efff72b5a33e4cf157e66f2b085b24c82",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768038651~acl=/*~id=22082355822952987513823624094540~hmac=28b95c156f87f3ad16e4d81a957e9b8efff72b5a33e4cf157e66f2b085b24c82",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768038651~acl=/*~id=22082355822952987513823624094540~hmac=28b95c156f87f3ad16e4d81a957e9b8efff72b5a33e4cf157e66f2b085b24c82"
         },
         {
             "event_category": "Football",
@@ -137,4 +137,28 @@
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498669,
-            "src": "https://origin-staticv2.son
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - United Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499084,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767786342882119_FA_CUP_3rdRD_Macclesfiel_vs_CrystalPalace_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Macclesfield vs Crystal Palace"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499230,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013163/1767950286474880_FA-CUP_Round-3-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+        }
+    ]
+}
