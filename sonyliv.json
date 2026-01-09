@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:21:13 09-01-2026",
+    "last update time": "15:31:20 09-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Australia vs Poland - Quarter-final - 9 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767995473~acl=/*~id=68352913424180363121730196183351~hmac=a678e38327679ad74024e09c052b5e4da4c4738ef0599d9f493823aff4eac1eb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767995473~acl=/*~id=68352913424180363121730196183351~hmac=a678e38327679ad74024e09c052b5e4da4c4738ef0599d9f493823aff4eac1eb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767995473~acl=/*~id=68352913424180363121730196183351~hmac=a678e38327679ad74024e09c052b5e4da4c4738ef0599d9f493823aff4eac1eb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767996080~acl=/*~id=05612735929825024194441223582394~hmac=77397eb57c1032cdf5a7b74ba14d477d70f0d58fabf61930119db4c997a83b3f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767996080~acl=/*~id=05612735929825024194441223582394~hmac=77397eb57c1032cdf5a7b74ba14d477d70f0d58fabf61930119db4c997a83b3f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767996080~acl=/*~id=05612735929825024194441223582394~hmac=77397eb57c1032cdf5a7b74ba14d477d70f0d58fabf61930119db4c997a83b3f"
         },
         {
             "event_category": "Football",
@@ -137,4 +137,37 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499128,
-            "src": "https://origin-staticv2.sonyliv.com/videoass
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780623994080_PROMO_BUNDESLIGA_BAYERN_VS_WOLFSBURG_30_SEC_HOR_DATED_APP_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs VfL Wolfsburg"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498669,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - United Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499084,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767786342882119_FA_CUP_3rdRD_Macclesfiel_vs_CrystalPalace_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Macclesfield vs Crystal Palace"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499080,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767784922121120_FA_CUP_3rdRD_WREXHAM_vs_NOTTM_FOREST_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Wrexham vs Nottingham Forest "
+        }
+    ]
+}
