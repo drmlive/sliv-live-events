@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:18:20 10-01-2026",
+    "last update time": "00:28:29 10-01-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499144_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013148/176793910790478_facup26_RD3_Wrexham_vs_Nottingham_Forest_9jan_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Wrexham vs Nottingham Forest - Round 3 - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768028308~acl=/*~id=86774347543321439151832558176947~hmac=2ab2e059eb81b76d0999018b0b07d52ff27e533d492b927e3ece967afe1e664c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768028308~acl=/*~id=86774347543321439151832558176947~hmac=2ab2e059eb81b76d0999018b0b07d52ff27e533d492b927e3ece967afe1e664c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768028308~acl=/*~id=86774347543321439151832558176947~hmac=2ab2e059eb81b76d0999018b0b07d52ff27e533d492b927e3ece967afe1e664c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499141_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767854408912351_Bundesliga_MD16_Eintracht-Frankfurt-vs-Borussia-Dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Eintracht Frankfurt vs Borussia Dortmund - MD 16 - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768028308~acl=/*~id=86774347543321439151832558176947~hmac=2ab2e059eb81b76d0999018b0b07d52ff27e533d492b927e3ece967afe1e664c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768028308~acl=/*~id=86774347543321439151832558176947~hmac=2ab2e059eb81b76d0999018b0b07d52ff27e533d492b927e3ece967afe1e664c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768028308~acl=/*~id=86774347543321439151832558176947~hmac=2ab2e059eb81b76d0999018b0b07d52ff27e533d492b927e3ece967afe1e664c"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -105,15 +131,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090499129,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780620227280_PROMO_BUNDESLIGA_FRANKFURT_VS_DORTMUND_30_SEC_HOR_DATED_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Eintracht Frankfurt vs Borussia Dortmund"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090499130,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780615749180_PROMO_BUNDESLIGA_LEVERKUSEN_VS_STUTTGART_30_SEC_HOR_DATED_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -150,11 +167,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090499080,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767784922121120_FA_CUP_3rdRD_WREXHAM_vs_NOTTM_FOREST_Landscape_thumb.jpg",
+            "contentId": 1090499230,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013163/1767950286474880_FA-CUP_Round-3-promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Wrexham vs Nottingham Forest "
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
         }
     ]
 }
