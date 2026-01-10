@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:30:01 10-01-2026",
+    "last update time": "18:40:10 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Macclesfield vs Crystal Palace - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093200~acl=/*~id=46007498211755512654586999079960~hmac=409d524f052b91376ae2657eb8405cdd0f37ba2ccbb6fbe3b9ba604de60a55fe",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093200~acl=/*~id=46007498211755512654586999079960~hmac=409d524f052b91376ae2657eb8405cdd0f37ba2ccbb6fbe3b9ba604de60a55fe",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093200~acl=/*~id=46007498211755512654586999079960~hmac=409d524f052b91376ae2657eb8405cdd0f37ba2ccbb6fbe3b9ba604de60a55fe"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093809~acl=/*~id=00720497419551571478975378227270~hmac=9e688aa53d77630a5737896581f4a6481ee84ff7090b28da432d0835b686f38a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093809~acl=/*~id=00720497419551571478975378227270~hmac=9e688aa53d77630a5737896581f4a6481ee84ff7090b28da432d0835b686f38a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093809~acl=/*~id=00720497419551571478975378227270~hmac=9e688aa53d77630a5737896581f4a6481ee84ff7090b28da432d0835b686f38a"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "USA vs Poland - Semi-final - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093200~acl=/*~id=46007498211755512654586999079960~hmac=409d524f052b91376ae2657eb8405cdd0f37ba2ccbb6fbe3b9ba604de60a55fe",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093200~acl=/*~id=46007498211755512654586999079960~hmac=409d524f052b91376ae2657eb8405cdd0f37ba2ccbb6fbe3b9ba604de60a55fe",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093200~acl=/*~id=46007498211755512654586999079960~hmac=409d524f052b91376ae2657eb8405cdd0f37ba2ccbb6fbe3b9ba604de60a55fe"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093809~acl=/*~id=00720497419551571478975378227270~hmac=9e688aa53d77630a5737896581f4a6481ee84ff7090b28da432d0835b686f38a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093809~acl=/*~id=00720497419551571478975378227270~hmac=9e688aa53d77630a5737896581f4a6481ee84ff7090b28da432d0835b686f38a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768093809~acl=/*~id=00720497419551571478975378227270~hmac=9e688aa53d77630a5737896581f4a6481ee84ff7090b28da432d0835b686f38a"
         },
         {
             "event_category": "Football",
@@ -37,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499127,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780627517580_PROMO_FA_CUP_11_JAN_COMBO_30_SEC_HOR_DATED_APP_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - 11 Jan 2026"
         },
         {
             "event_category": "Tennis",
