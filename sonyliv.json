@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:42:01 10-01-2026",
+    "last update time": "20:52:10 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Man City vs Exeter City - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101120~acl=/*~id=26523228285217449226291686226048~hmac=0764c28a959078f99fedfd77b5cde4aa07650296ae465a438592f32e2b74fbfc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101120~acl=/*~id=26523228285217449226291686226048~hmac=0764c28a959078f99fedfd77b5cde4aa07650296ae465a438592f32e2b74fbfc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101120~acl=/*~id=26523228285217449226291686226048~hmac=0764c28a959078f99fedfd77b5cde4aa07650296ae465a438592f32e2b74fbfc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101729~acl=/*~id=78829765572031204348890439962342~hmac=5f47d7a4f607058dfff03e864f34daf0e6a4183d52ad22eb564ee9f3af686863",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101729~acl=/*~id=78829765572031204348890439962342~hmac=5f47d7a4f607058dfff03e864f34daf0e6a4183d52ad22eb564ee9f3af686863",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101729~acl=/*~id=78829765572031204348890439962342~hmac=5f47d7a4f607058dfff03e864f34daf0e6a4183d52ad22eb564ee9f3af686863"
         },
         {
             "event_category": "Racing",
@@ -25,9 +25,18 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 2 - Hankook Mexico City E-Prix - Qualifying Race - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101120~acl=/*~id=26523228285217449226291686226048~hmac=0764c28a959078f99fedfd77b5cde4aa07650296ae465a438592f32e2b74fbfc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101120~acl=/*~id=26523228285217449226291686226048~hmac=0764c28a959078f99fedfd77b5cde4aa07650296ae465a438592f32e2b74fbfc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101120~acl=/*~id=26523228285217449226291686226048~hmac=0764c28a959078f99fedfd77b5cde4aa07650296ae465a438592f32e2b74fbfc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101729~acl=/*~id=78829765572031204348890439962342~hmac=5f47d7a4f607058dfff03e864f34daf0e6a4183d52ad22eb564ee9f3af686863",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101729~acl=/*~id=78829765572031204348890439962342~hmac=5f47d7a4f607058dfff03e864f34daf0e6a4183d52ad22eb564ee9f3af686863",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768101729~acl=/*~id=78829765572031204348890439962342~hmac=5f47d7a4f607058dfff03e864f34daf0e6a4183d52ad22eb564ee9f3af686863"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090498875,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698493209522_SLvsPAK26_3t20i_dated_6jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
         },
         {
             "event_category": "Football",
@@ -111,16 +120,7 @@
             "event_name": "Upcoming - Emirates FA Cup - Round 3"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090498875,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698493209522_SLvsPAK26_3t20i_dated_6jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
-        },
-        {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090496895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/10000129
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/100001
