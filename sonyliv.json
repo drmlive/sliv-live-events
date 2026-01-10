@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:46:16 10-01-2026",
+    "last update time": "09:56:24 10-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Switzerland vs Belgium - Semi-final - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768061776~acl=/*~id=23304447255890107830164748979089~hmac=d71e4b0ae59ade9080f25fa6c737c11553c1ddd024c0a8e14945fc138d1a96cc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768061776~acl=/*~id=23304447255890107830164748979089~hmac=d71e4b0ae59ade9080f25fa6c737c11553c1ddd024c0a8e14945fc138d1a96cc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768061776~acl=/*~id=23304447255890107830164748979089~hmac=d71e4b0ae59ade9080f25fa6c737c11553c1ddd024c0a8e14945fc138d1a96cc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768062383~acl=/*~id=53584990860311864374565574381215~hmac=1e586835e60bd0b212b3b0354affce961d892219b3fac218a62b7338af32f5a3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768062383~acl=/*~id=53584990860311864374565574381215~hmac=1e586835e60bd0b212b3b0354affce961d892219b3fac218a62b7338af32f5a3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768062383~acl=/*~id=53584990860311864374565574381215~hmac=1e586835e60bd0b212b3b0354affce961d892219b3fac218a62b7338af32f5a3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498877_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012842/1767168385338275_SuperSmash2526_mens_Canterbury-Kings-vs-Auckland-Aces_31dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Men's",
+            "match_name": "Canterbury Kings vs Auckland Aces - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768062383~acl=/*~id=53584990860311864374565574381215~hmac=1e586835e60bd0b212b3b0354affce961d892219b3fac218a62b7338af32f5a3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768062383~acl=/*~id=53584990860311864374565574381215~hmac=1e586835e60bd0b212b3b0354affce961d892219b3fac218a62b7338af32f5a3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768062383~acl=/*~id=53584990860311864374565574381215~hmac=1e586835e60bd0b212b3b0354affce961d892219b3fac218a62b7338af32f5a3"
         },
         {
             "event_category": "Football",
@@ -64,20 +77,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090499083,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767778756103928_FAcup26_Portsmouth_vs_Arsenal_6jan_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Portsmouth vs Arsenal"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090499081,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013045/1767710818201257_FAcup26_Man_Utd_vs_Brighton_and_Hove_Albion_6jan_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Manchester United vs Brighton & Hove Albion"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499083,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767778756103928_FAcup26_Portsmouth_vs_Arsenal_6jan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Portsmouth vs Arsenal"
         },
         {
             "event_category": "Football",
