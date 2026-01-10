@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:11:36 10-01-2026",
+    "last update time": "20:21:44 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Man City vs Exeter City - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768099295~acl=/*~id=06593359908114845939130217308367~hmac=8fe98c5e460308cb3f63839b674d650bca15a23dccb484f176ab73bb916f404b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768099295~acl=/*~id=06593359908114845939130217308367~hmac=8fe98c5e460308cb3f63839b674d650bca15a23dccb484f176ab73bb916f404b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768099295~acl=/*~id=06593359908114845939130217308367~hmac=8fe98c5e460308cb3f63839b674d650bca15a23dccb484f176ab73bb916f404b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768099904~acl=/*~id=69280881660003676702898449144697~hmac=d72a5ebdd5fb10cc956c4ba13e53c419b3d0713ccd83e2421617eca10cb81898",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768099904~acl=/*~id=69280881660003676702898449144697~hmac=d72a5ebdd5fb10cc956c4ba13e53c419b3d0713ccd83e2421617eca10cb81898",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768099904~acl=/*~id=69280881660003676702898449144697~hmac=d72a5ebdd5fb10cc956c4ba13e53c419b3d0713ccd83e2421617eca10cb81898"
         },
         {
             "event_category": "Football",
@@ -137,19 +137,4 @@
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498669,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - United Cup 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499230,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013163/1767950286474880_FA-CUP_Round-3-promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Round 3"
-        }
-    ]
-}
+            "src": "https:
