@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:41:08 10-01-2026",
+    "last update time": "19:51:18 10-01-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499194_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767942513120145_FA_CUP_26_RD3_Man-City-vs-Exeter-City_9jan_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Man City vs Exeter City - Round 3 - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768098077~acl=/*~id=12009132034630770061169000574687~hmac=58fb8f6fc2fea2dc0379ef80a7295c7c383fb027420d85d5fda76331b8fec230",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768098077~acl=/*~id=12009132034630770061169000574687~hmac=58fb8f6fc2fea2dc0379ef80a7295c7c383fb027420d85d5fda76331b8fec230",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768098077~acl=/*~id=12009132034630770061169000574687~hmac=58fb8f6fc2fea2dc0379ef80a7295c7c383fb027420d85d5fda76331b8fec230"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,18 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Macclesfield vs Crystal Palace - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768097467~acl=/*~id=12247716962806815900933492654381~hmac=c380b8de9a21ecde577f116914aaca55d814306e1ffbfbafaf13f2726a185f9f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768097467~acl=/*~id=12247716962806815900933492654381~hmac=c380b8de9a21ecde577f116914aaca55d814306e1ffbfbafaf13f2726a185f9f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768097467~acl=/*~id=12247716962806815900933492654381~hmac=c380b8de9a21ecde577f116914aaca55d814306e1ffbfbafaf13f2726a185f9f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499071,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767779020980928_FAcup26_Man_City_vs_Exeter_City_6jan_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768098077~acl=/*~id=12009132034630770061169000574687~hmac=58fb8f6fc2fea2dc0379ef80a7295c7c383fb027420d85d5fda76331b8fec230",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768098077~acl=/*~id=12009132034630770061169000574687~hmac=58fb8f6fc2fea2dc0379ef80a7295c7c383fb027420d85d5fda76331b8fec230",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768098077~acl=/*~id=12009132034630770061169000574687~hmac=58fb8f6fc2fea2dc0379ef80a7295c7c383fb027420d85d5fda76331b8fec230"
         },
         {
             "event_category": "Football",
