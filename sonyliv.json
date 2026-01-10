@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:37:33 11-01-2026",
+    "last update time": "02:47:41 11-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Charlton vs Chelsea - Round 3 - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768122452~acl=/*~id=13737628828021521343076366166350~hmac=590827544454726ab4cf462619bcbd49c81a0378dcad5d19dc048091bf3b2478",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768122452~acl=/*~id=13737628828021521343076366166350~hmac=590827544454726ab4cf462619bcbd49c81a0378dcad5d19dc048091bf3b2478",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768122452~acl=/*~id=13737628828021521343076366166350~hmac=590827544454726ab4cf462619bcbd49c81a0378dcad5d19dc048091bf3b2478"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768123060~acl=/*~id=01340650017468611950689759887747~hmac=bdc515c30638b1933838e6c22d69f668167269d124fe5bd82e3a5d754230e5e1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768123060~acl=/*~id=01340650017468611950689759887747~hmac=bdc515c30638b1933838e6c22d69f668167269d124fe5bd82e3a5d754230e5e1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768123060~acl=/*~id=01340650017468611950689759887747~hmac=bdc515c30638b1933838e6c22d69f668167269d124fe5bd82e3a5d754230e5e1"
         },
         {
             "event_category": "Racing",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 2 - Hankook Mexico City E-Prix - Final Race - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768122452~acl=/*~id=13737628828021521343076366166350~hmac=590827544454726ab4cf462619bcbd49c81a0378dcad5d19dc048091bf3b2478",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768122452~acl=/*~id=13737628828021521343076366166350~hmac=590827544454726ab4cf462619bcbd49c81a0378dcad5d19dc048091bf3b2478",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768122452~acl=/*~id=13737628828021521343076366166350~hmac=590827544454726ab4cf462619bcbd49c81a0378dcad5d19dc048091bf3b2478"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768123060~acl=/*~id=01340650017468611950689759887747~hmac=bdc515c30638b1933838e6c22d69f668167269d124fe5bd82e3a5d754230e5e1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768123060~acl=/*~id=01340650017468611950689759887747~hmac=bdc515c30638b1933838e6c22d69f668167269d124fe5bd82e3a5d754230e5e1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768123060~acl=/*~id=01340650017468611950689759887747~hmac=bdc515c30638b1933838e6c22d69f668167269d124fe5bd82e3a5d754230e5e1"
         },
         {
             "event_category": "Cricket",
@@ -123,4 +123,19 @@
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498669,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_lands
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - United Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499230,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013163/1767950286474880_FA-CUP_Round-3-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+        }
+    ]
+}
