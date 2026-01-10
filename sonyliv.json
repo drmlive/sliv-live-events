@@ -1,27 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:02:18 10-01-2026",
+    "last update time": "21:12:26 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090499194,
+            "contentId": "1090499194_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767942513120145_FA_CUP_26_RD3_Man-City-vs-Exeter-City_9jan_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Man City vs Exeter City - Round 3 - 10 Jan 2026"
+            "match_name": "Man City vs Exeter City - Round 3 - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768102945~acl=/*~id=59182099134221192819378913457877~hmac=18f2ade231046a40b6fe8499218cf830625b3ec957dba8143a95495cc31a9204",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768102945~acl=/*~id=59182099134221192819378913457877~hmac=18f2ade231046a40b6fe8499218cf830625b3ec957dba8143a95495cc31a9204",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768102945~acl=/*~id=59182099134221192819378913457877~hmac=18f2ade231046a40b6fe8499218cf830625b3ec957dba8143a95495cc31a9204"
         },
         {
             "event_category": "Racing",
             "isLive": true,
-            "contentId": 1090499220,
+            "contentId": "1090499220_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013178/1767968628185941_ABB_FIA_FormulaE_WC2526_Round_2_Hankook_Mexico_City_EPRIX_Qualifying_Race_9jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
-            "match_name": "Round 2 - Hankook Mexico City E-Prix - Qualifying Race - 10 Jan 2026"
+            "match_name": "Round 2 - Hankook Mexico City E-Prix - Qualifying Race - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768102945~acl=/*~id=59182099134221192819378913457877~hmac=18f2ade231046a40b6fe8499218cf830625b3ec957dba8143a95495cc31a9204",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768102945~acl=/*~id=59182099134221192819378913457877~hmac=18f2ade231046a40b6fe8499218cf830625b3ec957dba8143a95495cc31a9204",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768102945~acl=/*~id=59182099134221192819378913457877~hmac=18f2ade231046a40b6fe8499218cf830625b3ec957dba8143a95495cc31a9204"
         },
         {
             "event_category": "Cricket",
@@ -145,4 +151,18 @@
             "isLive": false,
             "contentId": 1090498669,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
-            "bro
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - United Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499230,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013163/1767950286474880_FA-CUP_Round-3-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+        }
+    ]
+}
