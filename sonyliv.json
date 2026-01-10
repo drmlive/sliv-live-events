@@ -1,20 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:33:42 10-01-2026",
+    "last update time": "22:43:54 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090499194_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767942513120145_FA_CUP_26_RD3_Man-City-vs-Exeter-City_9jan_Landscape_thumb.jpg",
+            "contentId": "1090499181_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983336654263_facup26_RD3_Tottenham_vs_Aston_Villa_9jan_eng_Landscape_thumb_re1.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Man City vs Exeter City - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91"
+            "match_name": "Tottenham vs Aston Villa - Round 3 - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499181_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983336654263_facup26_RD3_Tottenham_vs_Aston_Villa_9jan_eng_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Tottenham vs Aston Villa - Round 3 - 10 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499181_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983336654263_facup26_RD3_Tottenham_vs_Aston_Villa_9jan_eng_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Tottenham vs Aston Villa - Round 3 - 10 Jan 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499181_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983336654263_facup26_RD3_Tottenham_vs_Aston_Villa_9jan_eng_Landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Tottenham vs Aston Villa - Round 3 - 10 Jan 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0"
         },
         {
             "event_category": "Football",
@@ -25,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Bayer Leverkusen vs VfB Stuttgart - MD 16 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0"
         },
         {
             "event_category": "Football",
@@ -38,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Newcastle vs Bournemouth - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0"
         },
         {
             "event_category": "Racing",
@@ -51,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 2 - Hankook Mexico City E-Prix - Qualifying Race - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768108429~acl=/*~id=31686304916808009843680966966817~hmac=0dd5bcdb470714677a3764893350c110e659dad4d50c0899c0b25798b01320d0"
         },
         {
             "event_category": "Cricket",
