@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:29:10 10-01-2026",
+    "last update time": "17:39:17 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Macclesfield vs Crystal Palace - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768089549~acl=/*~id=48841862002980191512295382893019~hmac=aa71e547427f9bce9b2cfa023e64e3ed4ef9be0ea2136ca206f48c1434545327",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768089549~acl=/*~id=48841862002980191512295382893019~hmac=aa71e547427f9bce9b2cfa023e64e3ed4ef9be0ea2136ca206f48c1434545327",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768089549~acl=/*~id=48841862002980191512295382893019~hmac=aa71e547427f9bce9b2cfa023e64e3ed4ef9be0ea2136ca206f48c1434545327"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "USA vs Poland - Semi-final - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768089549~acl=/*~id=48841862002980191512295382893019~hmac=aa71e547427f9bce9b2cfa023e64e3ed4ef9be0ea2136ca206f48c1434545327",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768089549~acl=/*~id=48841862002980191512295382893019~hmac=aa71e547427f9bce9b2cfa023e64e3ed4ef9be0ea2136ca206f48c1434545327",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768089549~acl=/*~id=48841862002980191512295382893019~hmac=aa71e547427f9bce9b2cfa023e64e3ed4ef9be0ea2136ca206f48c1434545327"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768090156~acl=/*~id=26394732235929397586858829393495~hmac=c5bffffe9995e7cf1bdeccaf20589482d1204e127e0b90828e48413882b3559e"
         },
         {
             "event_category": "Football",
@@ -124,4 +124,45 @@
             "isLive": false,
             "contentId": 1090496895,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012914/1767431793855494_Australian-Open-2026-Promo-Thumbs_landscape.jpg",
-            "broadcast_channel": 
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499130,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780615749180_PROMO_BUNDESLIGA_LEVERKUSEN_VS_STUTTGART_30_SEC_HOR_DATED_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayer Leverkusen vs VfB Stuttgart"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499128,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780623994080_PROMO_BUNDESLIGA_BAYERN_VS_WOLFSBURG_30_SEC_HOR_DATED_APP_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs VfL Wolfsburg"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498669,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012875/1767348595666431_SL_UNITED_CUP_ddt_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - United Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499230,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013163/1767950286474880_FA-CUP_Round-3-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+        }
+    ]
+}
