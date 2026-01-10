@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:23:32 10-01-2026",
+    "last update time": "22:33:42 10-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Man City vs Exeter City - Round 3 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Bayer Leverkusen vs VfB Stuttgart - MD 16 - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499195_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767943068714145_FA_CUP_26_RD3_Newcastle-vs-Bournemouth_9jan_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Newcastle vs Bournemouth - Round 3 - 10 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91"
         },
         {
             "event_category": "Racing",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 2 - Hankook Mexico City E-Prix - Qualifying Race - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107211~acl=/*~id=79856618240084279106293521338411~hmac=4e181aa633f5ec2ecea173ea6f5d906e3c9752e7449fc91347d058afb3205555"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768107820~acl=/*~id=03340016864859467846417818937424~hmac=8f6e60016b6d7562e5cc1fc6c8af4309fff56e16cbfdf10f8c2cf824a2ebed91"
         },
         {
             "event_category": "Cricket",
