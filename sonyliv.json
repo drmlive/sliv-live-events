@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:31:57 11-01-2026",
+    "last update time": "08:42:08 11-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090498882_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012842/1767188814441275_SuperSmash2526_mens_Wellington-Firebirds-vs-Northern-Brave_31dec_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Super Smash 2025/26 Men's",
-            "match_name": "Wellington Firebirds vs Northern Brave Men - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768143717~acl=/*~id=54066901914810330723619559061085~hmac=fda7bb07def418a894bbcde86b083261a1eb92417fd70495baff7ba3e8b33d36",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768143717~acl=/*~id=54066901914810330723619559061085~hmac=fda7bb07def418a894bbcde86b083261a1eb92417fd70495baff7ba3e8b33d36",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768143717~acl=/*~id=54066901914810330723619559061085~hmac=fda7bb07def418a894bbcde86b083261a1eb92417fd70495baff7ba3e8b33d36"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -55,6 +42,24 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090499079,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767785016471119_FA_CUP_3rdRD_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090496895,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012914/1767431793855494_Australian-Open-2026-Promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090499083,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013071/1767778722855928_FAcup26_Portsmouth_vs_Arsenal_6jan_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -78,24 +83,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Liverpool vs Barnsley"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499079,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767785016471119_FA_CUP_3rdRD_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Round 3"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090496895,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012914/1767431793855494_Australian-Open-2026-Promo-Thumbs_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Football",
