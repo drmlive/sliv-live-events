@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:37:54 12-01-2026",
+    "last update time": "04:48:03 12-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498885_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767249223977898_SuperSmash2526_womens_Otago-Sparks-vs-Auckland-Hearts_1jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Women's",
+            "match_name": "Otago Sparks vs Auckland Hearts - 12 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768216683~acl=/*~id=60213488173127918540799818722478~hmac=2f65251bcd7711b9ff46aa159e3a0d47a6573a680c9855740baac776b73df9b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768216683~acl=/*~id=60213488173127918540799818722478~hmac=2f65251bcd7711b9ff46aa159e3a0d47a6573a680c9855740baac776b73df9b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768216683~acl=/*~id=60213488173127918540799818722478~hmac=2f65251bcd7711b9ff46aa159e3a0d47a6573a680c9855740baac776b73df9b5"
+        },
         {
             "event_category": "Football",
             "isLive": false,
