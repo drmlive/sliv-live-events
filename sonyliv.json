@@ -1,17 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:40:31 11-01-2026",
+    "last update time": "06:50:39 11-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1090498883,
+            "contentId": "1090498883_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012842/1767188578192275_SuperSmash2526_womens_Wellington-Blaze-vs-Northern-Brave_31dec_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Women's",
-            "match_name": "Wellington Blaze vs Northern Brave - 11 Jan 2026"
+            "match_name": "Wellington Blaze vs Northern Brave - 11 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768137639~acl=/*~id=87544650643893671251859768436906~hmac=412224ac1e69afae336681b3b8f6cb2bd485f91059d628a78bdeaa43ea8399ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768137639~acl=/*~id=87544650643893671251859768436906~hmac=412224ac1e69afae336681b3b8f6cb2bd485f91059d628a78bdeaa43ea8399ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768137639~acl=/*~id=87544650643893671251859768436906~hmac=412224ac1e69afae336681b3b8f6cb2bd485f91059d628a78bdeaa43ea8399ca"
         },
         {
             "event_category": "Cricket",
