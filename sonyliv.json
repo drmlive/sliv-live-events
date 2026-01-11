@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:53:10 11-01-2026",
+    "last update time": "10:03:19 11-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Wellington Firebirds vs Northern Brave Men - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768148589~acl=/*~id=86870236340623262394426155140082~hmac=ccb9b31804f93d4f1694c54d68b2e9010dea5e1cc516b7ddfccf7dc5f031c281",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768148589~acl=/*~id=86870236340623262394426155140082~hmac=ccb9b31804f93d4f1694c54d68b2e9010dea5e1cc516b7ddfccf7dc5f031c281",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768148589~acl=/*~id=86870236340623262394426155140082~hmac=ccb9b31804f93d4f1694c54d68b2e9010dea5e1cc516b7ddfccf7dc5f031c281"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090498875,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698477715522_SLvsPAK26_3t20i_tonight_6jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768149199~acl=/*~id=11942441788884489946528715225360~hmac=056c471549f9c8630ab35a82c54961f0881bc9f31e7d06b8e5b25478befa2cf2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768149199~acl=/*~id=11942441788884489946528715225360~hmac=056c471549f9c8630ab35a82c54961f0881bc9f31e7d06b8e5b25478befa2cf2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768149199~acl=/*~id=11942441788884489946528715225360~hmac=056c471549f9c8630ab35a82c54961f0881bc9f31e7d06b8e5b25478befa2cf2"
         },
         {
             "event_category": "Football",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - 11 Jan 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090498875,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698477715522_SLvsPAK26_3t20i_tonight_6jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
         },
         {
             "event_category": "Tennis",
