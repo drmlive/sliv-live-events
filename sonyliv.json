@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:14:23 11-01-2026",
+    "last update time": "14:24:36 11-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Switzerland vs Poland - Final - 11 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768164263~acl=/*~id=90052319230550257140106947832219~hmac=889b2ca7fb92a10eb35ca4935a41748a85b741fb6fe9af7ab3c4e97a504be55c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768164263~acl=/*~id=90052319230550257140106947832219~hmac=889b2ca7fb92a10eb35ca4935a41748a85b741fb6fe9af7ab3c4e97a504be55c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768164263~acl=/*~id=90052319230550257140106947832219~hmac=889b2ca7fb92a10eb35ca4935a41748a85b741fb6fe9af7ab3c4e97a504be55c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768164876~acl=/*~id=21592018575916349678820777505222~hmac=b4d2cfe44bcb1250d0589fdb63ec28204a58ded7710b7bf2957c09243057b0d8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768164876~acl=/*~id=21592018575916349678820777505222~hmac=b4d2cfe44bcb1250d0589fdb63ec28204a58ded7710b7bf2957c09243057b0d8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768164876~acl=/*~id=21592018575916349678820777505222~hmac=b4d2cfe44bcb1250d0589fdb63ec28204a58ded7710b7bf2957c09243057b0d8"
         },
         {
             "event_category": "Football",
@@ -82,11 +82,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090499079,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767785016471119_FA_CUP_3rdRD_Landscape_thumb.jpg",
+            "contentId": 1090499128,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780623994080_PROMO_BUNDESLIGA_BAYERN_VS_WOLFSBURG_30_SEC_HOR_DATED_APP_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Round 3"
+            "event_name": "Upcoming - Bayern Munich vs VfL Wolfsburg"
         },
         {
             "event_category": "Tennis",
@@ -100,11 +100,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090499128,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013094/176780623994080_PROMO_BUNDESLIGA_BAYERN_VS_WOLFSBURG_30_SEC_HOR_DATED_APP_Landscape_thumb.jpg",
+            "contentId": 1090499079,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767785016471119_FA_CUP_3rdRD_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern Munich vs VfL Wolfsburg"
+            "event_name": "Upcoming - Emirates FA Cup - Round 3"
         },
         {
             "event_category": "Football",
