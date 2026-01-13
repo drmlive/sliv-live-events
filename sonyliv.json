@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:32:40 13-01-2026",
+    "last update time": "11:42:48 13-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499498_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013308/1768241348538463_AO26_Rybakina_vs_Zheng_12jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Rybakina vs Zheng - 13 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327359~acl=/*~id=68342738728386971701197079905089~hmac=ed3ce81de637842c13e94694bcb8060f881482ec8fc7cadb89924baea8913bbd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327359~acl=/*~id=68342738728386971701197079905089~hmac=ed3ce81de637842c13e94694bcb8060f881482ec8fc7cadb89924baea8913bbd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327359~acl=/*~id=68342738728386971701197079905089~hmac=ed3ce81de637842c13e94694bcb8060f881482ec8fc7cadb89924baea8913bbd"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -25,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Central Stags vs Northern Brave - 13 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327359~acl=/*~id=68342738728386971701197079905089~hmac=ed3ce81de637842c13e94694bcb8060f881482ec8fc7cadb89924baea8913bbd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327359~acl=/*~id=68342738728386971701197079905089~hmac=ed3ce81de637842c13e94694bcb8060f881482ec8fc7cadb89924baea8913bbd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327359~acl=/*~id=68342738728386971701197079905089~hmac=ed3ce81de637842c13e94694bcb8060f881482ec8fc7cadb89924baea8913bbd"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327968~acl=/*~id=68796846949363782510561629900887~hmac=54de024d3f111d2de92aeeb199ad119c3b179ef6aa4704ee6ccca69f82ce9af4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327968~acl=/*~id=68796846949363782510561629900887~hmac=54de024d3f111d2de92aeeb199ad119c3b179ef6aa4704ee6ccca69f82ce9af4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327968~acl=/*~id=68796846949363782510561629900887~hmac=54de024d3f111d2de92aeeb199ad119c3b179ef6aa4704ee6ccca69f82ce9af4"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499498_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013308/1768241348538463_AO26_Rybakina_vs_Zheng_12jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Rybakina vs Zheng - 13 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327968~acl=/*~id=68796846949363782510561629900887~hmac=54de024d3f111d2de92aeeb199ad119c3b179ef6aa4704ee6ccca69f82ce9af4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327968~acl=/*~id=68796846949363782510561629900887~hmac=54de024d3f111d2de92aeeb199ad119c3b179ef6aa4704ee6ccca69f82ce9af4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768327968~acl=/*~id=68796846949363782510561629900887~hmac=54de024d3f111d2de92aeeb199ad119c3b179ef6aa4704ee6ccca69f82ce9af4"
         },
         {
             "event_category": "Tennis",
