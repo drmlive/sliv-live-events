@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:51:10 13-01-2026",
+    "last update time": "10:01:17 13-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498893_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767248542948898_SuperSmash2526_mens_Central-Stags-vs-Northern-Brave_1jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Men's",
+            "match_name": "Central Stags vs Northern Brave - 13 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768321877~acl=/*~id=25294369344736746676943939599286~hmac=7572dfdcc4d823778780cebcc0288d9862e390e670f04e879c4d7e8b0f0f31a5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768321877~acl=/*~id=25294369344736746676943939599286~hmac=7572dfdcc4d823778780cebcc0288d9862e390e670f04e879c4d7e8b0f0f31a5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768321877~acl=/*~id=25294369344736746676943939599286~hmac=7572dfdcc4d823778780cebcc0288d9862e390e670f04e879c4d7e8b0f0f31a5"
+        },
         {
             "event_category": "Tennis",
             "isLive": false,
