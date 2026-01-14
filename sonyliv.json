@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:52:52 14-01-2026",
+    "last update time": "17:03:00 14-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499540_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013335/1768308166694123_AO26_Opening_week_1_Point_Slam_13jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "1 Point Slam - 14 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768432972~acl=/*~id=86736936114327347934357201964458~hmac=c280b59628662be3c00ec8a8b2379389cdc2ef639a2b4bb327b85e574356864e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768432972~acl=/*~id=86736936114327347934357201964458~hmac=c280b59628662be3c00ec8a8b2379389cdc2ef639a2b4bb327b85e574356864e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768432972~acl=/*~id=86736936114327347934357201964458~hmac=c280b59628662be3c00ec8a8b2379389cdc2ef639a2b4bb327b85e574356864e"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
