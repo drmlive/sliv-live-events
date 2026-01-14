@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:17:51 14-01-2026",
+    "last update time": "23:28:01 14-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfL Wolfsburg vs St. Pauli - MD 17 - 14 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768456071~acl=/*~id=60186068578050280296569591680570~hmac=3a095bac8333dbb3ce329067b258437500b35c0e69ae42d36c72c2a4402fd659",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768456071~acl=/*~id=60186068578050280296569591680570~hmac=3a095bac8333dbb3ce329067b258437500b35c0e69ae42d36c72c2a4402fd659",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768456071~acl=/*~id=60186068578050280296569591680570~hmac=3a095bac8333dbb3ce329067b258437500b35c0e69ae42d36c72c2a4402fd659"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768456680~acl=/*~id=05421497219603388415086405963763~hmac=aaa06775b40cdc43c05f23bd81acd86e39bf29c068160b2e0ea9f6c334a45adb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768456680~acl=/*~id=05421497219603388415086405963763~hmac=aaa06775b40cdc43c05f23bd81acd86e39bf29c068160b2e0ea9f6c334a45adb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768456680~acl=/*~id=05421497219603388415086405963763~hmac=aaa06775b40cdc43c05f23bd81acd86e39bf29c068160b2e0ea9f6c334a45adb"
         },
         {
             "event_category": "Tennis",
@@ -137,19 +137,4 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499591,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331614186720_UCL26_MD7_liverpool_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499592,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331567050720_UCL26_MD7_sporting_vs_PSG_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sporting CP vs PSG - UEFA Champions League 2025-26"
-        }
-    ]
-}
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331614186720_UCL26_MD7_liverpool_promo_landscape_thumb.j
