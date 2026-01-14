@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:10:24 14-01-2026",
+    "last update time": "15:21:14 14-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "1 Point Slam - 14 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768426824~acl=/*~id=67287414105545482782158683615413~hmac=fb0947a67027e8b014f749f50cae08476151464b45fb637ed5355ee720b721b2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768426824~acl=/*~id=67287414105545482782158683615413~hmac=fb0947a67027e8b014f749f50cae08476151464b45fb637ed5355ee720b721b2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768426824~acl=/*~id=67287414105545482782158683615413~hmac=fb0947a67027e8b014f749f50cae08476151464b45fb637ed5355ee720b721b2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768427474~acl=/*~id=87848487857523400505324879386323~hmac=f6af4e2d5f4cda3ce3c5ba21a35912173c156559dcdffad0367581bf6fa10df0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768427474~acl=/*~id=87848487857523400505324879386323~hmac=f6af4e2d5f4cda3ce3c5ba21a35912173c156559dcdffad0367581bf6fa10df0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768427474~acl=/*~id=87848487857523400505324879386323~hmac=f6af4e2d5f4cda3ce3c5ba21a35912173c156559dcdffad0367581bf6fa10df0"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498827,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013306/1768235256155409_AO26_dated_12jan_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Wrestling",
@@ -24,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Pro Wrestling League 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090498545,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Iconic Sports Sizzlers"
         },
         {
             "event_category": "Football",
@@ -42,15 +60,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - FC Koln vs Bayern Munich"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013306/1768235256155409_AO26_dated_12jan_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Tennis",
@@ -78,15 +87,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - RB Leipzig vs Bayern Munich"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090498545,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Iconic Sports Sizzlers"
         },
         {
             "event_category": "Football",
