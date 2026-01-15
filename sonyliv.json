@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:14:57 15-01-2026",
+    "last update time": "08:25:03 15-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090499552_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012916/1767337972882901_SuperSmash2526_mens_Otago-Volts-vs-Wellington-Firebirds_1jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Men's",
+            "match_name": "Otago Volts vs Wellington Firebirds - 15 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488903~acl=/*~id=54487801329905819545610095098843~hmac=9f29a83616f05d0ce0b9bf5b7babeb5e8a76fde1a7e7d28e89fb127c023e434c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488903~acl=/*~id=54487801329905819545610095098843~hmac=9f29a83616f05d0ce0b9bf5b7babeb5e8a76fde1a7e7d28e89fb127c023e434c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488903~acl=/*~id=54487801329905819545610095098843~hmac=9f29a83616f05d0ce0b9bf5b7babeb5e8a76fde1a7e7d28e89fb127c023e434c"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Qualifying - Final Round - 15 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488297~acl=/*~id=23331391603761262467660175080780~hmac=08dce9f7b21f5f6a49ae5de21a32fe0b6b4ba93fc346e66f85973dc339bf4bac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488297~acl=/*~id=23331391603761262467660175080780~hmac=08dce9f7b21f5f6a49ae5de21a32fe0b6b4ba93fc346e66f85973dc339bf4bac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488297~acl=/*~id=23331391603761262467660175080780~hmac=08dce9f7b21f5f6a49ae5de21a32fe0b6b4ba93fc346e66f85973dc339bf4bac"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488903~acl=/*~id=54487801329905819545610095098843~hmac=9f29a83616f05d0ce0b9bf5b7babeb5e8a76fde1a7e7d28e89fb127c023e434c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488903~acl=/*~id=54487801329905819545610095098843~hmac=9f29a83616f05d0ce0b9bf5b7babeb5e8a76fde1a7e7d28e89fb127c023e434c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768488903~acl=/*~id=54487801329905819545610095098843~hmac=9f29a83616f05d0ce0b9bf5b7babeb5e8a76fde1a7e7d28e89fb127c023e434c"
         },
         {
             "event_category": "Tennis",
