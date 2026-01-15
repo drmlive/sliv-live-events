@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:24:59 15-01-2026",
+    "last update time": "23:35:06 15-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -29,6 +29,24 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499591,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490378094434_UCL26_Marseille_vs_Liverpool_dated_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499594,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Wrestling",
@@ -78,15 +96,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090499594,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090499595,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013353/1768334030707146_UCL26_MD7_benfica_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -110,15 +119,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Atletico - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499591,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490378094434_UCL26_Marseille_vs_Liverpool_dated_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
