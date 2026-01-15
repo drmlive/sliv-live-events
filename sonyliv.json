@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:08:22 15-01-2026",
+    "last update time": "13:18:28 15-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499564_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013378/1768394373358258_AO26_Djokovic_vs_Tiafoe_op_live_landscpae_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768306701711693_AO26_Opening_week_Alcaraz_vs_De_Minaur_13jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Novak Djokovic vs Frances Tiafoe - 15 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768505901~acl=/*~id=90760879716362097212359160105935~hmac=ea45b637d2320686ada331c2c94761848235453f7f0c0c896c696b203f3e856d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768505901~acl=/*~id=90760879716362097212359160105935~hmac=ea45b637d2320686ada331c2c94761848235453f7f0c0c896c696b203f3e856d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768505901~acl=/*~id=90760879716362097212359160105935~hmac=ea45b637d2320686ada331c2c94761848235453f7f0c0c896c696b203f3e856d"
+            "match_name": "Alcaraz vs De Minaur - 15 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768506508~acl=/*~id=32515422557788729071121217771076~hmac=9dd606fa90f273a2f123ec9f881c44e4c715ee8613e880460f282f0553f414c7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768506508~acl=/*~id=32515422557788729071121217771076~hmac=9dd606fa90f273a2f123ec9f881c44e4c715ee8613e880460f282f0553f414c7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768506508~acl=/*~id=32515422557788729071121217771076~hmac=9dd606fa90f273a2f123ec9f881c44e4c715ee8613e880460f282f0553f414c7"
         },
         {
             "event_category": "Tennis",
@@ -137,4 +137,10 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499592,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331567050720_UCL26_MD7_sporting_vs_PSG_promo_landscape_thumb.j
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331567050720_UCL26_MD7_sporting_vs_PSG_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting CP vs PSG - UEFA Champions League 2025-26"
+        }
+    ]
+}
