@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:57:11 16-01-2026",
+    "last update time": "03:07:16 16-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "FC Augsburg vs Union Berlin - MD 17 - 16 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768555631~acl=/*~id=44508919775290257146468927701274~hmac=7bc85746492d78ea4109e485bf018f9b3a2f477bafd8fc97d9a567cff0325fa1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768555631~acl=/*~id=44508919775290257146468927701274~hmac=7bc85746492d78ea4109e485bf018f9b3a2f477bafd8fc97d9a567cff0325fa1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768555631~acl=/*~id=44508919775290257146468927701274~hmac=7bc85746492d78ea4109e485bf018f9b3a2f477bafd8fc97d9a567cff0325fa1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768556236~acl=/*~id=40726735621261405489187684307285~hmac=1c1a85392aaabf2b1cbac565bd570b8a6b5f66a0405318efa0e443afda862466",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768556236~acl=/*~id=40726735621261405489187684307285~hmac=1c1a85392aaabf2b1cbac565bd570b8a6b5f66a0405318efa0e443afda862466",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768556236~acl=/*~id=40726735621261405489187684307285~hmac=1c1a85392aaabf2b1cbac565bd570b8a6b5f66a0405318efa0e443afda862466"
         },
         {
             "event_category": "Tennis",
@@ -137,4 +137,10 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499592,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331567050720_UCL26_MD7_sportin
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331567050720_UCL26_MD7_sporting_vs_PSG_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting CP vs PSG - UEFA Champions League 2025-26"
+        }
+    ]
+}
