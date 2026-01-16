@@ -1,26 +1,13 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:54:38 17-01-2026",
+    "last update time": "02:04:44 17-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499625_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768495550897550_bliga26_MD18_Werder_Bremen_vs_Eintracht_Frankfurt_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Werder Bremen vs Eintracht Frankfurt - MD 18 - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768638278~acl=/*~id=34977613000347604251574033317865~hmac=36cedbbc9ae8f5f76a8fad9459c8cc6820498a80c27ad0745a1ec534ecafc2e8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768638278~acl=/*~id=34977613000347604251574033317865~hmac=36cedbbc9ae8f5f76a8fad9459c8cc6820498a80c27ad0745a1ec534ecafc2e8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768638278~acl=/*~id=34977613000347604251574033317865~hmac=36cedbbc9ae8f5f76a8fad9459c8cc6820498a80c27ad0745a1ec534ecafc2e8"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013433/1768477588062752_AO26_dated_rev_15jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013498/1768579174570211_AO2026_GOB_Landscape_Thumb_Dated_SP_2.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
@@ -33,33 +20,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499594,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499589,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499591,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490378094434_UCL26_Marseille_vs_Liverpool_dated_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Wrestling",
@@ -118,6 +78,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090499594,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090499595,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013353/1768334030707146_UCL26_MD7_benfica_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -127,11 +96,29 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090499589,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090499590,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331646662720_UCL26_MD7_ATM_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Atletico - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499591,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490378094434_UCL26_Marseille_vs_Liverpool_dated_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
