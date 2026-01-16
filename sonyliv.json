@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:00:30 16-01-2026",
+    "last update time": "21:10:37 16-01-2026",
     "matches": [
+        {
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090499624_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "Punjab Royals vs Haryana Thunders - 16 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768621237~acl=/*~id=98404521581219106180693308867697~hmac=fc5d6d9afe28b101c67410ebe7328bb15ff90f41ea95d44e1162f2198e5c6b0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768621237~acl=/*~id=98404521581219106180693308867697~hmac=fc5d6d9afe28b101c67410ebe7328bb15ff90f41ea95d44e1162f2198e5c6b0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768621237~acl=/*~id=98404521581219106180693308867697~hmac=fc5d6d9afe28b101c67410ebe7328bb15ff90f41ea95d44e1162f2198e5c6b0e"
+        },
         {
             "event_category": "Wrestling",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pro Wrestling League 2026",
             "match_name": "Punjab Royals vs Haryana Thunders - 16 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768620629~acl=/*~id=48383801602131489676823866608488~hmac=dfdb5b637bf4fd025229467f4e4756ffe189d07aee5350d0781dbef134da0db8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768620629~acl=/*~id=48383801602131489676823866608488~hmac=dfdb5b637bf4fd025229467f4e4756ffe189d07aee5350d0781dbef134da0db8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768620629~acl=/*~id=48383801602131489676823866608488~hmac=dfdb5b637bf4fd025229467f4e4756ffe189d07aee5350d0781dbef134da0db8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768621237~acl=/*~id=98404521581219106180693308867697~hmac=fc5d6d9afe28b101c67410ebe7328bb15ff90f41ea95d44e1162f2198e5c6b0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768621237~acl=/*~id=98404521581219106180693308867697~hmac=fc5d6d9afe28b101c67410ebe7328bb15ff90f41ea95d44e1162f2198e5c6b0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768621237~acl=/*~id=98404521581219106180693308867697~hmac=fc5d6d9afe28b101c67410ebe7328bb15ff90f41ea95d44e1162f2198e5c6b0e"
         },
         {
             "event_category": "Tennis",
