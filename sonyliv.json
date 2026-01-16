@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:57:26 16-01-2026",
+    "last update time": "17:07:33 16-01-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499696_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013427/1768475224342247_UECL26_Knockout_phase_play_off_draw_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Conference League 2025-26",
+            "match_name": "Knockout Phase Play-Off Draw - 16 Jan 2026  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768606653~acl=/*~id=42701612325982758914597624849035~hmac=4e3e579fea9c1bae3ee0518e01d4168228730ccc0cd1a0fd24078b3403f22370",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768606653~acl=/*~id=42701612325982758914597624849035~hmac=4e3e579fea9c1bae3ee0518e01d4168228730ccc0cd1a0fd24078b3403f22370",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768606653~acl=/*~id=42701612325982758914597624849035~hmac=4e3e579fea9c1bae3ee0518e01d4168228730ccc0cd1a0fd24078b3403f22370"
+        },
         {
             "event_category": "Tennis",
             "isLive": false,
