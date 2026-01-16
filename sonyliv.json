@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:27:07 16-01-2026",
+    "last update time": "16:37:13 16-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499622_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013423/176846861552253_AO26_Redbull_Baseline_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Redbull Baseline - 16 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768604226~acl=/*~id=85649139668867345882956169272088~hmac=e1d43605eb4cb47e935f2be25242ae965d990b84407623e349633d43b6aeb1c2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768604226~acl=/*~id=85649139668867345882956169272088~hmac=e1d43605eb4cb47e935f2be25242ae965d990b84407623e349633d43b6aeb1c2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768604226~acl=/*~id=85649139668867345882956169272088~hmac=e1d43605eb4cb47e935f2be25242ae965d990b84407623e349633d43b6aeb1c2"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
