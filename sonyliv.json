@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:22:45 16-01-2026",
+    "last update time": "23:32:56 16-01-2026",
     "matches": [
-        {
-            "event_category": "Wrestling",
-            "isLive": true,
-            "contentId": "1090499624_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pro Wrestling League 2026",
-            "match_name": "Punjab Royals vs Haryana Thunders - 16 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859"
-        },
-        {
-            "event_category": "Wrestling",
-            "isLive": true,
-            "contentId": "1090499624_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pro Wrestling League 2026",
-            "match_name": "Punjab Royals vs Haryana Thunders - 16 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
