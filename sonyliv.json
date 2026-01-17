@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:24:28 17-01-2026",
+    "last update time": "17:34:36 17-01-2026",
     "matches": [
+        {
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090499745_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013438/1768473682860824_PWL_26_UP-Dominators-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "UP Dominators vs Tigers of Mumbai Dangals - 17 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768694675~acl=/*~id=23452585266343992087058230226523~hmac=129da46913daa8079decc535e04fa93b862c19438a6b7b79013808f60f8b23de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768694675~acl=/*~id=23452585266343992087058230226523~hmac=129da46913daa8079decc535e04fa93b862c19438a6b7b79013808f60f8b23de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768694675~acl=/*~id=23452585266343992087058230226523~hmac=129da46913daa8079decc535e04fa93b862c19438a6b7b79013808f60f8b23de"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090499745_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013438/1768473682860824_PWL_26_UP-Dominators-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "UP Dominators vs Tigers of Mumbai Dangals - 17 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768694675~acl=/*~id=23452585266343992087058230226523~hmac=129da46913daa8079decc535e04fa93b862c19438a6b7b79013808f60f8b23de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768694675~acl=/*~id=23452585266343992087058230226523~hmac=129da46913daa8079decc535e04fa93b862c19438a6b7b79013808f60f8b23de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768694675~acl=/*~id=23452585266343992087058230226523~hmac=129da46913daa8079decc535e04fa93b862c19438a6b7b79013808f60f8b23de"
+        },
         {
             "event_category": "Wrestling",
             "isLive": false,
