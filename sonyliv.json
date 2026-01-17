@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:58:24 17-01-2026",
+    "last update time": "22:08:30 17-01-2026",
     "matches": [
         {
             "event_category": "Wrestling",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pro Wrestling League 2026",
             "match_name": "Delhi Dangal Warriors vs Haryana Thunders - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768711110~acl=/*~id=01236794616732774210888614114397~hmac=d94426bb762283256ae18f8ce8aa659f01afdb7e00539c427c3c3346d1829ab8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768711110~acl=/*~id=01236794616732774210888614114397~hmac=d94426bb762283256ae18f8ce8aa659f01afdb7e00539c427c3c3346d1829ab8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768711110~acl=/*~id=01236794616732774210888614114397~hmac=d94426bb762283256ae18f8ce8aa659f01afdb7e00539c427c3c3346d1829ab8"
         },
         {
             "event_category": "Wrestling",
@@ -25,58 +25,126 @@
             "audioLanguageName": "ENG",
             "event_name": "Pro Wrestling League 2026",
             "match_name": "Delhi Dangal Warriors vs Haryana Thunders - 17 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768711110~acl=/*~id=01236794616732774210888614114397~hmac=d94426bb762283256ae18f8ce8aa659f01afdb7e00539c427c3c3346d1829ab8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768711110~acl=/*~id=01236794616732774210888614114397~hmac=d94426bb762283256ae18f8ce8aa659f01afdb7e00539c427c3c3346d1829ab8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768711110~acl=/*~id=01236794616732774210888614114397~hmac=d94426bb762283256ae18f8ce8aa659f01afdb7e00539c427c3c3346d1829ab8"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498827,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013508/1768596894597956_AO26_schedule_17janR_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499627_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768495759076550_bliga26_MD18_Dortmund_vs_StPauli_15jan_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1090499496,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768492437672434_UCL26_Bodo_Glimt_vs_Man_City_dated_15jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Borussia Dortmund vs St. Pauli - MD 18 - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da"
+            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499634_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768496321566550_bliga26_MD18_Hoffenheim_vs_Leverkusen_15jan_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1090499594,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Hoffenheim vs Bayer Leverkusen - MD 18 - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da"
+            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499638_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768496474715550_bliga26_MD18_Wolfsburg_vs_Heidenheim_15jan_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1090499589,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "VfL Wolfsburg vs Heidenheim - MD 18 - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da"
+            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499629_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768496181970550_bliga26_MD18_Hamburg_SV_vs_Borussia_15jan_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1090499591,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490378094434_UCL26_Marseille_vs_Liverpool_dated_15jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Hamburger SV vs Borussia M'gladbach - MD 18 - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768710501~acl=/*~id=76968781060136462612390311341531~hmac=8b56d1ca2b4185a3e18a4c59aaa38738c5010affa49664a06e51189ac69309da",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/
+            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": false,
+            "contentId": 1090499518,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013303/1768211442000465_PWL2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Pro Wrestling League 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499522,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013309/1768242251246608_PROMO_BUNDESLIGA_MD18_RBL_VS_BAY_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - RB Leipzig vs Bayern Munich"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090498545,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Iconic Sports Sizzlers"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499593,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331670552720_UCL26_MD7_dortmund_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Tottenham vs Dortmund - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013353/1768334030707146_UCL26_MD7_benfica_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Juventus vs Benfica - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499590,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331646662720_UCL26_MD7_ATM_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Galatasaray vs Atletico - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499592,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331567050720_UCL26_MD7_sporting_vs_PSG_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting CP vs PSG - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090499792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013504/1768589026199343_SL-vs-ENG_17jan_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of Sri Lanka "
+        }
+    ]
+}
