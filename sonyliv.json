@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:07:58 17-01-2026",
+    "last update time": "07:18:03 17-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Mixed Doubles Showdown - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768657077~acl=/*~id=83660340722481734888935617644456~hmac=4c90f8676313d3c19d4f82dbb5ffe1e05ee17f0bdfa11f17ebc5ac5dd1a99d6d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768657077~acl=/*~id=83660340722481734888935617644456~hmac=4c90f8676313d3c19d4f82dbb5ffe1e05ee17f0bdfa11f17ebc5ac5dd1a99d6d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768657077~acl=/*~id=83660340722481734888935617644456~hmac=4c90f8676313d3c19d4f82dbb5ffe1e05ee17f0bdfa11f17ebc5ac5dd1a99d6d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768657683~acl=/*~id=88121977563672572244831332966888~hmac=109148c8c256b07e5175d1fe76d4232b42acb6091f3e28b7c68d29c6e46c8b0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768657683~acl=/*~id=88121977563672572244831332966888~hmac=109148c8c256b07e5175d1fe76d4232b42acb6091f3e28b7c68d29c6e46c8b0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768657683~acl=/*~id=88121977563672572244831332966888~hmac=109148c8c256b07e5175d1fe76d4232b42acb6091f3e28b7c68d29c6e46c8b0e"
         },
         {
             "event_category": "Tennis",
@@ -137,4 +137,19 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499592,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331567050720_UCL26_MD7_sporting_vs_PSG_promo_land
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331567050720_UCL26_MD7_sporting_vs_PSG_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting CP vs PSG - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090499792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013504/1768589026199343_SL-vs-ENG_17jan_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of Sri Lanka "
+        }
+    ]
+}
