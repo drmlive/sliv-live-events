@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:09:58 18-01-2026",
+    "last update time": "00:20:04 18-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "RB Leipzig vs Bayern Munich - MD 18 - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768718397~acl=/*~id=04199000949274966601219292614508~hmac=9f48c816d85e40f6405af3248be9816b8d9c8e28d6c81308fdf960eba9c66ca5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768718397~acl=/*~id=04199000949274966601219292614508~hmac=9f48c816d85e40f6405af3248be9816b8d9c8e28d6c81308fdf960eba9c66ca5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768718397~acl=/*~id=04199000949274966601219292614508~hmac=9f48c816d85e40f6405af3248be9816b8d9c8e28d6c81308fdf960eba9c66ca5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768719004~acl=/*~id=66793674196708823072738284961441~hmac=d37b15bfb24f7b8c975c25d8be321af07d63a787b5d85fde1f5371b5be403529",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768719004~acl=/*~id=66793674196708823072738284961441~hmac=d37b15bfb24f7b8c975c25d8be321af07d63a787b5d85fde1f5371b5be403529",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768719004~acl=/*~id=66793674196708823072738284961441~hmac=d37b15bfb24f7b8c975c25d8be321af07d63a787b5d85fde1f5371b5be403529"
         },
         {
             "event_category": "Tennis",
@@ -35,6 +35,15 @@
             "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090499841,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013536/1768660153241636_AO26_round1_Alcaraz_v_Walton_17jan_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Carlos Alcaraz vs Adam Walton - Australian Open 2026"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499594,
@@ -51,15 +60,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090499841,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013536/1768660153241636_AO26_round1_Alcaraz_v_Walton_17jan_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Carlos Alcaraz vs Adam Walton - Australian Open 2026"
         },
         {
             "event_category": "Wrestling",
