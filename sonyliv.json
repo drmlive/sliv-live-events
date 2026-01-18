@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:27:09 18-01-2026",
+    "last update time": "23:37:16 18-01-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090499869_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768497130413550_bliga26_MD18_Augsburg_vs_SC_Freiburg_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "FC Augsburg vs SC Freiburg - MD 18 - 18 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768802836~acl=/*~id=47660681198605276737110840854165~hmac=7f5aca3a3b149243151d61171b1aa595d3078f63c0a66b78b20df84304e5795d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768802836~acl=/*~id=47660681198605276737110840854165~hmac=7f5aca3a3b149243151d61171b1aa595d3078f63c0a66b78b20df84304e5795d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768802836~acl=/*~id=47660681198605276737110840854165~hmac=7f5aca3a3b149243151d61171b1aa595d3078f63c0a66b78b20df84304e5795d"
+        },
         {
             "event_category": "Tennis",
             "isLive": false,
@@ -20,6 +33,96 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499594,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499589,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499591,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490378094434_UCL26_Marseille_vs_Liverpool_dated_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090499792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013504/1768589026199343_SL-vs-ENG_17jan_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of Sri Lanka "
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": false,
+            "contentId": 1090499518,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013303/1768211442000465_PWL2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Pro Wrestling League 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090498545,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Iconic Sports Sizzlers"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499593,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331670552720_UCL26_MD7_dortmund_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Tottenham vs Dortmund - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013353/1768334030707146_UCL26_MD7_benfica_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Juventus vs Benfica - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499590,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331646662720_UCL26_MD7_ATM_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Galatasaray vs Atletico - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499592,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013576/1768708419449910_UCL_SportingSP_vs_PSG_landscape_thumb_ddt.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting CP vs PSG - UEFA Champions League 2025-26"
         }
     ]
 }
