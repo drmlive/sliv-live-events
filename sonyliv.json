@@ -1,27 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:45:26 18-01-2026",
+    "last update time": "08:55:55 18-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": 1090499148,
+            "contentId": "1090499148_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Zverev vs Diallo - Round 1 - 18 Jan 2026"
+            "match_name": "Zverev vs Diallo - Round 1 - 18 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
-            "contentId": 1090498779,
+            "contentId": "1090499148_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Zverev vs Diallo - Round 1 - 18 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Zverev vs Diallo - Round 1 - 18 Jan 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Zverev vs Diallo - Round 1 - 18 Jan 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090498779_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768637104369986_AO26_Margaret_Court_Arena_r1_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Cerundolo vs Zhang - Round 1 - 18 Jan 2026"
+            "match_name": "Cerundolo vs Zhang - Round 1 - 18 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff"
         },
         {
             "event_category": "Cricket",
@@ -32,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Otago Volts vs Northern Brave - 18 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768749326~acl=/*~id=33367643471340424331520021435708~hmac=66dde25203b37e89457e8fbf3b94aefe01ef610774d59ce3fd123fc42ef9d8fa",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768749326~acl=/*~id=33367643471340424331520021435708~hmac=66dde25203b37e89457e8fbf3b94aefe01ef610774d59ce3fd123fc42ef9d8fa",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768749326~acl=/*~id=33367643471340424331520021435708~hmac=66dde25203b37e89457e8fbf3b94aefe01ef610774d59ce3fd123fc42ef9d8fa"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768749953~acl=/*~id=27319891118209969942219714157927~hmac=54ad251702cc5109b371ea0616b339110d4ac2115bcd7df0b8700771bf8a22ff"
         },
         {
             "event_category": "Football",
@@ -46,6 +91,15 @@
             "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090499898,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013536/1768660153241636_AO26_round1_Alcaraz_v_Walton_17jan_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Carlos Alcaraz vs Adam Walton - Australian Open 2026"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499594,
@@ -53,15 +107,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499589,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Tennis",
@@ -107,6 +152,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Juventus vs Benfica - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499589,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
