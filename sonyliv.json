@@ -1,72 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:53:07 18-01-2026",
+    "last update time": "18:03:14 18-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013539/1768661590168719_AO2026_Landscape_Thumb_Alcaraz_v_Walton_SP.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Alcaraz vs Walton - Round 1 - 18 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4"
+            "match_name": "Stream 1 - 18 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013539/1768661590168719_AO2026_Landscape_Thumb_Alcaraz_v_Walton_SP.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Alcaraz vs Walton - Round 1 - 18 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4"
+            "match_name": "Stream 1 - 18 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013539/1768661590168719_AO2026_Landscape_Thumb_Alcaraz_v_Walton_SP.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Alcaraz vs Walton - Round 1 - 18 Jan 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4"
+            "match_name": "Stream 1 - 18 Jan 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013539/1768661590168719_AO2026_Landscape_Thumb_Alcaraz_v_Walton_SP.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Alcaraz vs Walton - Round 1 - 18 Jan 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090499872_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013535/1768659215344788_DP_world_tour_dubai_day4_17jan_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Dubai Invitational Day 4 - 18 Jan 202665 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768782185~acl=/*~id=02891899910743412085707178001701~hmac=88102a8b2862c95dc8bc24bb19a624720ee45527d11d79b38a2f7722cb1807d4"
+            "match_name": "Stream 1 - 18 Jan 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768782793~acl=/*~id=01263228604459632469257616065714~hmac=afa9e192588f84b96341d2331338e67f19ca5facc8d3f50464196d8297ff36ff"
         },
         {
             "event_category": "Football",
