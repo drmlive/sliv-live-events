@@ -1,16 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:57:50 20-01-2026",
+    "last update time": "05:07:57 20-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013666/1768818792909774_AO26_day3_schedule_landscape_thumb_today.jpg",
+            "isLive": true,
+            "contentId": "1090499148_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013711/1768843670437838_AO2026_Landscape_Thumb_Fernandez_v_Tjen_SP.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
+            "event_name": "Australian Open 2026",
+            "match_name": "Fernandez vs Tje - Round 1 - 20 Jan 2026\t [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013711/1768843670437838_AO2026_Landscape_Thumb_Fernandez_v_Tjen_SP.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Fernandez vs Tje - Round 1 - 20 Jan 2026\t [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013711/1768843670437838_AO2026_Landscape_Thumb_Fernandez_v_Tjen_SP.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Fernandez vs Tje - Round 1 - 20 Jan 2026\t [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013711/1768843670437838_AO2026_Landscape_Thumb_Fernandez_v_Tjen_SP.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Fernandez vs Tje - Round 1 - 20 Jan 2026\t [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768909077~acl=/*~id=35001872717373491550736313695443~hmac=ca580de1b711ebad09cbdf015b3c43643480da7dbc149e812706183f75b1e6a8"
         },
         {
             "event_category": "Football",
@@ -74,6 +117,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498827,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013666/1768818792909774_AO26_day3_schedule_landscape_thumb_today.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Wrestling",
