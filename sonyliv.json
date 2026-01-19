@@ -1,60 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:21:25 19-01-2026",
+    "last update time": "19:31:33 19-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499148_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Stream 1 - Round 1 - 19 Jan 2026\t [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499148_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Stream 1 - Round 1 - 19 Jan 2026\t [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499148_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Stream 1 - Round 1 - 19 Jan 2026\t [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499148_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Stream 1 - Round 1 - 19 Jan 2026\t [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
