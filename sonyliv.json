@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:45:52 20-01-2026",
+    "last update time": "01:55:58 20-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -20,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090500255,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013706/176884182838067_PROMO_UCL_MD7_21_22_JAN_COMBO_40SEC_HOR_DATED_APP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Tennis",
@@ -74,15 +83,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Pro Wrestling League 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090500255,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013706/176884182838067_PROMO_UCL_MD7_21_22_JAN_COMBO_40SEC_HOR_DATED_APP_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Sports",
