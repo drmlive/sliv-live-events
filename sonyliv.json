@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:47:30 21-01-2026",
+    "last update time": "03:57:36 21-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -31,15 +31,6 @@
             "event_name": "Upcoming - Carlos Alcaraz vs Adam Walton - Australian Open 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090499792,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013504/1768589026199343_SL-vs-ENG_17jan_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - England Tour of Sri Lanka "
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090499591,
@@ -47,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090499792,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013504/1768589026199343_SL-vs-ENG_17jan_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England Tour of Sri Lanka "
         },
         {
             "event_category": "Wrestling",
