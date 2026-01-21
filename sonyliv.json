@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:39:57 22-01-2026",
+    "last update time": "04:50:03 22-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090500674_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013020/1767677836963714_SuperSmash2526_womens_Auckland_Hearts_vs_Northern_Brave_6jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Super Smash 2025/26 Women's",
+            "match_name": "Auckland Hearts vs Northern Brave - 22 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769080803~acl=/*~id=58350339937947163536892096688811~hmac=8761307b5451ca33ed70acc340c495c59815849ea40f7c9eae3e16f37d67c144",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769080803~acl=/*~id=58350339937947163536892096688811~hmac=8761307b5451ca33ed70acc340c495c59815849ea40f7c9eae3e16f37d67c144",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769080803~acl=/*~id=58350339937947163536892096688811~hmac=8761307b5451ca33ed70acc340c495c59815849ea40f7c9eae3e16f37d67c144"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
