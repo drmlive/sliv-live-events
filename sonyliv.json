@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:54:18 23-01-2026",
+    "last update time": "23:04:29 23-01-2026",
     "matches": [
-        {
-            "event_category": "Wrestling",
-            "isLive": true,
-            "contentId": "1090501038_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013444/1768476387062858_PWL_26_Maharashtra-Kesari-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pro Wrestling League 2026",
-            "match_name": "Maharashtra Kesari vs Haryana Thunders - 23 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769232258~acl=/*~id=04845668659854451211858573368145~hmac=2d1135f93f7b6005dfe00592b38587c76d77eded7ac71407cd94255bbf6f8f20",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769232258~acl=/*~id=04845668659854451211858573368145~hmac=2d1135f93f7b6005dfe00592b38587c76d77eded7ac71407cd94255bbf6f8f20",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769232258~acl=/*~id=04845668659854451211858573368145~hmac=2d1135f93f7b6005dfe00592b38587c76d77eded7ac71407cd94255bbf6f8f20"
-        },
-        {
-            "event_category": "Wrestling",
-            "isLive": true,
-            "contentId": "1090501038_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013444/1768476387062858_PWL_26_Maharashtra-Kesari-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pro Wrestling League 2026",
-            "match_name": "Maharashtra Kesari vs Haryana Thunders - 23 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769232258~acl=/*~id=04845668659854451211858573368145~hmac=2d1135f93f7b6005dfe00592b38587c76d77eded7ac71407cd94255bbf6f8f20",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769232258~acl=/*~id=04845668659854451211858573368145~hmac=2d1135f93f7b6005dfe00592b38587c76d77eded7ac71407cd94255bbf6f8f20",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769232258~acl=/*~id=04845668659854451211858573368145~hmac=2d1135f93f7b6005dfe00592b38587c76d77eded7ac71407cd94255bbf6f8f20"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
