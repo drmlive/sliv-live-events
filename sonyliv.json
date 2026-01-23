@@ -1,72 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:22:25 23-01-2026",
+    "last update time": "13:14:13 23-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Gauff vs Baptiste - Round 3 - 23 Jan 2026\t [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff"
+            "match_name": "Stream 1 - 23 Jan 2026\t [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Gauff vs Baptiste - Round 3 - 23 Jan 2026\t [HIN]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff"
+            "match_name": "Stream 1 - 23 Jan 2026\t [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Gauff vs Baptiste - Round 3 - 23 Jan 2026\t [TAM]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff"
+            "match_name": "Stream 1 - 23 Jan 2026\t [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Gauff vs Baptiste - Round 3 - 23 Jan 2026\t [TEL]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090498780_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110083900967_AO2026_Landscape_Thumb_Jovic_V_Paolini_SP.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "John Cain Arena - 23 Jan 2026 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff"
+            "match_name": "Stream 1 - 23 Jan 2026\t [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981"
         },
         {
             "event_category": "Cricket",
@@ -77,9 +64,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Canterbury Kings vs Wellington Firebirds - 23 Jan 2026 [ENG]",
-            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff",
-            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769190741~acl=/*~id=90953126491632089238361221155721~hmac=17b56936dd0a33b158e1df576bb501845e636da95d7583e5f9a28940a1e428ff"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090500980_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013861/1768988631866461_DPworldtour_HeroDubaiDesertClassic_day2_21jan_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Hero Dubai Desert Classic Day 2 - 23 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769197451~acl=/*~id=52735545919233628490645079210040~hmac=e47cca653bdcd7873f416b6549d1a70c03c256d145af0bd2fe45acecde4a6981"
         },
         {
             "event_category": "Cricket",
