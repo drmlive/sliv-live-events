@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:25:04 24-01-2026",
+    "last update time": "15:35:30 24-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Van de Zandschulp vs Djokovic - Round 3 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,35 @@
             "audioLanguageName": "ENG",
             "event_name": "England Tour of Sri Lanka 2026",
             "match_name": "2nd ODI - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090498779_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195910920286_AO2026_Landscape_Thumb_Cilic_V_Ruud_SP.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Margaret Court Arena - 24 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090498780_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014070/1769195912494934_AO2026_Landscape_Thumb_Rybakina_V_Valentova_SP.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Elena Rybakina vs Tereza Valentova - Women's Singles - 24 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -38,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Van de Zandschulp vs Djokovic - Round 3 - 24 Jan 2026\t [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -51,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Van de Zandschulp vs Djokovic - Round 3 - 24 Jan 2026\t [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -64,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Van de Zandschulp vs Djokovic - Round 3 - 24 Jan 2026\t [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -77,48 +103,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Van de Zandschulp vs Djokovic - Round 3 - 24 Jan 2026\t [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090498779_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195911091286_AO2026_Landscape_Thumb_Kalinskaya_V_Swiatek_SP.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Anna Kalinskaya vs Iga Swiatek - Women's Singles - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090498780_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014070/1769195912494934_AO2026_Landscape_Thumb_Rybakina_V_Valentova_SP.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Rybakina vs Valentova - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090498786_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195911428286_AO2026_Landscape_Thumb_MensDoublesR2_Gonzalez_Pel_v_Bhambri_Goransson_SP.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Court 7 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI28ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI28ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI28ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -128,10 +115,23 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Kia Arena - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "match_name": "Jakub Mensik vs Ethan Quinn - Men's Singles - 24 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090498786_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013762/1768912690612613_AO26_R2_Court7_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Court 7 - 24 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI28ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI28ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI28ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -142,9 +142,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Harrison C / Khromacheva I vs Zielinski J / Hsieh S-W - Mixed Doubles - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -155,9 +155,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Muhammad/Routliffe vs Aoyama/Linette - Women's Doubles - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -168,9 +168,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Court 13 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI30ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI30ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI30ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI30ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI30ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI30ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -181,9 +181,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Kirkov/Stevens vs Krajicek/Mektic - Men's Doubles - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Golf",
@@ -194,9 +194,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Hero Dubai Desert Classic Day 3 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -207,9 +207,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 2 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Tennis",
@@ -220,9 +220,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 3 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769291698~acl=/*~id=45365961668564797318022830236379~hmac=9e415476a85b27d273f1c1b60476a4114bf77821beb989002405828bccc2f1e0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769292316~acl=/*~id=54940484315341163057353034634561~hmac=4f8942a178badcccec0e20b31e220ea049479d6e5a71bbaa30c02fc8ad191cf6"
         },
         {
             "event_category": "Sport",
