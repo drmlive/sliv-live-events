@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:41:43 24-01-2026",
+    "last update time": "19:52:13 24-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "England Tour of Sri Lanka 2026",
             "match_name": "2nd ODI - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 1 - 24 Jan 2026\t [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Stream 1 - 24 Jan 2026\t [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Tennis",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 1 - 24 Jan 2026\t [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Tennis",
@@ -51,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 1 - 24 Jan 2026\t [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Football",
@@ -64,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Bayern Munich vs FC Augsburg - MD 19 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Football",
@@ -77,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Bayer Leverkusen vs Werder Bremen - MD 19 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Football",
@@ -90,9 +103,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Heidenheim vs RB Leipzig - MD 19 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Football",
@@ -103,9 +116,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Eintracht Frankfurt vs Hoffenheim - MD 19 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Football",
@@ -116,9 +129,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Mainz vs VfL Wolfsburg - MD 19 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307099~acl=/*~id=75577054171561852807610921865926~hmac=6eb2b12007f172f13b9ef85738b40d41fec37e5052d7dba35ab31e95fe0d67fc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769307712~acl=/*~id=74506846477198039930261899541673~hmac=8b78254bcf22f293755697d63e879ccaa48c1f34630cdcf2cb7ade11fac80d75"
         },
         {
             "event_category": "Sport",
