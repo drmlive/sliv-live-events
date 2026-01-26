@@ -1,29 +1,55 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:24:29 24-01-2026",
+    "last update time": "22:14:49 26-01-2026",
     "matches": [
         {
-            "event_category": "Football",
+            "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090501238_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142506296360_bliga26_MD18_Union_Berlin_vs_Dortmund_11jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090501598_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769329348071276_WLPT20L26_delhi_vs_dubai_25jan_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Union Berlin vs Borussia Dortmund - MD 19 - 24 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769316867~acl=/*~id=97967357229698516699091465562589~hmac=a5ee3b12ec1a7768ccce15cf4b34281bc921011f3b7f12f09841af25947a7667",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769316867~acl=/*~id=97967357229698516699091465562589~hmac=a5ee3b12ec1a7768ccce15cf4b34281bc921011f3b7f12f09841af25947a7667",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769316867~acl=/*~id=97967357229698516699091465562589~hmac=a5ee3b12ec1a7768ccce15cf4b34281bc921011f3b7f12f09841af25947a7667"
+            "event_name": "World Legends Pro T20 League 2026",
+            "match_name": "Delhi Warriors vs Dubai Royals - 26 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0"
         },
         {
-            "event_category": "Sport",
-            "isLive": false,
-            "contentId": 1090501241,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014064/1769195410497965_WWE_SAT_Night_Main_Event_DDT_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090501643_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013446/17684765589147_PWL_26_Maharashtra-Kesari-vs-Punjab-Royals_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - WWE - Saturday Night's Main Event"
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "Maharashtra Kesari vs Punjab Royals - 26 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": true,
+            "contentId": "1090501643_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013446/17684765589147_PWL_26_Maharashtra-Kesari-vs-Punjab-Royals_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pro Wrestling League 2026",
+            "match_name": "Maharashtra Kesari vs Punjab Royals - 26 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769489084~acl=/*~id=49016516165427246023876645393180~hmac=bf638a62d84bc385f5f95918046b7583b464e22d89ff746f909b5c37f4abecd0"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090498827,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014242/1769438556123279_AO26_QF_alcaraz_vs_de_minaur_26jan_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Australian Open 2026"
         },
         {
             "event_category": "Cricket",
@@ -35,13 +61,49 @@
             "event_name": "Upcoming - England Tour of Sri Lanka "
         },
         {
-            "event_category": "Tennis",
+            "event_category": "Pickleball",
             "isLive": false,
-            "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013951/1769076305688640_AO2026_GOB_Landscape_Thumb_SP_2.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090501426,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014161/1769325663010873_WPL26_dated_25jan_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Australian Open 2026"
+            "event_name": "Upcoming - World Pickleball League 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090501295,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769238156606313_UCL_26_Benfica_vs_Real-Madrid_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Benfica vs Real Madrid - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090501293,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769235371062313_UCL_26_Napoli_vs_Chelsea_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Napoli vs Chelsea - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090501292,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769238850415313_UCL_26_Barcelona-vs-Copenhagen_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Copenhagen - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090501294,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769236146126313_UCL_26_Dortmund_vs_Inter_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Dortmund vs Inter - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Wrestling",
@@ -51,6 +113,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Pro Wrestling League 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090501290,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014075/1769224113098919_UCL_Promo_PSV-vs-Bayern_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSV vs Bayern Munich - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090501291,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014075/1769223867421919_UCL_Promo_PSG-vs-Newcastle_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Newcastle - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Sports",
