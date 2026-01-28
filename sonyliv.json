@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:32:02 28-01-2026",
+    "last update time": "23:42:08 28-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090501921_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "World Legends Pro T20 League 2026",
-            "match_name": "Delhi Warriors vs Pune Panthers - 28 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769666521~acl=/*~id=95609810369145115215283523978656~hmac=f79aea9a41e8364c8e80fd6643587381fd2f984bef449db8bfc94130d2624152",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769666521~acl=/*~id=95609810369145115215283523978656~hmac=f79aea9a41e8364c8e80fd6643587381fd2f984bef449db8bfc94130d2624152",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769666521~acl=/*~id=95609810369145115215283523978656~hmac=f79aea9a41e8364c8e80fd6643587381fd2f984bef449db8bfc94130d2624152"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090501921_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "World Legends Pro T20 League 2026",
-            "match_name": "Delhi Warriors vs Pune Panthers - 28 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769666521~acl=/*~id=95609810369145115215283523978656~hmac=f79aea9a41e8364c8e80fd6643587381fd2f984bef449db8bfc94130d2624152",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769666521~acl=/*~id=95609810369145115215283523978656~hmac=f79aea9a41e8364c8e80fd6643587381fd2f984bef449db8bfc94130d2624152",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769666521~acl=/*~id=95609810369145115215283523978656~hmac=f79aea9a41e8364c8e80fd6643587381fd2f984bef449db8bfc94130d2624152"
-        },
         {
             "event_category": "Football",
             "isLive": false,
