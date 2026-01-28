@@ -1,16 +1,85 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:52:54 29-01-2026",
+    "last update time": "01:03:10 29-01-2026",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090501725,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769239658363313_UCL_26_Arsenal-vs-Kairat-Almaty_Tonight_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090501773_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League 2025-26 MD 8"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Benfica vs Real Madrid - MD 8 - 29 Jan 2026 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090501773_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Benfica vs Real Madrid - MD 8 - 29 Jan 2026 [HIN]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090501773_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Benfica vs Real Madrid - MD 8 - 29 Jan 2026 [TAM]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090501773_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Benfica vs Real Madrid - MD 8 - 29 Jan 2026 [TEL]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090501751_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014016/1769146194725865_UCL_MD8_Napoli-vs-Chelsea_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Napoli vs Chelsea - MD 8 - 29 Jan 2026 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090501752_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014333/1769566812377875_UCL_26_MD8_Barcelona-vs-Copenhagen_landscape_thumb_re1.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona vs Copenhagen - MD 8 - 29 Jan 2026 [ENG]",
+            "dai_url": "https://liveakmt-p.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "pub_url": "https://liveakmt-p.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5",
+            "video_url": "https://liveakmt-p.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769671985~acl=/*~id=66476466666183788620062361164563~hmac=f0bd92b4e16861361f5d27ef72bacf8e11ca23ee32a8706dc420b2f98b326fe5"
         },
         {
             "event_category": "Tennis",
@@ -24,38 +93,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090501293,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769235393364313_UCL_26_Napoli_vs_Chelsea_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Napoli vs Chelsea - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090501295,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769238171471313_UCL_26_Benfica_vs_Real-Madrid_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Benfica vs Real Madrid - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090501292,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769238867986313_UCL_26_Barcelona-vs-Copenhagen_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Barcelona vs Copenhagen - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090501294,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014092/1769236164817313_UCL_26_Dortmund_vs_Inter_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs Inter - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
@@ -92,15 +134,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Newcastle - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090501290,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014075/1769224113098919_UCL_Promo_PSV-vs-Bayern_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSV vs Bayern Munich - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Sports",
