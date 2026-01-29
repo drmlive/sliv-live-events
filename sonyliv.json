@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:57:29 29-01-2026",
+    "last update time": "07:07:37 29-01-2026",
     "matches": [
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014378/1769612220395540_AO26_mens_doubles_SF_Kubler_Polmans_vs_Johnson_Zielinski_28jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Kubler/Polmans vs Johnson/Zielinski - Semi-final - 29 Jan 2026 \t [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014378/1769612220395540_AO26_mens_doubles_SF_Kubler_Polmans_vs_Johnson_Zielinski_28jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Kubler/Polmans vs Johnson/Zielinski - Semi-final - 29 Jan 2026 \t [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014378/1769612220395540_AO26_mens_doubles_SF_Kubler_Polmans_vs_Johnson_Zielinski_28jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Kubler/Polmans vs Johnson/Zielinski - Semi-final - 29 Jan 2026 \t [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014378/1769612220395540_AO26_mens_doubles_SF_Kubler_Polmans_vs_Johnson_Zielinski_28jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Kubler/Polmans vs Johnson/Zielinski - Semi-final - 29 Jan 2026 \t [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +64,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Stream 2 - 29 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693249~acl=/*~id=00729795155149145233371915627776~hmac=387f09f1716aa9a09ca515f59189042af1816a81224c16db62d0cbe9ff502807",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693249~acl=/*~id=00729795155149145233371915627776~hmac=387f09f1716aa9a09ca515f59189042af1816a81224c16db62d0cbe9ff502807",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693249~acl=/*~id=00729795155149145233371915627776~hmac=387f09f1716aa9a09ca515f59189042af1816a81224c16db62d0cbe9ff502807"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090498778_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014390/1769619576224571_AO26_SF_RodLaverArena_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Rod Laver Arena - 29 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769693855~acl=/*~id=14860481324737537521149791683019~hmac=dd22ccf7cd707f5ce9167c479eb855463824459efcf912667129906a9544b697"
         },
         {
             "event_category": "Tennis",
