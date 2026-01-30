@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:17:13 31-01-2026",
+    "last update time": "00:27:19 31-01-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090502552_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749407936553_SLvsENG26_1t20i_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090502579_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769162403868392_Bundesliga_2025_26_FC_Koln_vs_VfL-Wolfsburg_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "England Tour of Sri Lanka 2026",
-            "match_name": "1st T20I - 30 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769842033~acl=/*~id=65122244079448290629108125929278~hmac=7aa77863818eb4e226d1f3fc327806dda967e445d0f52b40d592337b7874b99c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769842033~acl=/*~id=65122244079448290629108125929278~hmac=7aa77863818eb4e226d1f3fc327806dda967e445d0f52b40d592337b7874b99c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769842033~acl=/*~id=65122244079448290629108125929278~hmac=7aa77863818eb4e226d1f3fc327806dda967e445d0f52b40d592337b7874b99c"
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "FC Koln vs VfL Wolfsburg - MD 20 - 31 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769842639~acl=/*~id=37917411018862822930774850358719~hmac=845498431cd2cd2d0bcedf69dda65789c90c764ecdc1cbb56a503725375562e5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769842639~acl=/*~id=37917411018862822930774850358719~hmac=845498431cd2cd2d0bcedf69dda65789c90c764ecdc1cbb56a503725375562e5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769842639~acl=/*~id=37917411018862822930774850358719~hmac=845498431cd2cd2d0bcedf69dda65789c90c764ecdc1cbb56a503725375562e5"
         },
         {
             "event_category": "Tennis",
