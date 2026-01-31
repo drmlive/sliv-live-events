@@ -1,60 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:17:51 31-01-2026",
+    "last update time": "17:27:58 31-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499148_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Stream 1 - 31 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499148_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Stream 1 - 31 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499148_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Stream 1 - 31 Jan 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090499148_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Australian Open 2026",
-            "match_name": "Stream 1 - 31 Jan 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -64,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Gurugram Thunders vs Rajasthan Lions - 31 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6"
         },
         {
             "event_category": "Cricket",
@@ -77,9 +25,61 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Gurugram Thunders vs Rajasthan Lions - 31 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Stream 1 - 31 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Stream 1 - 31 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Stream 1 - 31 Jan 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090499148_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Australian Open 2026",
+            "match_name": "Stream 1 - 31 Jan 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6"
         },
         {
             "event_category": "Golf",
@@ -90,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Bahrain Championship Day 3 - 31 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903269~acl=/*~id=71646364190011744578587166588424~hmac=1b0944bbf34c6f83ec12fecc6d24de1a4bcebd1dade5e8613200b5bf52be9b8a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769903876~acl=/*~id=67724283670770011669717596020436~hmac=2fc6bf1101edabe77e7c7a971c6873d5cc680bddde17163b78a96279c753b4a6"
         },
         {
             "event_category": "Fight Sports",
