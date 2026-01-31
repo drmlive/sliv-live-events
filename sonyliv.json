@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:19:07 31-01-2026",
+    "last update time": "19:29:15 31-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Dubai Royals vs Pune Panthers - 31 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Dubai Royals vs Pune Panthers - 31 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090502772_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769163595027392_Bundesliga_2025_26_Eintracht_Frankfurt_vs_Bayer_Leverkusen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Eintracht Frankfurt vs Bayer Leverkusen - MD 20 - 31 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e"
         },
         {
             "event_category": "Pickleball",
@@ -38,31 +51,61 @@
             "audioLanguageName": "ENG",
             "event_name": "World Pickleball League 2026",
             "match_name": "Mumbai Pickle Power vs Bengaluru Jawans - 31 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e"
         },
         {
-            "event_category": "Golf",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090502670_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721580321157_DPworldtour_Bahrain_Championship_day3_28jan_live_landscape_thumb_re1.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": "1090502764_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769165101192392_Bundesliga_2025_26_RB_Leipzig_vs_Mainz_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Bahrain Championship Day 3 - 31 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769910545~acl=/*~id=08257162789365754422372757040732~hmac=e0ecc38030fa1ae161772091def390f0f920420c719f783696b4193f24b6089e"
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "RB Leipzig vs Mainz - MD 20 - 31 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090502653,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014571/1769773606987292_UFC_325_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090502769_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769165977074392_Bundesliga_2025_26_Werder_Bremen_vs_Borussia_Mgladbach_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 325 - Volkanovski vs Lopes"
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Werder Bremen vs Borussia M'gladbach - MD 20 - 31 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090502762_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769163814693392_Bundesliga_2025_26_FC-Augsburg_vs_St_Pauli_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "FC Augsburg vs St. Pauli - MD 20 - 31 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090502766_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769165745837392_Bundesliga_2025_26_Hoffenheim_vs_Union-Berlin_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Hoffenheim vs Union Berlin - MD 20 - 31 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769911152~acl=/*~id=70602860422716212446173593094284~hmac=cc802f2c515f39abbf07d22dbae0713c9ac58f562b5b3d32e54477893487cb2e"
         },
         {
             "event_category": "Tennis",
@@ -72,6 +115,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Alcaraz vs Djokovic - Australian Open 2026"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090502653,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014571/1769773606987292_UFC_325_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 325 - Volkanovski vs Lopes"
         },
         {
             "event_category": "Cricket",
