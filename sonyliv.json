@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:07:31 04-02-2026",
+    "last update time": "19:17:41 04-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090503180_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014863/1770207638884531_WLP26_final_pune_vs_dubai_4feb_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Legends Pro T20 League 2026",
+            "match_name": "Pune Panthers vs Dubai Royals - Final - 4 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Pune Panthers vs Dubai Royals - Final - 4 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770255429~acl=/*~id=16202599160295153914680577450056~hmac=91cfbc672794e62997d4c9517133ad3721800c04fa8ef3d3d5a45083a4efb0b6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770255429~acl=/*~id=16202599160295153914680577450056~hmac=91cfbc672794e62997d4c9517133ad3721800c04fa8ef3d3d5a45083a4efb0b6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770255429~acl=/*~id=16202599160295153914680577450056~hmac=91cfbc672794e62997d4c9517133ad3721800c04fa8ef3d3d5a45083a4efb0b6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0"
         },
         {
             "event_category": "Pickleball",
@@ -25,9 +38,22 @@
             "audioLanguageName": "ENG",
             "event_name": "World Pickleball League 2026",
             "match_name": "Bengaluru Jawans vs Rajasthan Titans - 4 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770255429~acl=/*~id=16202599160295153914680577450056~hmac=91cfbc672794e62997d4c9517133ad3721800c04fa8ef3d3d5a45083a4efb0b6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770255429~acl=/*~id=16202599160295153914680577450056~hmac=91cfbc672794e62997d4c9517133ad3721800c04fa8ef3d3d5a45083a4efb0b6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770255429~acl=/*~id=16202599160295153914680577450056~hmac=91cfbc672794e62997d4c9517133ad3721800c04fa8ef3d3d5a45083a4efb0b6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503122_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014798/177006281679271_UYL2526_RD32_Legia_vs_Ajax_3feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Legia vs Ajax - 4 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770256058~acl=/*~id=33912328774101920177872019660398~hmac=19289361805029bf314230ffef283557425ae40e7194fa14ea79070d78c859b0"
         },
         {
             "event_category": "Pickleball",
