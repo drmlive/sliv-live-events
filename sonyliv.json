@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:26:52 07-02-2026",
+    "last update time": "17:36:58 07-02-2026",
     "matches": [
+        {
+            "event_category": "Pickleball",
+            "isLive": true,
+            "contentId": "1090503353_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014934/1770407266663489_WPL26_SF_Chennai_vs_Pune_7feb_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Pickleball League 2026",
+            "match_name": "Chennai Super Champs vs Pune United - Semi-final - 7 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770509217~acl=/*~id=20922083877690677139758956150633~hmac=8705cbcde3ba977ad08bd87b00f88b2cc66d271f471afae53edf4929722c32b3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770509217~acl=/*~id=20922083877690677139758956150633~hmac=8705cbcde3ba977ad08bd87b00f88b2cc66d271f471afae53edf4929722c32b3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770509217~acl=/*~id=20922083877690677139758956150633~hmac=8705cbcde3ba977ad08bd87b00f88b2cc66d271f471afae53edf4929722c32b3"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Qatar Masters Day 3 - 7 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770508611~acl=/*~id=53200244589087544766841541231140~hmac=5aeeebaec0cef0a36443cb97e458ae212c6b5471d667ced6e98aed088b0cfd6e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770508611~acl=/*~id=53200244589087544766841541231140~hmac=5aeeebaec0cef0a36443cb97e458ae212c6b5471d667ced6e98aed088b0cfd6e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770508611~acl=/*~id=53200244589087544766841541231140~hmac=5aeeebaec0cef0a36443cb97e458ae212c6b5471d667ced6e98aed088b0cfd6e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770509217~acl=/*~id=20922083877690677139758956150633~hmac=8705cbcde3ba977ad08bd87b00f88b2cc66d271f471afae53edf4929722c32b3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770509217~acl=/*~id=20922083877690677139758956150633~hmac=8705cbcde3ba977ad08bd87b00f88b2cc66d271f471afae53edf4929722c32b3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770509217~acl=/*~id=20922083877690677139758956150633~hmac=8705cbcde3ba977ad08bd87b00f88b2cc66d271f471afae53edf4929722c32b3"
         },
         {
             "event_category": "Pickleball",
