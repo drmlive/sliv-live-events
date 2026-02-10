@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:29:06 10-02-2026",
+    "last update time": "17:39:11 10-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -11,6 +11,42 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503576,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723502935701_FA_CUP_Hull_city_vs_chelsea_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Hull City vs Chelsea"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503569,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723601355701_FA_CUP_Aston_villa_vs_Newcastle_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Aston Villa vs Newcastle United "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503575,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723672280701_FA_CUP_Liverpool_vs_Brighton_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Liverpool vs Brighton & Hove Albion "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503568,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723552003701_FA_CUP_arsenal_vs_wigan_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Arsenal vs Wigan Athletic"
         },
         {
             "event_category": "Sports",
