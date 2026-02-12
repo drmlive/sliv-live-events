@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:32:39 12-02-2026",
+    "last update time": "16:43:02 12-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,6 +56,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503676,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015082/1770891586835766_FA_CUP_PROMO_COMBO_Landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup "
         },
         {
             "event_category": "Cricket",
