@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:11:36 13-02-2026",
+    "last update time": "18:21:42 13-02-2026",
     "matches": [
         {
             "event_category": "Racing",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 4 - Jeddah E-Prix - Qualifying Race - 13 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771029696~acl=/*~id=09034428179160220547100707726146~hmac=90bafabf6ed8ee3d2187a88fce4ab22085a71114c8594a0287a8cf9f0fa29813",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771029696~acl=/*~id=09034428179160220547100707726146~hmac=90bafabf6ed8ee3d2187a88fce4ab22085a71114c8594a0287a8cf9f0fa29813",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771029696~acl=/*~id=09034428179160220547100707726146~hmac=90bafabf6ed8ee3d2187a88fce4ab22085a71114c8594a0287a8cf9f0fa29813"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771030301~acl=/*~id=98980109176191734648553247877667~hmac=65800ac957081a1d1107e4d593b95f9a9e777fc002b560528c7a665710b65a32",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771030301~acl=/*~id=98980109176191734648553247877667~hmac=65800ac957081a1d1107e4d593b95f9a9e777fc002b560528c7a665710b65a32",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771030301~acl=/*~id=98980109176191734648553247877667~hmac=65800ac957081a1d1107e4d593b95f9a9e777fc002b560528c7a665710b65a32"
         },
         {
             "event_category": "Football",
@@ -69,6 +69,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Arsenal vs Wigan Athletic"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503788,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
