@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:03:12 13-02-2026",
+    "last update time": "21:13:19 13-02-2026",
     "matches": [
         {
             "event_category": "Racing",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 4 - Jeddah E-Prix - Final Race - 13 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771039992~acl=/*~id=59821497365586406465509580468230~hmac=5a1bcba9a3dd6e94666554df95102dfc8f88dccacb9238e2b336fa003b088e25",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771039992~acl=/*~id=59821497365586406465509580468230~hmac=5a1bcba9a3dd6e94666554df95102dfc8f88dccacb9238e2b336fa003b088e25",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771039992~acl=/*~id=59821497365586406465509580468230~hmac=5a1bcba9a3dd6e94666554df95102dfc8f88dccacb9238e2b336fa003b088e25"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771040599~acl=/*~id=13921877717325816412875367395920~hmac=f2aea7539380bf5dbdb766036d3c4305f8cea487154886787f57f257dddf5b3c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771040599~acl=/*~id=13921877717325816412875367395920~hmac=f2aea7539380bf5dbdb766036d3c4305f8cea487154886787f57f257dddf5b3c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771040599~acl=/*~id=13921877717325816412875367395920~hmac=f2aea7539380bf5dbdb766036d3c4305f8cea487154886787f57f257dddf5b3c"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090503828,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015117/1770961340750901_ACC_INDvsPAK_womens_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - ACC Women\u2019s Rising Stars 2026"
         },
         {
             "event_category": "Football",
@@ -42,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Hull City vs Chelsea"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090503537,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015117/1770961340750901_ACC_INDvsPAK_womens_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
         },
         {
             "event_category": "Football",
@@ -82,11 +82,11 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090503828,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015117/1770961340750901_ACC_INDvsPAK_womens_dated_promo_landscape_thumb.jpg",
+            "contentId": 1090503537,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014902/177030221390813_AsiaCupRisingStarWomens2026_GOB_1_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - ACC Women\u2019s Rising Stars 2026"
+            "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
         },
         {
             "event_category": "Football",
