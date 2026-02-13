@@ -1,16 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:48:00 13-02-2026",
+    "last update time": "11:58:06 13-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090503636,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014992/1770656753585760_acc_INDvsUAE_9feb_today_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090503618_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India A vs UAE - ACC Women\u2019s Rising Stars 2026 "
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "India A Women vs UAE Women - 13 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090503618_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "India A Women vs UAE Women - 13 Feb 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090503618_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "India A Women vs UAE Women - 13 Feb 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090503618_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "India A Women vs UAE Women - 13 Feb 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771007285~acl=/*~id=41967327510510091382322872809692~hmac=ee9eb2c905c125304659c20b6f4aaa558ec23c479fa01eb85738971eb7ac63b5"
         },
         {
             "event_category": "Football",
@@ -19,7 +62,7 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015082/1770891586835766_FA_CUP_PROMO_COMBO_Landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup "
+            "event_name": "Upcoming - Emirates FA Cup 2025-26"
         },
         {
             "event_category": "Football",
