@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:47:00 14-02-2026",
+    "last update time": "14:57:06 14-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Women\u2019s Rising Stars 2026",
             "match_name": "Bangladesh A Women vs Sri Lanka A Women - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771103819~acl=/*~id=02129567925624552083373327590609~hmac=82bbab17ae18d3330256701d2d411332eb2853886f2988fe810a8a2f47f483f4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771103819~acl=/*~id=02129567925624552083373327590609~hmac=82bbab17ae18d3330256701d2d411332eb2853886f2988fe810a8a2f47f483f4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771103819~acl=/*~id=02129567925624552083373327590609~hmac=82bbab17ae18d3330256701d2d411332eb2853886f2988fe810a8a2f47f483f4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771104425~acl=/*~id=03008101954289966455959586273776~hmac=ff1e33f765e34b809358658f227ca8969d49f54097ca381bf04f5fe95b9ca5ae",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771104425~acl=/*~id=03008101954289966455959586273776~hmac=ff1e33f765e34b809358658f227ca8969d49f54097ca381bf04f5fe95b9ca5ae",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771104425~acl=/*~id=03008101954289966455959586273776~hmac=ff1e33f765e34b809358658f227ca8969d49f54097ca381bf04f5fe95b9ca5ae"
         },
         {
             "event_category": "Football",
@@ -64,6 +64,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090503897,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770904079667152_UCL26_Playoffs_Leg1_Benfica_vs_Real_Madrid_dated_12feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Benfica vs Real Madrid - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090503568,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015058/1770818501792565_FA_CUP_Arsenal-vs-Wigan-Athletic_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -87,6 +96,60 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Aston Villa vs Newcastle United "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503896,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903893041152_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_dated_12feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Galatasaray vs Juventus - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503902,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770879970320152_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_12feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Olympiacos vs Leverkusen - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503901,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903776632152_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Club Brugge vs Atletico - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903820104152_UCL26_playoff_leg1_Dortmund_vs_Atalanta_12feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Dortmund vs Atalanta - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015182/1771053951609239_PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503898,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903920428152_UCL26_Playoffs_Leg1_Monaco_vs_PSG_dated_12feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Monaco vs PSG - UEFA Champions League 2025-26"
         }
     ]
 }
