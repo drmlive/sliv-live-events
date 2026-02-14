@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:49:57 14-02-2026",
+    "last update time": "20:00:10 14-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503712_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770201192021737_FA_26_RD4_Manchester-City-vs-Salford-City_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Manchester City vs Salford City - Round 4 - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Werder Bremen vs Bayern Munich - MD 22 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
         },
         {
             "event_category": "Football",
@@ -25,22 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Burton Albion vs West Ham United - Round 4 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090503720_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Goal Arena - MD 22 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
         },
         {
             "event_category": "Football",
@@ -51,9 +51,61 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Bayer Leverkusen vs St. Pauli - MD 22 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503715_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770118413468332_FA_26_RD4_Norwich-City-vs-West-Bromwich-Albion_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Norwich City vs West Bromwich Albion - Round 4 - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503717_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120540861332_FA_26_RD4_Southampton-vs-Leicester-City_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Southampton vs Leicester City - Round 4 - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503711_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015105/1770908747913609_facup26_RD4_Burnley_vs_Mansfield_12feb_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Burnley vs Mansfield - Round 4 - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503720_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Goal Arena - MD 22 - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
         },
         {
             "event_category": "Football",
@@ -64,9 +116,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Eintracht Frankfurt vs Borussia M'gladbach - MD 22 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
         },
         {
             "event_category": "Football",
@@ -77,9 +129,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Hamburger SV vs Union Berlin - MD 22 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
         },
         {
             "event_category": "Football",
@@ -90,31 +142,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Hoffenheim vs SC Freiburg - MD 22 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1"
-        },
-        {
-            "event_category": "Racing",
-            "isLive": true,
-            "contentId": "1090503718_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014909/1770323471257886_ABBFIAFormulaE_WC26_Round5_JeddahEPrix_Qualifying_Race_6feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ABB FIA Formula E World Championship",
-            "match_name": "Round 5 - Jeddah E-Prix - Qualifying Race - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771121994~acl=/*~id=67256084988328872938201274695139~hmac=0dbda10d500dfb7d1c33e997c10dfc55f2ac57a66c121df692fea704d373edb1"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090503676,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015082/1770891586835766_FA_CUP_PROMO_COMBO_Landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup 2025-26"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771122604~acl=/*~id=80270720992175382601046150687893~hmac=f363531065957fa248d2b2644eb93d96f2b3f71a1ea2e59a40b2fd327b8ddc4d"
         },
         {
             "event_category": "Cricket",
@@ -133,15 +163,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090503589,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015058/1770819775463565_FA_CUP_Manchester-City-vs-Salford-City_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Round 4 - Emirates FA Cup "
         },
         {
             "event_category": "Football",
