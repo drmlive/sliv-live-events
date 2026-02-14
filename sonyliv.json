@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:32:35 14-02-2026",
+    "last update time": "22:42:42 14-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503835_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120992845332_FA_26_RD4_Aston-Villa-vs-Newcastle-United_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Aston Villa vs Newcastle United - Round 4 - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503835_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120992845332_FA_26_RD4_Aston-Villa-vs-Newcastle-United_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Aston Villa vs Newcastle United - Round 4 - 14 Feb 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503835_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120992845332_FA_26_RD4_Aston-Villa-vs-Newcastle-United_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Aston Villa vs Newcastle United - Round 4 - 14 Feb 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090503835_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120992845332_FA_26_RD4_Aston-Villa-vs-Newcastle-United_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Aston Villa vs Newcastle United - Round 4 - 14 Feb 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,22 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Southampton vs Leicester City - Round 4 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090503715_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770118413468332_FA_26_RD4_Norwich-City-vs-West-Bromwich-Albion_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Norwich City vs West Bromwich Albion - Round 4 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59"
         },
         {
             "event_category": "Football",
@@ -38,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "VfB Stuttgart vs FC Koln - MD 22 - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59"
         },
         {
             "event_category": "Racing",
@@ -51,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 5 - Jeddah E-Prix - Final Race - 14 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771131754~acl=/*~id=54467656459380345347212439411548~hmac=cb500696544cdc4f908035f4056aa3e3a7171dad5e7e9322f98018e40be034c8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771132360~acl=/*~id=03392840679807836635193002815117~hmac=f3139e877828722a0efde023fc4e4f4050b9e4c4001695de37ae27d7cf767f59"
         },
         {
             "event_category": "Football",
@@ -99,15 +138,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Benfica vs Real Madrid - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090503569,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723601355701_FA_CUP_Aston_villa_vs_Newcastle_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Aston Villa vs Newcastle United "
         },
         {
             "event_category": "Cricket",
