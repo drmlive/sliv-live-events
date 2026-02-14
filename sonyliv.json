@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:45:18 14-02-2026",
+    "last update time": "11:55:23 14-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090503802_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015146/1770991979351685_ACC_bangladesh_Women_vs_sri_lanka_Women_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "Bangladesh A Women vs Sri Lanka A Women - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771093523~acl=/*~id=37505241677443725144739007566183~hmac=41c72716d927e75ddd89266746c0936cc40c36b026729c6d1494b958bd702691",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771093523~acl=/*~id=37505241677443725144739007566183~hmac=41c72716d927e75ddd89266746c0936cc40c36b026729c6d1494b958bd702691",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771093523~acl=/*~id=37505241677443725144739007566183~hmac=41c72716d927e75ddd89266746c0936cc40c36b026729c6d1494b958bd702691"
+        },
         {
             "event_category": "Football",
             "isLive": false,
