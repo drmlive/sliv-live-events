@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:11:16 14-02-2026",
+    "last update time": "07:31:46 14-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090503790_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015144/1770990739877516_ACC_Malaysia_Women_vs_Thailand_Women_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "Malaysia Women vs Thailand Women - 14 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771077702~acl=/*~id=09276961392597424244915441994591~hmac=3e93c5c276e12fa7763a417f8aa7dcbf494c0cb913232f794c8e49c669f29295",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771077702~acl=/*~id=09276961392597424244915441994591~hmac=3e93c5c276e12fa7763a417f8aa7dcbf494c0cb913232f794c8e49c669f29295",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771077702~acl=/*~id=09276961392597424244915441994591~hmac=3e93c5c276e12fa7763a417f8aa7dcbf494c0cb913232f794c8e49c669f29295"
+        },
         {
             "event_category": "Football",
             "isLive": false,
