@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:48:33 15-02-2026",
+    "last update time": "23:58:38 15-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090503949_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770193915349737_FA_26_RD4_Arsenal-vs-Wigan-Athletic_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Arsenal vs Wigan Athletic - Round 4 - 15 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771222712~acl=/*~id=04072626513454599605018216938069~hmac=ee3520f8e399a0a8e06c01e84f635f4b8f30456998e0d8521d581e2307cc6660",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771222712~acl=/*~id=04072626513454599605018216938069~hmac=ee3520f8e399a0a8e06c01e84f635f4b8f30456998e0d8521d581e2307cc6660",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771222712~acl=/*~id=04072626513454599605018216938069~hmac=ee3520f8e399a0a8e06c01e84f635f4b8f30456998e0d8521d581e2307cc6660"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "RB Leipzig vs VfL Wolfsburg - MD 22 - 15 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771222712~acl=/*~id=04072626513454599605018216938069~hmac=ee3520f8e399a0a8e06c01e84f635f4b8f30456998e0d8521d581e2307cc6660",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771222712~acl=/*~id=04072626513454599605018216938069~hmac=ee3520f8e399a0a8e06c01e84f635f4b8f30456998e0d8521d581e2307cc6660",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771222712~acl=/*~id=04072626513454599605018216938069~hmac=ee3520f8e399a0a8e06c01e84f635f4b8f30456998e0d8521d581e2307cc6660"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771223317~acl=/*~id=24922485622247931781784522214693~hmac=e75193e0b3e3b6e5ad2735616a9e59fe5bf267c926189f3192161f4e1bd48849",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771223317~acl=/*~id=24922485622247931781784522214693~hmac=e75193e0b3e3b6e5ad2735616a9e59fe5bf267c926189f3192161f4e1bd48849",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771223317~acl=/*~id=24922485622247931781784522214693~hmac=e75193e0b3e3b6e5ad2735616a9e59fe5bf267c926189f3192161f4e1bd48849"
         },
         {
             "event_category": "Football",
@@ -95,20 +82,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090503900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015182/1771053951609239_PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090503901,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903776632152_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Club Brugge vs Atletico - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015182/1771053951609239_PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26"
         }
     ]
 }
