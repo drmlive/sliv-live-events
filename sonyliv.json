@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:14:36 16-02-2026",
+    "last update time": "11:24:41 16-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -79,20 +79,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090503901,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903776632152_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Club Brugge vs Atletico - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090503900,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015182/1771053951609239_PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503901,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903776632152_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Club Brugge vs Atletico - UEFA Champions League 2025-26"
         }
     ]
 }
