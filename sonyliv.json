@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:48:27 16-02-2026",
+    "last update time": "17:58:32 16-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,29 +61,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090504149,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015251/1771226281698592_UCL_18FEB_COMBO_40SEC_HOR_DATED_APP_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Play-offs - Leg 1 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090503896,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903893041152_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_dated_12feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Juventus - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090503900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015182/1771053951609239_PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -102,6 +84,24 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Club Brugge vs Atletico - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090504149,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015251/1771226281698592_UCL_18FEB_COMBO_40SEC_HOR_DATED_APP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - Leg 1 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015182/1771053951609239_PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26"
         }
     ]
 }
