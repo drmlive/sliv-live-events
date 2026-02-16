@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:25:55 16-02-2026",
+    "last update time": "13:36:01 16-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Women\u2019s Rising Stars 2026",
             "match_name": "Bangladesh A Women vs Thailand Women - 16 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771271755~acl=/*~id=48980332795762892853829427712969~hmac=25c4fad02e1fc76be78d703bbf13503825a9c5b9e2494e657b8924c1c985bdf2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771271755~acl=/*~id=48980332795762892853829427712969~hmac=25c4fad02e1fc76be78d703bbf13503825a9c5b9e2494e657b8924c1c985bdf2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771271755~acl=/*~id=48980332795762892853829427712969~hmac=25c4fad02e1fc76be78d703bbf13503825a9c5b9e2494e657b8924c1c985bdf2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771272360~acl=/*~id=59006134332999370094864281039879~hmac=122d727c12c525c7e38ba0638bba660bf0b17c5c59da03182fc79ddd4c284023",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771272360~acl=/*~id=59006134332999370094864281039879~hmac=122d727c12c525c7e38ba0638bba660bf0b17c5c59da03182fc79ddd4c284023",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771272360~acl=/*~id=59006134332999370094864281039879~hmac=122d727c12c525c7e38ba0638bba660bf0b17c5c59da03182fc79ddd4c284023"
         },
         {
             "event_category": "Cricket",
@@ -70,6 +70,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Monaco vs PSG - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090504149,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015251/1771226281698592_UCL_18FEB_COMBO_40SEC_HOR_DATED_APP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - Leg 1 - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
