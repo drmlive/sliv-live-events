@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:47:19 16-02-2026",
+    "last update time": "15:57:25 16-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,15 +23,6 @@
             "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090503897,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770904079667152_UCL26_Playoffs_Leg1_Benfica_vs_Real_Madrid_dated_12feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Benfica vs Real Madrid - UEFA Champions League 2025-26"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090503537,
@@ -43,11 +34,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090503899,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903820104152_UCL26_playoff_leg1_Dortmund_vs_Atalanta_12feb_dated_landscape_thumb.jpg",
+            "contentId": 1090503897,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770904079667152_UCL26_Playoffs_Leg1_Benfica_vs_Real_Madrid_dated_12feb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs Atalanta - UEFA Champions League 2025-26"
+            "event_name": "Upcoming - Benfica vs Real Madrid - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -57,6 +48,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Monaco vs PSG - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015099/1770903820104152_UCL26_playoff_leg1_Dortmund_vs_Atalanta_12feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Dortmund vs Atalanta - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
