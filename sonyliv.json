@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:12:31 17-02-2026",
+    "last update time": "00:22:37 17-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,6 +12,19 @@
             "audioLanguageName": "ENG",
             "event_name": "Cricket Classics",
             "match_name": "Cricket Blockbusters 24x7 [ENG]"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504102_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770194297645737_FA_26_RD4_Macclesfield-vs-Brentford_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Macclesfield vs Brentford - Round 4 - 17 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771311156~acl=/*~id=55280829992019580143495987517016~hmac=aacd016664f3b4e159a0271dcb81dbb566715e7a9757cec4348e702a22afa88d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771311156~acl=/*~id=55280829992019580143495987517016~hmac=aacd016664f3b4e159a0271dcb81dbb566715e7a9757cec4348e702a22afa88d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771311156~acl=/*~id=55280829992019580143495987517016~hmac=aacd016664f3b4e159a0271dcb81dbb566715e7a9757cec4348e702a22afa88d"
         },
         {
             "event_category": "Cricket",
