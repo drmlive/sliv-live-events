@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:58:03 17-02-2026",
+    "last update time": "22:08:08 17-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,6 +21,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503896,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305852682893_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_Tonight_12feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Galatasaray vs Juventus - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
