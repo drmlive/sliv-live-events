@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:35:36 18-02-2026",
+    "last update time": "12:06:37 18-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090504312_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015238/1771175858085856_AsiaCup_RisingStar_Womens2026_Sri_Lanka_A_vs_Thailand_15feb_eng_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "Sri Lanka A Women vs Thailand Women - 18 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771439780~acl=/*~id=86563946165907807601106454194145~hmac=18582625b500fd594634dbfeb61bca740631701335c44463d2021d74ddfd7d52",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771439780~acl=/*~id=86563946165907807601106454194145~hmac=18582625b500fd594634dbfeb61bca740631701335c44463d2021d74ddfd7d52",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771439780~acl=/*~id=86563946165907807601106454194145~hmac=18582625b500fd594634dbfeb61bca740631701335c44463d2021d74ddfd7d52"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
