@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:36:00 18-02-2026",
+    "last update time": "07:47:48 18-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090504302_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015238/1771175506033856_AsiaCup_RisingStar_Womens2026_Bangladesh_A_vs_Malaysia_15feb_eng_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Women\u2019s Rising Stars 2026",
+            "match_name": "Bangladesh A Women vs Malaysia Women - 18 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771424254~acl=/*~id=89449696689140240820873825976140~hmac=5ea40e561844cd2f09b7918b45e076d50fb88f7accf648c74f3c83e53bdcbd7c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771424254~acl=/*~id=89449696689140240820873825976140~hmac=5ea40e561844cd2f09b7918b45e076d50fb88f7accf648c74f3c83e53bdcbd7c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771424254~acl=/*~id=89449696689140240820873825976140~hmac=5ea40e561844cd2f09b7918b45e076d50fb88f7accf648c74f3c83e53bdcbd7c"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
