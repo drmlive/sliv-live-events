@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:04:43 18-02-2026",
+    "last update time": "11:35:36 18-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090504302_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015238/1771175506033856_AsiaCup_RisingStar_Womens2026_Bangladesh_A_vs_Malaysia_15feb_eng_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Women\u2019s Rising Stars 2026",
-            "match_name": "Bangladesh A Women vs Malaysia Women - 18 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771436065~acl=/*~id=85708070362443730229707792869057~hmac=8fd314f37ee89798b3747ef5220cc5ac5b8f3cede0d2265e4bb3716c0d228139",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771436065~acl=/*~id=85708070362443730229707792869057~hmac=8fd314f37ee89798b3747ef5220cc5ac5b8f3cede0d2265e4bb3716c0d228139",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771436065~acl=/*~id=85708070362443730229707792869057~hmac=8fd314f37ee89798b3747ef5220cc5ac5b8f3cede0d2265e4bb3716c0d228139"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -38,6 +25,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090503900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771391019887155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090503902,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305560888893_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_12feb_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -48,7 +44,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090503901,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305797020893_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305778200893_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Club Brugge vs Atletico - UEFA Champions League 2025-26"
@@ -79,15 +75,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090503900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771391019887155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26"
         }
     ]
 }
