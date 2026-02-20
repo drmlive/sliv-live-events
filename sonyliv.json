@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:34:05 21-02-2026",
+    "last update time": "02:44:10 21-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Mainz vs Hamburger SV - MD 23 - 21 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771664645~acl=/*~id=31959919660046155279513429206698~hmac=d82959afc94d579925d6a6d30685ea214c5df0a20c45298f50ba4f616c526864",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771664645~acl=/*~id=31959919660046155279513429206698~hmac=d82959afc94d579925d6a6d30685ea214c5df0a20c45298f50ba4f616c526864",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771664645~acl=/*~id=31959919660046155279513429206698~hmac=d82959afc94d579925d6a6d30685ea214c5df0a20c45298f50ba4f616c526864"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771665250~acl=/*~id=77837433262377516418015759148937~hmac=b90a9c2d2ddacf245d4947aea105ef81e8fd433dfdee6f57581f33ee097a3758",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771665250~acl=/*~id=77837433262377516418015759148937~hmac=b90a9c2d2ddacf245d4947aea105ef81e8fd433dfdee6f57581f33ee097a3758",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771665250~acl=/*~id=77837433262377516418015759148937~hmac=b90a9c2d2ddacf245d4947aea105ef81e8fd433dfdee6f57581f33ee097a3758"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090503537,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015470/1771611553341291_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_dated_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
         },
         {
             "event_category": "Football",
@@ -33,15 +42,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090503537,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015470/1771611553341291_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_dated_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
         },
         {
             "event_category": "Cricket",
