@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:21:56 21-02-2026",
+    "last update time": "18:32:01 21-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - RB Leipzig vs Borussia Dortmund"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090504636,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -92,15 +101,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Juventus vs Galatasaray - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090504636,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
