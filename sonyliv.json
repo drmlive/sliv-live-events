@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:04:32 21-02-2026",
+    "last update time": "22:14:36 21-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504618_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770359048482999_BLIGA_26_MD23_Bayern-Munich-vs-Eintracht-Frankfurt_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Bayern Munich vs Eintracht Frankfurt - MD 23 - 21 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771734871~acl=/*~id=71091457486284238858222255061141~hmac=9d428176d3f9e7b3472e9907c16de55a60bda4d99d457e6bdf5ce5e7389b46b1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771734871~acl=/*~id=71091457486284238858222255061141~hmac=9d428176d3f9e7b3472e9907c16de55a60bda4d99d457e6bdf5ce5e7389b46b1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771734871~acl=/*~id=71091457486284238858222255061141~hmac=9d428176d3f9e7b3472e9907c16de55a60bda4d99d457e6bdf5ce5e7389b46b1"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504607_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Goal Arena - MD 23 - 21 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771734871~acl=/*~id=71091457486284238858222255061141~hmac=9d428176d3f9e7b3472e9907c16de55a60bda4d99d457e6bdf5ce5e7389b46b1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771734871~acl=/*~id=71091457486284238858222255061141~hmac=9d428176d3f9e7b3472e9907c16de55a60bda4d99d457e6bdf5ce5e7389b46b1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771734871~acl=/*~id=71091457486284238858222255061141~hmac=9d428176d3f9e7b3472e9907c16de55a60bda4d99d457e6bdf5ce5e7389b46b1"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
