@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:19:11 22-02-2026",
+    "last update time": "21:29:18 22-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "SC Freiburg vs Borussia M'gladbach - MD 23 - 22 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771818550~acl=/*~id=91265914365701216526624231574215~hmac=0060ea576d10ac4f52e43947d4b898ef4205ef7be258a09dadd482bf2e57a9df",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771818550~acl=/*~id=91265914365701216526624231574215~hmac=0060ea576d10ac4f52e43947d4b898ef4205ef7be258a09dadd482bf2e57a9df",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771818550~acl=/*~id=91265914365701216526624231574215~hmac=0060ea576d10ac4f52e43947d4b898ef4205ef7be258a09dadd482bf2e57a9df"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819156~acl=/*~id=28573813097533763234214837212214~hmac=1464a708e4a0e581eb7f7ae5bbaac670fd5ef6be21e64ffec82411c5cd4393cd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819156~acl=/*~id=28573813097533763234214837212214~hmac=1464a708e4a0e581eb7f7ae5bbaac670fd5ef6be21e64ffec82411c5cd4393cd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819156~acl=/*~id=28573813097533763234214837212214~hmac=1464a708e4a0e581eb7f7ae5bbaac670fd5ef6be21e64ffec82411c5cd4393cd"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504680_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770363079049999_BLIGA_26_MD23_St-Pauli-vs-Werder-Bremen_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "St. Pauli vs Werder Bremen - MD 23 - 22 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819156~acl=/*~id=28573813097533763234214837212214~hmac=1464a708e4a0e581eb7f7ae5bbaac670fd5ef6be21e64ffec82411c5cd4393cd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819156~acl=/*~id=28573813097533763234214837212214~hmac=1464a708e4a0e581eb7f7ae5bbaac670fd5ef6be21e64ffec82411c5cd4393cd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819156~acl=/*~id=28573813097533763234214837212214~hmac=1464a708e4a0e581eb7f7ae5bbaac670fd5ef6be21e64ffec82411c5cd4393cd"
         },
         {
             "event_category": "Football",
@@ -80,15 +93,6 @@
             "event_name": "Upcoming - Leverkusen vs Olympiacos - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090504683,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528579941719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atletico vs Club Brugge - UEFA Champions League 2025-26"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090504215,
@@ -96,6 +100,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090504683,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528579941719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico vs Club Brugge - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
