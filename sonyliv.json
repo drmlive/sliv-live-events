@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:51:28 22-02-2026",
+    "last update time": "11:01:34 22-02-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090504676_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401550988586_DP_World_Tour_Magical_Kenya_Open_Day4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Magical Kenya Open - Day 4 - 22 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771781494~acl=/*~id=68249113794399494071144919271958~hmac=98daa71aaebddf4a6b0ad9369f3255b37d5efde49116c6c7c8d264cf766e6033",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771781494~acl=/*~id=68249113794399494071144919271958~hmac=98daa71aaebddf4a6b0ad9369f3255b37d5efde49116c6c7c8d264cf766e6033",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771781494~acl=/*~id=68249113794399494071144919271958~hmac=98daa71aaebddf4a6b0ad9369f3255b37d5efde49116c6c7c8d264cf766e6033"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -83,15 +96,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico vs Club Brugge - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090504682,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535197150719_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_16feb_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Juventus vs Galatasaray - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
