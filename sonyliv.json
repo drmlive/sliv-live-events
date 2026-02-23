@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:07:06 23-02-2026",
+    "last update time": "13:17:10 23-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -11,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090504795,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015517/1771829728598544_UCL-Combo-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs 2nd Leg - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -42,11 +51,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090504672,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533270450719_UCL26_Playoffs_Leg2_Newcastle_vs_Qarabag_16feb_dated_landscape_thumb.jpg",
+            "contentId": 1090504683,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528579941719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Newcastle vs Qarabag - UEFA Champions League 2025-26"
+            "event_name": "Upcoming - Atletico vs Club Brugge - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -60,29 +69,29 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090504679,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771529674104719_UCL26_Playoffs_Leg2_Leverkusen_vs_Olympiacos_16feb_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Leverkusen vs Olympiacos - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090504683,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528579941719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atletico vs Club Brugge - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090504682,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535197150719_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_16feb_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Juventus vs Galatasaray - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090504672,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533270450719_UCL26_Playoffs_Leg2_Newcastle_vs_Qarabag_16feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Newcastle vs Qarabag - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090504679,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771529674104719_UCL26_Playoffs_Leg2_Leverkusen_vs_Olympiacos_16feb_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Leverkusen vs Olympiacos - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
