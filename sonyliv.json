@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:23:20 24-02-2026",
+    "last update time": "20:33:25 24-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090504783_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771687731915794_UEFAYouthLeague26_Roundof16_Inter_vs_Real_Betis_21feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Inter vs Real Betis - 24 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771987999~acl=/*~id=93718969928338234460347992426442~hmac=3818053d96d7d349410313624be4fe5a994bd010f5938cdf01f6b867916b96f3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771987999~acl=/*~id=93718969928338234460347992426442~hmac=3818053d96d7d349410313624be4fe5a994bd010f5938cdf01f6b867916b96f3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771987999~acl=/*~id=93718969928338234460347992426442~hmac=3818053d96d7d349410313624be4fe5a994bd010f5938cdf01f6b867916b96f3"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Eintracht Frankfurt vs Sporting CP - 24 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771987999~acl=/*~id=93718969928338234460347992426442~hmac=3818053d96d7d349410313624be4fe5a994bd010f5938cdf01f6b867916b96f3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771987999~acl=/*~id=93718969928338234460347992426442~hmac=3818053d96d7d349410313624be4fe5a994bd010f5938cdf01f6b867916b96f3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771987999~acl=/*~id=93718969928338234460347992426442~hmac=3818053d96d7d349410313624be4fe5a994bd010f5938cdf01f6b867916b96f3"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771988605~acl=/*~id=51240803698196697166399582184673~hmac=91f59da696f5abfe0eddb56f96d98ae69ef10e6a6065129d1983f7958d53d2fe",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771988605~acl=/*~id=51240803698196697166399582184673~hmac=91f59da696f5abfe0eddb56f96d98ae69ef10e6a6065129d1983f7958d53d2fe",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771988605~acl=/*~id=51240803698196697166399582184673~hmac=91f59da696f5abfe0eddb56f96d98ae69ef10e6a6065129d1983f7958d53d2fe"
         },
         {
             "event_category": "Football",
@@ -120,15 +107,6 @@
             "event_name": "Upcoming - Atalanta vs Dortmund - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090504215,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090504682,
@@ -136,6 +114,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Juventus vs Galatasaray - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
         }
     ]
 }
