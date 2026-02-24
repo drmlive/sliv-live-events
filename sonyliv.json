@@ -1,16 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:34:34 24-02-2026",
+    "last update time": "22:44:40 24-02-2026",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090504636,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090504785_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504785_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504785_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504785_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771996479~acl=/*~id=54956612675272613865397297855688~hmac=4f6196b9a17b8033d82b957d25aafe790b3656cddfa9f191d55ae78bd46145e1"
         },
         {
             "event_category": "Cricket",
@@ -56,15 +99,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Inter vs Bodo/Glimt - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090504683,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528598148719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atletico vs Club Brugge - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
