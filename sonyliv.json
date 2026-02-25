@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:24:22 25-02-2026",
+    "last update time": "14:34:29 25-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Zimbabwe Women's Tour of New Zealand 2026",
             "match_name": "1st T20I - 25 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772052862~acl=/*~id=64416012135216229363921729283168~hmac=3ccb6531b96376a13fa4eefd7cca40e343f08fe5dd34d72bfcaf9ed9f38f293c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772052862~acl=/*~id=64416012135216229363921729283168~hmac=3ccb6531b96376a13fa4eefd7cca40e343f08fe5dd34d72bfcaf9ed9f38f293c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772052862~acl=/*~id=64416012135216229363921729283168~hmac=3ccb6531b96376a13fa4eefd7cca40e343f08fe5dd34d72bfcaf9ed9f38f293c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772053468~acl=/*~id=43955196260676423600966549152617~hmac=f6defaf89f7236559445f842ed8e25ad62d390a81ec702918e9a249151972278",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772053468~acl=/*~id=43955196260676423600966549152617~hmac=f6defaf89f7236559445f842ed8e25ad62d390a81ec702918e9a249151972278",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772053468~acl=/*~id=43955196260676423600966549152617~hmac=f6defaf89f7236559445f842ed8e25ad62d390a81ec702918e9a249151972278"
         },
         {
             "event_category": "Football",
@@ -78,6 +78,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505071,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015579/17720051114043_UEL_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - UEFA Europa League "
         }
     ]
 }
