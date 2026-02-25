@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:48:22 25-02-2026",
+    "last update time": "19:58:30 25-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090504794_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771689324591794_UEFAYouthLeague26_Roundof16_Real_Madrid_vs_Chelsea_21feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Real Madrid vs Chelsea - 25 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072909~acl=/*~id=68642449346568698436976162768896~hmac=848bee95e0ee9812d1e04cec7c39b0ecd331d7e087b5f63a36411a7c4765a5e5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072909~acl=/*~id=68642449346568698436976162768896~hmac=848bee95e0ee9812d1e04cec7c39b0ecd331d7e087b5f63a36411a7c4765a5e5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072909~acl=/*~id=68642449346568698436976162768896~hmac=848bee95e0ee9812d1e04cec7c39b0ecd331d7e087b5f63a36411a7c4765a5e5"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "PSG vs HJK - 25 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072302~acl=/*~id=65205269213764315975839710989954~hmac=a314bd0972ed8ce2e6b25d141aa72d686d2154ca7196b0129af1a67d41ed5414",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072302~acl=/*~id=65205269213764315975839710989954~hmac=a314bd0972ed8ce2e6b25d141aa72d686d2154ca7196b0129af1a67d41ed5414",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072302~acl=/*~id=65205269213764315975839710989954~hmac=a314bd0972ed8ce2e6b25d141aa72d686d2154ca7196b0129af1a67d41ed5414"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072909~acl=/*~id=68642449346568698436976162768896~hmac=848bee95e0ee9812d1e04cec7c39b0ecd331d7e087b5f63a36411a7c4765a5e5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072909~acl=/*~id=68642449346568698436976162768896~hmac=848bee95e0ee9812d1e04cec7c39b0ecd331d7e087b5f63a36411a7c4765a5e5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072909~acl=/*~id=68642449346568698436976162768896~hmac=848bee95e0ee9812d1e04cec7c39b0ecd331d7e087b5f63a36411a7c4765a5e5"
         },
         {
             "event_category": "Football",
