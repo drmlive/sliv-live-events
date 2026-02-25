@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:34:29 25-02-2026",
+    "last update time": "14:44:35 25-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Zimbabwe Women's Tour of New Zealand 2026",
             "match_name": "1st T20I - 25 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772053468~acl=/*~id=43955196260676423600966549152617~hmac=f6defaf89f7236559445f842ed8e25ad62d390a81ec702918e9a249151972278",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772053468~acl=/*~id=43955196260676423600966549152617~hmac=f6defaf89f7236559445f842ed8e25ad62d390a81ec702918e9a249151972278",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772053468~acl=/*~id=43955196260676423600966549152617~hmac=f6defaf89f7236559445f842ed8e25ad62d390a81ec702918e9a249151972278"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772054075~acl=/*~id=63769842862358371623638705362846~hmac=3f337e648247480310616c13af93beaf4853b1037464928694183d8c75d952db",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772054075~acl=/*~id=63769842862358371623638705362846~hmac=3f337e648247480310616c13af93beaf4853b1037464928694183d8c75d952db",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772054075~acl=/*~id=63769842862358371623638705362846~hmac=3f337e648247480310616c13af93beaf4853b1037464928694183d8c75d952db"
         },
         {
             "event_category": "Football",
@@ -62,6 +62,15 @@
             "event_name": "Upcoming - Juventus vs Galatasaray - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505071,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771840948535425_UEL_26_Leg2_Nottm-Forest-vs-Fenerbahce_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - UEFA Europa League "
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090504638,
@@ -78,15 +87,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090505071,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015579/17720051114043_UEL_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Play-offs - UEFA Europa League "
         }
     ]
 }
