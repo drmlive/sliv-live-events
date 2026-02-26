@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:13:09 26-02-2026",
+    "last update time": "17:23:15 26-02-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Investec South African Open Day 1 - 26 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772149389~acl=/*~id=28086263283612893929829699612222~hmac=7175d44440eac2e410b856498583e69adc4131e08e0f8501875535a753f3cc34",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772149389~acl=/*~id=28086263283612893929829699612222~hmac=7175d44440eac2e410b856498583e69adc4131e08e0f8501875535a753f3cc34",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772149389~acl=/*~id=28086263283612893929829699612222~hmac=7175d44440eac2e410b856498583e69adc4131e08e0f8501875535a753f3cc34"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772149995~acl=/*~id=34452388555456237146571937483858~hmac=d73d3086aa2850133665b98428cb9350a723084a35f1eb365f71ae7feaec9044",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772149995~acl=/*~id=34452388555456237146571937483858~hmac=d73d3086aa2850133665b98428cb9350a723084a35f1eb365f71ae7feaec9044",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772149995~acl=/*~id=34452388555456237146571937483858~hmac=d73d3086aa2850133665b98428cb9350a723084a35f1eb365f71ae7feaec9044"
         },
         {
             "event_category": "Football",
@@ -42,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505225,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015616/1772100538410872_Bundesliga-Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Borussia Dortmund vs Bayern Munich"
         }
     ]
 }
