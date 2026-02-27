@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:59:13 27-02-2026",
+    "last update time": "16:09:20 27-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505227_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015612/1772091081592940_UCL26_RD16_QF_SF_Draw_25feb1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Round of 16, Quarter-final and Semi-final Draw - 27 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231959~acl=/*~id=07257112252443262275897307373286~hmac=97c1701bef1ab9fff664e9aaba0a118b31c907f055919b9916c46e90ac01ddd6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231959~acl=/*~id=07257112252443262275897307373286~hmac=97c1701bef1ab9fff664e9aaba0a118b31c907f055919b9916c46e90ac01ddd6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231959~acl=/*~id=07257112252443262275897307373286~hmac=97c1701bef1ab9fff664e9aaba0a118b31c907f055919b9916c46e90ac01ddd6"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Investec South African Open Day 2 - 27 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231353~acl=/*~id=87242556457576732541973369357097~hmac=ba3238da1545a9356c7ecc36fe2e2ece5b78834ee211b1cb05bff6095584054d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231353~acl=/*~id=87242556457576732541973369357097~hmac=ba3238da1545a9356c7ecc36fe2e2ece5b78834ee211b1cb05bff6095584054d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231353~acl=/*~id=87242556457576732541973369357097~hmac=ba3238da1545a9356c7ecc36fe2e2ece5b78834ee211b1cb05bff6095584054d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231959~acl=/*~id=07257112252443262275897307373286~hmac=97c1701bef1ab9fff664e9aaba0a118b31c907f055919b9916c46e90ac01ddd6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231959~acl=/*~id=07257112252443262275897307373286~hmac=97c1701bef1ab9fff664e9aaba0a118b31c907f055919b9916c46e90ac01ddd6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231959~acl=/*~id=07257112252443262275897307373286~hmac=97c1701bef1ab9fff664e9aaba0a118b31c907f055919b9916c46e90ac01ddd6"
         },
         {
             "event_category": "Football",
