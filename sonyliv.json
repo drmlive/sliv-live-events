@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:14:29 28-02-2026",
+    "last update time": "19:24:39 28-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505279_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770453535577953_BLIGA_26_Leverkusen-vs-Mainz_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Bayer Leverkusen vs Mainz - MD 24 - 28 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505277_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Goal Arena - MD 24 - 28 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +38,48 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Investec South African Open Day 3 - 28 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772329469~acl=/*~id=07067608796510955981045850344810~hmac=263c63f1e91526e806c371c2bbecfd1b5f6faccf75ee817ae3f21c5892ec279d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772329469~acl=/*~id=07067608796510955981045850344810~hmac=263c63f1e91526e806c371c2bbecfd1b5f6faccf75ee817ae3f21c5892ec279d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772329469~acl=/*~id=07067608796510955981045850344810~hmac=263c63f1e91526e806c371c2bbecfd1b5f6faccf75ee817ae3f21c5892ec279d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505280_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770453764927953_BLIGA_26_Borussia-Mgladbach-vs-Union-Berlin_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Borussia M'gladbach vs Union Berlin - MD 24 - 28 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505281_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770616827659953_BLIGA_26_Hoffenheim-vs-St-Pauli_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Hoffenheim vs St. Pauli - MD 24 - 28 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505282_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770617053268953_BLIGA_26_Werder-Bremen-vs-Heidenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Werder Bremen vs Heidenheim - MD 24 - 28 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772330076~acl=/*~id=11222699067855094407128087649087~hmac=e1675d24f56693d442e3964de0cd5fd47ae08308a6a01800bc26877d55d2e861"
         },
         {
             "event_category": "Football",
