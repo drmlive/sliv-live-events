@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:12:18 01-03-2026",
+    "last update time": "23:22:25 01-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Eintracht Frankfurt vs SC Freiburg - MD 24 - 1 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430138~acl=/*~id=77634933787681622493747784331820~hmac=d296944ba022a7e69f1c6a6cb4feee7a039b4d5fbcb2f5e49eef2913d4a3eb28",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430138~acl=/*~id=77634933787681622493747784331820~hmac=d296944ba022a7e69f1c6a6cb4feee7a039b4d5fbcb2f5e49eef2913d4a3eb28",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430138~acl=/*~id=77634933787681622493747784331820~hmac=d296944ba022a7e69f1c6a6cb4feee7a039b4d5fbcb2f5e49eef2913d4a3eb28"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430744~acl=/*~id=84522291250915058675504471137557~hmac=ed4b4be8910a00e1f84e7054d6e3112a46d577c6de903ce5af693151b5d47e37",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430744~acl=/*~id=84522291250915058675504471137557~hmac=ed4b4be8910a00e1f84e7054d6e3112a46d577c6de903ce5af693151b5d47e37",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430744~acl=/*~id=84522291250915058675504471137557~hmac=ed4b4be8910a00e1f84e7054d6e3112a46d577c6de903ce5af693151b5d47e37"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505347_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015686/1772264080060596_BLIGA_26_MD24_Hamburger-SV-vs-RB-Leipzig_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Hamburger SV vs RB Leipzig - MD 24 - 1 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430744~acl=/*~id=84522291250915058675504471137557~hmac=ed4b4be8910a00e1f84e7054d6e3112a46d577c6de903ce5af693151b5d47e37",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430744~acl=/*~id=84522291250915058675504471137557~hmac=ed4b4be8910a00e1f84e7054d6e3112a46d577c6de903ce5af693151b5d47e37",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772430744~acl=/*~id=84522291250915058675504471137557~hmac=ed4b4be8910a00e1f84e7054d6e3112a46d577c6de903ce5af693151b5d47e37"
         },
         {
             "event_category": "Cricket",
