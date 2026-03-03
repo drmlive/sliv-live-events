@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:25:03 04-03-2026",
+    "last update time": "00:35:08 04-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505431_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015700/177217706800066_FC_Cup_26_RD4_Port-Vale-vs-Bristol-City_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Port Vale vs Bristol City - Round 4 - 4 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772607907~acl=/*~id=24882143656107796299639586159382~hmac=5feea57f11b32668271b9a304de9c1b48751618c79a6ea43f6de15a2308abc69",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772607907~acl=/*~id=24882143656107796299639586159382~hmac=5feea57f11b32668271b9a304de9c1b48751618c79a6ea43f6de15a2308abc69",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772607907~acl=/*~id=24882143656107796299639586159382~hmac=5feea57f11b32668271b9a304de9c1b48751618c79a6ea43f6de15a2308abc69"
+        },
         {
             "event_category": "Football",
             "isLive": false,
