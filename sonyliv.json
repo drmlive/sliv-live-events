@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:55:03 04-03-2026",
+    "last update time": "22:05:10 04-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -38,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Newcastle United vs Manchester City"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090505573,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015777/1772629511443155_UFC326_8Mar_Promo_Landscape_Thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 326 - Holloway vs Oliveira"
         },
         {
             "event_category": "Football",
