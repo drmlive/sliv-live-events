@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:06:47 06-03-2026",
+    "last update time": "16:16:53 06-03-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Joburg Open Day 2 - 6 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836607~acl=/*~id=43489136440402077189541990389624~hmac=14542e7daeb2646779ff290e1e846d1c31b6eda8f20d122cbc5311dd028ba293",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836607~acl=/*~id=43489136440402077189541990389624~hmac=14542e7daeb2646779ff290e1e846d1c31b6eda8f20d122cbc5311dd028ba293",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836607~acl=/*~id=43489136440402077189541990389624~hmac=14542e7daeb2646779ff290e1e846d1c31b6eda8f20d122cbc5311dd028ba293"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772837212~acl=/*~id=18839241842474858812674333236902~hmac=70c6d75bd28067faf0b97178741cf5cdc28ec23c53d12959c52a39a74b46f3f4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772837212~acl=/*~id=18839241842474858812674333236902~hmac=70c6d75bd28067faf0b97178741cf5cdc28ec23c53d12959c52a39a74b46f3f4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772837212~acl=/*~id=18839241842474858812674333236902~hmac=70c6d75bd28067faf0b97178741cf5cdc28ec23c53d12959c52a39a74b46f3f4"
         },
         {
             "event_category": "Football",
@@ -114,6 +114,51 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - West Ham United vs Brentford"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505702,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772738404240689_UCL26_R16_leg1_Galatasaray_vs_Liverpool_6mar_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Galatasaray vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505700,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772739208089689_UCL26_R16_leg1_Newcastle_vs_Barcelona_6mar_Dated_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Newcastle United vs Barcelona - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505703,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772739688319689_UCL26_R16_leg1_Atletico_vs_Tottenham_6mar_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico Madrid vs Tottenham - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505689,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740290077689_UCL26_R16_leg1_Atalanta_vs_Bayern_6mar_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atalanta vs Bayern Munich - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505701,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740931146689_UCL26_R16_leg1_Leverkusen_vs_Arsenal_6mar_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Leverkusen vs Arsenal - UEFA Champions League 2025-26"
         }
     ]
 }
