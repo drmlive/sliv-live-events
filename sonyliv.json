@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:56:42 06-03-2026",
+    "last update time": "16:06:47 06-03-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Joburg Open Day 2 - 6 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836002~acl=/*~id=77580264886693778772964305548664~hmac=314325d868bbbb04a8cc4d1d102b51824b58b1c42938919daa7a27a1a99c575b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836002~acl=/*~id=77580264886693778772964305548664~hmac=314325d868bbbb04a8cc4d1d102b51824b58b1c42938919daa7a27a1a99c575b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836002~acl=/*~id=77580264886693778772964305548664~hmac=314325d868bbbb04a8cc4d1d102b51824b58b1c42938919daa7a27a1a99c575b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836607~acl=/*~id=43489136440402077189541990389624~hmac=14542e7daeb2646779ff290e1e846d1c31b6eda8f20d122cbc5311dd028ba293",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836607~acl=/*~id=43489136440402077189541990389624~hmac=14542e7daeb2646779ff290e1e846d1c31b6eda8f20d122cbc5311dd028ba293",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772836607~acl=/*~id=43489136440402077189541990389624~hmac=14542e7daeb2646779ff290e1e846d1c31b6eda8f20d122cbc5311dd028ba293"
         },
         {
             "event_category": "Football",
@@ -69,6 +69,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Wrexham vs Chelsea"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505698,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741447545689_UCL26_R16_leg1_Real_Madrid_vs_Man_City_6mar_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Madrid vs Man City - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090505699,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741971251689_UCL26_R16_leg1_PSG_vs_Chelsea_6mar_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Chelsea - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
