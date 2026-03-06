@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:26:58 06-03-2026",
+    "last update time": "16:37:03 06-03-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Joburg Open Day 2 - 6 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772837817~acl=/*~id=93874477261464531352706780469113~hmac=378a596ec9d36f9caa22f177be70fb364d2f11685b3dd060a1801755e706e5f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772837817~acl=/*~id=93874477261464531352706780469113~hmac=378a596ec9d36f9caa22f177be70fb364d2f11685b3dd060a1801755e706e5f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772837817~acl=/*~id=93874477261464531352706780469113~hmac=378a596ec9d36f9caa22f177be70fb364d2f11685b3dd060a1801755e706e5f5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772838423~acl=/*~id=35353039599342299606480029995094~hmac=8376c3e98f81d42a8f1604e370828de6cef6c82f0d919eb62578e60cecd5d29f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772838423~acl=/*~id=35353039599342299606480029995094~hmac=8376c3e98f81d42a8f1604e370828de6cef6c82f0d919eb62578e60cecd5d29f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772838423~acl=/*~id=35353039599342299606480029995094~hmac=8376c3e98f81d42a8f1604e370828de6cef6c82f0d919eb62578e60cecd5d29f"
         },
         {
             "event_category": "Football",
@@ -53,15 +53,6 @@
             "event_name": "Upcoming - Emirates FA Cup - Newcastle United vs Manchester City"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090505573,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015777/1772629511443155_UFC326_8Mar_Promo_Landscape_Thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 326 - Holloway vs Oliveira"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090505483,
@@ -87,6 +78,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Chelsea - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090505573,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015777/1772629511443155_UFC326_8Mar_Promo_Landscape_Thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 326 - Holloway vs Oliveira"
         },
         {
             "event_category": "Cricket",
