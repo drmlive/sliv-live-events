@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:33:41 07-03-2026",
+    "last update time": "22:43:46 07-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505669_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505669_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505669_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505669_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,27 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "FC Koln vs Borussia Dortmund - MD 25 - 7 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946220~acl=/*~id=32937446800214010893906872649759~hmac=783386b542ff2b27ff011bd18e739de4e3e0484e014c9d403aa326cebdc0aa45",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946220~acl=/*~id=32937446800214010893906872649759~hmac=783386b542ff2b27ff011bd18e739de4e3e0484e014c9d403aa326cebdc0aa45",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946220~acl=/*~id=32937446800214010893906872649759~hmac=783386b542ff2b27ff011bd18e739de4e3e0484e014c9d403aa326cebdc0aa45"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090505459,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015893/177287108771021_FACUP_RD5_2march_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Round 5 - Emirates FA Cup "
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090505483,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015890/1772864428910847_FA_Cup_26_Wrexham-vs-Chelsea_Tonight_Landscape_Thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Wrexham vs Chelsea"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772946825~acl=/*~id=90534218591666370873897675790332~hmac=34a16bded948761d69cbf24ef3ff94cc0b01c80078c10324825c7323f134b84d"
         },
         {
             "event_category": "Football",
