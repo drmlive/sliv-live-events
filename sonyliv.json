@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:48:38 08-03-2026",
+    "last update time": "23:58:44 08-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Leeds United vs Norwich City - Round 5 - 8 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037117~acl=/*~id=40761782837398336748750910708351~hmac=c5b2abc4a0bee199a6c5dc740258a726c7a28e4309a10439234b3bf7503f9094",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037117~acl=/*~id=40761782837398336748750910708351~hmac=c5b2abc4a0bee199a6c5dc740258a726c7a28e4309a10439234b3bf7503f9094",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037117~acl=/*~id=40761782837398336748750910708351~hmac=c5b2abc4a0bee199a6c5dc740258a726c7a28e4309a10439234b3bf7503f9094"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037723~acl=/*~id=75370596908774608213809241535353~hmac=f197998abd5d299c0a059cdd032388ffcce04546a7aa92dea117b756603bb9d5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037723~acl=/*~id=75370596908774608213809241535353~hmac=f197998abd5d299c0a059cdd032388ffcce04546a7aa92dea117b756603bb9d5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037723~acl=/*~id=75370596908774608213809241535353~hmac=f197998abd5d299c0a059cdd032388ffcce04546a7aa92dea117b756603bb9d5"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "Union Berlin vs Werder Bremen - MD 25 - 8 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037117~acl=/*~id=40761782837398336748750910708351~hmac=c5b2abc4a0bee199a6c5dc740258a726c7a28e4309a10439234b3bf7503f9094",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037117~acl=/*~id=40761782837398336748750910708351~hmac=c5b2abc4a0bee199a6c5dc740258a726c7a28e4309a10439234b3bf7503f9094",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037117~acl=/*~id=40761782837398336748750910708351~hmac=c5b2abc4a0bee199a6c5dc740258a726c7a28e4309a10439234b3bf7503f9094"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037723~acl=/*~id=75370596908774608213809241535353~hmac=f197998abd5d299c0a059cdd032388ffcce04546a7aa92dea117b756603bb9d5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037723~acl=/*~id=75370596908774608213809241535353~hmac=f197998abd5d299c0a059cdd032388ffcce04546a7aa92dea117b756603bb9d5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773037723~acl=/*~id=75370596908774608213809241535353~hmac=f197998abd5d299c0a059cdd032388ffcce04546a7aa92dea117b756603bb9d5"
         },
         {
             "event_category": "Football",
@@ -122,4 +122,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-    
+            "contentId": 1090505699,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741971251689_UCL26_R16_leg1_PSG_vs_Chelsea_6mar_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Chelsea - UEFA Champions League 2025-26"
+        }
+    ]
+}
