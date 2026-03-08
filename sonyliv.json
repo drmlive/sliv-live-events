@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:52:16 08-03-2026",
+    "last update time": "14:02:21 08-03-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090505794_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261407532912_DP_World_Day4_Joburg-Open_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Joburg Open Day 4 - 8 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773001940~acl=/*~id=04982086709922304988600573407425~hmac=9fd4184ff74a45b1a03c25b1a71d5d09a25443c5f5c202ad452009e1e245fb0d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773001940~acl=/*~id=04982086709922304988600573407425~hmac=9fd4184ff74a45b1a03c25b1a71d5d09a25443c5f5c202ad452009e1e245fb0d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773001940~acl=/*~id=04982086709922304988600573407425~hmac=9fd4184ff74a45b1a03c25b1a71d5d09a25443c5f5c202ad452009e1e245fb0d"
+        },
         {
             "event_category": "Football",
             "isLive": false,
