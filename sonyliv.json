@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:19:36 10-03-2026",
+    "last update time": "18:29:41 10-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -40,15 +40,6 @@
             "event_name": "Upcoming - Newcastle United vs Barcelona - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090504215,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015585/1772018351816286_NZvsSA_25feb_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090505703,
@@ -65,6 +56,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atalanta vs Bayern Munich - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015585/1772018351816286_NZvsSA_25feb_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
         },
         {
             "event_category": "Football",
