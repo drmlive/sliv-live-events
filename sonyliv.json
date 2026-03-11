@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:24:30 11-03-2026",
+    "last update time": "21:34:37 11-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506078_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016047/1773216472878534_ucl_Bayer_vs_Arsenal_CPC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Leverkusen vs Arsenal - Round Of 16 - Leg 1 - 11 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506078_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016047/1773216472878534_ucl_Bayer_vs_Arsenal_CPC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Leverkusen vs Arsenal - Round Of 16 - Leg 1 - 11 Mar 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506078_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016047/1773216472878534_ucl_Bayer_vs_Arsenal_CPC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Leverkusen vs Arsenal - Round Of 16 - Leg 1 - 11 Mar 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506078_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016047/1773216472878534_ucl_Bayer_vs_Arsenal_CPC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Leverkusen vs Arsenal - Round Of 16 - Leg 1 - 11 Mar 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Hundred 2026 (Women's)",
             "match_name": "Auction - 11 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773287669~acl=/*~id=77366481282754221229922888294187~hmac=b4679a37c5d8b41e89982dd7cca463e6bf42c6dc2f801dd7559fab3e424cd2a8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773287669~acl=/*~id=77366481282754221229922888294187~hmac=b4679a37c5d8b41e89982dd7cca463e6bf42c6dc2f801dd7559fab3e424cd2a8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773287669~acl=/*~id=77366481282754221229922888294187~hmac=b4679a37c5d8b41e89982dd7cca463e6bf42c6dc2f801dd7559fab3e424cd2a8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773288275~acl=/*~id=30476644760892587188197951555264~hmac=66b0685acbcecd29284fb538c2237654f0c865d52ed2510bcd4e0d616a97e04e"
         },
         {
             "event_category": "Football",
@@ -24,15 +76,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - RO 16 - 1st Leg - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090505701,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740940781689_UCL26_R16_leg1_Leverkusen_vs_Arsenal_6mar_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Leverkusen vs Arsenal - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
