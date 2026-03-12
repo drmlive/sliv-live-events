@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:37:10 12-03-2026",
+    "last update time": "20:47:17 12-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090506231_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016058/1773232988888126_IFC_Chanmari_FC-vs-Dempo_Sports_Club_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Chanmari FC vs Dempo Sports Club - 12 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371230~acl=/*~id=73061985666677983779994570162363~hmac=bb4a74256753f695ba94a718ac622319050d8f27718c387e7c6a710f0de3edc6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371230~acl=/*~id=73061985666677983779994570162363~hmac=bb4a74256753f695ba94a718ac622319050d8f27718c387e7c6a710f0de3edc6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371230~acl=/*~id=73061985666677983779994570162363~hmac=bb4a74256753f695ba94a718ac622319050d8f27718c387e7c6a710f0de3edc6"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "The Hundred 2026 (Men's)",
             "match_name": "Auction - 12 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371230~acl=/*~id=73061985666677983779994570162363~hmac=bb4a74256753f695ba94a718ac622319050d8f27718c387e7c6a710f0de3edc6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371230~acl=/*~id=73061985666677983779994570162363~hmac=bb4a74256753f695ba94a718ac622319050d8f27718c387e7c6a710f0de3edc6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371230~acl=/*~id=73061985666677983779994570162363~hmac=bb4a74256753f695ba94a718ac622319050d8f27718c387e7c6a710f0de3edc6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371836~acl=/*~id=59863635468933341391762521235476~hmac=b0426434afdcdc89a2d1423ebb699e9407135b060a13ac6a136fa1cdd1307f18",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371836~acl=/*~id=59863635468933341391762521235476~hmac=b0426434afdcdc89a2d1423ebb699e9407135b060a13ac6a136fa1cdd1307f18",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773371836~acl=/*~id=59863635468933341391762521235476~hmac=b0426434afdcdc89a2d1423ebb699e9407135b060a13ac6a136fa1cdd1307f18"
         },
         {
             "event_category": "Cricket",
