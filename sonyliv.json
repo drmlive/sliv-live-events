@@ -1,47 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:32:08 13-03-2026",
+    "last update time": "03:42:12 13-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090506304_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015940/1773018980002408_UECL26_R16_Leg1_Crystal_Palace_vs_AEK_Larnaca_8mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Conference League 2025-26",
-            "match_name": "Crystal Palace vs AEK Larnaca - Round of 16 - Leg 1 - 13 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090506302_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015937/1772986215104174_UEL26_RD16_Leg1_Celta_Vigo_vs_Lyon_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Celta Vigo vs Lyon - Round of 16 - Leg 1 - 13 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090506301_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015937/1772986082622174_UEL26_RD16_Leg1_Ferencvaros_vs_Braga_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Ferencvaros vs Braga - Round of 16 - Leg 1 - 13 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773396127~acl=/*~id=53007704678211205890989123455223~hmac=778a6e4e5d1efcc530b4d4dc86c6226e6bf65b6dd32debc2970462cb77e5bcb3"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
