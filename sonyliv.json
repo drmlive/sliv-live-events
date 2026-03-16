@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:51:59 16-03-2026",
+    "last update time": "18:02:05 16-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -110,6 +110,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506624,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016256/1773659283195774_UCL_Barcelona_vs_Newcastle_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Newcastle United - UEFA Champions League 2025-26"
         }
     ]
 }
