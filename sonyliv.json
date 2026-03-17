@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:59:08 17-03-2026",
+    "last update time": "07:09:15 17-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "South Africa Women's Tour of New Zealand 2026",
             "match_name": "2nd T20I - 17 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773754148~acl=/*~id=22502064593227130046608378608857~hmac=bd6a0eb2013cf1cee78d881bcf5cda219878009168a501bce508778f717d472b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773754148~acl=/*~id=22502064593227130046608378608857~hmac=bd6a0eb2013cf1cee78d881bcf5cda219878009168a501bce508778f717d472b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773754148~acl=/*~id=22502064593227130046608378608857~hmac=bd6a0eb2013cf1cee78d881bcf5cda219878009168a501bce508778f717d472b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773754754~acl=/*~id=07470253913304155568841429455046~hmac=b92c3e7cc529c433159e62e258b3d9ae25a13cd712c016e066753342dea368f8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773754754~acl=/*~id=07470253913304155568841429455046~hmac=b92c3e7cc529c433159e62e258b3d9ae25a13cd712c016e066753342dea368f8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773754754~acl=/*~id=07470253913304155568841429455046~hmac=b92c3e7cc529c433159e62e258b3d9ae25a13cd712c016e066753342dea368f8"
         },
         {
             "event_category": "Cricket",
@@ -73,6 +73,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090506622,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773304059086173_UCL_RD16_Leg2_Manchester-City_vs_Real-Madrid_dated_with_sponsors_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Man City vs Real Madrid - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090506621,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773306608360173_UCL_RD16_Leg2_Chelsea_vs_PSG_dated_with_sponsors_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -82,11 +91,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090506622,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773304059086173_UCL_RD16_Leg2_Manchester-City_vs_Real-Madrid_dated_with_sponsors_promo_landscape_thumb.jpg",
+            "contentId": 1090506624,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773310146130173_UCL_RD16_Leg2_Barcelona_vs_Newcastle_United_dated_with_sponsors_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Real Madrid - UEFA Champions League 2025-26"
+            "event_name": "Upcoming - Barcelona vs Newcastle United - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -116,6 +125,24 @@
             "event_name": "Upcoming - Bayern vs Atalanta - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506825,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016275/1773678707375747_UEL_Midtjylland_vs_nottm_dated_promo1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - FC Midtjylland vs Nottingham Forest - UEFA Europa League "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506823,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016275/1773678756759747_UEL_aston_villa_vs_LOSC_dated_promo1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Aston Villa vs Lille - UEFA Europa League "
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090504215,
@@ -123,15 +150,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506624,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773310146130173_UCL_RD16_Leg2_Barcelona_vs_Newcastle_United_dated_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Newcastle United - UEFA Champions League 2025-26"
         }
     ]
 }
