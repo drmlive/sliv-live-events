@@ -1,20 +1,17 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:05:47 17-03-2026",
+    "last update time": "18:15:53 17-03-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090506835_ENG",
+            "contentId": 1090506835,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648405773805_IFC_Rajasthan_United_FC-vs-Real_Kashmir_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
-            "match_name": "Rajasthan United FC vs Real Kashmir FC - 17 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf"
+            "match_name": "Rajasthan United FC vs Real Kashmir FC - 17 Mar 2026"
         },
         {
             "event_category": "Football",
@@ -25,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Atletico vs Club Brugge - 17 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794146~acl=/*~id=50644991807113270289753966764675~hmac=623910b07fb52a68109ed6507565e85a994832d906b02e246382a1991c74dacf"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794753~acl=/*~id=07017520154372221384097529337627~hmac=bef36d2eb8b64d8112404c3b42ce263ce864805d9094928ffa4b9585ad1f5057",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794753~acl=/*~id=07017520154372221384097529337627~hmac=bef36d2eb8b64d8112404c3b42ce263ce864805d9094928ffa4b9585ad1f5057",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI08-M5/std_lrh-800300010.m3u8?hdnea=exp=1773794753~acl=/*~id=07017520154372221384097529337627~hmac=bef36d2eb8b64d8112404c3b42ce263ce864805d9094928ffa4b9585ad1f5057"
         },
         {
             "event_category": "Football",
