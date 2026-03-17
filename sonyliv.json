@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:01:37 17-03-2026",
+    "last update time": "11:11:43 17-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "South Africa Tour of New Zealand 2026",
             "match_name": "2nd T20I - 17 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773768696~acl=/*~id=87112503426957287887569886973694~hmac=2a85f6850cd725dd8a3bdbbb35048e7214908cb2a8f2d50f30984008b840eae2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773768696~acl=/*~id=87112503426957287887569886973694~hmac=2a85f6850cd725dd8a3bdbbb35048e7214908cb2a8f2d50f30984008b840eae2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773768696~acl=/*~id=87112503426957287887569886973694~hmac=2a85f6850cd725dd8a3bdbbb35048e7214908cb2a8f2d50f30984008b840eae2"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090506243,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016265/177366665982895_NZ_vs_SA_3rd_T20I_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - South Africa Tour of New Zealand 2026"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773769302~acl=/*~id=82838131738880573082942634026845~hmac=a8b1be6b3f2fbcfde007ba82ce686a5568f29b3220fdfa5fa4ce85d32d59f6e5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773769302~acl=/*~id=82838131738880573082942634026845~hmac=a8b1be6b3f2fbcfde007ba82ce686a5568f29b3220fdfa5fa4ce85d32d59f6e5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773769302~acl=/*~id=82838131738880573082942634026845~hmac=a8b1be6b3f2fbcfde007ba82ce686a5568f29b3220fdfa5fa4ce85d32d59f6e5"
         },
         {
             "event_category": "Football",
@@ -46,11 +37,38 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090506625,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773313082329173_UCL_RD16_Leg2_Liverpool_vs_Galatasaray_dated_with_sponsors_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming -  Liverpool vs Galatasaray - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506624,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773310146130173_UCL_RD16_Leg2_Barcelona_vs_Newcastle_United_dated_with_sponsors_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Newcastle United - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090506617,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016181/1773477772228763_Liverpool-vs-Galatasaray-R16_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - RO 16 - 2nd Leg - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090506243,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016265/177366665982895_NZ_vs_SA_3rd_T20I_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - South Africa Tour of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
@@ -87,24 +105,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming -  Chelsea vs Paris - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506624,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773310146130173_UCL_RD16_Leg2_Barcelona_vs_Newcastle_United_dated_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Newcastle United - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506625,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773313082329173_UCL_RD16_Leg2_Liverpool_vs_Galatasaray_dated_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming -  Liverpool vs Galatasaray - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
