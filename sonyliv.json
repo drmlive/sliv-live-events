@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:20:37 17-03-2026",
+    "last update time": "09:30:44 17-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "South Africa Women's Tour of New Zealand 2026",
             "match_name": "2nd T20I - 17 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773762637~acl=/*~id=20651160365724522304716442492735~hmac=1d23f3d58b0ac05d0950309bf62a04a319e39e94f03f455c1f64da55d712d262",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773762637~acl=/*~id=20651160365724522304716442492735~hmac=1d23f3d58b0ac05d0950309bf62a04a319e39e94f03f455c1f64da55d712d262",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773762637~acl=/*~id=20651160365724522304716442492735~hmac=1d23f3d58b0ac05d0950309bf62a04a319e39e94f03f455c1f64da55d712d262"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773763243~acl=/*~id=79694170865812190178655411568523~hmac=1a7900b33ded3d6184e7e80f676df9b26b20444d1008fb3768521edb5ac1b166",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773763243~acl=/*~id=79694170865812190178655411568523~hmac=1a7900b33ded3d6184e7e80f676df9b26b20444d1008fb3768521edb5ac1b166",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773763243~acl=/*~id=79694170865812190178655411568523~hmac=1a7900b33ded3d6184e7e80f676df9b26b20444d1008fb3768521edb5ac1b166"
         },
         {
             "event_category": "Cricket",
@@ -129,4 +129,27 @@
             "isLive": false,
             "contentId": 1090506825,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016275/1773678707375747_UEL_Midtjylland_vs_nottm_dated_promo1_landscape_thumb.jpg",
-           
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - FC Midtjylland vs Nottingham Forest - UEFA Europa League "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506823,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016275/1773678756759747_UEL_aston_villa_vs_LOSC_dated_promo1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Aston Villa vs Lille - UEFA Europa League "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
