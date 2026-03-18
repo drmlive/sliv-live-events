@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:23:13 18-03-2026",
+    "last update time": "21:33:22 18-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506953_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506953_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506953_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506953_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2025-26",
             "match_name": "Braga vs Ferencvaros - Round of 16 - Leg 2 - 18 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773892392~acl=/*~id=47821488216203483643046268776992~hmac=b0bec2775a417739c1c60fe65fff01df7b552d8aff63d2025337ea6f1ffa6f34",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773892392~acl=/*~id=47821488216203483643046268776992~hmac=b0bec2775a417739c1c60fe65fff01df7b552d8aff63d2025337ea6f1ffa6f34",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773892392~acl=/*~id=47821488216203483643046268776992~hmac=b0bec2775a417739c1c60fe65fff01df7b552d8aff63d2025337ea6f1ffa6f34"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f"
         },
         {
             "event_category": "Football",
@@ -25,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Inter vs Benfica - 18 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773892392~acl=/*~id=47821488216203483643046268776992~hmac=b0bec2775a417739c1c60fe65fff01df7b552d8aff63d2025337ea6f1ffa6f34",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773892392~acl=/*~id=47821488216203483643046268776992~hmac=b0bec2775a417739c1c60fe65fff01df7b552d8aff63d2025337ea6f1ffa6f34",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773892392~acl=/*~id=47821488216203483643046268776992~hmac=b0bec2775a417739c1c60fe65fff01df7b552d8aff63d2025337ea6f1ffa6f34"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773893000~acl=/*~id=50434647321807046251085290513701~hmac=3ba1e723a4b54232d4e89c5e9112eb4e6549f7e414b1eba4aa98518b74b3a04f"
         },
         {
             "event_category": "Football",
@@ -55,15 +107,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming -  Liverpool vs Galatasaray - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506624,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773310251533173_UCL_RD16_Leg2_Barcelona_vs_Newcastle_United_tonight_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Newcastle United - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
