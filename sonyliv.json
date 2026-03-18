@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:41:59 18-03-2026",
+    "last update time": "19:52:07 18-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
             "match_name": "Real Madrid vs Sporting CP - 18 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773886319~acl=/*~id=46953988275434554019358217928637~hmac=55ff789b70a3f9f2a4a2352ec949cc9d3490ac18e32db7a5ccaa1c1aadc9ce86",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773886319~acl=/*~id=46953988275434554019358217928637~hmac=55ff789b70a3f9f2a4a2352ec949cc9d3490ac18e32db7a5ccaa1c1aadc9ce86",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773886319~acl=/*~id=46953988275434554019358217928637~hmac=55ff789b70a3f9f2a4a2352ec949cc9d3490ac18e32db7a5ccaa1c1aadc9ce86"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773886926~acl=/*~id=44776214445603826040670044922786~hmac=971c38a05d6f54c342dcfd9dac7446d01a02a09cf55cf4ab8efba702c5236348",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773886926~acl=/*~id=44776214445603826040670044922786~hmac=971c38a05d6f54c342dcfd9dac7446d01a02a09cf55cf4ab8efba702c5236348",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773886926~acl=/*~id=44776214445603826040670044922786~hmac=971c38a05d6f54c342dcfd9dac7446d01a02a09cf55cf4ab8efba702c5236348"
         },
         {
             "event_category": "Football",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - RO 16 - 2nd Leg - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090506243,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016265/177366665982895_NZ_vs_SA_3rd_T20I_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - South Africa Tour of New Zealand 2026"
         },
         {
             "event_category": "Football",
@@ -69,15 +78,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Aston Villa vs Lille - UEFA Europa League "
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090506243,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016265/177366665982895_NZ_vs_SA_3rd_T20I_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - South Africa Tour of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
