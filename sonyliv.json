@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:45:30 22-03-2026",
+    "last update time": "23:55:36 22-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "St. Pauli vs SC Freiburg - MD 27 - 22 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774246529~acl=/*~id=98472223355498115532836511419642~hmac=fd0b050f93af4766574bc37964ee6bc952f558e2def90c7ac82b86b27bbd69a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774246529~acl=/*~id=98472223355498115532836511419642~hmac=fd0b050f93af4766574bc37964ee6bc952f558e2def90c7ac82b86b27bbd69a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774246529~acl=/*~id=98472223355498115532836511419642~hmac=fd0b050f93af4766574bc37964ee6bc952f558e2def90c7ac82b86b27bbd69a3"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774247136~acl=/*~id=49034821191305427764650716299492~hmac=63f941484ff6b7e7bcb8a0fbd9016983be435955e895dc9c6a8819e55207d0ad",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774247136~acl=/*~id=49034821191305427764650716299492~hmac=63f941484ff6b7e7bcb8a0fbd9016983be435955e895dc9c6a8819e55207d0ad",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774247136~acl=/*~id=49034821191305427764650716299492~hmac=63f941484ff6b7e7bcb8a0fbd9016983be435955e895dc9c6a8819e55207d0ad"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "FC Augsburg vs VfB Stuttgart - MD 27 - 23 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774246529~acl=/*~id=98472223355498115532836511419642~hmac=fd0b050f93af4766574bc37964ee6bc952f558e2def90c7ac82b86b27bbd69a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774246529~acl=/*~id=98472223355498115532836511419642~hmac=fd0b050f93af4766574bc37964ee6bc952f558e2def90c7ac82b86b27bbd69a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774246529~acl=/*~id=98472223355498115532836511419642~hmac=fd0b050f93af4766574bc37964ee6bc952f558e2def90c7ac82b86b27bbd69a3"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774247136~acl=/*~id=49034821191305427764650716299492~hmac=63f941484ff6b7e7bcb8a0fbd9016983be435955e895dc9c6a8819e55207d0ad",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774247136~acl=/*~id=49034821191305427764650716299492~hmac=63f941484ff6b7e7bcb8a0fbd9016983be435955e895dc9c6a8819e55207d0ad",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774247136~acl=/*~id=49034821191305427764650716299492~hmac=63f941484ff6b7e7bcb8a0fbd9016983be435955e895dc9c6a8819e55207d0ad"
         },
         {
             "event_category": "Cricket",
@@ -123,4 +123,19 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090507217,
-            "src": "htt
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016400/177392982245713_EQ_Turkiye_vs_Romania_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Turkey vs Romania - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
