@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:40:26 24-03-2026",
+    "last update time": "19:50:34 24-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Aizawl FC vs Chanmari FC - 24 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI23-M5/std_lrh-800300010.m3u8?hdnea=exp=1774404626~acl=/*~id=57807271262287948456148342200880~hmac=d282bbe507b28227cdc76b600fc5b0b867404e2944ad3342ddba517365d1d629",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI23-M5/std_lrh-800300010.m3u8?hdnea=exp=1774404626~acl=/*~id=57807271262287948456148342200880~hmac=d282bbe507b28227cdc76b600fc5b0b867404e2944ad3342ddba517365d1d629",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI23-M5/std_lrh-800300010.m3u8?hdnea=exp=1774404626~acl=/*~id=57807271262287948456148342200880~hmac=d282bbe507b28227cdc76b600fc5b0b867404e2944ad3342ddba517365d1d629"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI23-M5/std_lrh-800300010.m3u8?hdnea=exp=1774405233~acl=/*~id=83600036280983183951072923666329~hmac=82b40225e236f78d3b1181516181c8cf5aed766be2aa3fa61dfecb06bbdbd31a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI23-M5/std_lrh-800300010.m3u8?hdnea=exp=1774405233~acl=/*~id=83600036280983183951072923666329~hmac=82b40225e236f78d3b1181516181c8cf5aed766be2aa3fa61dfecb06bbdbd31a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000091/DAI23-M5/std_lrh-800300010.m3u8?hdnea=exp=1774405233~acl=/*~id=83600036280983183951072923666329~hmac=82b40225e236f78d3b1181516181c8cf5aed766be2aa3fa61dfecb06bbdbd31a"
         },
         {
             "event_category": "Football",
@@ -35,13 +35,13 @@
             "event_name": "Upcoming - South Africa Tour of New Zealand 2026"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090506356,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016164/1773396920000153_SAWomensTourOfNZ_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090507217,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356111766887_EQ26_FIFA_WC_Turkiye_vs_Romania_promo_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - South Africa Women's Tour of New Zealand 2026"
+            "event_name": "Upcoming - Turkey vs Romania - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -55,11 +55,29 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090507227,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356908146887_EQ26_FIFA_WC_Poland_vs_Albania_promo_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Poland vs Albania - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090507229,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016400/177392986861513_EQ_Ukraine_vs_Sweden_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016531/1774356651854939_EQ26_FIFA_WC_Ukraine_vs_Sweden_promo_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Ukraine vs Sweden - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090506356,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016164/1773396920000153_SAWomensTourOfNZ_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - South Africa Women's Tour of New Zealand 2026"
         },
         {
             "event_category": "Football",
@@ -69,15 +87,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Czechia vs Republic of Ireland - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090507227,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356908146887_EQ26_FIFA_WC_Poland_vs_Albania_promo_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Poland vs Albania - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Football",
@@ -105,15 +114,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Slovakia vs Kosovo - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090507217,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016400/177392982245713_EQ_Turkiye_vs_Romania_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Turkey vs Romania - European Qualifiers for 2026 FIFA World Cup"
         },
         {
             "event_category": "Cricket",
