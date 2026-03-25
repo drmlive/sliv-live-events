@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:28:46 25-03-2026",
+    "last update time": "20:38:53 25-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090507376_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741596232086_IFC_Sreenidi_Deccan_FC_vs_Dempo_Sports_Club_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Sreenidi Deccan FC vs Dempo Sports Club - 25 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774493925~acl=/*~id=05193999358956421719010571509121~hmac=6f11ad3cf92dee34ae060f16102a9b2c3591d533a43cae433291e319f5d5b353",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774493925~acl=/*~id=05193999358956421719010571509121~hmac=6f11ad3cf92dee34ae060f16102a9b2c3591d533a43cae433291e319f5d5b353",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774493925~acl=/*~id=05193999358956421719010571509121~hmac=6f11ad3cf92dee34ae060f16102a9b2c3591d533a43cae433291e319f5d5b353"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "U23 Tri-Nation Championship 2026",
             "match_name": "Bhutan vs Tajikistan - 25 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774493925~acl=/*~id=05193999358956421719010571509121~hmac=6f11ad3cf92dee34ae060f16102a9b2c3591d533a43cae433291e319f5d5b353",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774493925~acl=/*~id=05193999358956421719010571509121~hmac=6f11ad3cf92dee34ae060f16102a9b2c3591d533a43cae433291e319f5d5b353",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774493925~acl=/*~id=05193999358956421719010571509121~hmac=6f11ad3cf92dee34ae060f16102a9b2c3591d533a43cae433291e319f5d5b353"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774494532~acl=/*~id=96109220169797182215443344137957~hmac=660314a3ff62ca76b5e671eb49311563591737f82b2c88972a6bf6fd66cc5ce5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774494532~acl=/*~id=96109220169797182215443344137957~hmac=660314a3ff62ca76b5e671eb49311563591737f82b2c88972a6bf6fd66cc5ce5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774494532~acl=/*~id=96109220169797182215443344137957~hmac=660314a3ff62ca76b5e671eb49311563591737f82b2c88972a6bf6fd66cc5ce5"
         },
         {
             "event_category": "Football",
@@ -120,4 +107,31 @@
             "event_name": "Upcoming - Wales vs Bosnia & Herzegovina - European Qualifiers for 2026 FIFA World Cup"
         },
         {
-            "event_category": "Footba
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507228,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016400/177392991475113_EQ_Slovakia_vs_Kosovo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Slovakia vs Kosovo - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090506356,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016164/1773396920000153_SAWomensTourOfNZ_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - South Africa Women's Tour of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
