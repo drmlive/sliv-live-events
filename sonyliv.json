@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:09:11 25-03-2026",
+    "last update time": "21:19:19 25-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "U23 Tri-Nation Championship 2026",
             "match_name": "Bhutan vs Tajikistan - 25 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774496351~acl=/*~id=12078120856233537152184306873246~hmac=94897180048cf7a12d41c6d7753e498565c4c14208d5266703a96023507fd43f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774496351~acl=/*~id=12078120856233537152184306873246~hmac=94897180048cf7a12d41c6d7753e498565c4c14208d5266703a96023507fd43f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774496351~acl=/*~id=12078120856233537152184306873246~hmac=94897180048cf7a12d41c6d7753e498565c4c14208d5266703a96023507fd43f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774496958~acl=/*~id=37961727898827907279347059140359~hmac=5a6cf6c85bba643bc88b22bd5ab62d9a7b222df99ddbbf3a88093ba7865dd37e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774496958~acl=/*~id=37961727898827907279347059140359~hmac=5a6cf6c85bba643bc88b22bd5ab62d9a7b222df99ddbbf3a88093ba7865dd37e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109050752503/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774496958~acl=/*~id=37961727898827907279347059140359~hmac=5a6cf6c85bba643bc88b22bd5ab62d9a7b222df99ddbbf3a88093ba7865dd37e"
         },
         {
             "event_category": "Football",
@@ -130,4 +130,8 @@
             "contentId": 1090504215,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG"
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
