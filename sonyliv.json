@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:30:07 26-03-2026",
+    "last update time": "15:40:14 26-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Rajasthan United FC vs Diamond Harbour FC - 26 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774562406~acl=/*~id=31864399417792782655843805915625~hmac=7adccc42e722a29e232f036b75b8a5f9c8726375b835d7cce22cea94e38420fd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774562406~acl=/*~id=31864399417792782655843805915625~hmac=7adccc42e722a29e232f036b75b8a5f9c8726375b835d7cce22cea94e38420fd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774562406~acl=/*~id=31864399417792782655843805915625~hmac=7adccc42e722a29e232f036b75b8a5f9c8726375b835d7cce22cea94e38420fd"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774563013~acl=/*~id=23604850157937692022077353886124~hmac=2723f3c51e068d4be9843e9d97fecab9d6afe2812337df813adbc918b288141c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774563013~acl=/*~id=23604850157937692022077353886124~hmac=2723f3c51e068d4be9843e9d97fecab9d6afe2812337df813adbc918b288141c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774563013~acl=/*~id=23604850157937692022077353886124~hmac=2723f3c51e068d4be9843e9d97fecab9d6afe2812337df813adbc918b288141c"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Hero Indian Open Day 1 - 26 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774562406~acl=/*~id=31864399417792782655843805915625~hmac=7adccc42e722a29e232f036b75b8a5f9c8726375b835d7cce22cea94e38420fd",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774562406~acl=/*~id=31864399417792782655843805915625~hmac=7adccc42e722a29e232f036b75b8a5f9c8726375b835d7cce22cea94e38420fd",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774562406~acl=/*~id=31864399417792782655843805915625~hmac=7adccc42e722a29e232f036b75b8a5f9c8726375b835d7cce22cea94e38420fd"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774563013~acl=/*~id=23604850157937692022077353886124~hmac=2723f3c51e068d4be9843e9d97fecab9d6afe2812337df813adbc918b288141c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774563013~acl=/*~id=23604850157937692022077353886124~hmac=2723f3c51e068d4be9843e9d97fecab9d6afe2812337df813adbc918b288141c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774563013~acl=/*~id=23604850157937692022077353886124~hmac=2723f3c51e068d4be9843e9d97fecab9d6afe2812337df813adbc918b288141c"
         },
         {
             "event_category": "Football",
@@ -37,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - European Qualifiers for 2026 FIFA World Cup"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090507595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
         },
         {
             "event_category": "Football",
@@ -73,15 +82,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Ukraine vs Sweden - European Qualifiers for 2026 FIFA World Cup"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090507595,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
         },
         {
             "event_category": "Cricket",
