@@ -1,33 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:09:56 27-03-2026",
+    "last update time": "04:20:02 27-03-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090507666_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774347355346257_EQ26_Playoffs_Semifinal_Czechia_vs_Republic_of_Ireland_24mar_landscape_thumb.jpg",
+            "contentId": "1090507670_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774042943880735_INT_Friendlies26_Croatia_vs_Colombia_20mar_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Czechia vs Republic of Ireland - Playoff Semi-finals - 27 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/EQ_Czech2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/EQ_Czech2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/EQ_Czech2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090507644_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345776128257_EQ26_Playoffs_Semifinal_Wales_vs_Bosnia_Herzegovina_24mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "European Qualifiers For 2026 FIFA World Cup",
-            "match_name": "Wales vs Bosnia-Herzegovina - Playoff Semi-finals - 27 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/EQ_Wales2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/EQ_Wales2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/EQ_Wales2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a"
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Croatia vs Colombia - 27 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/IntlFrd_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774608602~acl=/*~id=82421139639226912106782878326074~hmac=7702cd64d27f25e7be0cc9f457ead1ded79febbfa3778befa75440212d791382",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/IntlFrd_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774608602~acl=/*~id=82421139639226912106782878326074~hmac=7702cd64d27f25e7be0cc9f457ead1ded79febbfa3778befa75440212d791382",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/IntlFrd_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774608602~acl=/*~id=82421139639226912106782878326074~hmac=7702cd64d27f25e7be0cc9f457ead1ded79febbfa3778befa75440212d791382"
         },
         {
             "event_category": "Cricket",
