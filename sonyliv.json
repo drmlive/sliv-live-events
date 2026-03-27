@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:15:05 27-03-2026",
+    "last update time": "13:25:11 27-03-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Hero Indian Open Day 2 - 27 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774640705~acl=/*~id=76176705917479578822840506844633~hmac=abff08a42ab80e50fe41eaef3551ee0be17fae65b0323a9347cf2a39009e4ded",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774640705~acl=/*~id=76176705917479578822840506844633~hmac=abff08a42ab80e50fe41eaef3551ee0be17fae65b0323a9347cf2a39009e4ded",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774640705~acl=/*~id=76176705917479578822840506844633~hmac=abff08a42ab80e50fe41eaef3551ee0be17fae65b0323a9347cf2a39009e4ded"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774641310~acl=/*~id=99339950221825789297185887240870~hmac=b36d73c5950c6780daaa56005898b215cd86911792276e3250d5e8a1970b4a51",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774641310~acl=/*~id=99339950221825789297185887240870~hmac=b36d73c5950c6780daaa56005898b215cd86911792276e3250d5e8a1970b4a51",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774641310~acl=/*~id=99339950221825789297185887240870~hmac=b36d73c5950c6780daaa56005898b215cd86911792276e3250d5e8a1970b4a51"
         },
         {
             "event_category": "Football",
@@ -87,6 +87,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA International Friendlies - Spain vs Egypt"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507743,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016631/1774596561131234_FA_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup Quarterfinals"
         },
         {
             "event_category": "Cricket",
