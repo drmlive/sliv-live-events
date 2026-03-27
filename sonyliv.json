@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:24:00 27-03-2026",
+    "last update time": "11:34:06 27-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -11,6 +11,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507734,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016597/1774515431160108_International-Friendlies_England-vs-Uruguay_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA International Friendlies - England vs Uruguay"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507738,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016597/1774514204506108_International-Friendlies_Switzerland-vs-Germany_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA International Friendlies - Switzerland vs Germany"
         },
         {
             "event_category": "Cricket",
