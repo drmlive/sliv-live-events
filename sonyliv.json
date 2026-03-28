@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:44:33 28-03-2026",
+    "last update time": "21:54:41 28-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090507712_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774043102526959_INT_Friendlies26_Hungary_vs_Slovenia_20mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Hungary vs Slovenia - 28 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Hungary_2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774758280~acl=/*~id=40267532525212530410780528309008~hmac=055d8fb5d756656df8e3494676c7132d913a028d1a9fff03d56822a779aa7534",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Hungary_2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774758280~acl=/*~id=40267532525212530410780528309008~hmac=055d8fb5d756656df8e3494676c7132d913a028d1a9fff03d56822a779aa7534",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Hungary_2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774758280~acl=/*~id=40267532525212530410780528309008~hmac=055d8fb5d756656df8e3494676c7132d913a028d1a9fff03d56822a779aa7534"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090507713_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016472/1774043272289488_INT_Friendlies26_Scotland_vs_Japan_20mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Scotland vs Japan - 28 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/Scotland2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774758280~acl=/*~id=40267532525212530410780528309008~hmac=055d8fb5d756656df8e3494676c7132d913a028d1a9fff03d56822a779aa7534",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/Scotland2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774758280~acl=/*~id=40267532525212530410780528309008~hmac=055d8fb5d756656df8e3494676c7132d913a028d1a9fff03d56822a779aa7534",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/Scotland2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774758280~acl=/*~id=40267532525212530410780528309008~hmac=055d8fb5d756656df8e3494676c7132d913a028d1a9fff03d56822a779aa7534"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
