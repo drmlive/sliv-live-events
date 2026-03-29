@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:51:26 29-03-2026",
+    "last update time": "09:01:33 29-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "South Africa Women's Tour of New Zealand 2026",
             "match_name": "1st ODI - 29 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/NZvsSAwo2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774797686~acl=/*~id=86683551925784447670176642250696~hmac=9ffada604b9b4ab6f672438519c30eeafbfc8f7fe6d1f4d51fa409afac895edf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/NZvsSAwo2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774797686~acl=/*~id=86683551925784447670176642250696~hmac=9ffada604b9b4ab6f672438519c30eeafbfc8f7fe6d1f4d51fa409afac895edf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/NZvsSAwo2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774797686~acl=/*~id=86683551925784447670176642250696~hmac=9ffada604b9b4ab6f672438519c30eeafbfc8f7fe6d1f4d51fa409afac895edf"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/NZvsSAwo2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774798292~acl=/*~id=62960608593648901652036724003438~hmac=b915a7ae8896ad8dfa37d27b989dcf4574d0e05b566da349981ad0703b6101fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/NZvsSAwo2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774798292~acl=/*~id=62960608593648901652036724003438~hmac=b915a7ae8896ad8dfa37d27b989dcf4574d0e05b566da349981ad0703b6101fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/NZvsSAwo2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774798292~acl=/*~id=62960608593648901652036724003438~hmac=b915a7ae8896ad8dfa37d27b989dcf4574d0e05b566da349981ad0703b6101fd"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090507726_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435941241137_DP_World_Tour26_Hero_Indian_Open_day4_24mar_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Hero Indian Open Day 4 - 29 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DP_World2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774798292~acl=/*~id=62960608593648901652036724003438~hmac=b915a7ae8896ad8dfa37d27b989dcf4574d0e05b566da349981ad0703b6101fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DP_World2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774798292~acl=/*~id=62960608593648901652036724003438~hmac=b915a7ae8896ad8dfa37d27b989dcf4574d0e05b566da349981ad0703b6101fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DP_World2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774798292~acl=/*~id=62960608593648901652036724003438~hmac=b915a7ae8896ad8dfa37d27b989dcf4574d0e05b566da349981ad0703b6101fd"
         },
         {
             "event_category": "Cricket",
