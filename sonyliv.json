@@ -1,16 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:34:00 30-03-2026",
+    "last update time": "23:44:07 30-03-2026",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090507735,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016684/1774718996638774_International_Friendlies_Germany_vs_Ghana_28mar_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "isLive": true,
+            "contentId": "1090507843_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774107054134959_INT_Friendlies26_Germany_vs_Ghana_20mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA International Friendlies - Germany vs Ghana"
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Germany vs Ghana - 31 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/GermanyV3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774937647~acl=/*~id=10534519212444074460291335847743~hmac=c995b0077fff2743650593b302b2ca2fcf3098d2b4f2a28e43b8b0980c760f02",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/GermanyV3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774937647~acl=/*~id=10534519212444074460291335847743~hmac=c995b0077fff2743650593b302b2ca2fcf3098d2b4f2a28e43b8b0980c760f02",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/GermanyV3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774937647~acl=/*~id=10534519212444074460291335847743~hmac=c995b0077fff2743650593b302b2ca2fcf3098d2b4f2a28e43b8b0980c760f02"
         },
         {
             "event_category": "Football",
