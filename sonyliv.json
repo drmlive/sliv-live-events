@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:22:52 01-04-2026",
+    "last update time": "02:33:01 01-04-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090507972_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016646/1774623263469696_NZw_vs_SAw_2nd_ODI_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "South Africa Women's Tour of New Zealand 2026",
+            "match_name": "2nd ODI - 1 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/NZWomen_3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/NZWomen_3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/NZWomen_3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Bosnia-Herzegovina vs Italy - Playoff Final - 1 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/EQ_Bosni3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/EQ_Bosni3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/EQ_Bosni3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/EQ_Bosni3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/EQ_Bosni3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/EQ_Bosni3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864"
         },
         {
             "event_category": "Football",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Kosovo vs T\u00fcrkiye - Playoff Final - 1 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/EQ_Kosov3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/EQ_Kosov3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/EQ_Kosov3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/EQ_Kosov3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/EQ_Kosov3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/EQ_Kosov3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864"
         },
         {
             "event_category": "Football",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "European Qualifiers For 2026 FIFA World Cup",
             "match_name": "Czechia vs Denmark - Playoff Final - 1 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/EQ_Czech3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/EQ_Czech3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/EQ_Czech3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/EQ_Czech3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/EQ_Czech3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/EQ_Czech3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864"
         },
         {
             "event_category": "Football",
@@ -51,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Spain vs Egypt - 1 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Spain_vs3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Spain_vs3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Spain_vs3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Spain_vs3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Spain_vs3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Spain_vs3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864"
         },
         {
             "event_category": "Football",
@@ -64,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Netherlands vs Ecuador - 1 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Netherla3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Netherla3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Netherla3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775033570~acl=/*~id=14051159249528659844642506821086~hmac=96dbe2745af7ea1c7db8e4b2d90a647312dd6fe0c5b788476e82f05532134c28"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Netherla3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Netherla3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Netherla3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775034179~acl=/*~id=27559815466751441132501019322555~hmac=150075382bff714973ee9d81c4da035e3534587fb9a28c28dcf02415b5096864"
         },
         {
             "event_category": "Football",
