@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:52:38 01-04-2026",
+    "last update time": "18:02:44 01-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Rajasthan United FC vs Chanmari FC - 1 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IFL_Raja0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089357~acl=/*~id=96570518400271438123317947204608~hmac=56d6d98fc4c1a8d7b23a35cb07f1096b8904185be8c15269f167ae7b002bbcac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IFL_Raja0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089357~acl=/*~id=96570518400271438123317947204608~hmac=56d6d98fc4c1a8d7b23a35cb07f1096b8904185be8c15269f167ae7b002bbcac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IFL_Raja0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089357~acl=/*~id=96570518400271438123317947204608~hmac=56d6d98fc4c1a8d7b23a35cb07f1096b8904185be8c15269f167ae7b002bbcac"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IFL_Raja0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089964~acl=/*~id=41392444431436390216009761210192~hmac=b633a4f341c6b3dc08deb1b05af5b13bb9dbd6f06c69972ab5cd1bab8752b9ad",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IFL_Raja0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089964~acl=/*~id=41392444431436390216009761210192~hmac=b633a4f341c6b3dc08deb1b05af5b13bb9dbd6f06c69972ab5cd1bab8752b9ad",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IFL_Raja0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089964~acl=/*~id=41392444431436390216009761210192~hmac=b633a4f341c6b3dc08deb1b05af5b13bb9dbd6f06c69972ab5cd1bab8752b9ad"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090508037_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016576/1774436806390422_IFC_Sreenidi_Deccan_FC_vs_Shillong_Lajong_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Indian Football League 2026",
+            "match_name": "Sreenidi Deccan FC vs Shillong Lajong FC - 1 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089964~acl=/*~id=41392444431436390216009761210192~hmac=b633a4f341c6b3dc08deb1b05af5b13bb9dbd6f06c69972ab5cd1bab8752b9ad",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089964~acl=/*~id=41392444431436390216009761210192~hmac=b633a4f341c6b3dc08deb1b05af5b13bb9dbd6f06c69972ab5cd1bab8752b9ad",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775089964~acl=/*~id=41392444431436390216009761210192~hmac=b633a4f341c6b3dc08deb1b05af5b13bb9dbd6f06c69972ab5cd1bab8752b9ad"
         },
         {
             "event_category": "Football",
@@ -53,15 +66,6 @@
             "event_name": "Upcoming - Emirates FA Cup - Chelsea vs Port Vale"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090507962,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Southampton vs Arsenal"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090507596,
@@ -69,6 +73,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Indian Cricket Blockbusters"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507962,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Southampton vs Arsenal"
         },
         {
             "event_category": "Football",
