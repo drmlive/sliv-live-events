@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:55:10 01-04-2026",
+    "last update time": "22:05:16 01-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,15 +40,6 @@
             "event_name": "Upcoming - Emirates FA Cup - Chelsea vs Port Vale"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090507962,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Southampton vs Arsenal"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090507596,
@@ -56,6 +47,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Indian Cricket Blockbusters"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507962,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Southampton vs Arsenal"
         },
         {
             "event_category": "Football",
