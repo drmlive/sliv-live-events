@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:03:24 01-04-2026",
+    "last update time": "19:13:31 01-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Sreenidi Deccan FC vs Shillong Lajong FC - 1 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775093604~acl=/*~id=21289406195250505359689448538750~hmac=a0b0861e8bf1bbfee5ce584e963bef4fd903b66b1b2a706a82a6c7d848fc6c1b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775093604~acl=/*~id=21289406195250505359689448538750~hmac=a0b0861e8bf1bbfee5ce584e963bef4fd903b66b1b2a706a82a6c7d848fc6c1b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775093604~acl=/*~id=21289406195250505359689448538750~hmac=a0b0861e8bf1bbfee5ce584e963bef4fd903b66b1b2a706a82a6c7d848fc6c1b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090507743,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774854754685308_FA_Cup_26_QF_Manchester_City_vs_Liverpool_Landscape_Thumbnail_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup Quarterfinals"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775094211~acl=/*~id=35108446907263852816025830338441~hmac=85f6695a57703f4d5ff3559e6536ca6d286f995767b34d32933fbdca75f6a393",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775094211~acl=/*~id=35108446907263852816025830338441~hmac=85f6695a57703f4d5ff3559e6536ca6d286f995767b34d32933fbdca75f6a393",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/IFL_Sree0104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775094211~acl=/*~id=35108446907263852816025830338441~hmac=85f6695a57703f4d5ff3559e6536ca6d286f995767b34d32933fbdca75f6a393"
         },
         {
             "event_category": "Cricket",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507743,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774854754685308_FA_Cup_26_QF_Manchester_City_vs_Liverpool_Landscape_Thumbnail_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup Quarterfinals"
         },
         {
             "event_category": "Football",
@@ -53,15 +53,6 @@
             "event_name": "Upcoming - Emirates FA Cup - Chelsea vs Port Vale"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090507962,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Southampton vs Arsenal"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090507596,
@@ -69,6 +60,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Indian Cricket Blockbusters"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507962,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Emirates FA Cup - Southampton vs Arsenal"
         },
         {
             "event_category": "Football",
