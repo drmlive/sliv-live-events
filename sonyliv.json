@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:37:51 06-04-2026",
+    "last update time": "19:47:58 06-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Real Kashmir FC vs Chanmari FC - 6 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/RealKash0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775527671~acl=/*~id=57680587666486102881274420549890~hmac=f728c9a987b78efd268bc6f59c83fe3d412f532866db1ffb29cf9af76b13aa3b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/RealKash0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775527671~acl=/*~id=57680587666486102881274420549890~hmac=f728c9a987b78efd268bc6f59c83fe3d412f532866db1ffb29cf9af76b13aa3b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/RealKash0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775527671~acl=/*~id=57680587666486102881274420549890~hmac=f728c9a987b78efd268bc6f59c83fe3d412f532866db1ffb29cf9af76b13aa3b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/RealKash0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775528278~acl=/*~id=92987908421551853161733084902765~hmac=9bc6deb8f4e19e36bc1ccefb2238c52cd2bf0d97cf4b1a2b8ad87714cc38689a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/RealKash0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775528278~acl=/*~id=92987908421551853161733084902765~hmac=9bc6deb8f4e19e36bc1ccefb2238c52cd2bf0d97cf4b1a2b8ad87714cc38689a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/RealKash0604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775528278~acl=/*~id=92987908421551853161733084902765~hmac=9bc6deb8f4e19e36bc1ccefb2238c52cd2bf0d97cf4b1a2b8ad87714cc38689a"
         },
         {
             "event_category": "Football",
@@ -101,7 +101,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090511814,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016858/1775159768039713_PROMO_UEL_QUARTERB_FINALS_LEG_01_PORTO_V_NOTTM_FOREST_DATED_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016966/177547907307762_UEL_26_Quarter-Final_Leg-1_Porto-vs-Nottingham-Forest_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Porto vs Nottingham Forest - UEFA Europa League "
@@ -110,7 +110,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090511815,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016858/1775159778084713_PROMO_UEL_QUARTERB_FINALS_LEG_01_BOLOGNA_V_ASTON_VILLA_DATED_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016966/177547960721862_UEL_26_Quarter-Final_Leg-1_Bologna-vs-Aston-Villa_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bologna vs Aston Villa - UEFA Europa League "
@@ -130,4 +130,17 @@
             "contentId": 1090511813,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016858/1775159762344713_PROMO_UEL_QUARTERB_FINALS_LEG_01_SC_FREIBURG_V_CELTA_VIGO_DATED_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "aud
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Freiburg vs Celta - UEFA Europa League "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
