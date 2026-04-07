@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:20:29 07-04-2026",
+    "last update time": "18:30:35 07-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Dempo Sports Club vs Shillong Lajong FC - 7 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775609429~acl=/*~id=64099105311755409057397763611001~hmac=9377cff383bb98a8f840d835069e65308b0acdbddcd8d589cbfa15ade217c971",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775609429~acl=/*~id=64099105311755409057397763611001~hmac=9377cff383bb98a8f840d835069e65308b0acdbddcd8d589cbfa15ade217c971",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775609429~acl=/*~id=64099105311755409057397763611001~hmac=9377cff383bb98a8f840d835069e65308b0acdbddcd8d589cbfa15ade217c971"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775610035~acl=/*~id=85285871842042050387753497546071~hmac=0b539a38797b6c1bbb6bcb50435fa2b86f3dcd04a8d397125b4b577abfcc946e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775610035~acl=/*~id=85285871842042050387753497546071~hmac=0b539a38797b6c1bbb6bcb50435fa2b86f3dcd04a8d397125b4b577abfcc946e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775610035~acl=/*~id=85285871842042050387753497546071~hmac=0b539a38797b6c1bbb6bcb50435fa2b86f3dcd04a8d397125b4b577abfcc946e"
         },
         {
             "event_category": "Football",
@@ -130,17 +130,4 @@
             "contentId": 1090511813,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016858/1775159762344713_PROMO_UEL_QUARTERB_FINALS_LEG_01_SC_FREIBURG_V_CELTA_VIGO_DATED_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Freiburg vs Celta - UEFA Europa League "
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090504215,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        }
-    ]
-}
+       
