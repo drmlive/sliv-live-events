@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:31:46 07-04-2026",
+    "last update time": "20:41:51 07-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090521057_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440984292617_IFC_Dempo_Sports_Club_vs_Shillong_Lajong_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Dempo Sports Club vs Shillong Lajong FC - 7 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775617305~acl=/*~id=78680744819512815463666651947298~hmac=3a8a64f5b850bdfcc01b65910ad7fcc5e40792ca2687f00014c253f420fbad07",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775617305~acl=/*~id=78680744819512815463666651947298~hmac=3a8a64f5b850bdfcc01b65910ad7fcc5e40792ca2687f00014c253f420fbad07",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775617305~acl=/*~id=78680744819512815463666651947298~hmac=3a8a64f5b850bdfcc01b65910ad7fcc5e40792ca2687f00014c253f420fbad07"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -130,4 +117,17 @@
             "contentId": 1090511813,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016858/1775159762344713_PROMO_UEL_QUARTERB_FINALS_LEG_01_SC_FREIBURG_V_CELTA_VIGO_DATED_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audi
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Freiburg vs Celta - UEFA Europa League "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
