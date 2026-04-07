@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:10:23 07-04-2026",
+    "last update time": "18:20:29 07-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090521056_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440804721616_IFC_Rajasthan_United_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Rajasthan United FC vs Gokulam Kerala FC - 7 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Rajastha0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775608822~acl=/*~id=96230623606509929578985834778909~hmac=cf3cdfbf5000920b43591ae84b1ad38208ba30e825e44433dd5e1d8494bb037f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Rajastha0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775608822~acl=/*~id=96230623606509929578985834778909~hmac=cf3cdfbf5000920b43591ae84b1ad38208ba30e825e44433dd5e1d8494bb037f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Rajastha0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775608822~acl=/*~id=96230623606509929578985834778909~hmac=cf3cdfbf5000920b43591ae84b1ad38208ba30e825e44433dd5e1d8494bb037f"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Dempo Sports Club vs Shillong Lajong FC - 7 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775608822~acl=/*~id=96230623606509929578985834778909~hmac=cf3cdfbf5000920b43591ae84b1ad38208ba30e825e44433dd5e1d8494bb037f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775608822~acl=/*~id=96230623606509929578985834778909~hmac=cf3cdfbf5000920b43591ae84b1ad38208ba30e825e44433dd5e1d8494bb037f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775608822~acl=/*~id=96230623606509929578985834778909~hmac=cf3cdfbf5000920b43591ae84b1ad38208ba30e825e44433dd5e1d8494bb037f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775609429~acl=/*~id=64099105311755409057397763611001~hmac=9377cff383bb98a8f840d835069e65308b0acdbddcd8d589cbfa15ade217c971",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775609429~acl=/*~id=64099105311755409057397763611001~hmac=9377cff383bb98a8f840d835069e65308b0acdbddcd8d589cbfa15ade217c971",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775609429~acl=/*~id=64099105311755409057397763611001~hmac=9377cff383bb98a8f840d835069e65308b0acdbddcd8d589cbfa15ade217c971"
         },
         {
             "event_category": "Football",
@@ -121,4 +108,39 @@
         },
         {
             "event_category": "Football",
-            "isLiv
+            "isLive": false,
+            "contentId": 1090511810,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284946043532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090511812,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016858/1775159772991713_PROMO_UEL_QUARTERB_FINALS_LEG_01_BRAGA_V_REAL_BETIS_DATED_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Braga vs Real Betis - UEFA Europa League "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090511813,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016858/1775159762344713_PROMO_UEL_QUARTERB_FINALS_LEG_01_SC_FREIBURG_V_CELTA_VIGO_DATED_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Freiburg vs Celta - UEFA Europa League "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
