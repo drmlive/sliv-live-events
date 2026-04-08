@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:36:45 08-04-2026",
+    "last update time": "21:46:51 08-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525163_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016836/1774841627666488_UEL26_QuarterFinal_Leg1_Braga_vs_Real_Betis_30mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2025-26",
+            "match_name": "Braga vs Real Betis - Quarter-Final - Leg 1 - 8 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Braga_vs0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775708211~acl=/*~id=05304729849821239816860059939938~hmac=553bcbddfd0a578847caba576146ca169d8f8bbd07662d17c0085aa0f1a22d26",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Braga_vs0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775708211~acl=/*~id=05304729849821239816860059939938~hmac=553bcbddfd0a578847caba576146ca169d8f8bbd07662d17c0085aa0f1a22d26",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Braga_vs0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775708211~acl=/*~id=05304729849821239816860059939938~hmac=553bcbddfd0a578847caba576146ca169d8f8bbd07662d17c0085aa0f1a22d26"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -74,15 +87,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090511812,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016858/1775159772991713_PROMO_UEL_QUARTERB_FINALS_LEG_01_BRAGA_V_REAL_BETIS_DATED_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Braga vs Real Betis - UEFA Europa League "
         },
         {
             "event_category": "Football",
