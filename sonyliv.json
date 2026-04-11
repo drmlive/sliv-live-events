@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:09:57 11-04-2026",
+    "last update time": "21:20:03 11-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525518_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774592255713658_BLIGA_26_MD29_St-Pauli-vs-Bayern_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "St. Pauli vs Bayern Munich - MD 29 - 11 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775965803~acl=/*~id=86409289357670810785524954630248~hmac=7758855b47a73254d3633e56df2377b97354d9bd80ede918a9ceadb8506362b6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775965803~acl=/*~id=86409289357670810785524954630248~hmac=7758855b47a73254d3633e56df2377b97354d9bd80ede918a9ceadb8506362b6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775965803~acl=/*~id=86409289357670810785524954630248~hmac=7758855b47a73254d3633e56df2377b97354d9bd80ede918a9ceadb8506362b6"
+        },
         {
             "event_category": "Football",
             "isLive": false,
