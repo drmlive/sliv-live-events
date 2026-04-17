@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:57:17 17-04-2026",
+    "last update time": "16:07:24 17-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Namdhari FC vs Chanmari FC - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776464837~acl=/*~id=24196418141577569551115890701561~hmac=eb1d1b2919858495f499e4e0016c5b7d110670e7b7d8e7f856b52c4021140372",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776464837~acl=/*~id=24196418141577569551115890701561~hmac=eb1d1b2919858495f499e4e0016c5b7d110670e7b7d8e7f856b52c4021140372",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776464837~acl=/*~id=24196418141577569551115890701561~hmac=eb1d1b2919858495f499e4e0016c5b7d110670e7b7d8e7f856b52c4021140372"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090507595,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776465444~acl=/*~id=93761560421784745948149684094353~hmac=7f3fa0aa8f06a7411c550c95c670400e0b059b660fb961948fd13757d9f14cfd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776465444~acl=/*~id=93761560421784745948149684094353~hmac=7f3fa0aa8f06a7411c550c95c670400e0b059b660fb961948fd13757d9f14cfd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776465444~acl=/*~id=93761560421784745948149684094353~hmac=7f3fa0aa8f06a7411c550c95c670400e0b059b660fb961948fd13757d9f14cfd"
         },
         {
             "event_category": "Football",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup Semifinals"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090507595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
         },
         {
             "event_category": "Cricket",
