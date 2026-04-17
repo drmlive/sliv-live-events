@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:30:42 17-04-2026",
+    "last update time": "21:40:48 17-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090528112_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017315/1776430199518201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Real Madrid vs PSG - Semi-Final - 17 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776485448~acl=/*~id=98840965248269279105302531673780~hmac=bddc2b96b0df04e26dcf479bf062cb96c07ae2d48fbfbf04d50e8817775c6cd5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776485448~acl=/*~id=98840965248269279105302531673780~hmac=bddc2b96b0df04e26dcf479bf062cb96c07ae2d48fbfbf04d50e8817775c6cd5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776485448~acl=/*~id=98840965248269279105302531673780~hmac=bddc2b96b0df04e26dcf479bf062cb96c07ae2d48fbfbf04d50e8817775c6cd5"
+        },
         {
             "event_category": "Football",
             "isLive": false,
