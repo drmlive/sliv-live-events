@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:36:32 20-04-2026",
+    "last update time": "21:46:40 20-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090528513_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017362/1776620483740889_UYL26_Final_club_brugge_vs_real_union_19april_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2025-26",
+            "match_name": "Club Brugge vs Real Madrid - Final - 20 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UYL_Brug2004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776745000~acl=/*~id=95722767486339353313677911155803~hmac=3eebc7b0175dce126d57df358d96b240fbd009e63523f000b8fbd23447869df3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UYL_Brug2004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776745000~acl=/*~id=95722767486339353313677911155803~hmac=3eebc7b0175dce126d57df358d96b240fbd009e63523f000b8fbd23447869df3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UYL_Brug2004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776745000~acl=/*~id=95722767486339353313677911155803~hmac=3eebc7b0175dce126d57df358d96b240fbd009e63523f000b8fbd23447869df3"
+        },
         {
             "event_category": "Football",
             "isLive": false,
