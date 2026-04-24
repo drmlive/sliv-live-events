@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:23:22 24-04-2026",
+    "last update time": "09:33:29 24-04-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090528739_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775436985667181_DP_World_Tour_Volvo_China_Open_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Volvo China Open - Day 2 - 24 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777046609~acl=/*~id=35387500045342447608463517459121~hmac=9bfeccf924e40096f64a625166275e0491f42cd943384ec0d96ab0f6d4c294ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777046609~acl=/*~id=35387500045342447608463517459121~hmac=9bfeccf924e40096f64a625166275e0491f42cd943384ec0d96ab0f6d4c294ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777046609~acl=/*~id=35387500045342447608463517459121~hmac=9bfeccf924e40096f64a625166275e0491f42cd943384ec0d96ab0f6d4c294ff"
+        },
         {
             "event_category": "Football",
             "isLive": false,
