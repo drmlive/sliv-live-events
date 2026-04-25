@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:18:41 25-04-2026",
+    "last update time": "12:28:48 25-04-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Volvo China Open - Day 3 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777143528~acl=/*~id=43457700711103064140880712987197~hmac=b06af2d732256947cc4bd22e1780d4d4d3c14f97acfb4309e4fe51121560d1f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777143528~acl=/*~id=43457700711103064140880712987197~hmac=b06af2d732256947cc4bd22e1780d4d4d3c14f97acfb4309e4fe51121560d1f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DP_World2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777143528~acl=/*~id=43457700711103064140880712987197~hmac=b06af2d732256947cc4bd22e1780d4d4d3c14f97acfb4309e4fe51121560d1f1"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2026",
             "match_name": "Singapore Open - Day 3 - 25 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777142921~acl=/*~id=29909827165805890249809262988510~hmac=3a6ecb6bd06e5064356707f27a120966671d85e61cb0198d203e15ff2d6e8e7f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777143528~acl=/*~id=43457700711103064140880712987197~hmac=b06af2d732256947cc4bd22e1780d4d4d3c14f97acfb4309e4fe51121560d1f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777143528~acl=/*~id=43457700711103064140880712987197~hmac=b06af2d732256947cc4bd22e1780d4d4d3c14f97acfb4309e4fe51121560d1f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/ASIAN_TO2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777143528~acl=/*~id=43457700711103064140880712987197~hmac=b06af2d732256947cc4bd22e1780d4d4d3c14f97acfb4309e4fe51121560d1f1"
         },
         {
             "event_category": "Football",
@@ -64,6 +64,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529106,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017482/1777096808953575_UCL-SF-Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico vs Arsenal - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
