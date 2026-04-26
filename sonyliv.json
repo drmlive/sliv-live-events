@@ -1,72 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:00:01 26-04-2026",
+    "last update time": "09:10:22 26-04-2026",
     "matches": [
         {
-            "event_category": "Fight Sports",
+            "event_category": "Golf",
             "isLive": true,
-            "contentId": "1090529074_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017414/1776846533619274_UFC_Fight_Night_Sterling_vs_Zalal_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090529082_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775437003417181_DP_World_Tour_Volvo_China_Open_Day4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Sterling vs Zalal",
-            "match_name": "UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090529074_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017414/1776846533619274_UFC_Fight_Night_Sterling_vs_Zalal_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Sterling vs Zalal",
-            "match_name": "UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090529074_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017414/1776846533619274_UFC_Fight_Night_Sterling_vs_Zalal_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Sterling vs Zalal",
-            "match_name": "UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090529074_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017414/1776846533619274_UFC_Fight_Night_Sterling_vs_Zalal_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Sterling vs Zalal",
-            "match_name": "UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090529074_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017414/1776846533619274_UFC_Fight_Night_Sterling_vs_Zalal_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Sterling vs Zalal",
-            "match_name": "UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UFC_Figh2504/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb"
+            "event_name": "DP World Tour",
+            "match_name": "Volvo China Open - Day 4 - 26 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777218021~acl=/*~id=08330943404568032178563167839322~hmac=efe1394f691ecdb9686301cb51f7ee4ef437cb6a298eef5275cdab651e745192",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777218021~acl=/*~id=08330943404568032178563167839322~hmac=efe1394f691ecdb9686301cb51f7ee4ef437cb6a298eef5275cdab651e745192",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777218021~acl=/*~id=08330943404568032178563167839322~hmac=efe1394f691ecdb9686301cb51f7ee4ef437cb6a298eef5275cdab651e745192"
         },
         {
             "event_category": "Golf",
@@ -77,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2026",
             "match_name": "Singapore Open - Day 4 - 26 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777217399~acl=/*~id=25111419732783617328577082174438~hmac=952f7ddeea5f25fa40f9fc12978a9b29a5e6a6769b4cdeb26790966406f66edb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777218021~acl=/*~id=08330943404568032178563167839322~hmac=efe1394f691ecdb9686301cb51f7ee4ef437cb6a298eef5275cdab651e745192",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777218021~acl=/*~id=08330943404568032178563167839322~hmac=efe1394f691ecdb9686301cb51f7ee4ef437cb6a298eef5275cdab651e745192",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777218021~acl=/*~id=08330943404568032178563167839322~hmac=efe1394f691ecdb9686301cb51f7ee4ef437cb6a298eef5275cdab651e745192"
         },
         {
             "event_category": "Football",
