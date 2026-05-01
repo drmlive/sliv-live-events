@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:50:59 01-05-2026",
+    "last update time": "10:01:05 01-05-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2026",
             "match_name": "GS Caltex Maekyung Open - Day 2 - 1 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianTou0105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777652458~acl=/*~id=64129479584222306268704732064453~hmac=ce3871826ffd37d763852bdde445921a370e337abd69318332a2d4869b26c7b5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianTou0105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777652458~acl=/*~id=64129479584222306268704732064453~hmac=ce3871826ffd37d763852bdde445921a370e337abd69318332a2d4869b26c7b5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianTou0105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777652458~acl=/*~id=64129479584222306268704732064453~hmac=ce3871826ffd37d763852bdde445921a370e337abd69318332a2d4869b26c7b5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianTou0105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777653065~acl=/*~id=72905984982457540373979077562209~hmac=438be406a4882204e5be2e1233e07709d7570cdfec7decf1432b333f87faacd2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianTou0105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777653065~acl=/*~id=72905984982457540373979077562209~hmac=438be406a4882204e5be2e1233e07709d7570cdfec7decf1432b333f87faacd2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianTou0105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777653065~acl=/*~id=72905984982457540373979077562209~hmac=438be406a4882204e5be2e1233e07709d7570cdfec7decf1432b333f87faacd2"
         },
         {
             "event_category": "Football",
@@ -37,15 +37,6 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090507596,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016548/1774412151901506_Comp-promo-1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Indian Cricket Blockbusters"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090504215,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -60,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Women's Tour of England 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090529515,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017631/177755777033792_GOONJEGA_INDIA_AKSHAY_50SEC_HOR_DATED_APP_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
         }
     ]
 }
