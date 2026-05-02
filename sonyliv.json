@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:11:27 02-05-2026",
+    "last update time": "18:21:40 02-05-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090529611_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777366525366475_Bundesliga_2025-26_MD-32_Bayern-Munich-vs-Heidenheim__landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Bayern Munich vs Heidenheim - MD 32 - 2 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Della Maddalena vs Prates",
             "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
         },
         {
             "event_category": "Fight Sports",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Della Maddalena vs Prates",
             "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
         },
         {
             "event_category": "Fight Sports",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Della Maddalena vs Prates",
             "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
         },
         {
             "event_category": "Fight Sports",
@@ -51,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Della Maddalena vs Prates",
             "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
         },
         {
             "event_category": "Fight Sports",
@@ -64,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Della Maddalena vs Prates",
             "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
         },
         {
             "event_category": "Football",
@@ -77,9 +90,48 @@
             "audioLanguageName": "ENG",
             "event_name": "Star Cement Indian Football League 2025-26",
             "match_name": "Shillong Lajong FC vs Chanmari FC - 2 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/IFL_Shil0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/IFL_Shil0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/IFL_Shil0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/IFL_Shil0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/IFL_Shil0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/IFL_Shil0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090529609_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777368856484475_Bundesliga_2025-26_MD-32_Werder-Bremen-vs-Augsburg_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Werder Bremen vs FC Augsburg - MD 32 - 2 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090529608_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369269029475_Bundesliga_2025-26_MD-32_Union-Berlin-vs-koln_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Union Berlin vs FC Koln - MD 32 - 2 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090529607_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369684561475_Bundesliga_2025-26_MD-32_Hoffenheim-vs-VfB-Stuttgart_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Hoffenheim vs VfB Stuttgart - MD 32 - 2 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
         },
         {
             "event_category": "Racing",
@@ -90,9 +142,9 @@
             "audioLanguageName": "ENG",
             "event_name": " ABB FIA Formula E World Championship",
             "match_name": " Round 7 - Berlin E - Prix - Final Race - 2 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/R7_Berli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/R7_Berli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/R7_Berli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/R7_Berli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/R7_Berli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/R7_Berli0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
         },
         {
             "event_category": "Golf",
@@ -103,18 +155,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": " Turkish Airlines Open - Day 3 - 2 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/TurkishA0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/TurkishA0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/TurkishA0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777768885~acl=/*~id=09559581757057623501198824809390~hmac=ff346c18b83434a03d72ea3e38d643baad87dabf16d30c2617f7c5a7147182ae"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090529546,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017646/1777563220956683_UCL_Semi_Final_Leg2_Bayern_vs_PSG_promo_landscape_thumb_SP_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Bayern vs PSG - UEFA Champions League 2025-26"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/TurkishA0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/TurkishA0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/TurkishA0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777769494~acl=/*~id=98852128167733570389328417121201~hmac=d219e28d6368d1586015fd944717880d08a5060ea5466db8bb09b7f91fd64c2f"
         },
         {
             "event_category": "Football",
@@ -124,6 +167,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Atletico - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529546,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017646/1777563220956683_UCL_Semi_Final_Leg2_Bayern_vs_PSG_promo_landscape_thumb_SP_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern vs PSG - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
