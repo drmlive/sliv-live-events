@@ -1,8 +1,73 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:59:43 02-05-2026",
+    "last update time": "16:09:50 02-05-2026",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090529626_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Della Maddalena vs Prates",
+            "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090529626_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Della Maddalena vs Prates",
+            "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090529626_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Della Maddalena vs Prates",
+            "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090529626_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Della Maddalena vs Prates",
+            "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090529626_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Della Maddalena vs Prates",
+            "match_name": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76"
+        },
         {
             "event_category": "Racing",
             "isLive": true,
@@ -12,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "Round 7 - Berlin E - Prix - Qualifying Race - 2 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777760983~acl=/*~id=44652697602360266140787705778603~hmac=9d7c496bfa330c6c01ed33962586248131a20519588c37d5ed478842c44e7469",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777760983~acl=/*~id=44652697602360266140787705778603~hmac=9d7c496bfa330c6c01ed33962586248131a20519588c37d5ed478842c44e7469",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777760983~acl=/*~id=44652697602360266140787705778603~hmac=9d7c496bfa330c6c01ed33962586248131a20519588c37d5ed478842c44e7469"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777761589~acl=/*~id=63523764189966480519682554829905~hmac=ee0a80d4d1b78ea981ff09a68fd8f5c13b4310c0e52f61ae2f93e1ca0ab17b76"
         },
         {
             "event_category": "Football",
