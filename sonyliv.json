@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:47:50 06-05-2026",
+    "last update time": "04:57:55 06-05-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -29,6 +29,33 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Aston Villa vs Nottingham Forest - UEFA Europa League "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529546,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017646/1777563220956683_UCL_Semi_Final_Leg2_Bayern_vs_PSG_promo_landscape_thumb_SP_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern vs PSG - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090529743,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017739/1777965901745108_UEL26_SF_leg2_Freiburg_vs_Braga_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Freiburg vs  Braga - UEFA Europa League "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
         }
     ]
 }
