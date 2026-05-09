@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:57:59 09-05-2026",
+    "last update time": "07:08:05 09-05-2026",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090530007_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146608990329_ArcheryWC2026_Shanghai_Compound_Team_finals_7may_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai Archery World Cup Final 2026",
+            "match_name": "Compound Team Finals - 9 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Hyundai_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778333885~acl=/*~id=02136794345762223278848554557731~hmac=52fe87b83151f85e760cefa9edea1ff935e6494b79d48a0b2253f0fa7891bec0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Hyundai_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778333885~acl=/*~id=02136794345762223278848554557731~hmac=52fe87b83151f85e760cefa9edea1ff935e6494b79d48a0b2253f0fa7891bec0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Hyundai_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778333885~acl=/*~id=02136794345762223278848554557731~hmac=52fe87b83151f85e760cefa9edea1ff935e6494b79d48a0b2253f0fa7891bec0"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
