@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:22:11 10-05-2026",
+    "last update time": "15:32:17 10-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Women's Tour of England 2026",
             "match_name": "1st ODI - 10 May 2026  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778449930~acl=/*~id=79763274976069991401925049222183~hmac=a3b2ee50eb58fb6df1d46a8ea118103f8036c5a0e5c8f0b9b41f5f0174a58960",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778449930~acl=/*~id=79763274976069991401925049222183~hmac=a3b2ee50eb58fb6df1d46a8ea118103f8036c5a0e5c8f0b9b41f5f0174a58960",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778449930~acl=/*~id=79763274976069991401925049222183~hmac=a3b2ee50eb58fb6df1d46a8ea118103f8036c5a0e5c8f0b9b41f5f0174a58960"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778450537~acl=/*~id=79994052025492239559160461969734~hmac=e5570f546a95c5499522fe096ec02413acaa0a947756b6c05c334c3d78cb93a8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778450537~acl=/*~id=79994052025492239559160461969734~hmac=e5570f546a95c5499522fe096ec02413acaa0a947756b6c05c334c3d78cb93a8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778450537~acl=/*~id=79994052025492239559160461969734~hmac=e5570f546a95c5499522fe096ec02413acaa0a947756b6c05c334c3d78cb93a8"
         },
         {
             "event_category": "Tennis",
@@ -33,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Women's Tour of England 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090530094,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017903/1778396196787448_FACUP26_FINAL_Chelsea_vs_man_city_10MAY_DATED_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup Finals"
         },
         {
             "event_category": "Cricket",
