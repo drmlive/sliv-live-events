@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:47:36 19-05-2026",
+    "last update time": "18:57:42 19-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Star Cement Indian Football League 2025-26",
             "match_name": "Rajasthan United vs Chanmari FC - 19 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Raja1905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779239855~acl=/*~id=02601647417272651666955563689760~hmac=049f3ff27e8e26545cae0dc0cf0f2307eb633c359f89be143722f39bad3a4670",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Raja1905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779239855~acl=/*~id=02601647417272651666955563689760~hmac=049f3ff27e8e26545cae0dc0cf0f2307eb633c359f89be143722f39bad3a4670",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Raja1905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779239855~acl=/*~id=02601647417272651666955563689760~hmac=049f3ff27e8e26545cae0dc0cf0f2307eb633c359f89be143722f39bad3a4670"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Raja1905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779240462~acl=/*~id=32617402311359321556653918690331~hmac=72ac08812a680529feaed3705787ff4c7d664cf94c17a91f37689258d2c5be59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Raja1905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779240462~acl=/*~id=32617402311359321556653918690331~hmac=72ac08812a680529feaed3705787ff4c7d664cf94c17a91f37689258d2c5be59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Raja1905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779240462~acl=/*~id=32617402311359321556653918690331~hmac=72ac08812a680529feaed3705787ff4c7d664cf94c17a91f37689258d2c5be59"
         },
         {
             "event_category": "Tennis",
@@ -42,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Frieburg vs Aston Villa - UEFA Europa League "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090530670,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018138/1779196622363185_UCL26_final_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Arsenal - Final - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
