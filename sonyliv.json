@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:21:11 20-05-2026",
+    "last update time": "01:31:15 20-05-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -38,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Frieburg vs Aston Villa - UEFA Europa League "
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090530689,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018145/1779212535864117_Puja_Tomar_RTUFC_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Shi Ming vs Puja Tomar - Road To UFC"
         },
         {
             "event_category": "Football",
