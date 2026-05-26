@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:24:32 26-05-2026",
+    "last update time": "22:34:38 26-05-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
             "match_name": "Alexander Bublik vs Jan-Lennard Struff - Men's Singles - 26 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_C14_D2605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779857672~acl=/*~id=66809639296619036700897271466405~hmac=c85ffbb90610a8ac937b7cb95c8f018e240c90507d584386b752b6c623988da0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_C14_D2605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779857672~acl=/*~id=66809639296619036700897271466405~hmac=c85ffbb90610a8ac937b7cb95c8f018e240c90507d584386b752b6c623988da0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_C14_D2605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779857672~acl=/*~id=66809639296619036700897271466405~hmac=c85ffbb90610a8ac937b7cb95c8f018e240c90507d584386b752b6c623988da0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_C14_D2605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779858277~acl=/*~id=27490463353930264546280556439387~hmac=a5501768347a0d098e61db1a750b06b9c2897aad79c2f9139dc9503292247812",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_C14_D2605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779858277~acl=/*~id=27490463353930264546280556439387~hmac=a5501768347a0d098e61db1a750b06b9c2897aad79c2f9139dc9503292247812",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_C14_D2605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779858277~acl=/*~id=27490463353930264546280556439387~hmac=a5501768347a0d098e61db1a750b06b9c2897aad79c2f9139dc9503292247812"
         },
         {
             "event_category": "Cricket",
@@ -35,6 +35,15 @@
             "event_name": "Upcoming - PSG vs Arsenal - Prime Time - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090530689,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018453/1779812410436829_RTUFC_Ming_Shi_vs_Puja_Tomar_26may_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Shi Ming vs Puja Tomar - Road To UFC"
+        },
+        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090530670,
@@ -42,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Arsenal - Final - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090530689,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018145/1779212535864117_Puja_Tomar_RTUFC_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Shi Ming vs Puja Tomar - Road To UFC"
         },
         {
             "event_category": "Football",
