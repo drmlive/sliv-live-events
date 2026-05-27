@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:53:02 27-05-2026",
+    "last update time": "13:03:07 27-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,15 +33,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090530670,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018430/1779789883756960_UCL_Final_PSG_vs_Arsenal_promo_without_players_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Arsenal - Final - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090530671,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018138/1779196622363185_UCL26_final_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -56,6 +47,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Crystal Palace vs Rayo Vallecano - Final - UEFA Conference League"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090530670,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018430/1779789883756960_UCL_Final_PSG_vs_Arsenal_promo_without_players_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Arsenal - Final - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
