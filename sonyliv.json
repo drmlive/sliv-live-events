@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:21:21 29-05-2026",
+    "last update time": "03:31:26 29-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -13,15 +13,6 @@
             "event_name": "Upcoming - PSG vs Arsenal - Prime Time - UEFA Champions League 2025-26"
         },
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090530689,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018453/1779812410436829_RTUFC_Ming_Shi_vs_Puja_Tomar_26may_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Shi Ming vs Puja Tomar - Road To UFC"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090529533,
@@ -29,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Women's Tour of England 2026"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090530689,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018453/1779812410436829_RTUFC_Ming_Shi_vs_Puja_Tomar_26may_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Shi Ming vs Puja Tomar - Road To UFC"
         },
         {
             "event_category": "Football",
