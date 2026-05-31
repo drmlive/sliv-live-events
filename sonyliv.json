@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:27:47 31-05-2026",
+    "last update time": "11:37:53 31-05-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "South Korea - Day 4 - 31 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250267~acl=/*~id=05552549936004085254148086396768~hmac=9e5c9f404635948b22a99a6697700360317d9ca9161fbc6420de3b29451021a0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250267~acl=/*~id=05552549936004085254148086396768~hmac=9e5c9f404635948b22a99a6697700360317d9ca9161fbc6420de3b29451021a0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250267~acl=/*~id=05552549936004085254148086396768~hmac=9e5c9f404635948b22a99a6697700360317d9ca9161fbc6420de3b29451021a0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250872~acl=/*~id=02742072856908919692172372578046~hmac=410250efd1645831012068367616c2e820b0511b4b065f257a05e6b2ce226a95",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250872~acl=/*~id=02742072856908919692172372578046~hmac=410250efd1645831012068367616c2e820b0511b4b065f257a05e6b2ce226a95",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250872~acl=/*~id=02742072856908919692172372578046~hmac=410250efd1645831012068367616c2e820b0511b4b065f257a05e6b2ce226a95"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090531792_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774843370739_DP_World_Austrian_Alpine_Open_Day4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Austrian Alpine Open - Day 4 - 31 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Austrian3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250872~acl=/*~id=02742072856908919692172372578046~hmac=410250efd1645831012068367616c2e820b0511b4b065f257a05e6b2ce226a95",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Austrian3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250872~acl=/*~id=02742072856908919692172372578046~hmac=410250efd1645831012068367616c2e820b0511b4b065f257a05e6b2ce226a95",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Austrian3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780250872~acl=/*~id=02742072856908919692172372578046~hmac=410250efd1645831012068367616c2e820b0511b4b065f257a05e6b2ce226a95"
         },
         {
             "event_category": "Cricket",
