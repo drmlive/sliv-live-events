@@ -1,82 +1,25 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:15:03 04-06-2026",
+    "last update time": "02:25:08 04-06-2026",
     "matches": [
         {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090529780_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019103/1780468328722971_RG26_QF_Berrettini_Vs_Arnaldi_2jun_SP_landscape_thumb.jpg",
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090533556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019080/1780430210948270_ENGvsNZ_1st_test_3jun_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2026",
-            "match_name": "Matteo Berrettini vs Matteo Arnaldi - QF - 3 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b"
+            "event_name": "Upcoming - New Zealand Tour of England"
         },
         {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090529780_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019103/1780468328722971_RG26_QF_Berrettini_Vs_Arnaldi_2jun_SP_landscape_thumb.jpg",
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2026",
-            "match_name": "Matteo Berrettini vs Matteo Arnaldi - QF - 3 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090529780_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019103/1780468328722971_RG26_QF_Berrettini_Vs_Arnaldi_2jun_SP_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2026",
-            "match_name": "Matteo Berrettini vs Matteo Arnaldi - QF - 3 Jun 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090529780_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019103/1780468328722971_RG26_QF_Berrettini_Vs_Arnaldi_2jun_SP_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2026",
-            "match_name": "Matteo Berrettini vs Matteo Arnaldi - QF - 3 Jun 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090529780_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019103/1780468328722971_RG26_QF_Berrettini_Vs_Arnaldi_2jun_SP_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Roland-Garros 2026",
-            "match_name": "Matteo Berrettini vs Matteo Arnaldi - QF - 3 Jun 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/RG_Multi0306/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090533537_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780276346620461_INT_Friendlies26_Poland_vs_Nigeria_1jun_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Poland vs Nigeria - 4 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/Live_Foo0306/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/Live_Foo0306/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780562701~acl=/*~id=03890279134712293956082133722771~hmac=630d7a783916575f55f23b5f96905b0b611e72da17317de47ccadc8395b6c04b",
-            "vi
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
