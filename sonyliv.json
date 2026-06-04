@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:42:52 05-06-2026",
+    "last update time": "04:52:58 05-06-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090533891_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019196/1780591123291597_INT_Friendlies26_Czechia_vs_Guatemala_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Czechia vs Guatemala - 5 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780658577~acl=/*~id=19152142313129807700398963492508~hmac=dde07a3472b7fd6ff9f0d3e3285a8b94515d510757b470d3be3bebdd4264af53",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780658577~acl=/*~id=19152142313129807700398963492508~hmac=dde07a3472b7fd6ff9f0d3e3285a8b94515d510757b470d3be3bebdd4264af53",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780658577~acl=/*~id=19152142313129807700398963492508~hmac=dde07a3472b7fd6ff9f0d3e3285a8b94515d510757b470d3be3bebdd4264af53"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
