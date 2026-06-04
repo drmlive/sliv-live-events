@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:21:13 04-06-2026",
+    "last update time": "14:31:21 04-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090533721_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019154/1780534944901351_CCPL26_Surguja_Tigers_vs_Raigarh_Lions_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 3",
+            "audioLanguageName": "HIN",
+            "event_name": "Chhattisgarh Cricket Premier League 2026",
+            "match_name": "Surguja Tigers vs Raigarh Lions - 4 Jun 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_0406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780606880~acl=/*~id=28123075387165556101369296855870~hmac=b683cfb35dd10b7ad7e43321e48d63a6e44aa9e47286fb84dbf871f813522ec0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_0406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780606880~acl=/*~id=28123075387165556101369296855870~hmac=b683cfb35dd10b7ad7e43321e48d63a6e44aa9e47286fb84dbf871f813522ec0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_0406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780606880~acl=/*~id=28123075387165556101369296855870~hmac=b683cfb35dd10b7ad7e43321e48d63a6e44aa9e47286fb84dbf871f813522ec0"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Roland-Garros 2026",
             "match_name": "Court Suzanne Lenglen - 4 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_SL_DA0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780606261~acl=/*~id=96310565801879887806460133819282~hmac=8c97db765091ad1fface6544bdaba5310f3c83265faeeb67e9ebfc87fb07eabe",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_SL_DA0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780606261~acl=/*~id=96310565801879887806460133819282~hmac=8c97db765091ad1fface6544bdaba5310f3c83265faeeb67e9ebfc87fb07eabe",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_SL_DA0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780606261~acl=/*~id=96310565801879887806460133819282~hmac=8c97db765091ad1fface6544bdaba5310f3c83265faeeb67e9ebfc87fb07eabe"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_SL_DA0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780606880~acl=/*~id=28123075387165556101369296855870~hmac=b683cfb35dd10b7ad7e43321e48d63a6e44aa9e47286fb84dbf871f813522ec0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_SL_DA0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780606880~acl=/*~id=28123075387165556101369296855870~hmac=b683cfb35dd10b7ad7e43321e48d63a6e44aa9e47286fb84dbf871f813522ec0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/RG_SL_DA0406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780606880~acl=/*~id=28123075387165556101369296855870~hmac=b683cfb35dd10b7ad7e43321e48d63a6e44aa9e47286fb84dbf871f813522ec0"
         },
         {
             "event_category": "Tennis",
