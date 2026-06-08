@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:59:05 08-06-2026",
+    "last update time": "00:09:11 09-06-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534253_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624118765941_INT_Friendlies26_France_vs_Northern_Ireland_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "France vs Northern Ireland - 9 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Franc0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780987150~acl=/*~id=89340244470746926968632868589962~hmac=8d0eebd696f41e7d96ce872cb3b589466942a53113655e3a4674c6fa2a6cb6ee",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Franc0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780987150~acl=/*~id=89340244470746926968632868589962~hmac=8d0eebd696f41e7d96ce872cb3b589466942a53113655e3a4674c6fa2a6cb6ee",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Franc0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780987150~acl=/*~id=89340244470746926968632868589962~hmac=8d0eebd696f41e7d96ce872cb3b589466942a53113655e3a4674c6fa2a6cb6ee"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,15 +25,15 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Netherlands vs Uzbekistan - 9 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780986544~acl=/*~id=75018853714734848960249892570743~hmac=c9e46f1efc06094dae915b470311b3ebe6ade9f4d09cf112d75a21e802ca4505"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780987150~acl=/*~id=89340244470746926968632868589962~hmac=8d0eebd696f41e7d96ce872cb3b589466942a53113655e3a4674c6fa2a6cb6ee",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780987150~acl=/*~id=89340244470746926968632868589962~hmac=8d0eebd696f41e7d96ce872cb3b589466942a53113655e3a4674c6fa2a6cb6ee",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780987150~acl=/*~id=89340244470746926968632868589962~hmac=8d0eebd696f41e7d96ce872cb3b589466942a53113655e3a4674c6fa2a6cb6ee"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090533925,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019346/1780744057454972_Tri_Series_1day_togo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019443/1780929065696355_Tri_Series_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Talent TV Cup"
