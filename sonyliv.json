@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:43:42 09-06-2026",
+    "last update time": "20:03:59 09-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "HIN",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
             "match_name": "Raipur Rhinos vs Raigarh Lions - 9 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781057621~acl=/*~id=23481407361880207148767722018906~hmac=ed83ca9d27fd4f28f8b6ac8c6f4b09e31077946159e8c326ea289a7cf6f3c858",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781057621~acl=/*~id=23481407361880207148767722018906~hmac=ed83ca9d27fd4f28f8b6ac8c6f4b09e31077946159e8c326ea289a7cf6f3c858",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781057621~acl=/*~id=23481407361880207148767722018906~hmac=ed83ca9d27fd4f28f8b6ac8c6f4b09e31077946159e8c326ea289a7cf6f3c858"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534456_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624346659941_INT_Friendlies26_Armenia_vs_Moldova_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Armenia vs Moldova  - 9 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781058837~acl=/*~id=73957188444341488424151051007432~hmac=295c93fcb79e2ce0e03f81b3b05b8b4ce57a3b0abd8df5538663a5c67adcc500"
         },
         {
             "event_category": "Cricket",
