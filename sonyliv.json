@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:52:52 09-06-2026",
+    "last update time": "07:02:57 09-06-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090534254_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627721610940_INT_Friendlies26_Spain_vs_Peru_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Spain vs Peru  - 9 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Spain0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781011977~acl=/*~id=08031025668977899309082299822315~hmac=9d8075a8179ca6b27034ecb1d4c82cc31e25c86151c5361cf1ee0088a762fca2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Spain0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781011977~acl=/*~id=08031025668977899309082299822315~hmac=9d8075a8179ca6b27034ecb1d4c82cc31e25c86151c5361cf1ee0088a762fca2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Spain0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781011977~acl=/*~id=08031025668977899309082299822315~hmac=9d8075a8179ca6b27034ecb1d4c82cc31e25c86151c5361cf1ee0088a762fca2"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
