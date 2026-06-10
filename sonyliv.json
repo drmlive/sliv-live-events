@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:15:49 10-06-2026",
+    "last update time": "14:25:55 10-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090534521_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086335846385_CCPL26_Raigarh_Lions_vs_Bastar_Bisons_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 3",
+            "audioLanguageName": "HIN",
+            "event_name": "Chhattisgarh Cricket Premier League 2026",
+            "match_name": "Raigarh Lions vs Bastar Bisons - 10 Jun 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CGPL_RLv1006/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781124955~acl=/*~id=62474290622464932099865914423782~hmac=5b3d29711e5b8bc2f34c9fd3172ae8548ddae22c2712de39be0d60f83cae0c4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CGPL_RLv1006/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781124955~acl=/*~id=62474290622464932099865914423782~hmac=5b3d29711e5b8bc2f34c9fd3172ae8548ddae22c2712de39be0d60f83cae0c4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/CGPL_RLv1006/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781124955~acl=/*~id=62474290622464932099865914423782~hmac=5b3d29711e5b8bc2f34c9fd3172ae8548ddae22c2712de39be0d60f83cae0c4d"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
