@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:50:11 12-06-2026",
+    "last update time": "18:10:28 12-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "HIN",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
             "match_name": "Bilaspur Bulls vs Bastar Bisons - 12 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781310010~acl=/*~id=04592725472702650362159359457139~hmac=eab89a9b922378d828994411ed2a2c19b65ff5862f93fa41e36c023ad0e98a72",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781310010~acl=/*~id=04592725472702650362159359457139~hmac=eab89a9b922378d828994411ed2a2c19b65ff5862f93fa41e36c023ad0e98a72",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781310010~acl=/*~id=04592725472702650362159359457139~hmac=eab89a9b922378d828994411ed2a2c19b65ff5862f93fa41e36c023ad0e98a72"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781311227~acl=/*~id=39275318618037674621332034137660~hmac=4e35ed1adc9ccde0b034dcdbc070600aa7921bed9b683c80c8cb01b19b425a9e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781311227~acl=/*~id=39275318618037674621332034137660~hmac=4e35ed1adc9ccde0b034dcdbc070600aa7921bed9b683c80c8cb01b19b425a9e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781311227~acl=/*~id=39275318618037674621332034137660~hmac=4e35ed1adc9ccde0b034dcdbc070600aa7921bed9b683c80c8cb01b19b425a9e"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090534596_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071040616362_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day2_6jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Asian Tour 2026",
+            "match_name": "International Series Morocco - Day 2 - 12 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/AsianTou1206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781311227~acl=/*~id=39275318618037674621332034137660~hmac=4e35ed1adc9ccde0b034dcdbc070600aa7921bed9b683c80c8cb01b19b425a9e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/AsianTou1206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781311227~acl=/*~id=39275318618037674621332034137660~hmac=4e35ed1adc9ccde0b034dcdbc070600aa7921bed9b683c80c8cb01b19b425a9e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/AsianTou1206/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781311227~acl=/*~id=39275318618037674621332034137660~hmac=4e35ed1adc9ccde0b034dcdbc070600aa7921bed9b683c80c8cb01b19b425a9e"
         },
         {
             "event_category": "Cricket",
