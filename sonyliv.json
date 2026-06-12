@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:58:59 12-06-2026",
+    "last update time": "16:09:06 12-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
             "match_name": "Bilaspur Bulls vs Bastar Bisons - 12 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781303338~acl=/*~id=00185387519243528560548269194029~hmac=7e2407d67ff6f6599f5eea7472644f7892eeed021402816ca8fdaf4429c5e1cf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781303338~acl=/*~id=00185387519243528560548269194029~hmac=7e2407d67ff6f6599f5eea7472644f7892eeed021402816ca8fdaf4429c5e1cf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781303338~acl=/*~id=00185387519243528560548269194029~hmac=7e2407d67ff6f6599f5eea7472644f7892eeed021402816ca8fdaf4429c5e1cf"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781303946~acl=/*~id=62972987424079893240657339710466~hmac=f4c5d6bd8cabe6e9930ebfb76454de049a84e48e33921dd01a241edd5daeba9a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781303946~acl=/*~id=62972987424079893240657339710466~hmac=f4c5d6bd8cabe6e9930ebfb76454de049a84e48e33921dd01a241edd5daeba9a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1206/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781303946~acl=/*~id=62972987424079893240657339710466~hmac=f4c5d6bd8cabe6e9930ebfb76454de049a84e48e33921dd01a241edd5daeba9a"
         },
         {
             "event_category": "Cricket",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Talent TV Cup - Sri Lanka A vs India A"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090533556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019564/1781258970239422_ENGvsNZ_2nd_test_day1_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand Tour of England"
         },
         {
             "event_category": "Fight Sports",
@@ -42,15 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Talent TV Cup - Team 'A' ODI Tri Series"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090533556,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019564/1781258970239422_ENGvsNZ_2nd_test_day1_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand Tour of England"
         },
         {
             "event_category": "Cricket",
