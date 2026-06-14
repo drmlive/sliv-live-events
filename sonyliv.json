@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:50:45 14-06-2026",
+    "last update time": "00:00:52 15-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,15 +12,15 @@
             "audioLanguageName": "HIN",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
             "match_name": "Bilaspur Bulls vs Raigarh Lions - Final - 14 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781504445~acl=/*~id=59805464465548679247826721656891~hmac=a8239de7aa3d2c617e1c856246cb85ec49a8f27fb38de7d52bff88d11676aea8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781504445~acl=/*~id=59805464465548679247826721656891~hmac=a8239de7aa3d2c617e1c856246cb85ec49a8f27fb38de7d52bff88d11676aea8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781504445~acl=/*~id=59805464465548679247826721656891~hmac=a8239de7aa3d2c617e1c856246cb85ec49a8f27fb38de7d52bff88d11676aea8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781505052~acl=/*~id=25234311093734209087100289155771~hmac=6379efe6c4042bbbf7229b358fbf2726b60d3ab1d9ad6207028b773515f59101",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781505052~acl=/*~id=25234311093734209087100289155771~hmac=6379efe6c4042bbbf7229b358fbf2726b60d3ab1d9ad6207028b773515f59101",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781505052~acl=/*~id=25234311093734209087100289155771~hmac=6379efe6c4042bbbf7229b358fbf2726b60d3ab1d9ad6207028b773515f59101"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090534667,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019543/178118455442321_Tri_Series26_SL_A_vs_IND_A_Promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019543/178118456467821_Tri_Series26_SL_A_vs_IND_A_Promo_landscape_thumb_today.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Talent TV Cup - Sri Lanka A vs India A"
@@ -38,10 +38,19 @@
             "event_category": "Fight Sports",
             "isLive": false,
             "contentId": 1090534520,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019485/1781021857526833_UFC_freedom_250_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019485/1781021882702833_UFC_freedom_250_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC Freedom 250 - Topuria vs Gaethje"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090534773,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019598/1781454384111629_Tri-Series_IND_A_vs_AFG_A_Promo_Thumb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Talent TV Cup - India A vs Afghanistan A"
         },
         {
             "event_category": "Cricket",
