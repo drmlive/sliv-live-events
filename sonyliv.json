@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:52:26 14-06-2026",
+    "last update time": "12:02:33 14-06-2026",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090534746_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019550/1781198811576129_ArcheryWC26_Antalya_Turkiye_Recurve_Team_finals_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai Archery World Cup Stage 3 - Antalya, Turkiye",
+            "match_name": "Recurve Team Finals - 14 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781461953~acl=/*~id=55630585607173761753228055902683~hmac=768bcad972234c2ce1bee076e1069305bcb13958f9b8a2a814576caad0e6489c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781461953~acl=/*~id=55630585607173761753228055902683~hmac=768bcad972234c2ce1bee076e1069305bcb13958f9b8a2a814576caad0e6489c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781461953~acl=/*~id=55630585607173761753228055902683~hmac=768bcad972234c2ce1bee076e1069305bcb13958f9b8a2a814576caad0e6489c"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
