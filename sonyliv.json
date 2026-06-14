@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:46:51 14-06-2026",
+    "last update time": "18:57:00 14-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090534739_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019576/1781286858303853_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 3",
+            "audioLanguageName": "HIN",
+            "event_name": "Chhattisgarh Cricket Premier League 2026",
+            "match_name": "Bilaspur Bulls vs Raigarh Lions - Final - 14 Jun 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375"
+        },
         {
             "event_category": "Archery",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup Stage 3 - Antalya, Turkiye",
             "match_name": "Compound Mixed Team And Individual Finals - 14 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486210~acl=/*~id=78844952537189793723355294448799~hmac=9217cea4f974eef63edf2d975ad404384bb7c7658efa34a45ebe4fbdc62ad18c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486210~acl=/*~id=78844952537189793723355294448799~hmac=9217cea4f974eef63edf2d975ad404384bb7c7658efa34a45ebe4fbdc62ad18c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486210~acl=/*~id=78844952537189793723355294448799~hmac=9217cea4f974eef63edf2d975ad404384bb7c7658efa34a45ebe4fbdc62ad18c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Archery_1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375"
         },
         {
             "event_category": "Golf",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2026",
             "match_name": "International Series Morocco - Day 4 - 14 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486210~acl=/*~id=78844952537189793723355294448799~hmac=9217cea4f974eef63edf2d975ad404384bb7c7658efa34a45ebe4fbdc62ad18c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486210~acl=/*~id=78844952537189793723355294448799~hmac=9217cea4f974eef63edf2d975ad404384bb7c7658efa34a45ebe4fbdc62ad18c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486210~acl=/*~id=78844952537189793723355294448799~hmac=9217cea4f974eef63edf2d975ad404384bb7c7658efa34a45ebe4fbdc62ad18c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/AsianTou1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781486818~acl=/*~id=01396975275228794689324755590488~hmac=52512d8f0d99061201d13a6ee41b016bcfd8ef8c74705cdd1a2bc9fb82a36375"
         },
         {
             "event_category": "Cricket",
