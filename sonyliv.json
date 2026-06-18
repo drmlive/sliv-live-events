@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:45:21 18-06-2026",
+    "last update time": "18:55:27 18-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Tour of England 2026",
             "match_name": "2nd Test - Day 2 - 18 Jun 2026  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781831720~acl=/*~id=85509360207205154098417295719468~hmac=1a76249386fc5ecba6f995c831996084da24aefcddbb791ecbee82872d845fe0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781831720~acl=/*~id=85509360207205154098417295719468~hmac=1a76249386fc5ecba6f995c831996084da24aefcddbb791ecbee82872d845fe0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781831720~acl=/*~id=85509360207205154098417295719468~hmac=1a76249386fc5ecba6f995c831996084da24aefcddbb791ecbee82872d845fe0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781832326~acl=/*~id=04442819378837125558711914633947~hmac=47d1d38adbddfabc575f8136be08a7662fa7c35c8d40e026a29ee76e523ce257",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781832326~acl=/*~id=04442819378837125558711914633947~hmac=47d1d38adbddfabc575f8136be08a7662fa7c35c8d40e026a29ee76e523ce257",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781832326~acl=/*~id=04442819378837125558711914633947~hmac=47d1d38adbddfabc575f8136be08a7662fa7c35c8d40e026a29ee76e523ce257"
         },
         {
             "event_category": "Cricket",
@@ -33,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand Tour of England"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090535010,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019704/1781786160869106_India-Tour-of-Ireland-Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India Tour Of Ireland"
         },
         {
             "event_category": "Cricket",
