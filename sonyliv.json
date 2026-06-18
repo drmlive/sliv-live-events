@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:52:55 18-06-2026",
+    "last update time": "15:03:02 18-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090534887_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260915712832_ENGvsNZ_2nd_test_day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "New Zealand Tour of England 2026",
+            "match_name": "2nd Test - Day 2 - 18 Jun 2026  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781818381~acl=/*~id=60353642025306994060943484385367~hmac=58fcd5763db02576c4dab3ff8f277201c62e33f335fdb8f45bc0a01b9fa5874d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781818381~acl=/*~id=60353642025306994060943484385367~hmac=58fcd5763db02576c4dab3ff8f277201c62e33f335fdb8f45bc0a01b9fa5874d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781818381~acl=/*~id=60353642025306994060943484385367~hmac=58fcd5763db02576c4dab3ff8f277201c62e33f335fdb8f45bc0a01b9fa5874d"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
