@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:58:04 26-06-2026",
+    "last update time": "23:08:13 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Tour of England 2026",
             "match_name": "3rd Test - Day 2 - 26 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538084~acl=/*~id=80396407562661523371565484495631~hmac=37a418fd0d29c2e1c13caa13dd549c3cbef5b2f096c97817e8f93d6ff25c6c6e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538084~acl=/*~id=80396407562661523371565484495631~hmac=37a418fd0d29c2e1c13caa13dd549c3cbef5b2f096c97817e8f93d6ff25c6c6e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538084~acl=/*~id=80396407562661523371565484495631~hmac=37a418fd0d29c2e1c13caa13dd549c3cbef5b2f096c97817e8f93d6ff25c6c6e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538692~acl=/*~id=88487936639942217205271945172777~hmac=a85b4ceae455fb3c6322115c8ef10b5c6b6ea1d8332315a7f44d32a09fbb50fb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538692~acl=/*~id=88487936639942217205271945172777~hmac=a85b4ceae455fb3c6322115c8ef10b5c6b6ea1d8332315a7f44d32a09fbb50fb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538692~acl=/*~id=88487936639942217205271945172777~hmac=a85b4ceae455fb3c6322115c8ef10b5c6b6ea1d8332315a7f44d32a09fbb50fb"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090535529_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780608568282719_VITALITY_BLAST_2026_Kent_vs_Nottinghamshire_5jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2026",
+            "match_name": "Kent vs Nottinghamshire - 26 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/KentvsNo2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538692~acl=/*~id=88487936639942217205271945172777~hmac=a85b4ceae455fb3c6322115c8ef10b5c6b6ea1d8332315a7f44d32a09fbb50fb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/KentvsNo2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538692~acl=/*~id=88487936639942217205271945172777~hmac=a85b4ceae455fb3c6322115c8ef10b5c6b6ea1d8332315a7f44d32a09fbb50fb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/KentvsNo2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782538692~acl=/*~id=88487936639942217205271945172777~hmac=a85b4ceae455fb3c6322115c8ef10b5c6b6ea1d8332315a7f44d32a09fbb50fb"
         },
         {
             "event_category": "Cricket",
