@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:29:21 27-06-2026",
+    "last update time": "16:39:30 27-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,15 +12,28 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Tour of England 2026",
             "match_name": "3rd Test - Day 3 - 27 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601161~acl=/*~id=66476655022580903381375881961281~hmac=1c51b80fb61556b8111332138283ba22b8a9ac94c8333cfab0a9450c70be96ce",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601161~acl=/*~id=66476655022580903381375881961281~hmac=1c51b80fb61556b8111332138283ba22b8a9ac94c8333cfab0a9450c70be96ce",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601161~acl=/*~id=66476655022580903381375881961281~hmac=1c51b80fb61556b8111332138283ba22b8a9ac94c8333cfab0a9450c70be96ce"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601769~acl=/*~id=92702501611893484803418827007280~hmac=3f205364341b21eca77bbd15d138e7f2e4afe173ac42855e40585fbe7bb15628",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601769~acl=/*~id=92702501611893484803418827007280~hmac=3f205364341b21eca77bbd15d138e7f2e4afe173ac42855e40585fbe7bb15628",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601769~acl=/*~id=92702501611893484803418827007280~hmac=3f205364341b21eca77bbd15d138e7f2e4afe173ac42855e40585fbe7bb15628"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090535524_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272160310972_DP_World_Tour_Open_dItalia_day3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Open d'Italia - Day 3 - 27 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Open_dIt2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601769~acl=/*~id=92702501611893484803418827007280~hmac=3f205364341b21eca77bbd15d138e7f2e4afe173ac42855e40585fbe7bb15628",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Open_dIt2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601769~acl=/*~id=92702501611893484803418827007280~hmac=3f205364341b21eca77bbd15d138e7f2e4afe173ac42855e40585fbe7bb15628",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Open_dIt2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782601769~acl=/*~id=92702501611893484803418827007280~hmac=3f205364341b21eca77bbd15d138e7f2e4afe173ac42855e40585fbe7bb15628"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090535482,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020080/1782505449072606_IRE_vs_IND_2nd_T20i_dated_rev_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020093/1782556221162604_IRE_vs_IND_2nd_T20i_promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Ireland - 2nd T20I"
