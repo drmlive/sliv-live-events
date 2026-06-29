@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:01:51 29-06-2026",
+    "last update time": "15:11:58 29-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Tour of England 2026",
             "match_name": "3rd Test - Day 5 - 29 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782768710~acl=/*~id=82550115694756232099347139679207~hmac=bad1d8ee7782ac774d0602411e253ec5084f7288cacb4064a383bb98ccac010b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782768710~acl=/*~id=82550115694756232099347139679207~hmac=bad1d8ee7782ac774d0602411e253ec5084f7288cacb4064a383bb98ccac010b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782768710~acl=/*~id=82550115694756232099347139679207~hmac=bad1d8ee7782ac774d0602411e253ec5084f7288cacb4064a383bb98ccac010b"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090533556,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020171/1782713999352950_ENG_vs_IND_3rd_Test_Day5_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand Tour of England"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782769318~acl=/*~id=67420139830877870759376514945200~hmac=47278957ce535dfe8a6118f9990cc8376824ebb5fb7b2494a75d5e817a63a3fc",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782769318~acl=/*~id=67420139830877870759376514945200~hmac=47278957ce535dfe8a6118f9990cc8376824ebb5fb7b2494a75d5e817a63a3fc",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782769318~acl=/*~id=67420139830877870759376514945200~hmac=47278957ce535dfe8a6118f9990cc8376824ebb5fb7b2494a75d5e817a63a3fc"
         },
         {
             "event_category": "Cricket",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Tour of Sri Lanka"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090533556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020171/1782713999352950_ENG_vs_IND_3rd_Test_Day5_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand Tour of England"
         },
         {
             "event_category": "Cricket",
