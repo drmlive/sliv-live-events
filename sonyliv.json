@@ -1,1 +1,47 @@
-{"error":"Failed to fetch data from source.","status":0}
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "17:19:43 02-07-2026",
+    "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090535683_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289912657701_DP_World_Tour_BMW_International_Open_day1_24jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "BMW International Open - Day 1 - 2 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_DPW0207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783036182~acl=/*~id=69861017513489920753801349150036~hmac=b682bd86a0583c06db2edab4e38380f83be03e8c7ad2d61db9a57392232ddad5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_DPW0207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783036182~acl=/*~id=69861017513489920753801349150036~hmac=b682bd86a0583c06db2edab4e38380f83be03e8c7ad2d61db9a57392232ddad5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_DPW0207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783036182~acl=/*~id=69861017513489920753801349150036~hmac=b682bd86a0583c06db2edab4e38380f83be03e8c7ad2d61db9a57392232ddad5"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090535863,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020177/1782728490795982_UFC_329_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090535477,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019960/178238005196688_Ind-vs-SL-2026_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India Tour of Sri Lanka"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        }
+    ]
+}
