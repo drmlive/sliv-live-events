@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:42:01 04-07-2026",
+    "last update time": "04:52:07 04-07-2026",
     "matches": [
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": "1090535833_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782814322611920_ABB_FIA_FormulaE_WC26_RD12_Shanghai_EPrix_Qualifying_Race_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship",
+            "match_name": "R12 - Shanghai E-Prix  - Qualifying Race - 04 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/FormulaE0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783164127~acl=/*~id=73683257604021926893968544580625~hmac=93145d49287a2991369ad988e85d62263d050b4f66f9ff33457f29ea0ffe3378",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/FormulaE0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783164127~acl=/*~id=73683257604021926893968544580625~hmac=93145d49287a2991369ad988e85d62263d050b4f66f9ff33457f29ea0ffe3378",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/FormulaE0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783164127~acl=/*~id=73683257604021926893968544580625~hmac=93145d49287a2991369ad988e85d62263d050b4f66f9ff33457f29ea0ffe3378"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": false,
