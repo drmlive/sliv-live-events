@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:27:57 03-07-2026",
+    "last update time": "22:38:05 03-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090535829_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020113/1782568458930277_VB26_mens_Nottinghamshire_vs_Lancashire_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2026",
+            "match_name": "Nottinghamshire vs Lancashire - 3 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/criclive0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783141685~acl=/*~id=96620715708270276000302378061429~hmac=9d69689778fc399ee3792ce1b08da47bb3c6aaa97f0c80af1ec82613e62053c8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/criclive0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783141685~acl=/*~id=96620715708270276000302378061429~hmac=9d69689778fc399ee3792ce1b08da47bb3c6aaa97f0c80af1ec82613e62053c8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/criclive0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783141685~acl=/*~id=96620715708270276000302378061429~hmac=9d69689778fc399ee3792ce1b08da47bb3c6aaa97f0c80af1ec82613e62053c8"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": false,
