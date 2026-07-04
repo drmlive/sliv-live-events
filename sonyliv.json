@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:00:26 04-07-2026",
+    "last update time": "18:10:31 04-07-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "BMW International Open - Day 3 - 04 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/BMWopen_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783211425~acl=/*~id=79923923424541418287797785137875~hmac=91d8509e1f6a1a8ed39f5b35baa741d04d8986a37fc5cfc32f84f60482d305f1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/BMWopen_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783211425~acl=/*~id=79923923424541418287797785137875~hmac=91d8509e1f6a1a8ed39f5b35baa741d04d8986a37fc5cfc32f84f60482d305f1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/BMWopen_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783211425~acl=/*~id=79923923424541418287797785137875~hmac=91d8509e1f6a1a8ed39f5b35baa741d04d8986a37fc5cfc32f84f60482d305f1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/BMWopen_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783212031~acl=/*~id=53174587374766340603271506954900~hmac=4148e5a06b95f06bf6f4ec960e979a8d23a23a1685072fea7fb411641a325df3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/BMWopen_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783212031~acl=/*~id=53174587374766340603271506954900~hmac=4148e5a06b95f06bf6f4ec960e979a8d23a23a1685072fea7fb411641a325df3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/BMWopen_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783212031~acl=/*~id=53174587374766340603271506954900~hmac=4148e5a06b95f06bf6f4ec960e979a8d23a23a1685072fea7fb411641a325df3"
         },
         {
             "event_category": "Fight Sports",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090536125,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020335/1783103939129964_Eng_W_vs_Ind_W_one_off_test_day1_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - England W vs India W - Only Test "
         },
         {
             "event_category": "Cricket",
