@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:53:40 04-07-2026",
+    "last update time": "23:03:46 04-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090535830_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020113/1782573308813277_VB26_mens_Gloucestershire_vs_Surrey_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2026",
+            "match_name": "Gloucestershire vs Surrey - 4 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Cricket_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783229626~acl=/*~id=82612385316048988943805147872253~hmac=d4d92d4ad37f9141f5475b6e0d406e04ad1fd6da35948074cb08205851a6dea4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Cricket_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783229626~acl=/*~id=82612385316048988943805147872253~hmac=d4d92d4ad37f9141f5475b6e0d406e04ad1fd6da35948074cb08205851a6dea4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Cricket_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783229626~acl=/*~id=82612385316048988943805147872253~hmac=d4d92d4ad37f9141f5475b6e0d406e04ad1fd6da35948074cb08205851a6dea4"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": false,
