@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:57:51 08-07-2026",
+    "last update time": "17:07:58 08-07-2026",
     "matches": [
         {
             "event_category": "Fight Sports",
@@ -47,6 +47,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536279,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020395/1783509847315459_Neeraj_Chopra_promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Neeraj Chopra at Glasgow 2026 Commonwealth Games"
         }
     ]
 }
