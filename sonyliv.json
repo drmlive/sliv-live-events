@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:55:58 09-07-2026",
+    "last update time": "23:06:04 09-07-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Genesis Scottish Open - Day 1 - 9 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090535863,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020338/1783151562409857_UFC_329_DDT_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661763~acl=/*~id=14370520599565649783638727377648~hmac=6e115a68dc47cfba2c6c80999520433f02c8fb49e3848f913963a11df9f6b542",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661763~acl=/*~id=14370520599565649783638727377648~hmac=6e115a68dc47cfba2c6c80999520433f02c8fb49e3848f913963a11df9f6b542",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661763~acl=/*~id=14370520599565649783638727377648~hmac=6e115a68dc47cfba2c6c80999520433f02c8fb49e3848f913963a11df9f6b542"
         },
         {
             "event_category": "Cricket",
@@ -51,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Tour of Sri Lanka"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090535863,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020338/1783151562409857_UFC_329_DDT_rev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
         },
         {
             "event_category": "Sports",
