@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:56:23 10-07-2026",
+    "last update time": "17:06:30 10-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "India Women's Tour of England 2026",
             "match_name": "Day 1 - One-Off Test - 10 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783725983~acl=/*~id=83064834320273924394558761554230~hmac=f012afb667026f2ebb77c9c29f2ea3ae109eca29d1e72473d28c5b050271a5f7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783725983~acl=/*~id=83064834320273924394558761554230~hmac=f012afb667026f2ebb77c9c29f2ea3ae109eca29d1e72473d28c5b050271a5f7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783725983~acl=/*~id=83064834320273924394558761554230~hmac=f012afb667026f2ebb77c9c29f2ea3ae109eca29d1e72473d28c5b050271a5f7"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783726589~acl=/*~id=49616690002945330717474129315916~hmac=d937d0412b1a549b13a2d21846e34bb27a7970862a6728f07ad31bca733d22ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783726589~acl=/*~id=49616690002945330717474129315916~hmac=d937d0412b1a549b13a2d21846e34bb27a7970862a6728f07ad31bca733d22ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783726589~acl=/*~id=49616690002945330717474129315916~hmac=d937d0412b1a549b13a2d21846e34bb27a7970862a6728f07ad31bca733d22ff"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090535931_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290177365701_DP_World_Tour_GENESIS_SCOTTISH_Open_day2_24jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Genesis Scottish Open - Day 2 - 10 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783726589~acl=/*~id=49616690002945330717474129315916~hmac=d937d0412b1a549b13a2d21846e34bb27a7970862a6728f07ad31bca733d22ff",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783726589~acl=/*~id=49616690002945330717474129315916~hmac=d937d0412b1a549b13a2d21846e34bb27a7970862a6728f07ad31bca733d22ff",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783726589~acl=/*~id=49616690002945330717474129315916~hmac=d937d0412b1a549b13a2d21846e34bb27a7970862a6728f07ad31bca733d22ff"
         },
         {
             "event_category": "Sports",
