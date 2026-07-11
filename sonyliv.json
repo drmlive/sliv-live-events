@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:05:45 11-07-2026",
+    "last update time": "23:15:52 11-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090536424_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630262250637_Eng_W_vs_Ind_W_2026_one_off_test_day2_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "Day 2 - One-Off Test - 11 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783834545~acl=/*~id=84652595949714230663084687760171~hmac=cd5aa6b5da8309a0be9d7e76eb5e21f36965712c669c596ff6695498523aa325",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783834545~acl=/*~id=84652595949714230663084687760171~hmac=cd5aa6b5da8309a0be9d7e76eb5e21f36965712c669c596ff6695498523aa325",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783834545~acl=/*~id=84652595949714230663084687760171~hmac=cd5aa6b5da8309a0be9d7e76eb5e21f36965712c669c596ff6695498523aa325"
-        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Genesis Scottish Open - Day 3 - 11 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783834545~acl=/*~id=84652595949714230663084687760171~hmac=cd5aa6b5da8309a0be9d7e76eb5e21f36965712c669c596ff6695498523aa325",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783834545~acl=/*~id=84652595949714230663084687760171~hmac=cd5aa6b5da8309a0be9d7e76eb5e21f36965712c669c596ff6695498523aa325",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783834545~acl=/*~id=84652595949714230663084687760171~hmac=cd5aa6b5da8309a0be9d7e76eb5e21f36965712c669c596ff6695498523aa325"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783835152~acl=/*~id=62598863675655157008464861354521~hmac=883315d52a85ea9b8e8686616219e4715cbc685c0cbd3c9f2fcb30307f4314fe",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783835152~acl=/*~id=62598863675655157008464861354521~hmac=883315d52a85ea9b8e8686616219e4715cbc685c0cbd3c9f2fcb30307f4314fe",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783835152~acl=/*~id=62598863675655157008464861354521~hmac=883315d52a85ea9b8e8686616219e4715cbc685c0cbd3c9f2fcb30307f4314fe"
         },
         {
             "event_category": "Fight Sports",
