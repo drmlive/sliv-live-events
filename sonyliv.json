@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:58:27 11-07-2026",
+    "last update time": "13:08:33 11-07-2026",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090536420_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688436687820_ArcheryWC26_MADRID_OPEN_stage4_Compound_Team_finals_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai Archery World Cup Stage 4",
+            "match_name": "Compound Team Finals - 11 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783798713~acl=/*~id=67905823615584706173904800339064~hmac=a260414b12e3e8b228e8de03daaae98152cffa37d782ecf5674096b8fc9b85ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783798713~acl=/*~id=67905823615584706173904800339064~hmac=a260414b12e3e8b228e8de03daaae98152cffa37d782ecf5674096b8fc9b85ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783798713~acl=/*~id=67905823615584706173904800339064~hmac=a260414b12e3e8b228e8de03daaae98152cffa37d782ecf5674096b8fc9b85ed"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
