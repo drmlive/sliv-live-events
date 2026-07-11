@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:18:40 11-07-2026",
+    "last update time": "13:28:48 11-07-2026",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup Stage 4",
             "match_name": "Compound Team Finals - 11 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783799319~acl=/*~id=50808986503914891633665160836036~hmac=9ba073b7e2dc5e8509b7a154806e215ae2f3b110e3c117fb8a700655d4d9bec1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783799319~acl=/*~id=50808986503914891633665160836036~hmac=9ba073b7e2dc5e8509b7a154806e215ae2f3b110e3c117fb8a700655d4d9bec1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783799319~acl=/*~id=50808986503914891633665160836036~hmac=9ba073b7e2dc5e8509b7a154806e215ae2f3b110e3c117fb8a700655d4d9bec1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783799928~acl=/*~id=31108488284051350747971621176060~hmac=71d1864f7970819989982f9bd76d32e81986ee8140b7406a2d6efc3268fcb0a7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783799928~acl=/*~id=31108488284051350747971621176060~hmac=71d1864f7970819989982f9bd76d32e81986ee8140b7406a2d6efc3268fcb0a7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783799928~acl=/*~id=31108488284051350747971621176060~hmac=71d1864f7970819989982f9bd76d32e81986ee8140b7406a2d6efc3268fcb0a7"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090535863,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020338/1783151562409857_UFC_329_DDT_rev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
         },
         {
             "event_category": "Sports",
@@ -33,15 +42,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England W vs India W - Only Test "
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090535863,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020338/1783151562409857_UFC_329_DDT_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
         },
         {
             "event_category": "Cricket",
