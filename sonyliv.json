@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:22:10 11-07-2026",
+    "last update time": "18:32:16 11-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India Women's Tour of England 2026",
             "match_name": "Day 2 - One-Off Test - 11 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783817529~acl=/*~id=41681580134856682226940173866175~hmac=a56ff052de3a563bd05b65bd6db030f5076dbb81c8cc990db1ebc7d8d2f8d752",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783817529~acl=/*~id=41681580134856682226940173866175~hmac=a56ff052de3a563bd05b65bd6db030f5076dbb81c8cc990db1ebc7d8d2f8d752",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783817529~acl=/*~id=41681580134856682226940173866175~hmac=a56ff052de3a563bd05b65bd6db030f5076dbb81c8cc990db1ebc7d8d2f8d752"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9"
         },
         {
             "event_category": "Archery",
@@ -25,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup Stage 4",
             "match_name": "Compound Mixed Team & Individual Finals - 11 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783817529~acl=/*~id=41681580134856682226940173866175~hmac=a56ff052de3a563bd05b65bd6db030f5076dbb81c8cc990db1ebc7d8d2f8d752",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783817529~acl=/*~id=41681580134856682226940173866175~hmac=a56ff052de3a563bd05b65bd6db030f5076dbb81c8cc990db1ebc7d8d2f8d752",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783817529~acl=/*~id=41681580134856682226940173866175~hmac=a56ff052de3a563bd05b65bd6db030f5076dbb81c8cc990db1ebc7d8d2f8d752"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090535932_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290170644701_DP_World_Tour_GENESIS_SCOTTISH_Open_day3_24jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Genesis Scottish Open - Day 3 - 11 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783818135~acl=/*~id=18830185774046886100215144402136~hmac=0a7982af4e8ccc7528027071e894e5a841519af01078683cd920dc91fbed22f9"
         },
         {
             "event_category": "Fight Sports",
