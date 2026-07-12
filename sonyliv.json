@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:53:04 12-07-2026",
+    "last update time": "11:03:10 12-07-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090536448_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290162466701_DP_World_Tour_GENESIS_SCOTTISH_Open_day4_24jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Genesis Scottish Open - Day 4 - 12 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783877590~acl=/*~id=42944976705313380532002369059665~hmac=866928c4d4f1f14a154b90854a9bf1449a9a6a0c50bf7e6ed9dc28bdf8849ccb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783877590~acl=/*~id=42944976705313380532002369059665~hmac=866928c4d4f1f14a154b90854a9bf1449a9a6a0c50bf7e6ed9dc28bdf8849ccb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783877590~acl=/*~id=42944976705313380532002369059665~hmac=866928c4d4f1f14a154b90854a9bf1449a9a6a0c50bf7e6ed9dc28bdf8849ccb"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
