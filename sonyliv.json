@@ -1,17 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:49:42 13-07-2026",
+    "last update time": "13:59:46 13-07-2026",
     "matches": [
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536279,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020483/1783694399560857_CWG26_10DTG_11jul_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Neeraj Chopra at Glasgow 2026 Commonwealth Games"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -20,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England W vs India W - Only Test "
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536279,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020483/1783694399560857_CWG26_10DTG_11jul_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Neeraj Chopra at Glasgow 2026 Commonwealth Games"
         },
         {
             "event_category": "Cricket",
