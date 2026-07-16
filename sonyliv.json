@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:26:43 16-07-2026",
+    "last update time": "18:36:49 16-07-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -38,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536698,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020636/1784195571776119_Durand-Cup-Promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Durand Cup 2026"
         },
         {
             "event_category": "Sports",
