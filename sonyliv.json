@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:04:44 20-07-2026",
+    "last update time": "19:14:50 20-07-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -40,19 +40,10 @@
             "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090504215,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090536698,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020646/1784211405630598_DURAND_CUP_2026_GOB_Landscape_Thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020717/1784538251486112_DURAND_CUP_2026_GOB_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026"
@@ -65,6 +56,33 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020726/1784552018456957_Durand_Cup_26_Promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020536/1783933139419971_Commonwealth_Games_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
         }
     ]
 }
