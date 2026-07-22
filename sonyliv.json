@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:01:21 22-07-2026",
+    "last update time": "17:11:26 22-07-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -29,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020779/1784718981413823_DC26_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Durand Cup 2026"
         },
         {
             "event_category": "Sports",
