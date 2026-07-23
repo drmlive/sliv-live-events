@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:39:56 23-07-2026",
+    "last update time": "21:50:03 23-07-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "UK - Day 1 - 23 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784866195~acl=/*~id=37886201385474433101442198037325~hmac=8798d1b5fad026c6792d978da88b4009df202b808c6f946fb77cbe0380364dbe",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784866195~acl=/*~id=37886201385474433101442198037325~hmac=8798d1b5fad026c6792d978da88b4009df202b808c6f946fb77cbe0380364dbe",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784866195~acl=/*~id=37886201385474433101442198037325~hmac=8798d1b5fad026c6792d978da88b4009df202b808c6f946fb77cbe0380364dbe"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784866803~acl=/*~id=98215254953692566322711801525546~hmac=b9769e0c3bb99fc5308993b3fbe9f17977ba1b97325d29bd2835077394bc875b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784866803~acl=/*~id=98215254953692566322711801525546~hmac=b9769e0c3bb99fc5308993b3fbe9f17977ba1b97325d29bd2835077394bc875b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784866803~acl=/*~id=98215254953692566322711801525546~hmac=b9769e0c3bb99fc5308993b3fbe9f17977ba1b97325d29bd2835077394bc875b"
         },
         {
             "event_category": "Football",
@@ -33,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020834/1784803250073674_upcoming_opening_ceremony_promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Opening Ceremony - Glasgow 2026 Commonwealth Games"
         },
         {
             "event_category": "Sports",
