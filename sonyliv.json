@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:50:44 23-07-2026",
+    "last update time": "23:00:50 23-07-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090536961_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474079699996_LIV_Golf_UK_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "LIV Golf",
-            "match_name": "UK - Day 1 - 23 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784870444~acl=/*~id=87537291641036176799130030101336~hmac=a08f5f37b21d9d70ccb525ff9be8939d14dbbfd986e8632d78efc6e8f56a9fbe",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784870444~acl=/*~id=87537291641036176799130030101336~hmac=a08f5f37b21d9d70ccb525ff9be8939d14dbbfd986e8632d78efc6e8f56a9fbe",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784870444~acl=/*~id=87537291641036176799130030101336~hmac=a08f5f37b21d9d70ccb525ff9be8939d14dbbfd986e8632d78efc6e8f56a9fbe"
-        },
         {
             "event_category": "Football",
             "isLive": false,
