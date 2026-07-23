@@ -1,16 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:23:04 23-07-2026",
+    "last update time": "13:33:13 23-07-2026",
     "matches": [
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020827/1784784216750704_Commonwealth_Games_2026_GOB_today_Landscape_Thumb.jpg",
+            "event_category": " Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536267_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India's Star Athletes - Glasgow 2026 Commonwealth Games"
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Bowls and Para Bowls - Men's Singles - New Zealand vs Tonga - 23 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d"
+        },
+        {
+            "event_category": " Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536267_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Bowls and Para Bowls - Men's Singles - New Zealand vs Tonga - 23 Jul 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d"
+        },
+        {
+            "event_category": " Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536267_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Bowls and Para Bowls - Men's Singles - New Zealand vs Tonga - 23 Jul 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d"
+        },
+        {
+            "event_category": " Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536267_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Bowls and Para Bowls - Men's Singles - New Zealand vs Tonga - 23 Jul 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d"
+        },
+        {
+            "event_category": " Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536267_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Bowls and Para Bowls - Men's Singles - New Zealand vs Tonga - 23 Jul 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784836990~acl=/*~id=22915133193191867298126772929044~hmac=94469125ad47766c3a18ded465662f5dba77bcea0eeded2d7e98583232eb3a1d"
         },
         {
             "event_category": "Football",
@@ -92,6 +148,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020827/1784784216750704_Commonwealth_Games_2026_GOB_today_Landscape_Thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India's Star Athletes - Glasgow 2026 Commonwealth Games"
         },
         {
             "event_category": "Cricket",
