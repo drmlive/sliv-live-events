@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:14:03 28-07-2026",
+    "last update time": "13:24:11 28-07-2026",
     "matches": [
+        {
+            "event_category": "Weightlifting",
+            "isLive": true,
+            "contentId": "1090536385_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Men's 88kg - Weightlifting - 28th Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785268450~acl=/*~id=55335915427534224685728213722208~hmac=e4efe6034b11303f15d0b343f9adb34cb3a1b6fc96fd8c6fa5d794cfa44f984e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785268450~acl=/*~id=55335915427534224685728213722208~hmac=e4efe6034b11303f15d0b343f9adb34cb3a1b6fc96fd8c6fa5d794cfa44f984e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785268450~acl=/*~id=55335915427534224685728213722208~hmac=e4efe6034b11303f15d0b343f9adb34cb3a1b6fc96fd8c6fa5d794cfa44f984e"
+        },
         {
             "event_category": "Bowls and Para Bowls",
             "isLive": true,
@@ -11,10 +24,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Bowls And Para Bowls - 28 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785267843~acl=/*~id=62564023431645037113832192043703~hmac=0ad942142798e28a0f51802843f3787ab657effa6b772df3414dae4cfc531c19",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785267843~acl=/*~id=62564023431645037113832192043703~hmac=0ad942142798e28a0f51802843f3787ab657effa6b772df3414dae4cfc531c19",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785267843~acl=/*~id=62564023431645037113832192043703~hmac=0ad942142798e28a0f51802843f3787ab657effa6b772df3414dae4cfc531c19"
+            "match_name": "England vs Scotland - Para Mixed Pairs - Final - 28 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785268450~acl=/*~id=55335915427534224685728213722208~hmac=e4efe6034b11303f15d0b343f9adb34cb3a1b6fc96fd8c6fa5d794cfa44f984e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785268450~acl=/*~id=55335915427534224685728213722208~hmac=e4efe6034b11303f15d0b343f9adb34cb3a1b6fc96fd8c6fa5d794cfa44f984e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785268450~acl=/*~id=55335915427534224685728213722208~hmac=e4efe6034b11303f15d0b343f9adb34cb3a1b6fc96fd8c6fa5d794cfa44f984e"
         },
         {
             "event_category": "Cricket",
