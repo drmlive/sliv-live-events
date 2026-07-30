@@ -1,8 +1,18 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:40:23 30-07-2026",
+    "last update time": "12:50:32 30-07-2026",
     "matches": [
+        {
+            "event_category": "Netball",
+            "isLive": true,
+            "contentId": 1090536385,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Malawi vs Tonga - Netball - 30 Jul 2026 "
+        },
         {
             "event_category": "Sports",
             "isLive": false,
