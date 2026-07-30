@@ -1,8 +1,73 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:20:54 30-07-2026",
+    "last update time": "13:31:03 30-07-2026",
     "matches": [
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021363/1785349223074202_CWG_generic_day7_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Studio Show - 30 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021363/1785349223074202_CWG_generic_day7_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Studio Show - 30 Jul 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021363/1785349223074202_CWG_generic_day7_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Studio Show - 30 Jul 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021363/1785349223074202_CWG_generic_day7_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Studio Show - 30 Jul 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021363/1785349223074202_CWG_generic_day7_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Studio Show - 30 Jul 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1"
+        },
         {
             "event_category": "Weightlifting",
             "isLive": true,
@@ -12,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "Men's 100kg - Weightlifting - 30 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441053~acl=/*~id=13673280500624713686236979695098~hmac=35477f09c8a90c7875034d17261ae1d0241cfc6240b916a1e343df4d940b90c2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441053~acl=/*~id=13673280500624713686236979695098~hmac=35477f09c8a90c7875034d17261ae1d0241cfc6240b916a1e343df4d940b90c2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441053~acl=/*~id=13673280500624713686236979695098~hmac=35477f09c8a90c7875034d17261ae1d0241cfc6240b916a1e343df4d940b90c2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1"
         },
         {
             "event_category": "Netball",
@@ -25,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "Malawi vs Tonga - Netball - 30 Jul 2026  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441053~acl=/*~id=13673280500624713686236979695098~hmac=35477f09c8a90c7875034d17261ae1d0241cfc6240b916a1e343df4d940b90c2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441053~acl=/*~id=13673280500624713686236979695098~hmac=35477f09c8a90c7875034d17261ae1d0241cfc6240b916a1e343df4d940b90c2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441053~acl=/*~id=13673280500624713686236979695098~hmac=35477f09c8a90c7875034d17261ae1d0241cfc6240b916a1e343df4d940b90c2"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785441660~acl=/*~id=43494551869445845748417737333154~hmac=e93b65eb924fd9a55f6afa264933ce3ee9c0bf20362339933eec2ec1c95e26b1"
         },
         {
             "event_category": "Sports",
