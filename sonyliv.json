@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:18:15 01-08-2026",
+    "last update time": "12:28:24 01-08-2026",
     "matches": [
+        {
+            "event_category": "Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536386_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Australia vs New Zealand - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641"
+        },
+        {
+            "event_category": "Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536387_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Scotland vs South Africa - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
