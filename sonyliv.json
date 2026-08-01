@@ -1,8 +1,73 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:29:06 01-08-2026",
+    "last update time": "13:39:15 01-08-2026",
     "matches": [
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Day 9 - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Day 9 - 1 Aug 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Day 9 - 1 Aug 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Day 9 - 1 Aug 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090536267_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367855753494_CWG26_generic_day9_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Day 9 - 1 Aug 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d"
+        },
         {
             "event_category": "Bowls and Para Bowls",
             "isLive": true,
@@ -11,10 +76,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Australia vs New Zealand - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614345~acl=/*~id=49987865884777078223165839811865~hmac=14ba634c1c41119c1b780a03429cb0ac1881964526631b2ac46397cfcf481bba",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614345~acl=/*~id=49987865884777078223165839811865~hmac=14ba634c1c41119c1b780a03429cb0ac1881964526631b2ac46397cfcf481bba",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614345~acl=/*~id=49987865884777078223165839811865~hmac=14ba634c1c41119c1b780a03429cb0ac1881964526631b2ac46397cfcf481bba"
+            "match_name": "Wales vs Jersey - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d"
         },
         {
             "event_category": "Bowls and Para Bowls",
@@ -24,10 +89,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Scotland vs South Africa - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614345~acl=/*~id=49987865884777078223165839811865~hmac=14ba634c1c41119c1b780a03429cb0ac1881964526631b2ac46397cfcf481bba",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614345~acl=/*~id=49987865884777078223165839811865~hmac=14ba634c1c41119c1b780a03429cb0ac1881964526631b2ac46397cfcf481bba",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614345~acl=/*~id=49987865884777078223165839811865~hmac=14ba634c1c41119c1b780a03429cb0ac1881964526631b2ac46397cfcf481bba"
+            "match_name": "Malaysia vs Guernsey - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785614952~acl=/*~id=06978769068686275326602669682366~hmac=e4151bfd5510dd9a7471044f178f10eed077375424cb5d73d8ec5a31e671ff2d"
         },
         {
             "event_category": "Cricket",
