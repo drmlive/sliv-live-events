@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:00:30 03-08-2026",
+    "last update time": "18:10:36 03-08-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090538482_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021724/1785685451504545_dc26_Trau_FC_vs_FC_Raengdai_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "Trau FC vs FC Raengdai - 3 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785803429~acl=/*~id=41517281928183991734231828224071~hmac=db57eb8a2616a61def81b80398207d16d966d1a45a8e9c15f842443926c1571c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785803429~acl=/*~id=41517281928183991734231828224071~hmac=db57eb8a2616a61def81b80398207d16d966d1a45a8e9c15f842443926c1571c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785803429~acl=/*~id=41517281928183991734231828224071~hmac=db57eb8a2616a61def81b80398207d16d966d1a45a8e9c15f842443926c1571c"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090538473_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021699/1785656741173561_DURAND_CUP_2026_Karbi-Anglong-Morning-Star-FC-vs-FC-1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "Karbi Anglong Morning Star FC vs FC 1 - 3 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785803429~acl=/*~id=41517281928183991734231828224071~hmac=db57eb8a2616a61def81b80398207d16d966d1a45a8e9c15f842443926c1571c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785803429~acl=/*~id=41517281928183991734231828224071~hmac=db57eb8a2616a61def81b80398207d16d966d1a45a8e9c15f842443926c1571c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785803429~acl=/*~id=41517281928183991734231828224071~hmac=db57eb8a2616a61def81b80398207d16d966d1a45a8e9c15f842443926c1571c"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
