@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:38:26 04-08-2026",
+    "last update time": "19:48:30 04-08-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "Mohun Bagan Super Giant vs South United FC - 4 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785895706~acl=/*~id=35869295967511021669614261649141~hmac=4a2db26613f91decab684fbb1146cee52fd424ed6055b879a0ecd21261a4a40c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785895706~acl=/*~id=35869295967511021669614261649141~hmac=4a2db26613f91decab684fbb1146cee52fd424ed6055b879a0ecd21261a4a40c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785895706~acl=/*~id=35869295967511021669614261649141~hmac=4a2db26613f91decab684fbb1146cee52fd424ed6055b879a0ecd21261a4a40c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785896309~acl=/*~id=29621428859628871245862551222748~hmac=45406450aba58f95c9daa8160c25f17841d1a479d8f22e9980b9e81c283057ea",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785896309~acl=/*~id=29621428859628871245862551222748~hmac=45406450aba58f95c9daa8160c25f17841d1a479d8f22e9980b9e81c283057ea",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785896309~acl=/*~id=29621428859628871245862551222748~hmac=45406450aba58f95c9daa8160c25f17841d1a479d8f22e9980b9e81c283057ea"
         },
         {
             "event_category": "Cricket",
@@ -24,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090538616,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021788/1785851912001999_UEFA_supercup_psg_aston_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026"
         },
         {
             "event_category": "Football",
