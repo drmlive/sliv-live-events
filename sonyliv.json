@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:47:52 04-08-2026",
+    "last update time": "18:57:59 04-08-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "Jamshedpur FC vs SC Delhi - 4 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Jamshedp0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785892672~acl=/*~id=15062700457490021075474962322838~hmac=67370e7bfc02c0efc79c88fcfa0eebf8946c897a05d0bcfc6440029f28651658",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Jamshedp0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785892672~acl=/*~id=15062700457490021075474962322838~hmac=67370e7bfc02c0efc79c88fcfa0eebf8946c897a05d0bcfc6440029f28651658",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Jamshedp0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785892672~acl=/*~id=15062700457490021075474962322838~hmac=67370e7bfc02c0efc79c88fcfa0eebf8946c897a05d0bcfc6440029f28651658"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Jamshedp0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785893278~acl=/*~id=23050157995297615685436094975170~hmac=391443fc4400ce73bb1bc81cd0b6c6fc1b4ffd105f3e0404835a15431117922d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Jamshedp0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785893278~acl=/*~id=23050157995297615685436094975170~hmac=391443fc4400ce73bb1bc81cd0b6c6fc1b4ffd105f3e0404835a15431117922d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Jamshedp0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785893278~acl=/*~id=23050157995297615685436094975170~hmac=391443fc4400ce73bb1bc81cd0b6c6fc1b4ffd105f3e0404835a15431117922d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538581_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785706212319385_DC26_Mohun_Bagan_SG_vs_South_United_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "Mohun Bagan Super Giant vs South United FC - 4 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785893278~acl=/*~id=23050157995297615685436094975170~hmac=391443fc4400ce73bb1bc81cd0b6c6fc1b4ffd105f3e0404835a15431117922d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785893278~acl=/*~id=23050157995297615685436094975170~hmac=391443fc4400ce73bb1bc81cd0b6c6fc1b4ffd105f3e0404835a15431117922d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/football0408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785893278~acl=/*~id=23050157995297615685436094975170~hmac=391443fc4400ce73bb1bc81cd0b6c6fc1b4ffd105f3e0404835a15431117922d"
         },
         {
             "event_category": "Cricket",
