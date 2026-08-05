@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:11:23 05-08-2026",
+    "last update time": "15:21:31 05-08-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538623_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785706334820385_DC26_Neroca_FC_vs_Indian_Navy_FT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "Neroca FC vs Indian Navy FT  - 5 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785966690~acl=/*~id=83175797595231360087759572724359~hmac=025694415ea33811733f883d556d927df239d0647cea45492067f7ee241356ad",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785966690~acl=/*~id=83175797595231360087759572724359~hmac=025694415ea33811733f883d556d927df239d0647cea45492067f7ee241356ad",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785966690~acl=/*~id=83175797595231360087759572724359~hmac=025694415ea33811733f883d556d927df239d0647cea45492067f7ee241356ad"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
