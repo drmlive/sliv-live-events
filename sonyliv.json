@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:13:15 05-08-2026",
+    "last update time": "18:23:20 05-08-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538625_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707218265385_DC26_India_Army_FT_vs_Baghpat_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "India Army FT vs Baghpat FC - 5 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785977600~acl=/*~id=05256627916414709787458971564037~hmac=bda8e5b4c6fcc9b704637d02dbab34977a4ae61846f5cf9e0b43a89e1161f390",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785977600~acl=/*~id=05256627916414709787458971564037~hmac=bda8e5b4c6fcc9b704637d02dbab34977a4ae61846f5cf9e0b43a89e1161f390",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785977600~acl=/*~id=05256627916414709787458971564037~hmac=bda8e5b4c6fcc9b704637d02dbab34977a4ae61846f5cf9e0b43a89e1161f390"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
