@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:03:30 07-08-2026",
+    "last update time": "18:13:36 07-08-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090538721_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707590058385_DC26_SC_DELHI_vs_Defenders_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "SC DELHI vs Defenders FC - 7 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786149210~acl=/*~id=68386525072243230003671646789720~hmac=0ed0887efd70ea2f7c572021195c74cb16e616db90c598d09d0338e2ec59a7b4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786149210~acl=/*~id=68386525072243230003671646789720~hmac=0ed0887efd70ea2f7c572021195c74cb16e616db90c598d09d0338e2ec59a7b4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786149210~acl=/*~id=68386525072243230003671646789720~hmac=0ed0887efd70ea2f7c572021195c74cb16e616db90c598d09d0338e2ec59a7b4"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -29,7 +16,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021750/1785755907258469_SL_vs_IND_1st_Test_Promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021896/1786105413524557_sl_vs_ind_1st_test_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
