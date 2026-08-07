@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:23:44 07-08-2026",
+    "last update time": "18:33:53 07-08-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "East Bengal FC vs South United FC - 7 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786150424~acl=/*~id=80999601491450008835077363386491~hmac=3b21438a208c6c8097cf92c239559910e98f56de8a645d7601b5550ffd2de3c0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786150424~acl=/*~id=80999601491450008835077363386491~hmac=3b21438a208c6c8097cf92c239559910e98f56de8a645d7601b5550ffd2de3c0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786150424~acl=/*~id=80999601491450008835077363386491~hmac=3b21438a208c6c8097cf92c239559910e98f56de8a645d7601b5550ffd2de3c0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786151031~acl=/*~id=97670643360654298636881936342051~hmac=7f6cb0816a152e8085195a516beb187d7ab4d1e9a3ab87f67ba279d686c78fd3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786151031~acl=/*~id=97670643360654298636881936342051~hmac=7f6cb0816a152e8085195a516beb187d7ab4d1e9a3ab87f67ba279d686c78fd3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786151031~acl=/*~id=97670643360654298636881936342051~hmac=7f6cb0816a152e8085195a516beb187d7ab4d1e9a3ab87f67ba279d686c78fd3"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090538734_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600775209347_Vitality_Mixed_Disability_2nd_T20i_England_vs_India_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Mixed Disability IT20 series",
+            "match_name": "England vs India - 2nd T20I - 7 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786151031~acl=/*~id=97670643360654298636881936342051~hmac=7f6cb0816a152e8085195a516beb187d7ab4d1e9a3ab87f67ba279d686c78fd3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786151031~acl=/*~id=97670643360654298636881936342051~hmac=7f6cb0816a152e8085195a516beb187d7ab4d1e9a3ab87f67ba279d686c78fd3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786151031~acl=/*~id=97670643360654298636881936342051~hmac=7f6cb0816a152e8085195a516beb187d7ab4d1e9a3ab87f67ba279d686c78fd3"
         },
         {
             "event_category": "Football",
