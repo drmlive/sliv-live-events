@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:37:11 07-08-2026",
+    "last update time": "22:47:17 07-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090538734_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600775209347_Vitality_Mixed_Disability_2nd_T20i_England_vs_India_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Vitality Mixed Disability IT20 series",
-            "match_name": "England vs India - 2nd T20I - 7 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786165630~acl=/*~id=73013878783705645396280224802772~hmac=3c58ea2b11bf81ac69bf25a2962ce1d8a98dfd681519fbee78905ac4ef4d3aee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786165630~acl=/*~id=73013878783705645396280224802772~hmac=3c58ea2b11bf81ac69bf25a2962ce1d8a98dfd681519fbee78905ac4ef4d3aee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786165630~acl=/*~id=73013878783705645396280224802772~hmac=3c58ea2b11bf81ac69bf25a2962ce1d8a98dfd681519fbee78905ac4ef4d3aee"
-        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "New York - Day 2 - 7 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786165630~acl=/*~id=73013878783705645396280224802772~hmac=3c58ea2b11bf81ac69bf25a2962ce1d8a98dfd681519fbee78905ac4ef4d3aee",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786165630~acl=/*~id=73013878783705645396280224802772~hmac=3c58ea2b11bf81ac69bf25a2962ce1d8a98dfd681519fbee78905ac4ef4d3aee",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786165630~acl=/*~id=73013878783705645396280224802772~hmac=3c58ea2b11bf81ac69bf25a2962ce1d8a98dfd681519fbee78905ac4ef4d3aee"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786166237~acl=/*~id=68678471509750339559868174353584~hmac=5f30d28084d88ac8718d2786f5436c3284b351e377a57e40464bc3aaf1cf016b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786166237~acl=/*~id=68678471509750339559868174353584~hmac=5f30d28084d88ac8718d2786f5436c3284b351e377a57e40464bc3aaf1cf016b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786166237~acl=/*~id=68678471509750339559868174353584~hmac=5f30d28084d88ac8718d2786f5436c3284b351e377a57e40464bc3aaf1cf016b"
         },
         {
             "event_category": "Football",
