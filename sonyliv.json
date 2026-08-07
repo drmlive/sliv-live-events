@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:32:22 07-08-2026",
+    "last update time": "16:42:30 07-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 1 - SLC XI vs IND - Warm-Up Match - 7 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786143741~acl=/*~id=30461547258258447886403400961353~hmac=0bfe645e4ffe784c3a818937bedc12617431e4da1fcfba5454de96f6aafd2ba8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786143741~acl=/*~id=30461547258258447886403400961353~hmac=0bfe645e4ffe784c3a818937bedc12617431e4da1fcfba5454de96f6aafd2ba8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786143741~acl=/*~id=30461547258258447886403400961353~hmac=0bfe645e4ffe784c3a818937bedc12617431e4da1fcfba5454de96f6aafd2ba8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786144349~acl=/*~id=54442164057361869943432777416015~hmac=47e128f766098dc89e6dc19e457626c80c23c17af1a9997dcb906deffdb17498",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786144349~acl=/*~id=54442164057361869943432777416015~hmac=47e128f766098dc89e6dc19e457626c80c23c17af1a9997dcb906deffdb17498",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786144349~acl=/*~id=54442164057361869943432777416015~hmac=47e128f766098dc89e6dc19e457626c80c23c17af1a9997dcb906deffdb17498"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "SC DELHI vs Defenders FC - 7 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786143741~acl=/*~id=30461547258258447886403400961353~hmac=0bfe645e4ffe784c3a818937bedc12617431e4da1fcfba5454de96f6aafd2ba8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786143741~acl=/*~id=30461547258258447886403400961353~hmac=0bfe645e4ffe784c3a818937bedc12617431e4da1fcfba5454de96f6aafd2ba8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786143741~acl=/*~id=30461547258258447886403400961353~hmac=0bfe645e4ffe784c3a818937bedc12617431e4da1fcfba5454de96f6aafd2ba8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786144349~acl=/*~id=54442164057361869943432777416015~hmac=47e128f766098dc89e6dc19e457626c80c23c17af1a9997dcb906deffdb17498",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786144349~acl=/*~id=54442164057361869943432777416015~hmac=47e128f766098dc89e6dc19e457626c80c23c17af1a9997dcb906deffdb17498",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786144349~acl=/*~id=54442164057361869943432777416015~hmac=47e128f766098dc89e6dc19e457626c80c23c17af1a9997dcb906deffdb17498"
         },
         {
             "event_category": "Football",
@@ -39,15 +39,6 @@
             "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090538649,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592230632772_Community-Shield-2026_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090536992,
@@ -55,6 +46,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090538649,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592230632772_Community-Shield-2026_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026"
         },
         {
             "event_category": "Football",
