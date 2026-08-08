@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:17:16 08-08-2026",
+    "last update time": "15:27:24 08-08-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538814_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786225636~acl=/*~id=23928084884858988583229873362321~hmac=f7aba9122be4270ff1747007646323d548db228fd51c1e99e321ddff332582e8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786225636~acl=/*~id=23928084884858988583229873362321~hmac=f7aba9122be4270ff1747007646323d548db228fd51c1e99e321ddff332582e8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786225636~acl=/*~id=23928084884858988583229873362321~hmac=f7aba9122be4270ff1747007646323d548db228fd51c1e99e321ddff332582e8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61"
         },
         {
             "event_category": "Football",
@@ -29,7 +42,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021896/1786105413524557_sl_vs_ind_1st_test_dated_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021918/1786181848352498_SLvsIND_7day_to_go_landscpae_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
