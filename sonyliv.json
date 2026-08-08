@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:19:36 08-08-2026",
+    "last update time": "18:29:42 08-08-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538815_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708004800385_DC26_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "North East United FC vs Karbi Anglong Morning Star FC - 8 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786237182~acl=/*~id=21944549614740286945637835689886~hmac=ab3caa14f4ae0ce1fb818fb345b01c69632c796d61282c63f1303487c5e151ce",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786237182~acl=/*~id=21944549614740286945637835689886~hmac=ab3caa14f4ae0ce1fb818fb345b01c69632c796d61282c63f1303487c5e151ce",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786237182~acl=/*~id=21944549614740286945637835689886~hmac=ab3caa14f4ae0ce1fb818fb345b01c69632c796d61282c63f1303487c5e151ce"
+        },
         {
             "event_category": "Football",
             "isLive": false,
