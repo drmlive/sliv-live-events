@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:14:12 09-08-2026",
+    "last update time": "15:24:24 09-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786311851~acl=/*~id=87436253859341136357810818235385~hmac=ff99ce196c3152d9e695542d9ec093948cc1e78b73ef5724892446c3ad28b3a0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786311851~acl=/*~id=87436253859341136357810818235385~hmac=ff99ce196c3152d9e695542d9ec093948cc1e78b73ef5724892446c3ad28b3a0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786311851~acl=/*~id=87436253859341136357810818235385~hmac=ff99ce196c3152d9e695542d9ec093948cc1e78b73ef5724892446c3ad28b3a0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786312460~acl=/*~id=10747791292297950621284667967348~hmac=3c104695a3f096e534e14c630cfb66a484a3b156bb20cc504e4a2fd38e98b788",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786312460~acl=/*~id=10747791292297950621284667967348~hmac=3c104695a3f096e534e14c630cfb66a484a3b156bb20cc504e4a2fd38e98b788",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786312460~acl=/*~id=10747791292297950621284667967348~hmac=3c104695a3f096e534e14c630cfb66a484a3b156bb20cc504e4a2fd38e98b788"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538834_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708165809385_DC26_Trau_FC_vs_Indian_Navy_FT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "Trau FC vs Indian Navy FT - 9 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786312460~acl=/*~id=10747791292297950621284667967348~hmac=3c104695a3f096e534e14c630cfb66a484a3b156bb20cc504e4a2fd38e98b788",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786312460~acl=/*~id=10747791292297950621284667967348~hmac=3c104695a3f096e534e14c630cfb66a484a3b156bb20cc504e4a2fd38e98b788",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786312460~acl=/*~id=10747791292297950621284667967348~hmac=3c104695a3f096e534e14c630cfb66a484a3b156bb20cc504e4a2fd38e98b788"
         },
         {
             "event_category": "Football",
