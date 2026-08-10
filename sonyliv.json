@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:02:19 10-08-2026",
+    "last update time": "18:12:25 10-08-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090538900_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708329156385_DC26_Mohun_Bagan_SG_vs_CISF_Protectors_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "Mohun Bagan SG vs CISF Protectors - 10 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786408338~acl=/*~id=35715693057890438476338272882913~hmac=b14b4047c421256dfab91255058b3b5d28e748f1453357c0bd5aaf97ea98a158",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786408338~acl=/*~id=35715693057890438476338272882913~hmac=b14b4047c421256dfab91255058b3b5d28e748f1453357c0bd5aaf97ea98a158",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786408338~acl=/*~id=35715693057890438476338272882913~hmac=b14b4047c421256dfab91255058b3b5d28e748f1453357c0bd5aaf97ea98a158"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -55,20 +42,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090538916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021948/1786253388496755_NZ_vs_IND_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090538884,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021930/1786196201785386_asia_cup_w26_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women's Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021948/1786253388496755_NZ_vs_IND_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
         },
         {
             "event_category": "Cricket",
