@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:12:25 10-08-2026",
+    "last update time": "18:22:31 10-08-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538901_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708502815385_DC26_SC_DELHI_vs_Indian_Air_Force_FT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "SC Delhi vs Indian Air Force FT - 10 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786409551~acl=/*~id=41096060210138510341627713643763~hmac=2b1853da9f05c51987265830f1cc800cff09ae1e701c54ae289bd47a886a66e1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786409551~acl=/*~id=41096060210138510341627713643763~hmac=2b1853da9f05c51987265830f1cc800cff09ae1e701c54ae289bd47a886a66e1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786409551~acl=/*~id=41096060210138510341627713643763~hmac=2b1853da9f05c51987265830f1cc800cff09ae1e701c54ae289bd47a886a66e1"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
