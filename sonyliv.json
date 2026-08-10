@@ -1,17 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:57:45 10-08-2026",
+    "last update time": "11:07:51 10-08-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090538616,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021805/1785914804405356_UEFA-Super-Cup_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -20,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090538616,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021805/1785914804405356_UEFA-Super-Cup_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026"
         },
         {
             "event_category": "Football",
