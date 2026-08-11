@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:18:43 11-08-2026",
+    "last update time": "19:28:51 11-08-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "Nongkseh SS&CC vs Mumbay FC - 11 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786499323~acl=/*~id=64412886512732156164311402135028~hmac=71e3d3c00b44c3d7c6378f0121ce0728bc6d5977a06c588100d84cc88d616253",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786499323~acl=/*~id=64412886512732156164311402135028~hmac=71e3d3c00b44c3d7c6378f0121ce0728bc6d5977a06c588100d84cc88d616253",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786499323~acl=/*~id=64412886512732156164311402135028~hmac=71e3d3c00b44c3d7c6378f0121ce0728bc6d5977a06c588100d84cc88d616253"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786499930~acl=/*~id=71468410443575668602351127849757~hmac=c768bfc6f8fc5484d1e0bcc68f7b0a61947b2a99e3034f10f9e47ac2065493e1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786499930~acl=/*~id=71468410443575668602351127849757~hmac=c768bfc6f8fc5484d1e0bcc68f7b0a61947b2a99e3034f10f9e47ac2065493e1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786499930~acl=/*~id=71468410443575668602351127849757~hmac=c768bfc6f8fc5484d1e0bcc68f7b0a61947b2a99e3034f10f9e47ac2065493e1"
         },
         {
             "event_category": "Cricket",
@@ -55,20 +55,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021930/1786196201785386_asia_cup_w26_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090538916,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538884,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021930/1786196201785386_asia_cup_w26_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
         },
         {
             "event_category": "Cricket",
