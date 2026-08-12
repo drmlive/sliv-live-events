@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:43:14 12-08-2026",
+    "last update time": "16:53:23 12-08-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "Neroca FC vs FC Raengdai FT - 12 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786576394~acl=/*~id=08792115672463878391803347185035~hmac=851a02e8a4b2f5a56343c3795325a9edaf752d27d582ee7c7a15b2ea31f86995",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786576394~acl=/*~id=08792115672463878391803347185035~hmac=851a02e8a4b2f5a56343c3795325a9edaf752d27d582ee7c7a15b2ea31f86995",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786576394~acl=/*~id=08792115672463878391803347185035~hmac=851a02e8a4b2f5a56343c3795325a9edaf752d27d582ee7c7a15b2ea31f86995"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022068/1786459595694531_ind_vs_sl_tests_11aug_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786577002~acl=/*~id=95070049504773921647311545293999~hmac=ea2f8340926fd35f015ae1a3b373754f565299dad3e9316b0e1aac9b6a65f43a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786577002~acl=/*~id=95070049504773921647311545293999~hmac=ea2f8340926fd35f015ae1a3b373754f565299dad3e9316b0e1aac9b6a65f43a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786577002~acl=/*~id=95070049504773921647311545293999~hmac=ea2f8340926fd35f015ae1a3b373754f565299dad3e9316b0e1aac9b6a65f43a"
         },
         {
             "event_category": "Football",
@@ -33,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090536992,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022068/1786459595694531_ind_vs_sl_tests_11aug_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
         },
         {
             "event_category": "Football",
