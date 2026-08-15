@@ -1,72 +1,17 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:27:00 15-08-2026",
+    "last update time": "16:37:09 15-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090539201_ENG",
+            "contentId": 1090539201,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 1 - 1st Test - 15 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539201_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 1 - 1st Test - 15 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539201_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 1 - 1st Test - 15 Aug 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539201_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 1 - 1st Test - 15 Aug 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539201_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 1 - 1st Test - 15 Aug 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a"
+            "match_name": "Day 1 - 1st Test - 15 Aug 2026"
         },
         {
             "event_category": "Racing",
@@ -77,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "R16 - Hankook London E-Prix - Qualifying Race - 15 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786835228~acl=/*~id=00721868589501998264456978255004~hmac=3345d5fec0eeee1421cf9de3752a74e0940560d93adc04ac54f547ac3755fe20",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786835228~acl=/*~id=00721868589501998264456978255004~hmac=3345d5fec0eeee1421cf9de3752a74e0940560d93adc04ac54f547ac3755fe20",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786835228~acl=/*~id=00721868589501998264456978255004~hmac=3345d5fec0eeee1421cf9de3752a74e0940560d93adc04ac54f547ac3755fe20"
         },
         {
             "event_category": "Golf",
@@ -90,18 +35,18 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786835228~acl=/*~id=00721868589501998264456978255004~hmac=3345d5fec0eeee1421cf9de3752a74e0940560d93adc04ac54f547ac3755fe20",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786835228~acl=/*~id=00721868589501998264456978255004~hmac=3345d5fec0eeee1421cf9de3752a74e0940560d93adc04ac54f547ac3755fe20",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786835228~acl=/*~id=00721868589501998264456978255004~hmac=3345d5fec0eeee1421cf9de3752a74e0940560d93adc04ac54f547ac3755fe20"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Fight Sports",
             "isLive": false,
-            "contentId": 1090539152,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "contentId": 1090538996,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000603_UFC_330_Makhachev_vs_Machado_Garry_Landscape_Thumb_Dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 330 - Makhachev vs Machado Garry "
         },
         {
             "event_category": "Football",
@@ -111,6 +56,15 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
         },
         {
             "event_category": "Cricket",
@@ -129,15 +83,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Team India's Cricket Tours"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090538996,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022108/1786524872000603_UFC_330_Makhachev_vs_Machado_Garry_Landscape_Thumb_Dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 330 - Makhachev vs Machado Garry "
         },
         {
             "event_category": "Cricket",
@@ -180,27 +125,4 @@
             "isLive": false,
             "contentId": 1090536698,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020717/1784538251486112_DURAND_CUP_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Durand Cup 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090536899,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020726/1784552018456957_Durand_Cup_26_Promo-Thumbs_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Durand Cup 2026"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090539080,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
-        }
-    ]
-}
+            "broadcast_channel": "Sony Spor
