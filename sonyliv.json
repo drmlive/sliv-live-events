@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:08:15 15-08-2026",
+    "last update time": "18:18:23 15-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -22,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "R16 - Hankook London E-Prix - Final Race - 15 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786840694~acl=/*~id=29366625345142091052671363200538~hmac=5975931e5aa86733f288f84053df520fa9bb4598d37e1174a9a34dabc471080b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786840694~acl=/*~id=29366625345142091052671363200538~hmac=5975931e5aa86733f288f84053df520fa9bb4598d37e1174a9a34dabc471080b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786840694~acl=/*~id=29366625345142091052671363200538~hmac=5975931e5aa86733f288f84053df520fa9bb4598d37e1174a9a34dabc471080b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786841302~acl=/*~id=33201101501033947712506639892076~hmac=9cf7482e327f3acb4fbf2471530b22bcd6e657716f20486ada50c326502fecec",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786841302~acl=/*~id=33201101501033947712506639892076~hmac=9cf7482e327f3acb4fbf2471530b22bcd6e657716f20486ada50c326502fecec",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786841302~acl=/*~id=33201101501033947712506639892076~hmac=9cf7482e327f3acb4fbf2471530b22bcd6e657716f20486ada50c326502fecec"
         },
         {
             "event_category": "Golf",
@@ -35,9 +35,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786840694~acl=/*~id=29366625345142091052671363200538~hmac=5975931e5aa86733f288f84053df520fa9bb4598d37e1174a9a34dabc471080b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786840694~acl=/*~id=29366625345142091052671363200538~hmac=5975931e5aa86733f288f84053df520fa9bb4598d37e1174a9a34dabc471080b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786840694~acl=/*~id=29366625345142091052671363200538~hmac=5975931e5aa86733f288f84053df520fa9bb4598d37e1174a9a34dabc471080b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786841302~acl=/*~id=33201101501033947712506639892076~hmac=9cf7482e327f3acb4fbf2471530b22bcd6e657716f20486ada50c326502fecec",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786841302~acl=/*~id=33201101501033947712506639892076~hmac=9cf7482e327f3acb4fbf2471530b22bcd6e657716f20486ada50c326502fecec",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786841302~acl=/*~id=33201101501033947712506639892076~hmac=9cf7482e327f3acb4fbf2471530b22bcd6e657716f20486ada50c326502fecec"
         },
         {
             "event_category": "Fight Sports",
@@ -126,4 +126,26 @@
             "contentId": 1090536698,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020717/1784538251486112_DURAND_CUP_2026_GOB_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-           
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020726/1784552018456957_Durand_Cup_26_Promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090539080,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        }
+    ]
+}
