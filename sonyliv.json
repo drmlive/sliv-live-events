@@ -1,8 +1,18 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:56:07 16-08-2026",
+    "last update time": "06:06:13 16-08-2026",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": 1090539297,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022181/1786691707375354_UFC_330_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 330 - Makhachev vs Machado Garry",
+            "match_name": "UFC 330 - Makhachev vs Machado Garry - 16 Aug 2026"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": true,
