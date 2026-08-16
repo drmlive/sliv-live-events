@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:54:30 16-08-2026",
+    "last update time": "18:04:39 16-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -24,6 +24,19 @@
             "match_name": "SC Delhi vs FC Raengdai - Quarter Final 1 - 16 Aug 2026"
         },
         {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": "1090539307_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship",
+            "match_name": "R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926878~acl=/*~id=59156945750482220815100934660376~hmac=5a4d342454de4fd51331a835a3a0ec5f451e7e36e3f0d4a74968887edda8f160",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926878~acl=/*~id=59156945750482220815100934660376~hmac=5a4d342454de4fd51331a835a3a0ec5f451e7e36e3f0d4a74968887edda8f160",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926878~acl=/*~id=59156945750482220815100934660376~hmac=5a4d342454de4fd51331a835a3a0ec5f451e7e36e3f0d4a74968887edda8f160"
+        },
+        {
             "event_category": "Golf",
             "isLive": true,
             "contentId": "1090539358_ENG",
@@ -32,9 +45,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Danish Golf Championship - Day 4 - 16 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926270~acl=/*~id=59979864023638275169178459792718~hmac=6a74d5b00ce925a6a535b3b5f9bb5cfca30ffa7eac74f42e277faefae7105b8b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926270~acl=/*~id=59979864023638275169178459792718~hmac=6a74d5b00ce925a6a535b3b5f9bb5cfca30ffa7eac74f42e277faefae7105b8b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926270~acl=/*~id=59979864023638275169178459792718~hmac=6a74d5b00ce925a6a535b3b5f9bb5cfca30ffa7eac74f42e277faefae7105b8b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926878~acl=/*~id=59156945750482220815100934660376~hmac=5a4d342454de4fd51331a835a3a0ec5f451e7e36e3f0d4a74968887edda8f160",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926878~acl=/*~id=59156945750482220815100934660376~hmac=5a4d342454de4fd51331a835a3a0ec5f451e7e36e3f0d4a74968887edda8f160",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786926878~acl=/*~id=59156945750482220815100934660376~hmac=5a4d342454de4fd51331a835a3a0ec5f451e7e36e3f0d4a74968887edda8f160"
         },
         {
             "event_category": "Football",
