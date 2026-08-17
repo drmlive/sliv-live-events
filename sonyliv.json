@@ -1,18 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:54:47 17-08-2026",
+    "last update time": "21:04:53 17-08-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": 1090539452,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022301/1786879171557753_DurandCup_QF_Shillong_Lajong_FC_vs_NorthEast_United_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "Shillong Lajong FC vs NorthEast United FC - Quarter Final 4 - 17 Aug 2026"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -25,20 +15,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090539554,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976983219557_PAK_ENG_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of England 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090538884,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022339/1786951538687504_asia_cup_w26_dated_rev_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women's Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539554,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976983219557_PAK_ENG_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pakistan Tour of England 2026"
         },
         {
             "event_category": "Cricket",
