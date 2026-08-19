@@ -1,30 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:39:35 19-08-2026",
+    "last update time": "18:49:43 19-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
             "contentId": "1090539718_English",
-            "src": "https://img.media.jio.com/tvpimages/26/82/3351927cebe858f996dcc48366ad739a_1787144223121_l_medium.jpg",
+            "src": "https://img.media.jio.com/tvpimages/26/82/3351927cebe858f996dcc48366ad739a_1787145308694_l_medium.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "English",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 1st Test - 19 Aug 2026 [English]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787188174~acl=/*~id=84250875839608352965448661348584~hmac=54df5dd0e3498023029bd8cd4ae6575ec087b87a6b4c9104c634135964039304",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787188174~acl=/*~id=84250875839608352965448661348584~hmac=54df5dd0e3498023029bd8cd4ae6575ec087b87a6b4c9104c634135964039304",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787188174~acl=/*~id=84250875839608352965448661348584~hmac=54df5dd0e3498023029bd8cd4ae6575ec087b87a6b4c9104c634135964039304"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787188783~acl=/*~id=93275684033091079162643587244898~hmac=c59e6a4092937c97b30da68570e068e7713f2cf9656351527b93732f2f19232d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787188783~acl=/*~id=93275684033091079162643587244898~hmac=c59e6a4092937c97b30da68570e068e7713f2cf9656351527b93732f2f19232d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787188783~acl=/*~id=93275684033091079162643587244898~hmac=c59e6a4092937c97b30da68570e068e7713f2cf9656351527b93732f2f19232d"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": 1090539668,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022423/1787043486579998_Durand_cup_S-F_SC-Delhi-vs-East-Bengal-FC_live_landscape_thumb.jpg",
+            "contentId": "1090539668_English",
+            "src": "https://img.media.jio.com/tvpimages/64/40/8c9edb6ba0185537934ae329056fadf2_1787145308727_l_medium.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
+            "audioLanguageName": "English",
             "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "SC Delhi vs East Bengal FC - Semi-Final - 19 Aug 2026"
+            "match_name": "SC Delhi vs East Bengal FC - Semi-Final - 19 Aug 2026 [English]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787188783~acl=/*~id=93275684033091079162643587244898~hmac=c59e6a4092937c97b30da68570e068e7713f2cf9656351527b93732f2f19232d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787188783~acl=/*~id=93275684033091079162643587244898~hmac=c59e6a4092937c97b30da68570e068e7713f2cf9656351527b93732f2f19232d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787188783~acl=/*~id=93275684033091079162643587244898~hmac=c59e6a4092937c97b30da68570e068e7713f2cf9656351527b93732f2f19232d"
         },
         {
             "event_category": "Cricket",
