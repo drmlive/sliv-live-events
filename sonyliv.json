@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:30:23 19-08-2026",
+    "last update time": "19:40:33 19-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "English",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 1st Test - 19 Aug 2026 [English]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787191222~acl=/*~id=39024524701127880309529714335947~hmac=4435f8db39e6bb4c4a72c721bde8afb96f89fa136d7a42990b9f9b8229f4df75",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787191222~acl=/*~id=39024524701127880309529714335947~hmac=4435f8db39e6bb4c4a72c721bde8afb96f89fa136d7a42990b9f9b8229f4df75",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787191222~acl=/*~id=39024524701127880309529714335947~hmac=4435f8db39e6bb4c4a72c721bde8afb96f89fa136d7a42990b9f9b8229f4df75"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,22 @@
             "audioLanguageName": "English",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "SC Delhi vs East Bengal FC - Semi-Final - 19 Aug 2026 [English]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787191222~acl=/*~id=39024524701127880309529714335947~hmac=4435f8db39e6bb4c4a72c721bde8afb96f89fa136d7a42990b9f9b8229f4df75",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787191222~acl=/*~id=39024524701127880309529714335947~hmac=4435f8db39e6bb4c4a72c721bde8afb96f89fa136d7a42990b9f9b8229f4df75",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787191222~acl=/*~id=39024524701127880309529714335947~hmac=4435f8db39e6bb4c4a72c721bde8afb96f89fa136d7a42990b9f9b8229f4df75"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090539717_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182966623520_Vitality_Mixed_Disability_7th_T20i_England_vs_India_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Mixed Disability IT20 series",
+            "match_name": "England vs India - 7th T20I - 19 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787191832~acl=/*~id=70023537607194100872498815664076~hmac=9e51fc665f1992f0f862443e19072e8cbfa7aa021e7543579c2a4526027f482d"
         },
         {
             "event_category": "Cricket",
