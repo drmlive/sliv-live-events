@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:04:50 20-08-2026",
+    "last update time": "00:14:58 20-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539718_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pakistan Tour of England 2026",
-            "match_name": "Day 1 - 1st Test - 19 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787207688~acl=/*~id=86521797029161610385589156636203~hmac=add883f59cf16eeb3ed977b43c6b4c68148214c59e299a6f71447384749afea0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787207688~acl=/*~id=86521797029161610385589156636203~hmac=add883f59cf16eeb3ed977b43c6b4c68148214c59e299a6f71447384749afea0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787207688~acl=/*~id=86521797029161610385589156636203~hmac=add883f59cf16eeb3ed977b43c6b4c68148214c59e299a6f71447384749afea0"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -136,4 +123,33 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - ACC Women's Asia Cup 2026"
-  
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539212,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022170/1786640578574944_slvsind_rahane_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India Tour of Sri Lanka - Ajinkya Rahane"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976925699557_IND_PAK_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020779/1784718981413823_DC26_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Durand Cup 2026"
+        }
+    ]
+}
