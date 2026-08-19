@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:24:16 19-08-2026",
+    "last update time": "23:34:23 19-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 1st Test - 19 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787205256~acl=/*~id=86731956853902471292299408173114~hmac=d7b4e1dca3979bf6b5fdd5a326a8769abcb993b6d1a248cfb7243c18be7eb048",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787205256~acl=/*~id=86731956853902471292299408173114~hmac=d7b4e1dca3979bf6b5fdd5a326a8769abcb993b6d1a248cfb7243c18be7eb048",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787205256~acl=/*~id=86731956853902471292299408173114~hmac=d7b4e1dca3979bf6b5fdd5a326a8769abcb993b6d1a248cfb7243c18be7eb048"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787205863~acl=/*~id=16695887412262989619033922102812~hmac=6716f53e9ed42420651288c70ee2bf899b5cb8abb054d2a28c829ecca1df0008",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787205863~acl=/*~id=16695887412262989619033922102812~hmac=6716f53e9ed42420651288c70ee2bf899b5cb8abb054d2a28c829ecca1df0008",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787205863~acl=/*~id=16695887412262989619033922102812~hmac=6716f53e9ed42420651288c70ee2bf899b5cb8abb054d2a28c829ecca1df0008"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539595,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022398/1787028203163457_SL_vs_IND_2nd_Test_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of Sri Lanka 2nd Test"
         },
         {
             "event_category": "Cricket",
@@ -51,15 +60,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of England 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090539595,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022398/1787028203163457_SL_vs_IND_2nd_Test_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of Sri Lanka 2nd Test"
         },
         {
             "event_category": "Cricket",
