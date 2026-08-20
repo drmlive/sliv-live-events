@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:46:37 20-08-2026",
+    "last update time": "17:56:46 20-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 2 - 1st Test - 20 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787271397~acl=/*~id=50509765436269158204399516367688~hmac=22d0b8f8c606c911f77d651624e43d254e0a6eaef15c5e31a1d3df82bce50563",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787271397~acl=/*~id=50509765436269158204399516367688~hmac=22d0b8f8c606c911f77d651624e43d254e0a6eaef15c5e31a1d3df82bce50563",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787271397~acl=/*~id=50509765436269158204399516367688~hmac=22d0b8f8c606c911f77d651624e43d254e0a6eaef15c5e31a1d3df82bce50563"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787272005~acl=/*~id=15255952367789082339305273485503~hmac=44fb1db670b33670b8ae22b7d56649f2d85fdf6d75f22b89a468c1d7e57e0915",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787272005~acl=/*~id=15255952367789082339305273485503~hmac=44fb1db670b33670b8ae22b7d56649f2d85fdf6d75f22b89a468c1d7e57e0915",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787272005~acl=/*~id=15255952367789082339305273485503~hmac=44fb1db670b33670b8ae22b7d56649f2d85fdf6d75f22b89a468c1d7e57e0915"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Nexo Championship - Day 1 - 20 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787271397~acl=/*~id=50509765436269158204399516367688~hmac=22d0b8f8c606c911f77d651624e43d254e0a6eaef15c5e31a1d3df82bce50563",
-            "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787271397~acl=/*~id=50509765436269158204399516367688~hmac=22d0b8f8c606c911f77d651624e43d254e0a6eaef15c5e31a1d3df82bce50563",
-            "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787271397~acl=/*~id=50509765436269158204399516367688~hmac=22d0b8f8c606c911f77d651624e43d254e0a6eaef15c5e31a1d3df82bce50563"
+            "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787272005~acl=/*~id=15255952367789082339305273485503~hmac=44fb1db670b33670b8ae22b7d56649f2d85fdf6d75f22b89a468c1d7e57e0915",
+            "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787272005~acl=/*~id=15255952367789082339305273485503~hmac=44fb1db670b33670b8ae22b7d56649f2d85fdf6d75f22b89a468c1d7e57e0915",
+            "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787272005~acl=/*~id=15255952367789082339305273485503~hmac=44fb1db670b33670b8ae22b7d56649f2d85fdf6d75f22b89a468c1d7e57e0915"
         },
         {
             "event_category": "Football",
@@ -46,15 +46,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka 2nd Test"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090539152,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
         },
         {
             "event_category": "Cricket",
@@ -104,20 +95,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090539563,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976877644557_Womens_Asia_Cup_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090539555,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976925699557_IND_PAK_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539563,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976877644557_Womens_Asia_Cup_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
         },
         {
             "event_category": "Football",
@@ -127,6 +118,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
         }
     ]
 }
