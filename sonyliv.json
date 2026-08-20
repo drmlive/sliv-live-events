@@ -1,17 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:44:46 20-08-2026",
+    "last update time": "15:54:56 20-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1090539798,
+            "contentId": "1090539798_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of England 2026",
-            "match_name": "Day 2 - 1st Test - 20 Aug 2026"
+            "match_name": "Day 2 - 1st Test - 20 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787264696~acl=/*~id=42922102959831095300811782613244~hmac=f7425f5f9ca6a0c59277c0a9628c62cb043ca7fabd4fe6c82f6a228149940c6b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787264696~acl=/*~id=42922102959831095300811782613244~hmac=f7425f5f9ca6a0c59277c0a9628c62cb043ca7fabd4fe6c82f6a228149940c6b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787264696~acl=/*~id=42922102959831095300811782613244~hmac=f7425f5f9ca6a0c59277c0a9628c62cb043ca7fabd4fe6c82f6a228149940c6b"
         },
         {
             "event_category": "Football",
