@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:42:45 21-08-2026",
+    "last update time": "00:52:54 21-08-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Indianapolis - Day 1 - 20 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296365~acl=/*~id=84283896717786759815260797192850~hmac=51dcf58a719a107e46013e1c42b879bcb9676340e076d9dc4e0c721ba822b997",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296365~acl=/*~id=84283896717786759815260797192850~hmac=51dcf58a719a107e46013e1c42b879bcb9676340e076d9dc4e0c721ba822b997",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296365~acl=/*~id=84283896717786759815260797192850~hmac=51dcf58a719a107e46013e1c42b879bcb9676340e076d9dc4e0c721ba822b997"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296974~acl=/*~id=32081794378576153463147558464299~hmac=009926423832a816705abd083b35b12e512aebb2d89ebca0175ff75c2720db54",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296974~acl=/*~id=32081794378576153463147558464299~hmac=009926423832a816705abd083b35b12e512aebb2d89ebca0175ff75c2720db54",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296974~acl=/*~id=32081794378576153463147558464299~hmac=009926423832a816705abd083b35b12e512aebb2d89ebca0175ff75c2720db54"
         },
         {
             "event_category": "Cricket",
@@ -33,15 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women's Asia Cup 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090539152,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
         },
         {
             "event_category": "Cricket",
@@ -105,6 +96,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
         }
     ]
 }
