@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:13:50 21-08-2026",
+    "last update time": "17:24:00 21-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,19 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 3 - 1st Test - 21 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787355830~acl=/*~id=51135916900101204589668859658717~hmac=77c2668d55ff470b9baab071d390708586e83f7afaf59ceacc32f78b390b5cad",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787355830~acl=/*~id=51135916900101204589668859658717~hmac=77c2668d55ff470b9baab071d390708586e83f7afaf59ceacc32f78b390b5cad",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787355830~acl=/*~id=51135916900101204589668859658717~hmac=77c2668d55ff470b9baab071d390708586e83f7afaf59ceacc32f78b390b5cad"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787356439~acl=/*~id=40790234922773455454243992547024~hmac=9ea1e655f91662fd645305b39ccf8f2158d5a52703ae190ab29b746d759a5297",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787356439~acl=/*~id=40790234922773455454243992547024~hmac=9ea1e655f91662fd645305b39ccf8f2158d5a52703ae190ab29b746d759a5297",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787356439~acl=/*~id=40790234922773455454243992547024~hmac=9ea1e655f91662fd645305b39ccf8f2158d5a52703ae190ab29b746d759a5297"
         },
         {
             "event_category": "Golf",
             "isLive": true,
-            "contentId": 1090539908,
+            "contentId": "1090539908_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
-            "match_name": "Nexo Championship - Day 2 - 21 Aug 2026"
+            "match_name": "Nexo Championship - Day 2 - 21 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787356439~acl=/*~id=40790234922773455454243992547024~hmac=9ea1e655f91662fd645305b39ccf8f2158d5a52703ae190ab29b746d759a5297",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787356439~acl=/*~id=40790234922773455454243992547024~hmac=9ea1e655f91662fd645305b39ccf8f2158d5a52703ae190ab29b746d759a5297",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787356439~acl=/*~id=40790234922773455454243992547024~hmac=9ea1e655f91662fd645305b39ccf8f2158d5a52703ae190ab29b746d759a5297"
         },
         {
             "event_category": "Cricket",
