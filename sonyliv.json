@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:34:54 21-08-2026",
+    "last update time": "18:45:03 21-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 3 - 1st Test - 21 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed"
         },
         {
             "event_category": "Golf",
@@ -25,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Nexo Championship - Day 2 - 21 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e"
+            "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed",
+            "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed",
+            "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed"
         },
         {
             "event_category": "Cricket",
@@ -96,7 +96,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090539080,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022659/1787315010873577_AsianGames26_Promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
