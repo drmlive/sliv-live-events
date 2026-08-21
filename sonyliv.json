@@ -1,20 +1,17 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:08:10 21-08-2026",
+    "last update time": "22:18:17 21-08-2026",
     "matches": [
         {
             "event_category": "Golf",
             "isLive": true,
-            "contentId": "1090539897_ENG",
+            "contentId": 1090539897,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702513096697_LIV_Golf_Indianapolis_day2_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
-            "match_name": "Indianapolis - Day 2 - 21 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787373490~acl=/*~id=44228750891321598665829015579736~hmac=c9ea44d4a270a7b9cf94011978075383273817a504f9b89902de0189a40b2470",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787373490~acl=/*~id=44228750891321598665829015579736~hmac=c9ea44d4a270a7b9cf94011978075383273817a504f9b89902de0189a40b2470",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787373490~acl=/*~id=44228750891321598665829015579736~hmac=c9ea44d4a270a7b9cf94011978075383273817a504f9b89902de0189a40b2470"
+            "match_name": "Indianapolis - Day 2 - 21 Aug 2026"
         },
         {
             "event_category": "Cricket",
