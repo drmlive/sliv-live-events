@@ -1,8 +1,27 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:29:27 22-08-2026",
+    "last update time": "16:39:34 22-08-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": 1090539982,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703750315390_DP_World_Tour_Nexo_Championship_day3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Nexo Championship - Day 3 - 22 Aug 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022642/1787294349221332_Durand_Cup_26_Final_East-Bengal-vs-Mohun-Bagan-Super-Giant_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Durand Cup 2026"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -20,15 +39,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women's Asia Cup 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090536986,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022642/1787294349221332_Durand_Cup_26_Final_East-Bengal-vs-Mohun-Bagan-Super-Giant_Promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Durand Cup 2026"
         },
         {
             "event_category": "Cricket",
