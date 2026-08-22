@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:16:16 23-08-2026",
+    "last update time": "00:26:27 23-08-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Indianapolis - Day 3 - 22 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787467576~acl=/*~id=61691612292388488586597604021336~hmac=ed5358a3e42ac15d3e1e45f5afa79e2993858fd49b97afda33ef3ac7c021e8cf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787467576~acl=/*~id=61691612292388488586597604021336~hmac=ed5358a3e42ac15d3e1e45f5afa79e2993858fd49b97afda33ef3ac7c021e8cf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787467576~acl=/*~id=61691612292388488586597604021336~hmac=ed5358a3e42ac15d3e1e45f5afa79e2993858fd49b97afda33ef3ac7c021e8cf"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787468187~acl=/*~id=76920115824976309025370293599980~hmac=aa2d78d783a75a12b3e17247c72cd1f5d479a278227d13858e9b73b257416194",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787468187~acl=/*~id=76920115824976309025370293599980~hmac=aa2d78d783a75a12b3e17247c72cd1f5d479a278227d13858e9b73b257416194",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787468187~acl=/*~id=76920115824976309025370293599980~hmac=aa2d78d783a75a12b3e17247c72cd1f5d479a278227d13858e9b73b257416194"
         },
         {
             "event_category": "Football",
@@ -140,4 +140,7 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Team In
+            "event_name": "Upcoming - Team India's Cricket Tours"
+        }
+    ]
+}
