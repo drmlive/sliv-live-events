@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:41:12 22-08-2026",
+    "last update time": "18:51:22 22-08-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Nexo Championship - Day 3 - 22 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787447472~acl=/*~id=69925129714686408664220154993613~hmac=aabd50a83f9455ad5e0307ddb33c6970d9f321555d4da8c9c690223b33daea5e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787447472~acl=/*~id=69925129714686408664220154993613~hmac=aabd50a83f9455ad5e0307ddb33c6970d9f321555d4da8c9c690223b33daea5e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787447472~acl=/*~id=69925129714686408664220154993613~hmac=aabd50a83f9455ad5e0307ddb33c6970d9f321555d4da8c9c690223b33daea5e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787448082~acl=/*~id=35136482881507929859047517435807~hmac=3bae8ac0ecb8271074195d5c97e06caf9203729228e791b6e71eb7d50e6b74c0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787448082~acl=/*~id=35136482881507929859047517435807~hmac=3bae8ac0ecb8271074195d5c97e06caf9203729228e791b6e71eb7d50e6b74c0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787448082~acl=/*~id=35136482881507929859047517435807~hmac=3bae8ac0ecb8271074195d5c97e06caf9203729228e791b6e71eb7d50e6b74c0"
         },
         {
             "event_category": "Football",
@@ -71,15 +71,6 @@
             "event_name": "Upcoming - Pakistan Tour of England 2026"
         },
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090539080,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090539555,
@@ -89,13 +80,13 @@
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Sports",
             "isLive": false,
-            "contentId": 1090539234,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg",
+            "contentId": 1090539080,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Team India's Cricket Tours"
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
@@ -141,6 +132,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "BEN",
             "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539234,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Team India's Cricket Tours"
         }
     ]
 }
