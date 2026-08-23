@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:31:25 23-08-2026",
+    "last update time": "07:41:32 23-08-2026",
     "matches": [
         {
             "event_category": "Fight Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Hernandez vs Rodrigues ",
             "match_name": "UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787493685~acl=/*~id=17814111616803408739460636705205~hmac=78e845f8e9cc1bffbed80492b351300972a6a4608678e422ace68111da54a95b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787493685~acl=/*~id=17814111616803408739460636705205~hmac=78e845f8e9cc1bffbed80492b351300972a6a4608678e422ace68111da54a95b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787493685~acl=/*~id=17814111616803408739460636705205~hmac=78e845f8e9cc1bffbed80492b351300972a6a4608678e422ace68111da54a95b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787494292~acl=/*~id=25346093033061982569664814384149~hmac=85366b730421eaa0798690f9394439ea7650ad8eb2abf07a3819a76126308000",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787494292~acl=/*~id=25346093033061982569664814384149~hmac=85366b730421eaa0798690f9394439ea7650ad8eb2abf07a3819a76126308000",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787494292~acl=/*~id=25346093033061982569664814384149~hmac=85366b730421eaa0798690f9394439ea7650ad8eb2abf07a3819a76126308000"
         },
         {
             "event_category": "Football",
@@ -139,4 +139,8 @@
             "contentId": 1090539234,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
- 
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Team India's Cricket Tours"
+        }
+    ]
+}
