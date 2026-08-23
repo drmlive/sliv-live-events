@@ -1,73 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:20:42 23-08-2026",
+    "last update time": "18:41:01 23-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540028_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "2nd Test - Day 1 - 23 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540028_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "2nd Test - Day 1 - 23 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540028_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "2nd Test - Day 1 - 23 Aug 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540028_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "2nd Test - Day 1 - 23 Aug 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540028_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "2nd Test - Day 1 - 23 Aug 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -77,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "East Bengal FC vs Mohun Bagan SG - Final - 23 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/East_Ben2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/East_Ben2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/East_Ben2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/East_Ben2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787533861~acl=/*~id=04473709177467107083761147557308~hmac=3c9818b2aff9d58537d3b3409c43e77d159fd12b5465cef778b828a28c9ea141",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/East_Ben2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787533861~acl=/*~id=04473709177467107083761147557308~hmac=3c9818b2aff9d58537d3b3409c43e77d159fd12b5465cef778b828a28c9ea141",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/East_Ben2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787533861~acl=/*~id=04473709177467107083761147557308~hmac=3c9818b2aff9d58537d3b3409c43e77d159fd12b5465cef778b828a28c9ea141"
         },
         {
             "event_category": "Golf",
@@ -90,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Nexo Championship - Day 4 - 23 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787532636~acl=/*~id=47260421877223567081224538546987~hmac=67f3b72f9699acd48250a708114246f4703275fe854c766efe69bef61e23c68f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787533861~acl=/*~id=04473709177467107083761147557308~hmac=3c9818b2aff9d58537d3b3409c43e77d159fd12b5465cef778b828a28c9ea141",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787533861~acl=/*~id=04473709177467107083761147557308~hmac=3c9818b2aff9d58537d3b3409c43e77d159fd12b5465cef778b828a28c9ea141",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_Nex2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787533861~acl=/*~id=04473709177467107083761147557308~hmac=3c9818b2aff9d58537d3b3409c43e77d159fd12b5465cef778b828a28c9ea141"
         },
         {
             "event_category": "Cricket",
