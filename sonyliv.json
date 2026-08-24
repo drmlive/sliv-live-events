@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:59:20 24-08-2026",
+    "last update time": "21:09:26 24-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,6 +56,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090540264,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022841/1787585153355535_UEFA_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester United - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Sports",
