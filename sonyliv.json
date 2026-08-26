@@ -1,8 +1,48 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:46:52 26-08-2026",
+    "last update time": "23:57:02 26-08-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090540471,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787231595649447_UCL_26_Play-offs-Leg2_Lyon-vs-Fenerbahce_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Lyon vs Fenerbahce - Play-offs - Leg 2 - 27 Aug 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090540475,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787228710390447_UCL_26_Play-offs-Leg2_Viking-vs-GNK-Dinamo_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Viking FK vs GNK Dinamo - Play-offs - Leg 2 - 27 Aug 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090540466,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787228338758447_UCL_26_Play-offs-Leg2_AEK-Athens-vs-Levski-Sofia_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "AEK vs Levski Sofia - Play-offs - Leg 2 - 27 Aug 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": 1090540476,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787227719504447_UCL_26_Play-offs-Leg2_Celje-vs-SBratislava_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Celje vs Slovan Bratislava - Play-offs - Leg 2 - 27 Aug 2026"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
