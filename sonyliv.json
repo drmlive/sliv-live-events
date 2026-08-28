@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:00:00 28-08-2026",
+    "last update time": "15:10:11 28-08-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090540725_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 2 - 2nd Test - 28 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256"
         },
         {
             "event_category": "Fight Sports",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256"
         },
         {
             "event_category": "Fight Sports",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256"
         },
         {
             "event_category": "Fight Sports",
@@ -51,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256"
         },
         {
             "event_category": "Fight Sports",
@@ -64,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256"
         },
         {
             "event_category": "Cricket",
@@ -77,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Rajasthan Rajvansh vs Golden Eagles Delhi - 28 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787952598~acl=/*~id=34061371184922376064808529530350~hmac=a3b9837d183ffdbc9e3cd157d609354d37cda2c9aa9801c78e8fa5db80a8a6d8"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787953208~acl=/*~id=64484648488414975280280635600436~hmac=366f9333c5136da0cd6c89748f877bf5aa97663dbcd7628dcdb8a45f74637256"
         },
         {
             "event_category": "Cricket",
