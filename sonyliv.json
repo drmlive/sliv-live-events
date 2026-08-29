@@ -1,8 +1,86 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:59:38 29-08-2026",
+    "last update time": "15:09:49 29-08-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090540809_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918548169954_ENGvsPAK_2nd_test_day3_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 3 - 2nd Test - 29 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090540822_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
+            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090540822_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
+            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090540822_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
+            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090540822_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
+            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090540822_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
+            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788038977~acl=/*~id=20411826579879185277661396035333~hmac=87283866abb45acbd2574f76d1f2768d153fbabf2e874a754b8ab4431da04593",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788038977~acl=/*~id=20411826579879185277661396035333~hmac=87283866abb45acbd2574f76d1f2768d153fbabf2e874a754b8ab4431da04593",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788038977~acl=/*~id=20411826579879185277661396035333~hmac=87283866abb45acbd2574f76d1f2768d153fbabf2e874a754b8ab4431da04593"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed"
         },
         {
             "event_category": "Golf",
@@ -25,9 +103,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Husqvarna British Masters - Day 3 - 29 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788038977~acl=/*~id=20411826579879185277661396035333~hmac=87283866abb45acbd2574f76d1f2768d153fbabf2e874a754b8ab4431da04593",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788038977~acl=/*~id=20411826579879185277661396035333~hmac=87283866abb45acbd2574f76d1f2768d153fbabf2e874a754b8ab4431da04593",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788038977~acl=/*~id=20411826579879185277661396035333~hmac=87283866abb45acbd2574f76d1f2768d153fbabf2e874a754b8ab4431da04593"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788039585~acl=/*~id=45619475811476301425741553189286~hmac=4a05ef0f62e68b8ae379bac640e2e0baefc4663fe99c134e6536ab4d182cc4ed"
         },
         {
             "event_category": "Cricket",
@@ -124,4 +202,18 @@
             "isLive": false,
             "contentId": 1090538916,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sport
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
+        }
+    ]
+}
