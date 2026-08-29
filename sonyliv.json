@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:28:17 29-08-2026",
+    "last update time": "13:38:26 29-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788033497~acl=/*~id=25818836927588610701641733017108~hmac=ffa600fd384b75a96ca045f8bcf914aadc1b19dd72ed72c9a6ec20c3bc4840a6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788033497~acl=/*~id=25818836927588610701641733017108~hmac=ffa600fd384b75a96ca045f8bcf914aadc1b19dd72ed72c9a6ec20c3bc4840a6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788033497~acl=/*~id=25818836927588610701641733017108~hmac=ffa600fd384b75a96ca045f8bcf914aadc1b19dd72ed72c9a6ec20c3bc4840a6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788034104~acl=/*~id=41762853035387158143012049659482~hmac=4ebd16ee17b676785d6b26320bbb049487c547e5763b360cf051a11065684f51",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788034104~acl=/*~id=41762853035387158143012049659482~hmac=4ebd16ee17b676785d6b26320bbb049487c547e5763b360cf051a11065684f51",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788034104~acl=/*~id=41762853035387158143012049659482~hmac=4ebd16ee17b676785d6b26320bbb049487c547e5763b360cf051a11065684f51"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090540811_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808412785204_DP_World_Tour_Husqvarna_British_Masters_day3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Husqvarna British Masters - Day 3 - 29 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788034104~acl=/*~id=41762853035387158143012049659482~hmac=4ebd16ee17b676785d6b26320bbb049487c547e5763b360cf051a11065684f51",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788034104~acl=/*~id=41762853035387158143012049659482~hmac=4ebd16ee17b676785d6b26320bbb049487c547e5763b360cf051a11065684f51",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788034104~acl=/*~id=41762853035387158143012049659482~hmac=4ebd16ee17b676785d6b26320bbb049487c547e5763b360cf051a11065684f51"
         },
         {
             "event_category": "Cricket",
