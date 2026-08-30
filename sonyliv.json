@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:17:50 31-08-2026",
+    "last update time": "00:27:56 31-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540930_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023160/1788010300533617_PunjabT20_League26_Amritsar_Soormas_vs_Mohali_Kings_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Punjab T20 League 2026",
-            "match_name": "Amritsar Soormas vs Mohali Kings - 30 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive3008/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788158869~acl=/*~id=57465475890096254504858604195069~hmac=5e33c9a1039fc85163c72ec14a29ab78df32b45ba8b5f1f3feb9cde65d859dac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive3008/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788158869~acl=/*~id=57465475890096254504858604195069~hmac=5e33c9a1039fc85163c72ec14a29ab78df32b45ba8b5f1f3feb9cde65d859dac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive3008/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788158869~acl=/*~id=57465475890096254504858604195069~hmac=5e33c9a1039fc85163c72ec14a29ab78df32b45ba8b5f1f3feb9cde65d859dac"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541007_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023193/1788103110820336_PunjabT20_League26_Amritsar_Soormas_vs_Mohali_Kings_landscape_thumb_punjabi.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "PAN",
-            "event_name": "Punjab T20 League 2026",
-            "match_name": "Amritsar Soormas vs Mohali Kings - 30 Aug 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive3008/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788158869~acl=/*~id=57465475890096254504858604195069~hmac=5e33c9a1039fc85163c72ec14a29ab78df32b45ba8b5f1f3feb9cde65d859dac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive3008/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788158869~acl=/*~id=57465475890096254504858604195069~hmac=5e33c9a1039fc85163c72ec14a29ab78df32b45ba8b5f1f3feb9cde65d859dac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive3008/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788158869~acl=/*~id=57465475890096254504858604195069~hmac=5e33c9a1039fc85163c72ec14a29ab78df32b45ba8b5f1f3feb9cde65d859dac"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
