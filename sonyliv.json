@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:58:36 30-08-2026",
+    "last update time": "15:08:46 30-08-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090540951_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918839284954_ENGvsPAK_2nd_test_day4_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 4 - 2nd Test - 30 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Rajasthan Rajvansh vs Royals Hyderabad - 30 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125314~acl=/*~id=56339688946388553323968478528386~hmac=4a4244e4f2a416d4c51b990bf4037e47804c025c759bcb3155e904ab1eb6ce3a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125314~acl=/*~id=56339688946388553323968478528386~hmac=4a4244e4f2a416d4c51b990bf4037e47804c025c759bcb3155e904ab1eb6ce3a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125314~acl=/*~id=56339688946388553323968478528386~hmac=4a4244e4f2a416d4c51b990bf4037e47804c025c759bcb3155e904ab1eb6ce3a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3"
         },
         {
             "event_category": "Golf",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Husqvarna British Masters - Day 4 - 30 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125314~acl=/*~id=56339688946388553323968478528386~hmac=4a4244e4f2a416d4c51b990bf4037e47804c025c759bcb3155e904ab1eb6ce3a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125314~acl=/*~id=56339688946388553323968478528386~hmac=4a4244e4f2a416d4c51b990bf4037e47804c025c759bcb3155e904ab1eb6ce3a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125314~acl=/*~id=56339688946388553323968478528386~hmac=4a4244e4f2a416d4c51b990bf4037e47804c025c759bcb3155e904ab1eb6ce3a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788125923~acl=/*~id=44633854595978402813130056857246~hmac=d9d88fcfac56dd2c3ebd98c3229cf33a8c9f372f6b663079ca953b2de510aee3"
         },
         {
             "event_category": "Cricket",
