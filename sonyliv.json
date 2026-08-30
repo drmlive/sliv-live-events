@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:57:41 30-08-2026",
+    "last update time": "14:07:51 30-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Rajasthan Rajvansh vs Royals Hyderabad - 30 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788121661~acl=/*~id=29030236485300495814568347192952~hmac=81099f894a125f263a86c377e179a08acbddd353644b61b28b57f2a9abebd66a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788121661~acl=/*~id=29030236485300495814568347192952~hmac=81099f894a125f263a86c377e179a08acbddd353644b61b28b57f2a9abebd66a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788121661~acl=/*~id=29030236485300495814568347192952~hmac=81099f894a125f263a86c377e179a08acbddd353644b61b28b57f2a9abebd66a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788122269~acl=/*~id=64372595608839895675751949488483~hmac=2eb8fb1a926350286eda4ed074aa37c770a6bcbfd19498783e470a0274da6cec",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788122269~acl=/*~id=64372595608839895675751949488483~hmac=2eb8fb1a926350286eda4ed074aa37c770a6bcbfd19498783e470a0274da6cec",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788122269~acl=/*~id=64372595608839895675751949488483~hmac=2eb8fb1a926350286eda4ed074aa37c770a6bcbfd19498783e470a0274da6cec"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090540893_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808419268204_DP_World_Tour_Husqvarna_British_Masters_day4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Husqvarna British Masters - Day 4 - 30 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788122269~acl=/*~id=64372595608839895675751949488483~hmac=2eb8fb1a926350286eda4ed074aa37c770a6bcbfd19498783e470a0274da6cec",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788122269~acl=/*~id=64372595608839895675751949488483~hmac=2eb8fb1a926350286eda4ed074aa37c770a6bcbfd19498783e470a0274da6cec",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_DPW3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788122269~acl=/*~id=64372595608839895675751949488483~hmac=2eb8fb1a926350286eda4ed074aa37c770a6bcbfd19498783e470a0274da6cec"
         },
         {
             "event_category": "Cricket",
