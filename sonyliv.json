@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:53:00 31-08-2026",
+    "last update time": "09:03:08 31-08-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090540966_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817348238770_JPL_26_Indore-Hawks-vs-Pune-Peshwas_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "JITO Premier League 2026",
+            "match_name": "Indore Hawks vs Pune Peshwas - 31 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788190388~acl=/*~id=83102765250466104514488967777238~hmac=ec81f1453fc6f941d41411aeea8096a8194af9abc90f884a2a27658d72776c26",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788190388~acl=/*~id=83102765250466104514488967777238~hmac=ec81f1453fc6f941d41411aeea8096a8194af9abc90f884a2a27658d72776c26",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788190388~acl=/*~id=83102765250466104514488967777238~hmac=ec81f1453fc6f941d41411aeea8096a8194af9abc90f884a2a27658d72776c26"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
