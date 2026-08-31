@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:26:08 31-08-2026",
+    "last update time": "12:36:17 31-08-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090540967_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090540967_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Indore Hawks vs Pune Peshwas - 31 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788202567~acl=/*~id=73339722364860904971862702363982~hmac=a09129abdc5ab9ffc1902c917d0e402cb6ebd192f66f2458d69d30f4d31ebb16",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788202567~acl=/*~id=73339722364860904971862702363982~hmac=a09129abdc5ab9ffc1902c917d0e402cb6ebd192f66f2458d69d30f4d31ebb16",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788202567~acl=/*~id=73339722364860904971862702363982~hmac=a09129abdc5ab9ffc1902c917d0e402cb6ebd192f66f2458d69d30f4d31ebb16"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788203175~acl=/*~id=00240357987439460503931103530354~hmac=b7e423039c0a5913cb8e4324903be24c7a79be8d1863cb597b2b099d6b2f46b1"
         },
         {
             "event_category": "Cricket",
