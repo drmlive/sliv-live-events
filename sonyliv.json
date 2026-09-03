@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:58:15 03-09-2026",
+    "last update time": "09:08:22 03-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541267_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "JITO Premier League 2026",
+            "match_name": "Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788449901~acl=/*~id=15866731006032499223265216223456~hmac=7ef5b17f68ef5cccf94cb12ae0228e31e6b24839d5d63e590d37b6788faedad3",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788449901~acl=/*~id=15866731006032499223265216223456~hmac=7ef5b17f68ef5cccf94cb12ae0228e31e6b24839d5d63e590d37b6788faedad3",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788449901~acl=/*~id=15866731006032499223265216223456~hmac=7ef5b17f68ef5cccf94cb12ae0228e31e6b24839d5d63e590d37b6788faedad3"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
