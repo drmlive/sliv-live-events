@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:30:02 03-09-2026",
+    "last update time": "11:40:12 03-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788458401~acl=/*~id=87860992873613178009780031578915~hmac=28cc24043e26063239d8db1817d8959da14be6792340df9f42d5a816661d7eb3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788458401~acl=/*~id=87860992873613178009780031578915~hmac=28cc24043e26063239d8db1817d8959da14be6792340df9f42d5a816661d7eb3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788458401~acl=/*~id=87860992873613178009780031578915~hmac=28cc24043e26063239d8db1817d8959da14be6792340df9f42d5a816661d7eb3"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459011~acl=/*~id=41170952194783230485643392107476~hmac=151fa8237ed2183d3577180fdc76c97dd3445c9f350af8f1558b9ab6604433fa",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459011~acl=/*~id=41170952194783230485643392107476~hmac=151fa8237ed2183d3577180fdc76c97dd3445c9f350af8f1558b9ab6604433fa",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459011~acl=/*~id=41170952194783230485643392107476~hmac=151fa8237ed2183d3577180fdc76c97dd3445c9f350af8f1558b9ab6604433fa"
         },
         {
             "event_category": "Cricket",
@@ -123,6 +123,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541319,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541320,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
         }
     ]
 }
