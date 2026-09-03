@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:54:47 03-09-2026",
+    "last update time": "17:04:55 03-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541271_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333179261860_ENGW_vs_IREW_2odi_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Ireland Women's Tour of England 2026",
+            "match_name": "2nd ODI - 3 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +38,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555"
         },
         {
             "event_category": "Cricket",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Golden Eagles Delhi vs Mumbai Sobo Stars - 3 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555"
         },
         {
             "event_category": "Golf",
@@ -51,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Omega European Masters - Day 1 - 3 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788477884~acl=/*~id=28532777839687898661427122787824~hmac=fb5d64549bdf346f5c2d807ac09d66c35a5da36319a383ca384c432281396d9a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788478493~acl=/*~id=06531267528412762046024473026376~hmac=d9eff5dc2cd3c67efb4f396e5f2dd8b438d2f4c70f8b359e113487b0ba648555"
         },
         {
             "event_category": "Cricket",
