@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:08:51 04-09-2026",
+    "last update time": "11:18:58 04-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788543530~acl=/*~id=34650838397629011529322999877957~hmac=44b024eb69c770ba1cb8a15d11c6543c79d47041f9df4b8b707ddc6f4fcf597e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788543530~acl=/*~id=34650838397629011529322999877957~hmac=44b024eb69c770ba1cb8a15d11c6543c79d47041f9df4b8b707ddc6f4fcf597e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788543530~acl=/*~id=34650838397629011529322999877957~hmac=44b024eb69c770ba1cb8a15d11c6543c79d47041f9df4b8b707ddc6f4fcf597e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e"
         },
         {
             "event_category": "Sports",
@@ -37,20 +37,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090539554,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022509/1787129959036804_England_vs_Pakistan_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of England 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090538884,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023423/1788440866654283_WAC26_UAE_vs_Indonesia_tonight_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539554,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022509/1787129959036804_England_vs_Pakistan_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pakistan Tour of England 2026"
         },
         {
             "event_category": "Sports",
