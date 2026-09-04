@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:22:53 04-09-2026",
+    "last update time": "16:33:01 04-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,22 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090541356_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Omega European Masters - Day 2 - 4 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90"
         },
         {
             "event_category": "Cricket",
