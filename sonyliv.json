@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:59:28 04-09-2026",
+    "last update time": "12:09:36 04-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541355_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541355_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788546568~acl=/*~id=27764624584489659211713530868245~hmac=fb2de2157a0c195c395bec307003416c546c071439388f95b87979713dce13f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788546568~acl=/*~id=27764624584489659211713530868245~hmac=fb2de2157a0c195c395bec307003416c546c071439388f95b87979713dce13f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788546568~acl=/*~id=27764624584489659211713530868245~hmac=fb2de2157a0c195c395bec307003416c546c071439388f95b87979713dce13f5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788547174~acl=/*~id=27302029168899926054808972031679~hmac=0ca84259c0bb2ba37a5fd3270a0f05cbd346d1e3d6b29722d4b6845c99a3303e"
         },
         {
             "event_category": "Cricket",
