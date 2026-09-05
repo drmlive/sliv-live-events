@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:20:37 05-09-2026",
+    "last update time": "15:30:45 05-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,22 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090541489_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341899788287_DP-World-2026-Omega-European-Masters_Day3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Omega European Masters - Day 3 - 5 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788645644~acl=/*~id=27591188052133684556862622959406~hmac=6675a86b3edd12922dfc39624707cc0c8ce1ce36865d9e871824e1ffcf4b2f59"
         },
         {
             "event_category": "Cricket",
