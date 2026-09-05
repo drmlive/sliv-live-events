@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:06:17 05-09-2026",
+    "last update time": "10:16:24 05-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626176~acl=/*~id=89052226314255615826514839781482~hmac=c4e6af1f1a1494b36974e306da86391201474afffd608b0ae85078cf5f24baf0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626176~acl=/*~id=89052226314255615826514839781482~hmac=c4e6af1f1a1494b36974e306da86391201474afffd608b0ae85078cf5f24baf0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626176~acl=/*~id=89052226314255615826514839781482~hmac=c4e6af1f1a1494b36974e306da86391201474afffd608b0ae85078cf5f24baf0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626783~acl=/*~id=64746925662488817442402095396665~hmac=538a16a261130eea7fb42c2eff9dfb899a7107bf46bd6a6d4de6b4f0ce3826e6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626783~acl=/*~id=64746925662488817442402095396665~hmac=538a16a261130eea7fb42c2eff9dfb899a7107bf46bd6a6d4de6b4f0ce3826e6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788626783~acl=/*~id=64746925662488817442402095396665~hmac=538a16a261130eea7fb42c2eff9dfb899a7107bf46bd6a6d4de6b4f0ce3826e6"
         },
         {
             "event_category": "Cricket",
@@ -138,4 +138,18 @@
             "isLive": false,
             "contentId": 1090541426,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442172708189_ucl_real_madrid_vs_Inter_landscape.jpg",
-            "broadcast_channel": "Sony Sports T
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Madrid vs Inter Milan - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541419,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442201984189_ucl_barcelona_cs_feyenoord_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27"
+        }
+    ]
+}
