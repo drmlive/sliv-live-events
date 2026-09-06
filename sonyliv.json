@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:56:48 06-09-2026",
+    "last update time": "12:06:55 06-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541579_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Bathinda Royals vs Jalandhar Warriors - 6 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541579_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Bathinda Royals vs Jalandhar Warriors - 6 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
