@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:28:55 06-09-2026",
+    "last update time": "14:39:07 06-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Jalandhar Warriors - 6 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,22 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Jalandhar Warriors - 6 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541545_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333199816860_ENGW_vs_IREW_3odi_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Ireland Women's Tour of England 2026",
+            "match_name": "3rd ODI - 6 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df"
         },
         {
             "event_category": "Volleyball",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Auction - 6 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728333~acl=/*~id=78613746140799895669716578979836~hmac=6644dc3df45bbed0cd836cd221ffaa8fa2bb64c08d35ac0c72199a7710614d00"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788728944~acl=/*~id=55250974976016822734196203633560~hmac=f825fd9d04ce2f5e27dfc20dfb4fb1b6f0e908c2eb45bd78807bbc51c4a7e3df"
         },
         {
             "event_category": "Sports",
