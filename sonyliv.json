@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:55:41 07-09-2026",
+    "last update time": "12:05:48 07-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541606_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Mohali Kings vs Ludhiana Lions - 7 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788806147~acl=/*~id=26839650193822455053203070256101~hmac=eff1f72c116d043fc563a65d6726522adbda7f06d1aa2c7e300461437a9e1147",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788806147~acl=/*~id=26839650193822455053203070256101~hmac=eff1f72c116d043fc563a65d6726522adbda7f06d1aa2c7e300461437a9e1147",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788806147~acl=/*~id=26839650193822455053203070256101~hmac=eff1f72c116d043fc563a65d6726522adbda7f06d1aa2c7e300461437a9e1147"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541606_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Mohali Kings vs Ludhiana Lions - 7 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788806147~acl=/*~id=26839650193822455053203070256101~hmac=eff1f72c116d043fc563a65d6726522adbda7f06d1aa2c7e300461437a9e1147",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788806147~acl=/*~id=26839650193822455053203070256101~hmac=eff1f72c116d043fc563a65d6726522adbda7f06d1aa2c7e300461437a9e1147",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788806147~acl=/*~id=26839650193822455053203070256101~hmac=eff1f72c116d043fc563a65d6726522adbda7f06d1aa2c7e300461437a9e1147"
+        },
         {
             "event_category": "Football",
             "isLive": false,
