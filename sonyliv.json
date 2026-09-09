@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:29:35 09-09-2026",
+    "last update time": "12:39:42 09-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788980375~acl=/*~id=45844453647965321871735689766430~hmac=a298914bbadfe9ffa3107fad43b9e3d114802db14e74032871a025c46e01f30e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788980375~acl=/*~id=45844453647965321871735689766430~hmac=a298914bbadfe9ffa3107fad43b9e3d114802db14e74032871a025c46e01f30e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788980375~acl=/*~id=45844453647965321871735689766430~hmac=a298914bbadfe9ffa3107fad43b9e3d114802db14e74032871a025c46e01f30e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788980981~acl=/*~id=43187617942185782806889381082267~hmac=df9b7263fb05f4c5024889f7606a9ec3affc6b06d96c566300514fe528220d46",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788980981~acl=/*~id=43187617942185782806889381082267~hmac=df9b7263fb05f4c5024889f7606a9ec3affc6b06d96c566300514fe528220d46",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788980981~acl=/*~id=43187617942185782806889381082267~hmac=df9b7263fb05f4c5024889f7606a9ec3affc6b06d96c566300514fe528220d46"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788980375~acl=/*~id=45844453647965321871735689766430~hmac=a298914bbadfe9ffa3107fad43b9e3d114802db14e74032871a025c46e01f30e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788980375~acl=/*~id=45844453647965321871735689766430~hmac=a298914bbadfe9ffa3107fad43b9e3d114802db14e74032871a025c46e01f30e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788980375~acl=/*~id=45844453647965321871735689766430~hmac=a298914bbadfe9ffa3107fad43b9e3d114802db14e74032871a025c46e01f30e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788980981~acl=/*~id=43187617942185782806889381082267~hmac=df9b7263fb05f4c5024889f7606a9ec3affc6b06d96c566300514fe528220d46",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788980981~acl=/*~id=43187617942185782806889381082267~hmac=df9b7263fb05f4c5024889f7606a9ec3affc6b06d96c566300514fe528220d46",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788980981~acl=/*~id=43187617942185782806889381082267~hmac=df9b7263fb05f4c5024889f7606a9ec3affc6b06d96c566300514fe528220d46"
         },
         {
             "event_category": "Football",
@@ -124,4 +124,45 @@
             "isLive": false,
             "contentId": 1090541319,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "So
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541320,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541422,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League Matchday 1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541424,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442143877189_ucl_napoli_vs_arsenal_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Napoli vs Arsenal - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541425,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442117573189_ucl_psg_vs_slovan_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Paris Saint-Germain vs Slovan Bratislava - UEFA Champions League 2026-27 "
+        }
+    ]
+}
