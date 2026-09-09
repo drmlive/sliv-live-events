@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:51:14 09-09-2026",
+    "last update time": "15:01:21 09-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541741_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 1 - 3rd Test - 9 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788988873~acl=/*~id=27480641979550606748735683860464~hmac=ebb4d7c973600e833371c7b2882cd2108a9596900664641da75c66f1f46fc3c1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788988873~acl=/*~id=27480641979550606748735683860464~hmac=ebb4d7c973600e833371c7b2882cd2108a9596900664641da75c66f1f46fc3c1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788988873~acl=/*~id=27480641979550606748735683860464~hmac=ebb4d7c973600e833371c7b2882cd2108a9596900664641da75c66f1f46fc3c1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +38,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788988873~acl=/*~id=27480641979550606748735683860464~hmac=ebb4d7c973600e833371c7b2882cd2108a9596900664641da75c66f1f46fc3c1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788988873~acl=/*~id=27480641979550606748735683860464~hmac=ebb4d7c973600e833371c7b2882cd2108a9596900664641da75c66f1f46fc3c1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788988873~acl=/*~id=27480641979550606748735683860464~hmac=ebb4d7c973600e833371c7b2882cd2108a9596900664641da75c66f1f46fc3c1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63"
         },
         {
             "event_category": "Football",
@@ -55,15 +68,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090539554,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023526/1788608962567948_eng_vs_pak_3rd_d1_test_promo_Today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of England 2026"
         },
         {
             "event_category": "Football",
@@ -163,6 +167,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Paris Saint-Germain vs Slovan Bratislava - UEFA Champions League 2026-27 "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541421,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442055843189_ucl_bayern_vs_Bodo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Bodo/Glimt - UEFA Champions League 2026-27"
         }
     ]
 }
