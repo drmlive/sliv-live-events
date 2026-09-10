@@ -1,1 +1,263 @@
-{"error":"Failed to fetch data from source.","status":0}
+{
+    "name": "Sonyliv Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "23:24:21 10-09-2026",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541953_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541953_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541953_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541953_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541953_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541928_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541928_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090541967_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023703/1788946669572354_UCL_26_MD1_Fenerbahce-vs-Roma_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Fenerbahce vs Roma - MD 1 - 10 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090541965_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522865090822_UCL_26_MD1_PSV-vs-Shakhtar_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "PSV vs Shakhtar - MD 1 - 10 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090541930_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419148422889_DP_World_Tour_Amgen_Irish_Open_day1_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Amgen Irish Open - Day 1 - 10 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789106057~acl=/*~id=02982658072099456814741077882640~hmac=19f07275986295ec5d56f7db67be73df6d0230d12199be1de356e7577a9a9842"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090540264,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788945860124809_UCL26_Manchester-United-vs-Sabah_promo_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester United - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090539555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023754/1789023378620850_Asian_Games_2026_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541421,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788944602732809_UCL26_Bayern-Munich-vs-Bodo-Glimt_promo_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Bayern Munich vs Bodo/Glimt - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090542130,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Brazil"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090539080,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090540021,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023108/1787918480899334_AsiaCup26_Harmanpreet_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541319,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541320,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090541422,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League Matchday 1"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541822,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023648/178884793163422_Eng_vs_SL_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090541821,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023648/178884796612122_Asian_game_landscpae.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        }
+    ]
+}
