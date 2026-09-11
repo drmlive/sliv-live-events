@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:52:25 11-09-2026",
+    "last update time": "14:02:31 11-09-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Amgen Irish Open - Day 2 - Session 1 - 11 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789158145~acl=/*~id=34770211238615585562871747253015~hmac=3341f2a6c09603b19a035e47d4ecb7cec91a30642a9085253d73c7bd9483bc4e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789158145~acl=/*~id=34770211238615585562871747253015~hmac=3341f2a6c09603b19a035e47d4ecb7cec91a30642a9085253d73c7bd9483bc4e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789158145~acl=/*~id=34770211238615585562871747253015~hmac=3341f2a6c09603b19a035e47d4ecb7cec91a30642a9085253d73c7bd9483bc4e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789158750~acl=/*~id=75581173477510198948034246839517~hmac=a2e204734f3053fe8e4bc7b0d6ead63c543eccb5e32ff047e1cbef5212552b50",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789158750~acl=/*~id=75581173477510198948034246839517~hmac=a2e204734f3053fe8e4bc7b0d6ead63c543eccb5e32ff047e1cbef5212552b50",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789158750~acl=/*~id=75581173477510198948034246839517~hmac=a2e204734f3053fe8e4bc7b0d6ead63c543eccb5e32ff047e1cbef5212552b50"
         },
         {
             "event_category": "Sports",
@@ -42,6 +42,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090542256,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023822/1789112540084736_Womens-Asia-Cup-Final-Promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Final - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Sports",
