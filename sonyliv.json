@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:42:54 11-09-2026",
+    "last update time": "14:52:59 11-09-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Amgen Irish Open - Day 2 - Session 1 - 11 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789161174~acl=/*~id=37880217150366493032405933474475~hmac=556707fe65e891b0705756bf057d5a97ae6b8a168406ac9807857b526933b8e7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789161174~acl=/*~id=37880217150366493032405933474475~hmac=556707fe65e891b0705756bf057d5a97ae6b8a168406ac9807857b526933b8e7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789161174~acl=/*~id=37880217150366493032405933474475~hmac=556707fe65e891b0705756bf057d5a97ae6b8a168406ac9807857b526933b8e7"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789161779~acl=/*~id=91693180798020136251625333473725~hmac=f9d38d74c966fb4196b44cbdfa79d5cccce76a540fc8f039bdba571c92dbb1da",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789161779~acl=/*~id=91693180798020136251625333473725~hmac=f9d38d74c966fb4196b44cbdfa79d5cccce76a540fc8f039bdba571c92dbb1da",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789161779~acl=/*~id=91693180798020136251625333473725~hmac=f9d38d74c966fb4196b44cbdfa79d5cccce76a540fc8f039bdba571c92dbb1da"
         },
         {
             "event_category": "Sports",
@@ -33,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090540021,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023824/1789116327963249_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_promo_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Football",
@@ -60,15 +69,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090540021,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023108/1787918480899334_AsiaCup26_Harmanpreet_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Cricket",
