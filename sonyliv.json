@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:55:23 12-09-2026",
+    "last update time": "12:05:31 12-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090542233_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League 2026",
+            "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090542233_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League 2026",
+            "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
