@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:56:36 12-09-2026",
+    "last update time": "14:06:43 12-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789244795~acl=/*~id=68883214506896915398229187680828~hmac=960d3bb71cd823a5c7cd0b51e6fb5e04024071cec61dad70f2dfdab3e140fa42",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789244795~acl=/*~id=68883214506896915398229187680828~hmac=960d3bb71cd823a5c7cd0b51e6fb5e04024071cec61dad70f2dfdab3e140fa42",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789244795~acl=/*~id=68883214506896915398229187680828~hmac=960d3bb71cd823a5c7cd0b51e6fb5e04024071cec61dad70f2dfdab3e140fa42"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789245402~acl=/*~id=74220634193463417841800262737547~hmac=20c8bce76ed5a5ad0455c83c99f1198721ee6150e43e1a8617a9557aa05107e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789245402~acl=/*~id=74220634193463417841800262737547~hmac=20c8bce76ed5a5ad0455c83c99f1198721ee6150e43e1a8617a9557aa05107e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789245402~acl=/*~id=74220634193463417841800262737547~hmac=20c8bce76ed5a5ad0455c83c99f1198721ee6150e43e1a8617a9557aa05107e7"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789244795~acl=/*~id=68883214506896915398229187680828~hmac=960d3bb71cd823a5c7cd0b51e6fb5e04024071cec61dad70f2dfdab3e140fa42",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789244795~acl=/*~id=68883214506896915398229187680828~hmac=960d3bb71cd823a5c7cd0b51e6fb5e04024071cec61dad70f2dfdab3e140fa42",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789244795~acl=/*~id=68883214506896915398229187680828~hmac=960d3bb71cd823a5c7cd0b51e6fb5e04024071cec61dad70f2dfdab3e140fa42"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789245402~acl=/*~id=74220634193463417841800262737547~hmac=20c8bce76ed5a5ad0455c83c99f1198721ee6150e43e1a8617a9557aa05107e7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789245402~acl=/*~id=74220634193463417841800262737547~hmac=20c8bce76ed5a5ad0455c83c99f1198721ee6150e43e1a8617a9557aa05107e7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789245402~acl=/*~id=74220634193463417841800262737547~hmac=20c8bce76ed5a5ad0455c83c99f1198721ee6150e43e1a8617a9557aa05107e7"
         },
         {
             "event_category": "Cricket",
@@ -73,6 +73,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090542399,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023880/178919892840953_ind_vs_SL_thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Final - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Sports",
