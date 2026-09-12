@@ -1,8 +1,18 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:57:13 12-09-2026",
+    "last update time": "15:07:22 12-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090542240,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434990750794_eng_vs_pak_3test_D4_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 4 - 3rd Test - 12 Sep 2026"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +22,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +35,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e"
         },
         {
             "event_category": "Cricket",
