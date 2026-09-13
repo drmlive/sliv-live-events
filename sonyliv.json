@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:58:48 14-09-2026",
+    "last update time": "01:08:55 14-09-2026",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090542287_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Hyundai Archery World Cup Final",
+            "match_name": "Recurve Women Elite QFs to Finals - 14 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789371535~acl=/*~id=55134399006284321339496054869717~hmac=5b310da03628ce33a07a86b066ee1dd0b2506361b6a819a92cfecbfd4402ea56",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789371535~acl=/*~id=55134399006284321339496054869717~hmac=5b310da03628ce33a07a86b066ee1dd0b2506361b6a819a92cfecbfd4402ea56",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789371535~acl=/*~id=55134399006284321339496054869717~hmac=5b310da03628ce33a07a86b066ee1dd0b2506361b6a819a92cfecbfd4402ea56"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
