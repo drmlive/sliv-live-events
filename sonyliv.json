@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:32:27 15-09-2026",
+    "last update time": "22:42:33 15-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "1st T20I - 15 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789534946~acl=/*~id=96031694307008615535205299991440~hmac=c0f794ea960aa47a4b644bbd161d6947020f2c51854f7df5697daf568db8d089",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789534946~acl=/*~id=96031694307008615535205299991440~hmac=c0f794ea960aa47a4b644bbd161d6947020f2c51854f7df5697daf568db8d089",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789534946~acl=/*~id=96031694307008615535205299991440~hmac=c0f794ea960aa47a4b644bbd161d6947020f2c51854f7df5697daf568db8d089"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789535553~acl=/*~id=71965805240753138254699481776601~hmac=02c69c6aa5d94694b4406efa42cb5dba6ccb6590e4b072c637466a70215bbebf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789535553~acl=/*~id=71965805240753138254699481776601~hmac=02c69c6aa5d94694b4406efa42cb5dba6ccb6590e4b072c637466a70215bbebf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789535553~acl=/*~id=71965805240753138254699481776601~hmac=02c69c6aa5d94694b4406efa42cb5dba6ccb6590e4b072c637466a70215bbebf"
         },
         {
             "event_category": "Sports",
@@ -35,15 +35,6 @@
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541822,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023982/1789474039710211_ENGvsSL26_1t20i_Promo_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090542538,
@@ -60,6 +51,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541822,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023982/1789474039710211_ENGvsSL26_1t20i_Promo_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
         },
         {
             "event_category": "Cricket",
