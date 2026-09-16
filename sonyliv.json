@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:00:21 17-09-2026",
+    "last update time": "05:10:26 17-09-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Bangladesh Women vs People\u2019s Republic of China Women - QF 1 - 17 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789644621~acl=/*~id=93524390763190960447230989228280~hmac=8e653eff97c3f4db398835b83b0fd7f2230b89abcd20b08f745abb51cbd0d493",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789644621~acl=/*~id=93524390763190960447230989228280~hmac=8e653eff97c3f4db398835b83b0fd7f2230b89abcd20b08f745abb51cbd0d493",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789644621~acl=/*~id=93524390763190960447230989228280~hmac=8e653eff97c3f4db398835b83b0fd7f2230b89abcd20b08f745abb51cbd0d493"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789645226~acl=/*~id=44262530931257282710861675623331~hmac=00aa0ad35dc5753bac0f7348f8665ebd3702a82f465b00e4a3859137f378a285",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789645226~acl=/*~id=44262530931257282710861675623331~hmac=00aa0ad35dc5753bac0f7348f8665ebd3702a82f465b00e4a3859137f378a285",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789645226~acl=/*~id=44262530931257282710861675623331~hmac=00aa0ad35dc5753bac0f7348f8665ebd3702a82f465b00e4a3859137f378a285"
         },
         {
             "event_category": "Sports",
@@ -30,6 +30,15 @@
             "isLive": false,
             "contentId": 1090539555,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023978/1789467134006271_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024044/1789575349541717_AG26_QF_Pakistan_vs_Thailand_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
@@ -69,15 +78,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024044/1789575266224717_AG26_QF_bangladesh_vs_china_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
