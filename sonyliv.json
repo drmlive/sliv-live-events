@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:53:09 17-09-2026",
+    "last update time": "10:03:16 17-09-2026",
     "matches": [
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090541369_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582327474840_AG26_QF_Pakistan_vs_Thailand_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Pakistan Women vs Thailand Women - QF 2 - 17 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789662796~acl=/*~id=77204989980223865983902772720660~hmac=af0507808a81ce3d292a5c4717a447865f293329b3368fc59ff6392aa8ac8b97",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789662796~acl=/*~id=77204989980223865983902772720660~hmac=af0507808a81ce3d292a5c4717a447865f293329b3368fc59ff6392aa8ac8b97",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789662796~acl=/*~id=77204989980223865983902772720660~hmac=af0507808a81ce3d292a5c4717a447865f293329b3368fc59ff6392aa8ac8b97"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
