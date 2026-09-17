@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:20:15 17-09-2026",
+    "last update time": "22:30:22 17-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090542669_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Sri Lanka Tour of England 2026",
+            "match_name": "2nd T20I - 17 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "OFI Crete vs Hoffenheim -  MD1 - 17 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f"
         },
         {
             "event_category": "Football",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Levski Sofia vs Salzburg - MD1 - 17 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f"
         },
         {
             "event_category": "Golf",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 1 - 17 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707014~acl=/*~id=05511007484944145589152447793068~hmac=d476a92c5c06efd9b06cc0547a09b3ae5aa31aa950b194f40be0a19b2603fc02"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789707620~acl=/*~id=90902858079374274670261327302089~hmac=83bc397648a3bfe748c939357277ab2f1b0341b822a4f56c599be0ce5792353f"
         },
         {
             "event_category": "Sports",
@@ -61,15 +74,6 @@
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541822,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024068/1789622595285332_ENGvsSL26_2t20i_Promo_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090542429,
@@ -77,6 +81,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541822,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
         },
         {
             "event_category": "Football",
