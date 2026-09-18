@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:45:32 18-09-2026",
+    "last update time": "23:55:38 18-09-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -56,6 +56,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Kabaddi - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090542973,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024166/1789755195729581_AG26_SF_BANW_vs_INDW_promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India"
         },
         {
             "event_category": "Cricket",
@@ -137,15 +146,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Wrestling",
-            "isLive": false,
-            "contentId": 1090542856,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
