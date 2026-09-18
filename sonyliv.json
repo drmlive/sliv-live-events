@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:59:33 18-09-2026",
+    "last update time": "13:09:37 18-09-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -103,6 +103,15 @@
             "event_name": "Upcoming - PV Sindhu - Badminton - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090542857,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
             "event_category": "Hockey",
             "isLive": false,
             "contentId": 1090542858,
@@ -128,15 +137,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Weightlifting",
-            "isLive": false,
-            "contentId": 1090542860,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Weightlifting - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
