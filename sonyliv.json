@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:43:14 18-09-2026",
+    "last update time": "19:53:20 18-09-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789783994~acl=/*~id=54910371118304204682802101797907~hmac=4f86b21b870f8929f99ea309773568f01d57526d0c37a005692a9dc8c6bb6897",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789783994~acl=/*~id=54910371118304204682802101797907~hmac=4f86b21b870f8929f99ea309773568f01d57526d0c37a005692a9dc8c6bb6897",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789783994~acl=/*~id=54910371118304204682802101797907~hmac=4f86b21b870f8929f99ea309773568f01d57526d0c37a005692a9dc8c6bb6897"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789784600~acl=/*~id=07417498481019639630477343893467~hmac=aae8394c5ec3caed5a494940c9244b70f34ac478bd4751f5b51ccc32ba040e14",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789784600~acl=/*~id=07417498481019639630477343893467~hmac=aae8394c5ec3caed5a494940c9244b70f34ac478bd4751f5b51ccc32ba040e14",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789784600~acl=/*~id=07417498481019639630477343893467~hmac=aae8394c5ec3caed5a494940c9244b70f34ac478bd4751f5b51ccc32ba040e14"
         },
         {
             "event_category": "Sports",
@@ -140,4 +140,25 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_
+            "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Boxing",
+            "isLive": false,
+            "contentId": 1090542859,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669712480908_AG26_boxing_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": false,
+            "contentId": 1090542856,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
+        }
+    ]
+}
