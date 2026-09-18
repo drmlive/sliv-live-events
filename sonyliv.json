@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:03:28 18-09-2026",
+    "last update time": "20:13:34 18-09-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789785207~acl=/*~id=39126164135204179813484005125103~hmac=fe02a3465c15fdcb996b90d24b0088d9051b340df8fb1201c4419fd6319150c0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789785207~acl=/*~id=39126164135204179813484005125103~hmac=fe02a3465c15fdcb996b90d24b0088d9051b340df8fb1201c4419fd6319150c0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789785207~acl=/*~id=39126164135204179813484005125103~hmac=fe02a3465c15fdcb996b90d24b0088d9051b340df8fb1201c4419fd6319150c0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789785813~acl=/*~id=45878869614263580268768482982713~hmac=34d2b1a3b3bb40fc9da5cc3e81fff43351bfd1aad4de152e6754751930de0a69",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789785813~acl=/*~id=45878869614263580268768482982713~hmac=34d2b1a3b3bb40fc9da5cc3e81fff43351bfd1aad4de152e6754751930de0a69",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789785813~acl=/*~id=45878869614263580268768482982713~hmac=34d2b1a3b3bb40fc9da5cc3e81fff43351bfd1aad4de152e6754751930de0a69"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Sports",
@@ -69,15 +78,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
