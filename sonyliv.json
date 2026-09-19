@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:58:31 19-09-2026",
+    "last update time": "06:08:36 19-09-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -11,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090542974,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775874130936_UFC_Van_vs_Pantoja_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2"
         },
         {
             "event_category": "Sports",
@@ -83,15 +92,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand 2026"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090542974,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775874130936_UFC_Van_vs_Pantoja_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2"
         },
         {
             "event_category": "Sports",
