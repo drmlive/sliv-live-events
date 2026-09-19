@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:26:01 19-09-2026",
+    "last update time": "18:36:07 19-09-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090542787_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789657985040480_ENGvsSL26_3t20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Sri Lanka Tour of England 2026",
+            "match_name": "3rd T20I - 19 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789866366~acl=/*~id=48174567485725888504529127869700~hmac=c20d72e4ef5f8ba65c7d3f6385ee34a96cfc287bc164b38a8a05fd12e3f7746f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789866366~acl=/*~id=48174567485725888504529127869700~hmac=c20d72e4ef5f8ba65c7d3f6385ee34a96cfc287bc164b38a8a05fd12e3f7746f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789866366~acl=/*~id=48174567485725888504529127869700~hmac=c20d72e4ef5f8ba65c7d3f6385ee34a96cfc287bc164b38a8a05fd12e3f7746f"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 3 - 19 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789865760~acl=/*~id=97874841250934616451733964930707~hmac=af48b8be09970e31be0e4dcf6a63e0f3b44ec7b617aa3fcbc59009df683852fb",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789865760~acl=/*~id=97874841250934616451733964930707~hmac=af48b8be09970e31be0e4dcf6a63e0f3b44ec7b617aa3fcbc59009df683852fb",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789865760~acl=/*~id=97874841250934616451733964930707~hmac=af48b8be09970e31be0e4dcf6a63e0f3b44ec7b617aa3fcbc59009df683852fb"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789866366~acl=/*~id=48174567485725888504529127869700~hmac=c20d72e4ef5f8ba65c7d3f6385ee34a96cfc287bc164b38a8a05fd12e3f7746f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789866366~acl=/*~id=48174567485725888504529127869700~hmac=c20d72e4ef5f8ba65c7d3f6385ee34a96cfc287bc164b38a8a05fd12e3f7746f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789866366~acl=/*~id=48174567485725888504529127869700~hmac=c20d72e4ef5f8ba65c7d3f6385ee34a96cfc287bc164b38a8a05fd12e3f7746f"
         },
         {
             "event_category": "Sports",
@@ -44,15 +57,6 @@
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541822,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657412351285_ENGvsSL26_3t20i_tonight_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
             "event_category": "Hockey",
             "isLive": false,
             "contentId": 1090542858,
@@ -78,6 +82,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Kabaddi - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541822,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657412351285_ENGvsSL26_3t20i_tonight_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
         },
         {
             "event_category": "Cricket",
