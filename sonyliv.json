@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:50:57 20-09-2026",
+    "last update time": "04:01:03 20-09-2026",
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090542963_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 331 - Van vs Pantoja 2",
+            "match_name": "UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789900263~acl=/*~id=76134584354775506258084716866947~hmac=7fa83270de6b4313b1616f64b949d2bca760cdfa873ff2cf5fbbdb4df8788d4d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789900263~acl=/*~id=76134584354775506258084716866947~hmac=7fa83270de6b4313b1616f64b949d2bca760cdfa873ff2cf5fbbdb4df8788d4d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789900263~acl=/*~id=76134584354775506258084716866947~hmac=7fa83270de6b4313b1616f64b949d2bca760cdfa873ff2cf5fbbdb4df8788d4d"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -11,15 +24,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090542974,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775885317936_UFC_Van_vs_Pantoja_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2"
         },
         {
             "event_category": "Hockey",
@@ -146,6 +150,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Boxing",
+            "isLive": false,
+            "contentId": 1090542859,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669712480908_AG26_boxing_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
