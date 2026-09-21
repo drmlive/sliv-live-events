@@ -1,59 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:08:22 21-09-2026",
+    "last update time": "08:18:29 21-09-2026",
     "matches": [
         {
-            "event_category": "Sports",
+            "event_category": "Sepaktakraw",
             "isLive": true,
-            "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
+            "contentId": "1090541376_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789943763712759_AG26_21st_Sep_Sepaktakraw_Regu_India_vs_Japan_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 3 - 21 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": true,
-            "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 3 - 21 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/AG_Strea2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/AG_Strea2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/AG_Strea2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": true,
-            "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 3 - 21 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": true,
-            "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 3 - 21 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/AG_Strea2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/AG_Strea2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/AG_Strea2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790001501~acl=/*~id=39499303471957304645327792729098~hmac=244b651377d972d0dd512b0efa358c9fd8aa092035c15037118e4d8d2c7f2ca3"
+            "match_name": "India In Action - Men's Sepaktakraw Regu - 21 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790002109~acl=/*~id=65104529318904117714780556526082~hmac=43d7241d39a5061b8c530c353c0023620b3ccb8bfc43dbe2eb392ce5e30773ad",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790002109~acl=/*~id=65104529318904117714780556526082~hmac=43d7241d39a5061b8c530c353c0023620b3ccb8bfc43dbe2eb392ce5e30773ad",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790002109~acl=/*~id=65104529318904117714780556526082~hmac=43d7241d39a5061b8c530c353c0023620b3ccb8bfc43dbe2eb392ce5e30773ad"
         },
         {
             "event_category": "Sports",
