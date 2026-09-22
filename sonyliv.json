@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:35:08 22-09-2026",
+    "last update time": "21:45:14 22-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "1st ODI - 22 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790136307~acl=/*~id=99270703012576765503222261671191~hmac=7583f83b87721c479d79b8a85953f36f262b1c498f9d8200ee31c64d16784560",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790136307~acl=/*~id=99270703012576765503222261671191~hmac=7583f83b87721c479d79b8a85953f36f262b1c498f9d8200ee31c64d16784560",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790136307~acl=/*~id=99270703012576765503222261671191~hmac=7583f83b87721c479d79b8a85953f36f262b1c498f9d8200ee31c64d16784560"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790136914~acl=/*~id=35735135840613195729369593323142~hmac=aa7b5fbf84e05c36533e527f507aca6f70d084444468e6227c7de9d65110df00",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790136914~acl=/*~id=35735135840613195729369593323142~hmac=aa7b5fbf84e05c36533e527f507aca6f70d084444468e6227c7de9d65110df00",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790136914~acl=/*~id=35735135840613195729369593323142~hmac=aa7b5fbf84e05c36533e527f507aca6f70d084444468e6227c7de9d65110df00"
         },
         {
             "event_category": "Weightlifting",
@@ -47,7 +47,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090543448,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024414/1790028993226986_IFL_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024482/1790087785944617_IND_PAN_DDT_Promo_landscape_Thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India's International Friendlies"
@@ -141,4 +141,24 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India vs Brazil - Teaser 2"
-        
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090543663,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075124349558_Football-Indias-International-Friendlies-Teaser-Thumbs-2_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India vs Brazil - Teaser 3"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090543664,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075081123558_Football-Indias-International-Friendlies-Teaser-Thumbs-1_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India vs Brazil - Teaser 4"
+        }
+    ]
+}
