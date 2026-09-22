@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:38:40 23-09-2026",
+    "last update time": "03:48:44 23-09-2026",
     "matches": [
         {
             "event_category": "Weightlifting",
@@ -40,13 +40,13 @@
             "event_name": "Upcoming - India's International Friendlies - India vs Brazil"
         },
         {
-            "event_category": "Football",
+            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090542429,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": 1090538916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Brazil"
+            "event_name": "Upcoming - India Tour of New Zealand "
         },
         {
             "event_category": "Cricket",
@@ -56,15 +56,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090538916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand "
         },
         {
             "event_category": "Sports",
@@ -123,6 +114,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090542429,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Brazil"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090543661,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075181873558_Football-Indias-International-Friendlies-Teaser-Thumbs-4_landscape.jpg",
             "broadcast_channel": "LIV",
@@ -146,15 +146,6 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India vs Brazil - Teaser 3"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090543664,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075081123558_Football-Indias-International-Friendlies-Teaser-Thumbs-1_landscape.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India vs Brazil - Teaser 4"
         }
     ]
 }
