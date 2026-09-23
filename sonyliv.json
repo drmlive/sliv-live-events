@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:42:41 23-09-2026",
+    "last update time": "22:52:49 23-09-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790226760~acl=/*~id=74338971141830663173727045369543~hmac=fc9cc9feaa175ae4dd3dbbf18b32b397a3f7168039d3c776d32a84366e7ed830",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790226760~acl=/*~id=74338971141830663173727045369543~hmac=fc9cc9feaa175ae4dd3dbbf18b32b397a3f7168039d3c776d32a84366e7ed830",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790226760~acl=/*~id=74338971141830663173727045369543~hmac=fc9cc9feaa175ae4dd3dbbf18b32b397a3f7168039d3c776d32a84366e7ed830"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227368~acl=/*~id=15675138935358263345265562671889~hmac=f4b0eb0519b0e496d5c3c1e60b6d6d8c8f0ae33993780858b87284609460f2de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227368~acl=/*~id=15675138935358263345265562671889~hmac=f4b0eb0519b0e496d5c3c1e60b6d6d8c8f0ae33993780858b87284609460f2de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227368~acl=/*~id=15675138935358263345265562671889~hmac=f4b0eb0519b0e496d5c3c1e60b6d6d8c8f0ae33993780858b87284609460f2de"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,18 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Gibraltar vs S\u00e3o Tom\u00e9 and Pr\u00edncipe - 23 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790226760~acl=/*~id=74338971141830663173727045369543~hmac=fc9cc9feaa175ae4dd3dbbf18b32b397a3f7168039d3c776d32a84366e7ed830",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790226760~acl=/*~id=74338971141830663173727045369543~hmac=fc9cc9feaa175ae4dd3dbbf18b32b397a3f7168039d3c776d32a84366e7ed830",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790226760~acl=/*~id=74338971141830663173727045369543~hmac=fc9cc9feaa175ae4dd3dbbf18b32b397a3f7168039d3c776d32a84366e7ed830"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227368~acl=/*~id=15675138935358263345265562671889~hmac=f4b0eb0519b0e496d5c3c1e60b6d6d8c8f0ae33993780858b87284609460f2de",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227368~acl=/*~id=15675138935358263345265562671889~hmac=f4b0eb0519b0e496d5c3c1e60b6d6d8c8f0ae33993780858b87284609460f2de",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227368~acl=/*~id=15675138935358263345265562671889~hmac=f4b0eb0519b0e496d5c3c1e60b6d6d8c8f0ae33993780858b87284609460f2de"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
@@ -73,15 +82,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
