@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:59:47 27-09-2026",
+    "last update time": "05:09:54 27-09-2026",
     "matches": [
         {
             "event_category": "Athletics",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India in Action - Athletics - 27 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790508587~acl=/*~id=39829173771026996950173654737916~hmac=440a7c675066aae5fb42a2ee30404358e70c25f248fefaac6fc295fa23359768",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790508587~acl=/*~id=39829173771026996950173654737916~hmac=440a7c675066aae5fb42a2ee30404358e70c25f248fefaac6fc295fa23359768",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790508587~acl=/*~id=39829173771026996950173654737916~hmac=440a7c675066aae5fb42a2ee30404358e70c25f248fefaac6fc295fa23359768"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790509193~acl=/*~id=18456811912804144244039256930136~hmac=f0b292e353f425aa7516e7a690b841dcdcc12ab1bc4e7d7749da4d943b881fd6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790509193~acl=/*~id=18456811912804144244039256930136~hmac=f0b292e353f425aa7516e7a690b841dcdcc12ab1bc4e7d7749da4d943b881fd6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790509193~acl=/*~id=18456811912804144244039256930136~hmac=f0b292e353f425aa7516e7a690b841dcdcc12ab1bc4e7d7749da4d943b881fd6"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090544867_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024969/1790446935803307_UFC_Rosas_vs_Barcelos_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Rosas Jr. vs Barcelos",
+            "match_name": "UFC Fight Night - Rosas Jr. vs Barcelos - 27 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFC_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790509193~acl=/*~id=18456811912804144244039256930136~hmac=f0b292e353f425aa7516e7a690b841dcdcc12ab1bc4e7d7749da4d943b881fd6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFC_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790509193~acl=/*~id=18456811912804144244039256930136~hmac=f0b292e353f425aa7516e7a690b841dcdcc12ab1bc4e7d7749da4d943b881fd6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFC_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790509193~acl=/*~id=18456811912804144244039256930136~hmac=f0b292e353f425aa7516e7a690b841dcdcc12ab1bc4e7d7749da4d943b881fd6"
         },
         {
             "event_category": "Sports",
