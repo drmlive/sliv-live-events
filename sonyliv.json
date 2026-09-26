@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:14:31 26-09-2026",
+    "last update time": "08:24:37 26-09-2026",
     "matches": [
         {
             "event_category": "Athletics",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Athletics - 26 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790433870~acl=/*~id=57240358804135467383451468447182~hmac=e5791c940c7f855d74a32e032cb06ac8b13ec85792df772d721e31df837078f6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790433870~acl=/*~id=57240358804135467383451468447182~hmac=e5791c940c7f855d74a32e032cb06ac8b13ec85792df772d721e31df837078f6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790433870~acl=/*~id=57240358804135467383451468447182~hmac=e5791c940c7f855d74a32e032cb06ac8b13ec85792df772d721e31df837078f6"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541367_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024800/1790345206713331_AG_26_JAPAN_VS_NEPAL_LIVE_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Japan vs Nepal - 26 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790433870~acl=/*~id=57240358804135467383451468447182~hmac=e5791c940c7f855d74a32e032cb06ac8b13ec85792df772d721e31df837078f6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790433870~acl=/*~id=57240358804135467383451468447182~hmac=e5791c940c7f855d74a32e032cb06ac8b13ec85792df772d721e31df837078f6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790433870~acl=/*~id=57240358804135467383451468447182~hmac=e5791c940c7f855d74a32e032cb06ac8b13ec85792df772d721e31df837078f6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790434476~acl=/*~id=64822823794139097674965904575072~hmac=f2b3a8c659a3dcf5f8bec80b7c9fa08c84e065e3c3847fcfd3e9afb65ca20109",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790434476~acl=/*~id=64822823794139097674965904575072~hmac=f2b3a8c659a3dcf5f8bec80b7c9fa08c84e065e3c3847fcfd3e9afb65ca20109",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790434476~acl=/*~id=64822823794139097674965904575072~hmac=f2b3a8c659a3dcf5f8bec80b7c9fa08c84e065e3c3847fcfd3e9afb65ca20109"
         },
         {
             "event_category": "Sports",
@@ -152,26 +139,4 @@
             "contentId": 1090543810,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187607004785_india_vs_brazil_promo4_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Brazil -India's International Friendlies "
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090543811,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024511/1790119270730848_indvsbrazil_promo3_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Brazil - India's International Friendlies "
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090543731,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187597972785_india_vs_brazil_promo3_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India's International Friendlies "
-        }
-    ]
-}
+           
