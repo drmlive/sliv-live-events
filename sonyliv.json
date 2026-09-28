@@ -1,73 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:59:39 28-09-2026",
+    "last update time": "10:09:43 28-09-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025071/1790513366969545_AG26_India-vs-Afghanistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Afghanistan - Quarter-Final - 28 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025071/1790513366969545_AG26_India-vs-Afghanistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Afghanistan - Quarter-Final - 28 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025071/1790513366969545_AG26_India-vs-Afghanistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Afghanistan - Quarter-Final - 28 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025071/1790513366969545_AG26_India-vs-Afghanistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Afghanistan - Quarter-Final - 28 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025071/1790513366969545_AG26_India-vs-Afghanistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Afghanistan - Quarter-Final - 28 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5"
-        },
         {
             "event_category": "Squash",
             "isLive": true,
@@ -77,18 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 28 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790612977~acl=/*~id=46495028183126379608561687153814~hmac=30bc3af27d7e429457f6015b7055147113932a60f987027e01d61f163e3036f5"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790613583~acl=/*~id=21205706040008623603820876522461~hmac=990fa7bdf944cf25fe17a81ca36eeff38d1387e50111ddd75983356ede491382",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790613583~acl=/*~id=21205706040008623603820876522461~hmac=990fa7bdf944cf25fe17a81ca36eeff38d1387e50111ddd75983356ede491382",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790613583~acl=/*~id=21205706040008623603820876522461~hmac=990fa7bdf944cf25fe17a81ca36eeff38d1387e50111ddd75983356ede491382"
         },
         {
             "event_category": "Football",
@@ -116,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
