@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:40:49 30-09-2026",
+    "last update time": "17:50:56 30-09-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 12 - 30 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790813449~acl=/*~id=72467730266894833973940173057724~hmac=8f4ab0a01701a80716297b83be15af8026933c3c2a5a3e40d28f48d8dca09493",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790813449~acl=/*~id=72467730266894833973940173057724~hmac=8f4ab0a01701a80716297b83be15af8026933c3c2a5a3e40d28f48d8dca09493",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790813449~acl=/*~id=72467730266894833973940173057724~hmac=8f4ab0a01701a80716297b83be15af8026933c3c2a5a3e40d28f48d8dca09493"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790814056~acl=/*~id=73789624729811269250357795888254~hmac=f411d78a0da28722e108f033678bd7975efdb57c69ee98ff009b6d950b678ad5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790814056~acl=/*~id=73789624729811269250357795888254~hmac=f411d78a0da28722e108f033678bd7975efdb57c69ee98ff009b6d950b678ad5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790814056~acl=/*~id=73789624729811269250357795888254~hmac=f411d78a0da28722e108f033678bd7975efdb57c69ee98ff009b6d950b678ad5"
         },
         {
             "event_category": "Sports",
@@ -46,11 +46,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090545744,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025328/1790709786045959_UNL26_MD3_promo_landscape_thumb.jpg",
+            "contentId": 1090545951,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025418/1790769290532940_UNL_Den_vs_Por_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 3 - UEFA Nations League 2026-27"
+            "event_name": "Upcoming - Denmark vs Portugal - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -60,6 +60,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090545744,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025328/1790709786045959_UNL26_MD3_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 3 - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Sports",
