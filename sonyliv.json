@@ -1,20 +1,17 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:14:29 30-09-2026",
+    "last update time": "23:24:38 30-09-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090545705_ENG",
+            "contentId": 1090545705,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790029127566502_UEFA_INT_friendly_MD2_Lithuania_vs_Andorra_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
-            "match_name": "Lithuania vs Andorra - 30 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790833469~acl=/*~id=53947216270643933899053566915495~hmac=25430652fcf5ef26938c94c7a41c5b11f6005149cabfb7026515e701651a7396",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790833469~acl=/*~id=53947216270643933899053566915495~hmac=25430652fcf5ef26938c94c7a41c5b11f6005149cabfb7026515e701651a7396",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790833469~acl=/*~id=53947216270643933899053566915495~hmac=25430652fcf5ef26938c94c7a41c5b11f6005149cabfb7026515e701651a7396"
+            "match_name": "Lithuania vs Andorra - 30 Sep 2026"
         },
         {
             "event_category": "Sports",
