@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:53:00 30-09-2026",
+    "last update time": "21:03:06 30-09-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Lithuania vs Andorra - 30 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790824979~acl=/*~id=25014745228431712119301124264851~hmac=930ac3714a53657e3be64d2ac5fb4835bf1929b80bf8fbc69f9176c92c944b4f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790824979~acl=/*~id=25014745228431712119301124264851~hmac=930ac3714a53657e3be64d2ac5fb4835bf1929b80bf8fbc69f9176c92c944b4f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790824979~acl=/*~id=25014745228431712119301124264851~hmac=930ac3714a53657e3be64d2ac5fb4835bf1929b80bf8fbc69f9176c92c944b4f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790825586~acl=/*~id=70382243791479453651904790299233~hmac=605bc0491cd8ac72815a96ce4c8e4da5df350bf17a7bee97fcf5428910ed3fab",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790825586~acl=/*~id=70382243791479453651904790299233~hmac=605bc0491cd8ac72815a96ce4c8e4da5df350bf17a7bee97fcf5428910ed3fab",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790825586~acl=/*~id=70382243791479453651904790299233~hmac=605bc0491cd8ac72815a96ce4c8e4da5df350bf17a7bee97fcf5428910ed3fab"
         },
         {
             "event_category": "Sports",
@@ -138,4 +138,27 @@
             "isLive": false,
             "contentId": 1090543806,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024511/1790119208982848_indvsbrazil_promo1_landscape_thumb.jpg",
-            "broadcas
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Brazil - India's International Friendlies "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090543810,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187607004785_india_vs_brazil_promo4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Brazil -India's International Friendlies "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090543811,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024511/1790119270730848_indvsbrazil_promo3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Brazil - India's International Friendlies "
+        }
+    ]
+}
