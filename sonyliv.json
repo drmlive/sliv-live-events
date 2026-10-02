@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:56:22 02-10-2026",
+    "last update time": "10:06:27 02-10-2026",
     "matches": [
         {
-            "event_category": "Sports",
+            "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090543297_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025597/1790903387870936_AG26_Boxing_Womens75kg_GoldMatch_BaoZiyi_vs_Lovlina_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 14 - 2 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958382~acl=/*~id=18732107549898627653054646352305~hmac=244f8491950738c80d8965b176474c8ccd133604d671daa1b7d6fbba3fb362a4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958382~acl=/*~id=18732107549898627653054646352305~hmac=244f8491950738c80d8965b176474c8ccd133604d671daa1b7d6fbba3fb362a4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958382~acl=/*~id=18732107549898627653054646352305~hmac=244f8491950738c80d8965b176474c8ccd133604d671daa1b7d6fbba3fb362a4"
+            "match_name": "India In Action - Boxing - 2 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958987~acl=/*~id=80981846781281198395319213979059~hmac=5f325fdd682f0b2b5f399bf82bce9775c26bd9777bbcd7e4c63e7e0b5f23695c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958987~acl=/*~id=80981846781281198395319213979059~hmac=5f325fdd682f0b2b5f399bf82bce9775c26bd9777bbcd7e4c63e7e0b5f23695c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958987~acl=/*~id=80981846781281198395319213979059~hmac=5f325fdd682f0b2b5f399bf82bce9775c26bd9777bbcd7e4c63e7e0b5f23695c"
         },
         {
             "event_category": "Sports",
@@ -24,15 +24,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
@@ -71,15 +62,6 @@
             "event_name": "Upcoming - UFC 332 - Silva vs Wang"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090538916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090545958,
@@ -96,6 +78,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +141,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India's International Friendlies "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538916,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
         }
     ]
 }
