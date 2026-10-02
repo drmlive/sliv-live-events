@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:23:56 02-10-2026",
+    "last update time": "05:34:01 02-10-2026",
     "matches": [
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090543297_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Women's Finals - Archery - 2 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790942641~acl=/*~id=17392295657738216807673108955697~hmac=6ab8255a62bdfd76a793a5f3f0eae3ce80a748654be9803403da393ae14c531e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790942641~acl=/*~id=17392295657738216807673108955697~hmac=6ab8255a62bdfd76a793a5f3f0eae3ce80a748654be9803403da393ae14c531e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790942641~acl=/*~id=17392295657738216807673108955697~hmac=6ab8255a62bdfd76a793a5f3f0eae3ce80a748654be9803403da393ae14c531e"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
