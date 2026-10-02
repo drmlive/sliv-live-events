@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:38:09 03-10-2026",
+    "last update time": "04:48:14 03-10-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541367_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026294~acl=/*~id=99793696013422447313354744785367~hmac=75153c08c48b9b070662c7767b9315be72cb8cc7f8acd848bba04666bb9bdb7c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026294~acl=/*~id=99793696013422447313354744785367~hmac=75153c08c48b9b070662c7767b9315be72cb8cc7f8acd848bba04666bb9bdb7c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026294~acl=/*~id=99793696013422447313354744785367~hmac=75153c08c48b9b070662c7767b9315be72cb8cc7f8acd848bba04666bb9bdb7c"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
