@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:20:17 03-10-2026",
+    "last update time": "08:30:24 03-10-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -12,9 +12,74 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 15 - Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039016~acl=/*~id=12546902225778960698756397743007~hmac=ca07014092a2e1f106b0a9730e68b22a1ee1ec3390367b5915fb5cc2a8b2ce24",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039016~acl=/*~id=12546902225778960698756397743007~hmac=ca07014092a2e1f106b0a9730e68b22a1ee1ec3390367b5915fb5cc2a8b2ce24",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039016~acl=/*~id=12546902225778960698756397743007~hmac=ca07014092a2e1f106b0a9730e68b22a1ee1ec3390367b5915fb5cc2a8b2ce24"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039016~acl=/*~id=12546902225778960698756397743007~hmac=ca07014092a2e1f106b0a9730e68b22a1ee1ec3390367b5915fb5cc2a8b2ce24",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039016~acl=/*~id=12546902225778960698756397743007~hmac=ca07014092a2e1f106b0a9730e68b22a1ee1ec3390367b5915fb5cc2a8b2ce24",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039016~acl=/*~id=12546902225778960698756397743007~hmac=ca07014092a2e1f106b0a9730e68b22a1ee1ec3390367b5915fb5cc2a8b2ce24"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791039622~acl=/*~id=94684216885275967696345466977488~hmac=43f6bd13311f04ec0ee817c1c13e3aa099b3f0db597de096bd3a81faa67e1ff7"
         },
         {
             "event_category": "Sports",
