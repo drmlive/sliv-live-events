@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:42:49 04-10-2026",
+    "last update time": "17:52:55 04-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090546998_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794655063993_UNL2627_MD4_Azerbaijan_vs_Lithuania_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2026-27",
+            "match_name": "Azerbaijan vs Lithuania - 4 Oct 2026  [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159775~acl=/*~id=31292415602629768397011227129590~hmac=8adcbf79dd7820a0bf70096b100dba75dd7e872f5631e8df690ea833c49104f6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159775~acl=/*~id=31292415602629768397011227129590~hmac=8adcbf79dd7820a0bf70096b100dba75dd7e872f5631e8df690ea833c49104f6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159775~acl=/*~id=31292415602629768397011227129590~hmac=8adcbf79dd7820a0bf70096b100dba75dd7e872f5631e8df690ea833c49104f6"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Alfred Dunhill Links Championship - Day 4 - 4 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159169~acl=/*~id=16488227335960348560838590559468~hmac=6b3b13222d8cfa8063ed9395dca4cea8c7651e590e48878080457c3b368f5121",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159169~acl=/*~id=16488227335960348560838590559468~hmac=6b3b13222d8cfa8063ed9395dca4cea8c7651e590e48878080457c3b368f5121",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159169~acl=/*~id=16488227335960348560838590559468~hmac=6b3b13222d8cfa8063ed9395dca4cea8c7651e590e48878080457c3b368f5121"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159775~acl=/*~id=31292415602629768397011227129590~hmac=8adcbf79dd7820a0bf70096b100dba75dd7e872f5631e8df690ea833c49104f6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159775~acl=/*~id=31292415602629768397011227129590~hmac=8adcbf79dd7820a0bf70096b100dba75dd7e872f5631e8df690ea833c49104f6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159775~acl=/*~id=31292415602629768397011227129590~hmac=8adcbf79dd7820a0bf70096b100dba75dd7e872f5631e8df690ea833c49104f6"
         },
         {
             "event_category": "Football",
