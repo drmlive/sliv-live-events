@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:56:25 07-10-2026",
+    "last update time": "18:06:31 07-10-2026",
     "matches": [
+        {
+            "event_category": "Volleyball",
+            "isLive": true,
+            "contentId": "1090547324_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025944/1791297098402989_VCL_Ayodhya-Garjan-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Volleyball Championship League 2026 ",
+            "match_name": "Ayodhya Garjan vs Garvi Gujjus - 7 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791419791~acl=/*~id=59777345426748491654928201561533~hmac=4f89ef88b13a316b62aad447007614339c769b3db616a10c3f5a8548871fe53d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791419791~acl=/*~id=59777345426748491654928201561533~hmac=4f89ef88b13a316b62aad447007614339c769b3db616a10c3f5a8548871fe53d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791419791~acl=/*~id=59777345426748491654928201561533~hmac=4f89ef88b13a316b62aad447007614339c769b3db616a10c3f5a8548871fe53d"
+        },
+        {
+            "event_category": "Volleyball",
+            "isLive": true,
+            "contentId": "1090547324_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025944/1791297098402989_VCL_Ayodhya-Garjan-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Volleyball Championship League 2026 ",
+            "match_name": "Ayodhya Garjan vs Garvi Gujjus - 7 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791419791~acl=/*~id=59777345426748491654928201561533~hmac=4f89ef88b13a316b62aad447007614339c769b3db616a10c3f5a8548871fe53d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791419791~acl=/*~id=59777345426748491654928201561533~hmac=4f89ef88b13a316b62aad447007614339c769b3db616a10c3f5a8548871fe53d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791419791~acl=/*~id=59777345426748491654928201561533~hmac=4f89ef88b13a316b62aad447007614339c769b3db616a10c3f5a8548871fe53d"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
