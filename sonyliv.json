@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:34:02 08-10-2026",
+    "last update time": "22:44:06 08-10-2026",
     "matches": [
-        {
-            "event_category": "Volleyball",
-            "isLive": true,
-            "contentId": "1090547521_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791372668784475_VCL_Haryana-Hurricanes-vs-Delhi-Dynamites_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "HIN",
-            "event_name": "Volleyball Champions League 2026",
-            "match_name": "Haryana Hurricanes vs Delhi Dynamites  - 8 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791522241~acl=/*~id=78525592061049515247447010119431~hmac=cd5b037e3a8567293b54c4eeeab21aafe104ce16cb2b7f5f442c0fcc6ddf095f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791522241~acl=/*~id=78525592061049515247447010119431~hmac=cd5b037e3a8567293b54c4eeeab21aafe104ce16cb2b7f5f442c0fcc6ddf095f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791522241~acl=/*~id=78525592061049515247447010119431~hmac=cd5b037e3a8567293b54c4eeeab21aafe104ce16cb2b7f5f442c0fcc6ddf095f"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090547326_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791522241~acl=/*~id=78525592061049515247447010119431~hmac=cd5b037e3a8567293b54c4eeeab21aafe104ce16cb2b7f5f442c0fcc6ddf095f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791522241~acl=/*~id=78525592061049515247447010119431~hmac=cd5b037e3a8567293b54c4eeeab21aafe104ce16cb2b7f5f442c0fcc6ddf095f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791522241~acl=/*~id=78525592061049515247447010119431~hmac=cd5b037e3a8567293b54c4eeeab21aafe104ce16cb2b7f5f442c0fcc6ddf095f"
-        },
         {
             "event_category": "Football",
             "isLive": false,
