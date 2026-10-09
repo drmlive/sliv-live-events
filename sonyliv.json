@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:53:03 09-10-2026",
+    "last update time": "17:03:08 09-10-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090547530_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Open de Espana Presented By Madrid - Day 2 - 9 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791588741~acl=/*~id=96795839853608473973969757414826~hmac=4907808d0023452823905ddb4479fd5003bfaf78c285da622a05b32347d84c7b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791588741~acl=/*~id=96795839853608473973969757414826~hmac=4907808d0023452823905ddb4479fd5003bfaf78c285da622a05b32347d84c7b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791588741~acl=/*~id=96795839853608473973969757414826~hmac=4907808d0023452823905ddb4479fd5003bfaf78c285da622a05b32347d84c7b"
+        },
         {
             "event_category": "Football",
             "isLive": false,
