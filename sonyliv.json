@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:20:02 10-10-2026",
+    "last update time": "22:30:07 10-10-2026",
     "matches": [
-        {
-            "event_category": "Volleyball",
-            "isLive": true,
-            "contentId": "1090547535_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137498177852_VCL_Delhi-Dynamites-vs-Hoogly-Hitters_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Volleyball Championship League 2026 ",
-            "match_name": "Delhi Dynamites vs Hoogly Hitters - 10 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791694201~acl=/*~id=67560952527991421128111986994990~hmac=b700091452d77f8d72cd4db16fe04ae98be3506c12f8b52e7136147c47652a66",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791694201~acl=/*~id=67560952527991421128111986994990~hmac=b700091452d77f8d72cd4db16fe04ae98be3506c12f8b52e7136147c47652a66",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791694201~acl=/*~id=67560952527991421128111986994990~hmac=b700091452d77f8d72cd4db16fe04ae98be3506c12f8b52e7136147c47652a66"
-        },
-        {
-            "event_category": "Volleyball",
-            "isLive": true,
-            "contentId": "1090547535_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137498177852_VCL_Delhi-Dynamites-vs-Hoogly-Hitters_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Volleyball Championship League 2026 ",
-            "match_name": "Delhi Dynamites vs Hoogly Hitters - 10 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791694201~acl=/*~id=67560952527991421128111986994990~hmac=b700091452d77f8d72cd4db16fe04ae98be3506c12f8b52e7136147c47652a66",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791694201~acl=/*~id=67560952527991421128111986994990~hmac=b700091452d77f8d72cd4db16fe04ae98be3506c12f8b52e7136147c47652a66",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791694201~acl=/*~id=67560952527991421128111986994990~hmac=b700091452d77f8d72cd4db16fe04ae98be3506c12f8b52e7136147c47652a66"
-        },
         {
             "event_category": "Football",
             "isLive": false,
