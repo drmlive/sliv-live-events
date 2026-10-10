@@ -1,33 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:57:32 10-10-2026",
+    "last update time": "19:07:44 10-10-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090547633_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Bengaluru FC vs Sporting Club Delhi - 10 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573"
-        },
         {
             "event_category": "Football",
             "isLive": true,
             "contentId": "1090547633_HIN",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
+            "audioLanguageName": "HIN",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Bengaluru FC vs Sporting Club Delhi - 10 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090547647_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "FC Goa vs Chennaiyin FC - 10 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090547647_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "FC Goa vs Chennaiyin FC - 10 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090547647_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "FC Goa vs Chennaiyin FC - 10 Oct 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829"
         },
         {
             "event_category": "Volleyball",
@@ -38,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Rajasthan Spikers vs Ayodhya Garjan - 10 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829"
         },
         {
             "event_category": "Volleyball",
@@ -51,9 +77,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Rajasthan Spikers vs Ayodhya Garjan - 10 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829"
+        },
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090547537_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026049/1791528748692353_APL26_Mighty-Marathas-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2026",
+            "match_name": "Mighty Marathas vs Chola Chiefs - 10 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829"
         },
         {
             "event_category": "Golf",
@@ -64,9 +103,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Open de Espana Presented By Madrid - Day 3 - 10 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682050~acl=/*~id=44836150425394490955962775772016~hmac=261b11dfcd1126043ea62432ec22aa68dfef127dbaf4c824da9fddea27d57573"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791682662~acl=/*~id=08425087107557006998252632304655~hmac=d1bda10d6b524757c6bfa98677fa0400cf6778fadbd67bc7b5e7338dab163829"
         },
         {
             "event_category": "Football",
@@ -98,15 +137,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633468675493_Inter_kashi_vs_Kerala_Blasters_dated_landscape_Thum.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090547563,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -121,6 +151,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Barcelona - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633468675493_Inter_kashi_vs_Kerala_Blasters_dated_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Football",
