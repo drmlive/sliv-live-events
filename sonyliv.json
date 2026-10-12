@@ -1,8 +1,47 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:34:32 12-10-2026",
+    "last update time": "19:44:40 12-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090547710_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090547710_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090547710_BEN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [BEN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
+        },
         {
             "event_category": "Volleyball",
             "isLive": true,
@@ -12,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Punjab Aerostrikers vs Ayodhya Garjan - 12 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857072~acl=/*~id=49533225904134301628104658757394~hmac=f74709bac28cd1fbed9045a4ca8139b7ad0fb1e9922443f0a570fd973b39be6b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857072~acl=/*~id=49533225904134301628104658757394~hmac=f74709bac28cd1fbed9045a4ca8139b7ad0fb1e9922443f0a570fd973b39be6b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857072~acl=/*~id=49533225904134301628104658757394~hmac=f74709bac28cd1fbed9045a4ca8139b7ad0fb1e9922443f0a570fd973b39be6b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
         },
         {
             "event_category": "Volleyball",
@@ -25,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Punjab Aerostrikers vs Ayodhya Garjan - 12 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857072~acl=/*~id=49533225904134301628104658757394~hmac=f74709bac28cd1fbed9045a4ca8139b7ad0fb1e9922443f0a570fd973b39be6b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857072~acl=/*~id=49533225904134301628104658757394~hmac=f74709bac28cd1fbed9045a4ca8139b7ad0fb1e9922443f0a570fd973b39be6b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857072~acl=/*~id=49533225904134301628104658757394~hmac=f74709bac28cd1fbed9045a4ca8139b7ad0fb1e9922443f0a570fd973b39be6b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
         },
         {
             "event_category": "Football",
