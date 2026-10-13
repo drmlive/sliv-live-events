@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:56:23 13-10-2026",
+    "last update time": "18:06:30 13-10-2026",
     "matches": [
+        {
+            "event_category": "Volleyball",
+            "isLive": true,
+            "contentId": "1090547794_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Volleyball Championship League 2026 ",
+            "match_name": "Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f"
+        },
+        {
+            "event_category": "Volleyball",
+            "isLive": true,
+            "contentId": "1090547794_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Volleyball Championship League 2026 ",
+            "match_name": "Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2026-27",
             "match_name": "Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791937583~acl=/*~id=49668986837274613944609779412834~hmac=cd07aca9e2e65b1e8bc4ca51a688483c717b82cbb54fbd3bd275b396c6de9166",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791937583~acl=/*~id=49668986837274613944609779412834~hmac=cd07aca9e2e65b1e8bc4ca51a688483c717b82cbb54fbd3bd275b396c6de9166",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791937583~acl=/*~id=49668986837274613944609779412834~hmac=cd07aca9e2e65b1e8bc4ca51a688483c717b82cbb54fbd3bd275b396c6de9166"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f"
         },
         {
             "event_category": "Football",
