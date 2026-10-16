@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:43:07 16-10-2026",
+    "last update time": "16:53:12 16-10-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -11,7 +11,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
-            "match_name": "DP World India Championship - Day 2 - 16 Oct 2026 [ENG]"
+            "match_name": "DP World India Championship - Day 2 - 16 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792192992~acl=/*~id=54805184670252720547191477615098~hmac=66210dc6ecb2aabe8ed7565c3510d373ec929a9d6639ed5835a00bae37b47969",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792192992~acl=/*~id=54805184670252720547191477615098~hmac=66210dc6ecb2aabe8ed7565c3510d373ec929a9d6639ed5835a00bae37b47969",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792192992~acl=/*~id=54805184670252720547191477615098~hmac=66210dc6ecb2aabe8ed7565c3510d373ec929a9d6639ed5835a00bae37b47969"
         },
         {
             "event_category": "Cricket",
