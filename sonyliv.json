@@ -1,8 +1,47 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:53:59 18-10-2026",
+    "last update time": "19:04:08 18-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090548742_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Kerala Blasters FC - 18 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090548742_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Kerala Blasters FC - 18 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090548742_MAL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Kerala Blasters FC - 18 Oct 2026 [MAL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
         },
         {
             "event_category": "Football",
@@ -25,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
         },
         {
             "event_category": "Football",
@@ -38,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
         },
         {
             "event_category": "Volleyball",
@@ -51,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
         },
         {
             "event_category": "Volleyball",
@@ -64,9 +103,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373037~acl=/*~id=82473862229204684587657825686173~hmac=45467aaa0a58a66f2bc13af322bac074cc24d8e3bc5e542fb97e0ce3725cedb1"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
+        },
+        {
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090548750_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026606/1792261592107816_APL26_SF_Mighty_Marathas_vs_Kakatiya_Knights_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2026",
+            "match_name": "Mighty Marathas vs Kakatiya Knights - Semi Final - 18 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792373644~acl=/*~id=40838410599996901718599282916993~hmac=e663c732f11070a402a0aeee01c13cd0b2cc43d5162aa07a3de513c52a047a9d"
         },
         {
             "event_category": "Cricket",
@@ -99,7 +151,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051867292214_ISL_NorthEast_United_FC_vs_Kerala_Blasters_FC_promo_landscape_thumb_tonight.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026607/1792263900769477_ISL26_PunjabFC_vs_MumbaiCityFC_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
