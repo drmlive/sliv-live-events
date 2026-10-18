@@ -1,8 +1,47 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:51:48 18-10-2026",
+    "last update time": "16:01:55 18-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549112_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549112_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549112_BEN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "DP World India Championship - Day 4 - 18 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792362108~acl=/*~id=48026375214619474886118584811708~hmac=d5ae329e3437b382a46ad7f7362a125878b44e79a77c89d6ff55da676be4805b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792362108~acl=/*~id=48026375214619474886118584811708~hmac=d5ae329e3437b382a46ad7f7362a125878b44e79a77c89d6ff55da676be4805b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792362108~acl=/*~id=48026375214619474886118584811708~hmac=d5ae329e3437b382a46ad7f7362a125878b44e79a77c89d6ff55da676be4805b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792362655~acl=/*~id=17071113555127846937074768571365~hmac=f591eceae308f9157d706d14153e4751ea1867aa977bdc8bbbd3e8c8c55e9594"
         },
         {
             "event_category": "Cricket",
@@ -29,7 +68,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026521/1792176245531908_ISL26_Churchill_BrothersSC_vs_EastBengalFC_today_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051867292214_ISL_NorthEast_United_FC_vs_Kerala_Blasters_FC_promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
