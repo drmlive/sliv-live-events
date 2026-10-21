@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:37:06 21-10-2026",
+    "last update time": "21:47:16 21-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549217_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Como vs Man United - 21 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642026~acl=/*~id=11273194865145436178469911817695~hmac=aa9b515c1048ab8de4cff26a507dcf1b42a66d1b417e8b79db7004ff879c5c02",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642026~acl=/*~id=11273194865145436178469911817695~hmac=aa9b515c1048ab8de4cff26a507dcf1b42a66d1b417e8b79db7004ff879c5c02",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642026~acl=/*~id=11273194865145436178469911817695~hmac=aa9b515c1048ab8de4cff26a507dcf1b42a66d1b417e8b79db7004ff879c5c02"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549216_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Lille vs Galatasaray - 21 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177"
         },
         {
             "event_category": "Cricket",
@@ -95,6 +121,24 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "TAM",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090549555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581296779860_Promo-Thumbs_ashwin_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090549556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581347905860_Promo-Thumbs_NZ_vs_IND_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
         }
     ]
