@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:53:28 21-10-2026",
+    "last update time": "17:03:34 21-10-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792625007~acl=/*~id=19931717565756179191189076208477~hmac=4a2da8f6f45046f8db5615038279a066547d860b51f887970a5f4ecdcb5bcfb7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792625007~acl=/*~id=19931717565756179191189076208477~hmac=4a2da8f6f45046f8db5615038279a066547d860b51f887970a5f4ecdcb5bcfb7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792625007~acl=/*~id=19931717565756179191189076208477~hmac=4a2da8f6f45046f8db5615038279a066547d860b51f887970a5f4ecdcb5bcfb7"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792625613~acl=/*~id=31825735792734446490066464279186~hmac=35a9502e8ae3f76b0064d258653d4d1297771760f43e67aba7de54a6a35610d8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792625613~acl=/*~id=31825735792734446490066464279186~hmac=35a9502e8ae3f76b0064d258653d4d1297771760f43e67aba7de54a6a35610d8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792625613~acl=/*~id=31825735792734446490066464279186~hmac=35a9502e8ae3f76b0064d258653d4d1297771760f43e67aba7de54a6a35610d8"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549301_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025834/1791099270661478_UYL26_LOSC_Lille_vs_Galatasaray_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2026-27",
+            "match_name": "LOSC Lille vs Galatasaray - MD3 - 21 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792625613~acl=/*~id=31825735792734446490066464279186~hmac=35a9502e8ae3f76b0064d258653d4d1297771760f43e67aba7de54a6a35610d8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792625613~acl=/*~id=31825735792734446490066464279186~hmac=35a9502e8ae3f76b0064d258653d4d1297771760f43e67aba7de54a6a35610d8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792625613~acl=/*~id=31825735792734446490066464279186~hmac=35a9502e8ae3f76b0064d258653d4d1297771760f43e67aba7de54a6a35610d8"
         },
         {
             "event_category": "Cricket",
