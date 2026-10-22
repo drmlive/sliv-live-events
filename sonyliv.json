@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:35:11 22-10-2026",
+    "last update time": "21:45:20 22-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549627_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Conference League 2026-27",
+            "match_name": "Jablonec vs Brighton - 22 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792728311~acl=/*~id=95880375573322506364374814212727~hmac=55cae0654f963100d44f528d4bf771346139630853bcff5b690c4b711b5136cb",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792728311~acl=/*~id=95880375573322506364374814212727~hmac=55cae0654f963100d44f528d4bf771346139630853bcff5b690c4b711b5136cb",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792728311~acl=/*~id=95880375573322506364374814212727~hmac=55cae0654f963100d44f528d4bf771346139630853bcff5b690c4b711b5136cb"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd"
         },
         {
             "event_category": "Football",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Conference League 2026-27",
             "match_name": "Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728311~acl=/*~id=95880375573322506364374814212727~hmac=55cae0654f963100d44f528d4bf771346139630853bcff5b690c4b711b5136cb",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728311~acl=/*~id=95880375573322506364374814212727~hmac=55cae0654f963100d44f528d4bf771346139630853bcff5b690c4b711b5136cb",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728311~acl=/*~id=95880375573322506364374814212727~hmac=55cae0654f963100d44f528d4bf771346139630853bcff5b690c4b711b5136cb"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792728919~acl=/*~id=55175745421657236101783473313455~hmac=5572c0838d564abc837e3e77ca2aedbc300c6a2af4bfbaaab7f1722bf027befd"
         },
         {
             "event_category": "Football",
