@@ -1,8 +1,47 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:06:56 23-10-2026",
+    "last update time": "00:17:04 23-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549712_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Bournemouth vs Milan - 23 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549735_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Be\u015fikta\u015f vs Crystal Palace - 23 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549910_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026498/1792147436477574_UECL_26_MD2_Ajax-vs-Atalanta_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Conference League 2026-27",
+            "match_name": "Ajax vs Atalanta - 23 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Conference League 2026-27",
             "match_name": "Jablonec vs Brighton - 22 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792737416~acl=/*~id=14483716542133021347688571183276~hmac=632e1dc71fc214eb477fe5ad43e9f682bb5110e35a9257b2e97012ed7c07f600",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792737416~acl=/*~id=14483716542133021347688571183276~hmac=632e1dc71fc214eb477fe5ad43e9f682bb5110e35a9257b2e97012ed7c07f600",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792737416~acl=/*~id=14483716542133021347688571183276~hmac=632e1dc71fc214eb477fe5ad43e9f682bb5110e35a9257b2e97012ed7c07f600"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec"
         },
         {
             "event_category": "Football",
@@ -92,7 +131,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090550079,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686495919928_NZvsIND26_abhishek_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690224910846_indvsnz_2nd_t20i_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026"
