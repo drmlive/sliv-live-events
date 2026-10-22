@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:28:22 23-10-2026",
+    "last update time": "02:38:27 23-10-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090549712_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Bournemouth vs Milan - 23 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745902~acl=/*~id=84411833629742764450197624119500~hmac=514d7cf3b109f48df75e307fade68f4ce554ccb5fe0230a8e7660659ed17221e",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745902~acl=/*~id=84411833629742764450197624119500~hmac=514d7cf3b109f48df75e307fade68f4ce554ccb5fe0230a8e7660659ed17221e",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745902~acl=/*~id=84411833629742764450197624119500~hmac=514d7cf3b109f48df75e307fade68f4ce554ccb5fe0230a8e7660659ed17221e"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090549735_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Be\u015fikta\u015f vs Crystal Palace - 23 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745902~acl=/*~id=84411833629742764450197624119500~hmac=514d7cf3b109f48df75e307fade68f4ce554ccb5fe0230a8e7660659ed17221e",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745902~acl=/*~id=84411833629742764450197624119500~hmac=514d7cf3b109f48df75e307fade68f4ce554ccb5fe0230a8e7660659ed17221e",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745902~acl=/*~id=84411833629742764450197624119500~hmac=514d7cf3b109f48df75e307fade68f4ce554ccb5fe0230a8e7660659ed17221e"
-        },
         {
             "event_category": "Football",
             "isLive": false,
