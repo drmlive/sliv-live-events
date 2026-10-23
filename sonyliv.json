@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:51:21 23-10-2026",
+    "last update time": "08:01:27 23-10-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090550070_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Genesis Championship - Day 2 - 23 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792765887~acl=/*~id=95819916058378688885575518096194~hmac=cf8d8610e91b7c61bee78a4424afcef51079f3eb7aa9522813eedbdfd2d33955",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792765887~acl=/*~id=95819916058378688885575518096194~hmac=cf8d8610e91b7c61bee78a4424afcef51079f3eb7aa9522813eedbdfd2d33955",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792765887~acl=/*~id=95819916058378688885575518096194~hmac=cf8d8610e91b7c61bee78a4424afcef51079f3eb7aa9522813eedbdfd2d33955"
+        },
         {
             "event_category": "Football",
             "isLive": false,
