@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:34:17 24-10-2026",
+    "last update time": "03:44:23 24-10-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India A Tour of New Zealand",
             "match_name": "1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836257~acl=/*~id=20103155712845905243442731069133~hmac=85305f65469d8c814380052004a957d5c71022a0aeb93f89a34166d917d001c4",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836257~acl=/*~id=20103155712845905243442731069133~hmac=85305f65469d8c814380052004a957d5c71022a0aeb93f89a34166d917d001c4",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836257~acl=/*~id=20103155712845905243442731069133~hmac=85305f65469d8c814380052004a957d5c71022a0aeb93f89a34166d917d001c4"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836863~acl=/*~id=76169572972713691545027911094090~hmac=949a989b2fb5865bd5492648cab9fd98374bde39f340b6fe7fd6a4444580e6ba",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836863~acl=/*~id=76169572972713691545027911094090~hmac=949a989b2fb5865bd5492648cab9fd98374bde39f340b6fe7fd6a4444580e6ba",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836863~acl=/*~id=76169572972713691545027911094090~hmac=949a989b2fb5865bd5492648cab9fd98374bde39f340b6fe7fd6a4444580e6ba"
         },
         {
             "event_category": "Cricket",
@@ -120,6 +120,15 @@
             "isLive": false,
             "contentId": 1090550080,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686364520928_NZvsIND26_varma_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090550359,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027185/1792776993792424_sanju_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026"
