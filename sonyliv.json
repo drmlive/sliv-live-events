@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:51:40 23-10-2026",
+    "last update time": "23:01:46 23-10-2026",
     "matches": [
-        {
-            "event_category": "Volleyball",
-            "isLive": true,
-            "contentId": "1090550116_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Volleyball Champions League 2026",
-            "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769"
-        },
-        {
-            "event_category": "Volleyball",
-            "isLive": true,
-            "contentId": "1090550116_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "HIN",
-            "event_name": "Volleyball Champions League 2026",
-            "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
