@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:18:02 24-10-2026",
+    "last update time": "18:38:09 24-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090550221_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090550221_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +38,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792889281~acl=/*~id=71949618366040767823388413269455~hmac=816b788689add70368f572e8f29590664c65bc8e3f14f1c523bb6d174de4f72e",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792889281~acl=/*~id=71949618366040767823388413269455~hmac=816b788689add70368f572e8f29590664c65bc8e3f14f1c523bb6d174de4f72e",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792889281~acl=/*~id=71949618366040767823388413269455~hmac=816b788689add70368f572e8f29590664c65bc8e3f14f1c523bb6d174de4f72e"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792890489~acl=/*~id=93321612381585729790631553631985~hmac=cecf75dfa610835c20eb970172d5e3c5ad3a0633145e8539f71123167893d159"
         },
         {
             "event_category": "Fight Sports",
@@ -24,15 +50,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792658826662446_ISL_Odisha-FC-vs-NorthEast-United-FC_promo_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -51,6 +68,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792658826662446_ISL_Odisha-FC-vs-NorthEast-United-FC_promo_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Cricket",
