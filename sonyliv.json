@@ -1,33 +1,17 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:42:45 24-10-2026",
+    "last update time": "13:53:06 24-10-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090550278_ENG",
+            "contentId": 1090550278,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090550278_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [KAN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07"
+            "match_name": "2nd T20I - 24 Oct 2026"
         },
         {
             "event_category": "Golf",
@@ -38,9 +22,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Asian Tour 2026",
             "match_name": "LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792872719~acl=/*~id=15202504409905704466383165551837~hmac=26fb63fc0c8229f36d3d476b34a4cd9bc66e8c462dd7b5628c1a0a5feb943b07"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792873386~acl=/*~id=53670879292204411819245976375542~hmac=3b3e5aee25159cdbbad35172f7625b4d71616544e88470131aaf474906905e68",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792873386~acl=/*~id=53670879292204411819245976375542~hmac=3b3e5aee25159cdbbad35172f7625b4d71616544e88470131aaf474906905e68",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792873386~acl=/*~id=53670879292204411819245976375542~hmac=3b3e5aee25159cdbbad35172f7625b4d71616544e88470131aaf474906905e68"
         },
         {
             "event_category": "Fight Sports",
