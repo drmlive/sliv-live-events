@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:05:59 25-10-2026",
+    "last update time": "08:16:06 25-10-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "India A Tour of New Zealand",
             "match_name": "1st Unofficial Test - Day 2 - 25 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792938959~acl=/*~id=99941351144590612246336788941091~hmac=631e2bfbc3421adc70ab924d5ef789429fdc2dde0fb9f7097b3b3b2ffa10d2c5",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792938959~acl=/*~id=99941351144590612246336788941091~hmac=631e2bfbc3421adc70ab924d5ef789429fdc2dde0fb9f7097b3b3b2ffa10d2c5",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792938959~acl=/*~id=99941351144590612246336788941091~hmac=631e2bfbc3421adc70ab924d5ef789429fdc2dde0fb9f7097b3b3b2ffa10d2c5"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792939565~acl=/*~id=86444020626999596782904432779219~hmac=d5b1bc68d133e9376055c89bfdb91bdef190bd4af78c026b868f8f85bdd9e96f",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792939565~acl=/*~id=86444020626999596782904432779219~hmac=d5b1bc68d133e9376055c89bfdb91bdef190bd4af78c026b868f8f85bdd9e96f",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792939565~acl=/*~id=86444020626999596782904432779219~hmac=d5b1bc68d133e9376055c89bfdb91bdef190bd4af78c026b868f8f85bdd9e96f"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090550570_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Genesis Championship - Day 4 - 25 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792939565~acl=/*~id=86444020626999596782904432779219~hmac=d5b1bc68d133e9376055c89bfdb91bdef190bd4af78c026b868f8f85bdd9e96f",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792939565~acl=/*~id=86444020626999596782904432779219~hmac=d5b1bc68d133e9376055c89bfdb91bdef190bd4af78c026b868f8f85bdd9e96f",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792939565~acl=/*~id=86444020626999596782904432779219~hmac=d5b1bc68d133e9376055c89bfdb91bdef190bd4af78c026b868f8f85bdd9e96f"
         },
         {
             "event_category": "Football",
