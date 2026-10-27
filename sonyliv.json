@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:39:49 27-10-2026",
+    "last update time": "14:50:10 27-10-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090550767_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "3rd T20I - 27 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -25,22 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "3rd T20I - 27 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2"
         },
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090550767_KAN",
+            "contentId": "1090550767_HIN",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
+            "audioLanguageName": "HIN",
             "event_name": "India Tour of New Zealand 2026",
-            "match_name": "3rd T20I - 27 Oct 2026 [KAN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff"
+            "match_name": "3rd T20I - 27 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2"
         },
         {
             "event_category": "Cricket",
@@ -51,9 +38,9 @@
             "audioLanguageName": "TAM",
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "3rd T20I - 27 Oct 2026 [TAM]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2"
         },
         {
             "event_category": "Cricket",
@@ -64,9 +51,9 @@
             "audioLanguageName": "TEL",
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "3rd T20I - 27 Oct 2026 [TEL]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/master.m3u8?hdnea=exp=1793135389~acl=/*~id=74607968203729135514931335550564~hmac=94b1ba5df14d530557149062e2cca96371bc4db120fe5ff82a30a174f7e059ff"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793135997~acl=/*~id=69860280701486210850441224762689~hmac=1c71e2eae958a878fb0bf61fd0243b43480c97c1e3cc0ab95972711bc20d92c2"
         },
         {
             "event_category": "Football",
@@ -117,28 +104,4 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090549928,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026951/179264549504218_NZ_vs_IND_promo_thumb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090549038,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090548283,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026328/1791978466033872_STCL_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Salute Tiranga Cricket League (STCL) 2026"
-        }
-    ]
-}
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026951/179264549504218_NZ_vs_IND_promo
