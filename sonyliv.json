@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:24:15 27-10-2026",
+    "last update time": "20:34:05 27-10-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "HIN",
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793155998~acl=/*~id=66330315278093567936474333831657~hmac=37323e9a11fd82c4c622416a77aeb59c86406db55813bc9d4e512b75e2d30e1c",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793155998~acl=/*~id=66330315278093567936474333831657~hmac=37323e9a11fd82c4c622416a77aeb59c86406db55813bc9d4e512b75e2d30e1c",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793155998~acl=/*~id=66330315278093567936474333831657~hmac=37323e9a11fd82c4c622416a77aeb59c86406db55813bc9d4e512b75e2d30e1c"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793156645~acl=/*~id=52232891939605490560597222288693~hmac=6f5daa1da2c2d7a0cebdd8818a9056cd50676202f97f06c02982d2082b99fbb9",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793156645~acl=/*~id=52232891939605490560597222288693~hmac=6f5daa1da2c2d7a0cebdd8818a9056cd50676202f97f06c02982d2082b99fbb9",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793156645~acl=/*~id=52232891939605490560597222288693~hmac=6f5daa1da2c2d7a0cebdd8818a9056cd50676202f97f06c02982d2082b99fbb9"
         },
         {
             "event_category": "Football",
@@ -96,6 +96,42 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Salute Tiranga Cricket League (STCL) 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551137,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027558/179311113686129_ind_vs_nz_vaibhav_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551142,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027556/179311108407418_ind_vs_nz_abhishek_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551143,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027557/1793111112080510_ind_vs_nz_ashwin_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551144,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027559/1793111161813529_Nz_vs_ind_4th_t20i_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026"
         }
     ]
 }
