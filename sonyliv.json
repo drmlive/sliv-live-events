@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:42:49 27-10-2026",
+    "last update time": "17:52:54 27-10-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090550786_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027434/1793041312495594_STCL26_delhi_vs_haryana_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+            "match_name": "Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793146974~acl=/*~id=52765595937738962898989561233900~hmac=2785378f4b35303d86ca0fc7a2dc6f4083a3aa61755d617f906e8112363d18a1",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793146974~acl=/*~id=52765595937738962898989561233900~hmac=2785378f4b35303d86ca0fc7a2dc6f4083a3aa61755d617f906e8112363d18a1",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793146974~acl=/*~id=52765595937738962898989561233900~hmac=2785378f4b35303d86ca0fc7a2dc6f4083a3aa61755d617f906e8112363d18a1"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -24,8 +37,8 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090551031,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027459/1793087807073734_INDvsNZ_rahane_promo_landscape_thumb.jpg",
+            "contentId": 1090551109,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027494/1793097334885128_INDvsNZ_kohli_pormo_landscape_thumbnail.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
@@ -38,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551031,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027459/1793087807073734_INDvsNZ_rahane_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
