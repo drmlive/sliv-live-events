@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:26:30 28-10-2026",
+    "last update time": "18:36:36 28-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551075_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "FC Goa vs Sporting Club Delhi - 28 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551075_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "FC Goa vs Sporting Club Delhi - 28 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,15 +38,15 @@
             "audioLanguageName": "HIN",
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Haryana Lions vs UP Dhurandhar - Final - 28 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235390~acl=/*~id=41666514827267134236339708322469~hmac=c860c10e45540a5ed51399639f77c04d9c50b72956a48bed56c262881655c6e2",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235390~acl=/*~id=41666514827267134236339708322469~hmac=c860c10e45540a5ed51399639f77c04d9c50b72956a48bed56c262881655c6e2",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235390~acl=/*~id=41666514827267134236339708322469~hmac=c860c10e45540a5ed51399639f77c04d9c50b72956a48bed56c262881655c6e2"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793235995~acl=/*~id=06184722507717193011043915226895~hmac=93cd0c47040ff4fab0713952f125fe5f7a6ee67fb3c50bfb35e12c4ca73442a3"
         },
         {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662620420446_ISL_FC-Goa-vs-Sporting-Club-Delhi_promo_Tonight_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793118926408973_ISL_NorthEast_United_FC_vs_Bengaluru_FC_promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
