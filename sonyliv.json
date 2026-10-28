@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:46:06 28-10-2026",
+    "last update time": "17:56:12 28-10-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090551064_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027599/1793181428437269_STCL26_final_Haryana_Lions_vs_UP_Dhurandhar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+            "match_name": "Haryana Lions vs UP Dhurandhar - Final - 28 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793233572~acl=/*~id=71114728745908229271264025996306~hmac=109f7cf71db5daa5d3df49a40819bf6f123c6ebcd1e65a90d18aa1c44668fb3a",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793233572~acl=/*~id=71114728745908229271264025996306~hmac=109f7cf71db5daa5d3df49a40819bf6f123c6ebcd1e65a90d18aa1c44668fb3a",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793233572~acl=/*~id=71114728745908229271264025996306~hmac=109f7cf71db5daa5d3df49a40819bf6f123c6ebcd1e65a90d18aa1c44668fb3a"
+        },
         {
             "event_category": "Football",
             "isLive": false,
