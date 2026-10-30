@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:27:41 30-10-2026",
+    "last update time": "18:37:53 30-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551180_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793408869~acl=/*~id=92012910973274747783685553240498~hmac=98020fd5056e258d6cd1056d0e870261c6058a1f7faffb30807e1e1ad2bcbacf",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793408869~acl=/*~id=92012910973274747783685553240498~hmac=98020fd5056e258d6cd1056d0e870261c6058a1f7faffb30807e1e1ad2bcbacf",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793408869~acl=/*~id=92012910973274747783685553240498~hmac=98020fd5056e258d6cd1056d0e870261c6058a1f7faffb30807e1e1ad2bcbacf"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -16,7 +29,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793118935046973_ISL_NorthEast_United_FC_vs_Bengaluru_FC_promo_landscape_thumb_tonight.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793119573958973_ISL_Chennaiyin_FC_vs_Kerala_Blasters_FC_promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
@@ -29,6 +42,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India A Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551489,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362305764920_INDvsNZ_5t20I_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
@@ -74,6 +96,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551488,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362288057920_INDvsNZ_abhishek_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551490,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362254556920_INDvsNZ_vaibhav_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
         }
     ]
 }
