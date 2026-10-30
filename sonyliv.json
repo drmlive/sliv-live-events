@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:30:39 30-10-2026",
+    "last update time": "21:50:53 30-10-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793419235~acl=/*~id=80014306203092921092805688057561~hmac=caefd381f3c44a92274b1b533127e7af0972d28ffa5566b732b290414c0c7c3c",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793419235~acl=/*~id=80014306203092921092805688057561~hmac=caefd381f3c44a92274b1b533127e7af0972d28ffa5566b732b290414c0c7c3c",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793419235~acl=/*~id=80014306203092921092805688057561~hmac=caefd381f3c44a92274b1b533127e7af0972d28ffa5566b732b290414c0c7c3c"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793420453~acl=/*~id=97314986670133237411013568424298~hmac=54d20b86ce90d5743dc8dc1feee35bf6052770a933884aaff1c730bddd88b3bd",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793420453~acl=/*~id=97314986670133237411013568424298~hmac=54d20b86ce90d5743dc8dc1feee35bf6052770a933884aaff1c730bddd88b3bd",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793420453~acl=/*~id=97314986670133237411013568424298~hmac=54d20b86ce90d5743dc8dc1feee35bf6052770a933884aaff1c730bddd88b3bd"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551180_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793420453~acl=/*~id=97314986670133237411013568424298~hmac=54d20b86ce90d5743dc8dc1feee35bf6052770a933884aaff1c730bddd88b3bd",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793420453~acl=/*~id=97314986670133237411013568424298~hmac=54d20b86ce90d5743dc8dc1feee35bf6052770a933884aaff1c730bddd88b3bd",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793420453~acl=/*~id=97314986670133237411013568424298~hmac=54d20b86ce90d5743dc8dc1feee35bf6052770a933884aaff1c730bddd88b3bd"
         },
         {
             "event_category": "Cricket",
