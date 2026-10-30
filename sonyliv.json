@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:42:25 31-10-2026",
+    "last update time": "00:52:30 31-10-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -38,6 +38,33 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551499,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551496,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168441946484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Aston Villa - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551495,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167275203484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -105,38 +132,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090551495,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167275203484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090551496,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168441946484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Aston Villa - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090551497,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Dortmund vs Real Betis - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090551499,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27"
         }
     ]
 }
