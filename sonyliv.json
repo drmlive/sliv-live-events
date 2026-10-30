@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:13:46 31-10-2026",
+    "last update time": "03:23:51 31-10-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India A Tour of New Zealand",
             "match_name": "2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793439826~acl=/*~id=26247522205385481150743570339297~hmac=1fbad6d4d86513d0c19192bdcd95aaa74019a553b9ebe8f09cbfb0d6a720a36d",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793439826~acl=/*~id=26247522205385481150743570339297~hmac=1fbad6d4d86513d0c19192bdcd95aaa74019a553b9ebe8f09cbfb0d6a720a36d",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793439826~acl=/*~id=26247522205385481150743570339297~hmac=1fbad6d4d86513d0c19192bdcd95aaa74019a553b9ebe8f09cbfb0d6a720a36d"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793440431~acl=/*~id=58342385308836800944090866097145~hmac=5bffa12c1ad3d571d42d0a08556a10c336eb428ed8191a43041a35af1aa43e3e",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793440431~acl=/*~id=58342385308836800944090866097145~hmac=5bffa12c1ad3d571d42d0a08556a10c336eb428ed8191a43041a35af1aa43e3e",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793440431~acl=/*~id=58342385308836800944090866097145~hmac=5bffa12c1ad3d571d42d0a08556a10c336eb428ed8191a43041a35af1aa43e3e"
         },
         {
             "event_category": "Cricket",
@@ -46,15 +46,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090551499,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090551496,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168441946484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -69,6 +60,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551499,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Cricket",
