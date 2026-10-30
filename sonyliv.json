@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:00:03 30-10-2026",
+    "last update time": "21:10:17 30-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551180_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793418017~acl=/*~id=73847416191315691189035363004632~hmac=a4483b601683026b381b1aef31940d3e0a1e6730ddd065f60d8357e71dc7dbde",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793418017~acl=/*~id=73847416191315691189035363004632~hmac=a4483b601683026b381b1aef31940d3e0a1e6730ddd065f60d8357e71dc7dbde",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793418017~acl=/*~id=73847416191315691189035363004632~hmac=a4483b601683026b381b1aef31940d3e0a1e6730ddd065f60d8357e71dc7dbde"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793417399~acl=/*~id=39419472212470205045458379102066~hmac=7ca674e54ec7d9bb95fbb05f5b9fa40272905d0d47544a758a657a2e95022b1f",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793417399~acl=/*~id=39419472212470205045458379102066~hmac=7ca674e54ec7d9bb95fbb05f5b9fa40272905d0d47544a758a657a2e95022b1f",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793417399~acl=/*~id=39419472212470205045458379102066~hmac=7ca674e54ec7d9bb95fbb05f5b9fa40272905d0d47544a758a657a2e95022b1f"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793418017~acl=/*~id=73847416191315691189035363004632~hmac=a4483b601683026b381b1aef31940d3e0a1e6730ddd065f60d8357e71dc7dbde",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793418017~acl=/*~id=73847416191315691189035363004632~hmac=a4483b601683026b381b1aef31940d3e0a1e6730ddd065f60d8357e71dc7dbde",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793418017~acl=/*~id=73847416191315691189035363004632~hmac=a4483b601683026b381b1aef31940d3e0a1e6730ddd065f60d8357e71dc7dbde"
         },
         {
             "event_category": "Cricket",
