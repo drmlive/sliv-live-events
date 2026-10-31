@@ -1,8 +1,47 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:22:09 31-10-2026",
+    "last update time": "18:32:17 31-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551190_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551190_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551190_BEN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "BEN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [BEN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee"
         },
         {
             "event_category": "Football",
@@ -25,9 +64,9 @@
             "audioLanguageName": "HIN",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee"
         },
         {
             "event_category": "Football",
@@ -38,9 +77,9 @@
             "audioLanguageName": "TAM",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [TAM]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee"
         },
         {
             "event_category": "Football",
@@ -51,15 +90,15 @@
             "audioLanguageName": "MAL",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [MAL]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494935~acl=/*~id=86820213055276081264841371245062~hmac=8aeda6f8d4036c7d2a5ba5bc795969ee7afdd11c2c7beb7bd82b63277f970cee"
         },
         {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793120713180973_ISL_Mohun_Bagan_SG_vs_Punjab_FC_promo_landscape_thumb_tonight.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793121940468973_ISL_Mumbai_City_FC_vs_Sporting_Club_Delhi_promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
