@@ -1,20 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:51:37 01-11-2026",
+    "last update time": "11:22:09 01-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090551577_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg",
+            "contentId": "1090551642_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "India A Tour of New Zealand",
-            "match_name": "2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793553697~acl=/*~id=20500913357228483817352331166807~hmac=66d024a6ea660e256f50951a5f9c499070ea8f219aa6082587e1220974ad7388",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793553697~acl=/*~id=20500913357228483817352331166807~hmac=66d024a6ea660e256f50951a5f9c499070ea8f219aa6082587e1220974ad7388",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793553697~acl=/*~id=20500913357228483817352331166807~hmac=66d024a6ea660e256f50951a5f9c499070ea8f219aa6082587e1220974ad7388"
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th T20I - 1 Nov 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090551642_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th T20I - 1 Nov 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090551642_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th T20I - 1 Nov 2026 [TAM]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090551642_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th T20I - 1 Nov 2026 [TEL]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090551642_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th T20I - 1 Nov 2026 [KAN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793555524~acl=/*~id=19115946581051418441131152575285~hmac=e780327bf01875a96c1be1744e362569a987ede58dc12f3376641d147b117ae2"
         },
         {
             "event_category": "Football",
@@ -24,15 +76,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": " Upcoming - Matchday 4 - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090551225,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Football",
@@ -46,11 +89,11 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090551489,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371269918937_NZvsIND26_5th_T20I_today_landscape_thumb.jpg",
+            "contentId": 1090551225,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Football",
@@ -143,24 +186,6 @@
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090551488,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362288057920_INDvsNZ_abhishek_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090551490,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362254556920_INDvsNZ_vaibhav_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090551497,
@@ -168,6 +193,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Dortmund vs Real Betis - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551498,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027845/179336646551186_champion_league_matchday_4_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27"
         }
     ]
 }
