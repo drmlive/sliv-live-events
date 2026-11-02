@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:40:44 02-11-2026",
+    "last update time": "13:50:51 02-11-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -11,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": " Upcoming - Matchday 4 - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551225,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Football",
@@ -47,15 +56,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090551225,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
