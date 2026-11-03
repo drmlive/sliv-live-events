@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:58:00 03-11-2026",
+    "last update time": "21:07:42 03-11-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2026-27",
             "match_name": "Atletico de Madrid vs FC Bayern Munich - 3 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793762880~acl=/*~id=33656619352572703712395442202500~hmac=d0804300477dfc9a5a8a9298ea984f12a5463514966ddf1385ae731864ed8c67",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793762880~acl=/*~id=33656619352572703712395442202500~hmac=d0804300477dfc9a5a8a9298ea984f12a5463514966ddf1385ae731864ed8c67",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793762880~acl=/*~id=33656619352572703712395442202500~hmac=d0804300477dfc9a5a8a9298ea984f12a5463514966ddf1385ae731864ed8c67"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793763461~acl=/*~id=65638109879775516786478039081864~hmac=fc5ce7277a77ac5e696654bae1b38841dc9449219c9c40dd6c67f726a50793ec",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793763461~acl=/*~id=65638109879775516786478039081864~hmac=fc5ce7277a77ac5e696654bae1b38841dc9449219c9c40dd6c67f726a50793ec",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793763461~acl=/*~id=65638109879775516786478039081864~hmac=fc5ce7277a77ac5e696654bae1b38841dc9449219c9c40dd6c67f726a50793ec"
         },
         {
             "event_category": "Football",
@@ -134,4 +134,31 @@
             "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
         },
         {
-            "event_ca
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551109,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027494/1793097334885128_INDvsNZ_kohli_pormo_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551031,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027459/1793087807073734_INDvsNZ_rahane_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551497,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Dortmund vs Real Betis - UEFA Champions League 2026-27"
+        }
+    ]
+}
