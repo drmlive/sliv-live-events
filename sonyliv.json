@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:47:06 03-11-2026",
+    "last update time": "19:56:53 03-11-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2026-27",
             "match_name": "Manchester United vs AS Roma - MD 4 - 3 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793758626~acl=/*~id=75125168194049530979898025769435~hmac=6ff2a7522b1b436600c235cf8ee5e740cc9e05a3dd153b472c9f2af7028cd486",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793758626~acl=/*~id=75125168194049530979898025769435~hmac=6ff2a7522b1b436600c235cf8ee5e740cc9e05a3dd153b472c9f2af7028cd486",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793758626~acl=/*~id=75125168194049530979898025769435~hmac=6ff2a7522b1b436600c235cf8ee5e740cc9e05a3dd153b472c9f2af7028cd486"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793759213~acl=/*~id=88594952211934889110596786326513~hmac=0670d9340ae4ac9fe91c5e078e50ad6277a2717df0e95304fff59f135a3f141c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793759213~acl=/*~id=88594952211934889110596786326513~hmac=0670d9340ae4ac9fe91c5e078e50ad6277a2717df0e95304fff59f135a3f141c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793759213~acl=/*~id=88594952211934889110596786326513~hmac=0670d9340ae4ac9fe91c5e078e50ad6277a2717df0e95304fff59f135a3f141c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551682_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2026-27",
+            "match_name": "Atletico de Madrid vs FC Bayern Munich - 3 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793759213~acl=/*~id=88594952211934889110596786326513~hmac=0670d9340ae4ac9fe91c5e078e50ad6277a2717df0e95304fff59f135a3f141c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793759213~acl=/*~id=88594952211934889110596786326513~hmac=0670d9340ae4ac9fe91c5e078e50ad6277a2717df0e95304fff59f135a3f141c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793759213~acl=/*~id=88594952211934889110596786326513~hmac=0670d9340ae4ac9fe91c5e078e50ad6277a2717df0e95304fff59f135a3f141c"
         },
         {
             "event_category": "Football",
