@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:38:56 03-11-2026",
+    "last update time": "22:49:03 03-11-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551744_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792950924165243_UCL26_MD4_Shakhtar_vs_SportingCP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Shakhtar Donetsk vs Sporting CP - MD 4 - 3 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793769543~acl=/*~id=06404411068942853485510038047716~hmac=082d381da750320812ee9e792b1e2780d9682cb3923bd4e3b78a32ed749a79e7",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793769543~acl=/*~id=06404411068942853485510038047716~hmac=082d381da750320812ee9e792b1e2780d9682cb3923bd4e3b78a32ed749a79e7",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793769543~acl=/*~id=06404411068942853485510038047716~hmac=082d381da750320812ee9e792b1e2780d9682cb3923bd4e3b78a32ed749a79e7"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551745_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951478118378_UCL26_MD4_Galatasaray_vs_VfB_Stuttgart_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Galatasaray vs VfB Stuttgart - 3 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793769543~acl=/*~id=06404411068942853485510038047716~hmac=082d381da750320812ee9e792b1e2780d9682cb3923bd4e3b78a32ed749a79e7",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793769543~acl=/*~id=06404411068942853485510038047716~hmac=082d381da750320812ee9e792b1e2780d9682cb3923bd4e3b78a32ed749a79e7",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793769543~acl=/*~id=06404411068942853485510038047716~hmac=082d381da750320812ee9e792b1e2780d9682cb3923bd4e3b78a32ed749a79e7"
+        },
         {
             "event_category": "Football",
             "isLive": false,
