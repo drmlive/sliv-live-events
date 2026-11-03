@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:13:05 03-11-2026",
+    "last update time": "13:23:10 03-11-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -112,15 +112,6 @@
             "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090551143,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090551497,
@@ -137,6 +128,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551520,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027882/1793372705073348_Ind_VS_Pak_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026"
         }
     ]
 }
