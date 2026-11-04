@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:06:42 04-11-2026",
+    "last update time": "08:16:54 04-11-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090552110_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st ODI - 4 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -25,9 +12,61 @@
             "audioLanguageName": "HIN",
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st ODI - 4 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090552110_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st ODI - 4 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090552110_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st ODI - 4 Nov 2026 [TAM]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090552110_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st ODI - 4 Nov 2026 [KAN]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090552110_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st ODI - 4 Nov 2026 [TEL]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/master.m3u8?hdnea=exp=1793803614~acl=/*~id=42442812091348800356139994037787~hmac=d95ce2c3b44b54955a7c34490b9075a4679c6accfedb30d9c66845357b3c29c9"
         },
         {
             "event_category": "Football",
@@ -109,6 +148,33 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090552483,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028191/1793759087693697_rohit_promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090552478,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028191/1793758970436697_ROKO_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090552481,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028191/1793759105413697_ACRS26_INDvsPAK_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Cricket Non-Stop Combo"
         }
     ]
 }
