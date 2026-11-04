@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:50:39 04-11-2026",
+    "last update time": "18:00:55 04-11-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090552122_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890776152359_UYL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2026-27",
+            "match_name": "RC Lens vs Como - 4 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793838655~acl=/*~id=57394972627602454470224644319379~hmac=f9028f802ff4f3b75b0c60bb8409b6541d2fe9b2241bb0476a82f23256ce3ac5",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793838655~acl=/*~id=57394972627602454470224644319379~hmac=f9028f802ff4f3b75b0c60bb8409b6541d2fe9b2241bb0476a82f23256ce3ac5",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793838655~acl=/*~id=57394972627602454470224644319379~hmac=f9028f802ff4f3b75b0c60bb8409b6541d2fe9b2241bb0476a82f23256ce3ac5"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -65,6 +78,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India A Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551225,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027597/179318077717911_ind_vs_nz_roko_is_back_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Football",
