@@ -1,47 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:40:34 05-11-2026",
+    "last update time": "21:50:52 05-11-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090552592_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Mohun Bagan Super Giant vs OFC - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090552592_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Mohun Bagan Super Giant vs OFC - 5 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090552592_BEN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "BEN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Mohun Bagan Super Giant vs OFC - 5 Nov 2026 [BEN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793938233~acl=/*~id=80621375475370835328192680259584~hmac=8030d83886e7eeeecdaf6c8bda920b1022c01164d793747a2444dd8f8edb9eb0"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
