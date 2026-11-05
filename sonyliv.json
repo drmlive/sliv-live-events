@@ -1,17 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:02:14 05-11-2026",
+    "last update time": "11:12:21 05-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": 1090552565,
+            "contentId": "1090552565_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Bangladesh vs Afghanistan - 5 Nov 2026"
+            "match_name": "Bangladesh vs Afghanistan - 5 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86"
         },
         {
             "event_category": "Cricket",
@@ -22,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Sri Lanka vs Malaysia - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793899934~acl=/*~id=91771112990035919692392018313877~hmac=c495b465375851b6d8e16fb74278cf50e59ff88d55ae1055daf6625dc95bb61b",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793899934~acl=/*~id=91771112990035919692392018313877~hmac=c495b465375851b6d8e16fb74278cf50e59ff88d55ae1055daf6625dc95bb61b",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793899934~acl=/*~id=91771112990035919692392018313877~hmac=c495b465375851b6d8e16fb74278cf50e59ff88d55ae1055daf6625dc95bb61b"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86"
         },
         {
             "event_category": "Cricket",
