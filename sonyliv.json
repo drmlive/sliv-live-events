@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:31:17 05-11-2026",
+    "last update time": "22:41:25 05-11-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551919_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "AC Milan vs Ferencv\u00e1rosi TC - MD 4 - 5 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551924_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Crystal Palace vs TSG 1899 Hoffenheim - 5 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
