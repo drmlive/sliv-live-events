@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:05:33 05-11-2026",
+    "last update time": "16:15:41 05-11-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090552565_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "Bangladesh vs Afghanistan - 5 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf"
         },
         {
             "event_category": "Football",
@@ -25,22 +38,9 @@
             "audioLanguageName": "HIN",
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090552565_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Bangladesh vs Afghanistan - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf"
         },
         {
             "event_category": "Golf",
@@ -51,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Abu Dhabi HSBC Championship - Day 1 - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918132~acl=/*~id=09167509103261293406907311599012~hmac=b71a5d3dc65cc60a5f00adef4a948d3012ea922dcc9bb4383054851934c4b580"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf"
         },
         {
             "event_category": "Cricket",
