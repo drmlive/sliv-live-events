@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:47:26 07-11-2026",
+    "last update time": "10:57:36 07-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "2nd ODI - 7 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,22 @@
             "audioLanguageName": "HIN",
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "2nd ODI - 7 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090552836_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd ODI - 7 Nov 2026 [TAM]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c"
         },
         {
             "event_category": "Cricket",
@@ -38,9 +51,9 @@
             "audioLanguageName": "TEL",
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "2nd ODI - 7 Nov 2026 [TEL]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c"
         },
         {
             "event_category": "Cricket",
@@ -51,9 +64,9 @@
             "audioLanguageName": "KAN",
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "2nd ODI - 7 Nov 2026 [KAN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c"
         },
         {
             "event_category": "Cricket",
@@ -64,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c"
         },
         {
             "event_category": "Cricket",
@@ -77,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Afghanistan vs Malaysia - 7 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794071840~acl=/*~id=10149730980739061653896085046469~hmac=fa66fc3b99cbe22e011d5ffe1e1b32183b0dab2dc85c6a87834217edd7ae09ca"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794072451~acl=/*~id=47675693912411241976198440687264~hmac=2ec1510a89861d71d2958f0313562015384bc7adaec515d324071a71591fd43c"
         },
         {
             "event_category": "Cricket",
