@@ -1,8 +1,18 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:54:00 08-11-2026",
+    "last update time": "10:14:19 08-11-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": 1090553114,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "India vs Pakistan - 8 Nov 2026"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,18 +22,22 @@
             "audioLanguageName": "ENG",
             "event_name": "India A Tour of New Zealand",
             "match_name": "3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794155040~acl=/*~id=42428275284961946449488854898652~hmac=64bebbf96f35d6f61ff6aa715593541cb3d1a327e32782e0db953814c601d4bc",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794155040~acl=/*~id=42428275284961946449488854898652~hmac=64bebbf96f35d6f61ff6aa715593541cb3d1a327e32782e0db953814c601d4bc",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794155040~acl=/*~id=42428275284961946449488854898652~hmac=64bebbf96f35d6f61ff6aa715593541cb3d1a327e32782e0db953814c601d4bc"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb"
         },
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090551520,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028479/1793975138155375_AsiaCup26_U19_India_vs_Pakistan_Promo_Today_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090553112_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028499/1793997230899948_ACC_MensU19_UAE_vs_Nepal_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026"
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "UAE vs Nepal - 8 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb"
         },
         {
             "event_category": "Cricket",
