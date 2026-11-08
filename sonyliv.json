@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:52:18 08-11-2026",
+    "last update time": "17:02:30 08-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +25,22 @@
             "audioLanguageName": "HIN",
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090553114_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "India vs Pakistan - 8 Nov 2026 [TAM]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f"
         },
         {
             "event_category": "Cricket",
@@ -38,9 +51,9 @@
             "audioLanguageName": "TEL",
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [TEL]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f"
         },
         {
             "event_category": "Cricket",
@@ -51,9 +64,9 @@
             "audioLanguageName": "KAN",
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [KAN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f"
         },
         {
             "event_category": "Golf",
@@ -64,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Abu Dhabi HSBC Championship - Day 4 - 8 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180129~acl=/*~id=92830752747038091827771274668646~hmac=36ec8580ab9a3d3d095ae6933d9d93a247d9abf090d4cd2e6f7553fe8311faea"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794180746~acl=/*~id=45213911925000365787861779704766~hmac=b98bb9e9d8f42a8287b917539a4c7cd8dab52546bbbaf24e254b2a24a151997f"
         },
         {
             "event_category": "Cricket",
