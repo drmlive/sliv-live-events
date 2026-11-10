@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:24:34 10-11-2026",
+    "last update time": "18:34:38 10-11-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090553324_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "India vs UAE - 10 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794358474~acl=/*~id=77558450207871681416988066098709~hmac=23fdd8942f3c8793f36aad7a3c8d382fa43f2f695180030abb7d88a8f6195375",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794358474~acl=/*~id=77558450207871681416988066098709~hmac=23fdd8942f3c8793f36aad7a3c8d382fa43f2f695180030abb7d88a8f6195375",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794358474~acl=/*~id=77558450207871681416988066098709~hmac=23fdd8942f3c8793f36aad7a3c8d382fa43f2f695180030abb7d88a8f6195375"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -44,15 +31,6 @@
             "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026"
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090551225,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027597/179318077717911_ind_vs_nz_roko_is_back_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
-        },
-        {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
@@ -64,11 +42,29 @@
         {
             "event_category": "Cricket",
             "isLive": false,
+            "contentId": 1090551225,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027597/179318077717911_ind_vs_nz_roko_is_back_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
             "contentId": 1090552481,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028373/1793864472359710_india_cricket_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Cricket Non-Stop Combo"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090550846,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028471/1793966029554516_ASIA_CUP_U19_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026"
         }
     ]
 }
