@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:16:38 11-11-2026",
+    "last update time": "17:26:43 11-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -38,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090553633,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028794/1794397098375571_UFC334_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 334 - Gane vs Hokit"
         },
         {
             "event_category": "Football",
