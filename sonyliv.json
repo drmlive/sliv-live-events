@@ -1,73 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:52:14 13-11-2026",
+    "last update time": "15:02:19 13-11-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090553595_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "4th ODI - 13 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090553595_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "4th ODI - 13 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090553595_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "4th ODI - 13 Nov 2026 [TAM]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090553595_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TEL",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "4th ODI - 13 Nov 2026 [TEL]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090553595_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "4th ODI - 13 Nov 2026 [KAN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9"
-        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -77,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "DP World Tour Championship, Dubai - Day 2 - 13 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794604928~acl=/*~id=73994353456237645237434416779286~hmac=72b119cbf0b7daba4a37d41a20ac923b16ddf5babc70ccddb8420928012d9ec9"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794605539~acl=/*~id=08117388320558262905854839651933~hmac=a3027138193b9162607c6fe11a2762352c53f62f1903777bbef0f5b37cda6f92",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794605539~acl=/*~id=08117388320558262905854839651933~hmac=a3027138193b9162607c6fe11a2762352c53f62f1903777bbef0f5b37cda6f92",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794605539~acl=/*~id=08117388320558262905854839651933~hmac=a3027138193b9162607c6fe11a2762352c53f62f1903777bbef0f5b37cda6f92"
         },
         {
             "event_category": "Cricket",
