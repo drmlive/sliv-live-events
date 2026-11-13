@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:24:13 13-11-2026",
+    "last update time": "18:34:18 13-11-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090553604_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "DP World Tour Championship, Dubai - Day 2 - 13 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617653~acl=/*~id=18436339554162712845797574711288~hmac=c8b5d09e0904315d05945fb7fea852efb213d3b37d6b1f5568622193628d228b",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617653~acl=/*~id=18436339554162712845797574711288~hmac=c8b5d09e0904315d05945fb7fea852efb213d3b37d6b1f5568622193628d228b",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617653~acl=/*~id=18436339554162712845797574711288~hmac=c8b5d09e0904315d05945fb7fea852efb213d3b37d6b1f5568622193628d228b"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -33,6 +20,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090553650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028966/1794573555881790_UNL26_Serbia-vs-Germany_Promo_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -60,15 +56,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 1st Test - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090553650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028966/1794573555881790_UNL26_Serbia-vs-Germany_Promo_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Fight Sports",
