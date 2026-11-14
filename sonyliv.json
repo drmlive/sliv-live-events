@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:04:27 14-11-2026",
+    "last update time": "21:14:32 14-11-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Kosovo vs Israel - 14 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794713667~acl=/*~id=43019403878719459898123980940855~hmac=8a6d40dda8a86c3852a430f733f1d27360ea104eba458d151e62ae85384ee154",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794713667~acl=/*~id=43019403878719459898123980940855~hmac=8a6d40dda8a86c3852a430f733f1d27360ea104eba458d151e62ae85384ee154",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794713667~acl=/*~id=43019403878719459898123980940855~hmac=8a6d40dda8a86c3852a430f733f1d27360ea104eba458d151e62ae85384ee154"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714272~acl=/*~id=39507543996551795988006684544244~hmac=de1fd048420ff695a9147c5ddbf8a2b63056ff4a06354c1607020c01aca84afb",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714272~acl=/*~id=39507543996551795988006684544244~hmac=de1fd048420ff695a9147c5ddbf8a2b63056ff4a06354c1607020c01aca84afb",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714272~acl=/*~id=39507543996551795988006684544244~hmac=de1fd048420ff695a9147c5ddbf8a2b63056ff4a06354c1607020c01aca84afb"
         },
         {
             "event_category": "Football",
@@ -46,15 +46,6 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090552952,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090554104,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028889/1794518402348975_NZvsIND_5th_ODI_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -69,6 +60,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 1st Test - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090552952,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026"
         },
         {
             "event_category": "Football",
