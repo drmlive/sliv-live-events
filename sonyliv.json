@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:44:49 14-11-2026",
+    "last update time": "21:54:55 14-11-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090553935_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2026-27",
+            "match_name": "Norway vs Wales - 14 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794716695~acl=/*~id=35791475960521283251077626354604~hmac=cda46c5a1c06aac1ea6b264d1ae58ba79a7b34b04417c62775fc8130e79d2cc9",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794716695~acl=/*~id=35791475960521283251077626354604~hmac=cda46c5a1c06aac1ea6b264d1ae58ba79a7b34b04417c62775fc8130e79d2cc9",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794716695~acl=/*~id=35791475960521283251077626354604~hmac=cda46c5a1c06aac1ea6b264d1ae58ba79a7b34b04417c62775fc8130e79d2cc9"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090553936_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269264284450_UNL26_MD5_Georgia-vs-Hungary_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Nations League 2026-27",
+            "match_name": "Georgia vs Hungary - 14 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794716695~acl=/*~id=35791475960521283251077626354604~hmac=cda46c5a1c06aac1ea6b264d1ae58ba79a7b34b04417c62775fc8130e79d2cc9",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794716695~acl=/*~id=35791475960521283251077626354604~hmac=cda46c5a1c06aac1ea6b264d1ae58ba79a7b34b04417c62775fc8130e79d2cc9",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794716695~acl=/*~id=35791475960521283251077626354604~hmac=cda46c5a1c06aac1ea6b264d1ae58ba79a7b34b04417c62775fc8130e79d2cc9"
+        },
         {
             "event_category": "Football",
             "isLive": false,
