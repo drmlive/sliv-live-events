@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:21:20 19-11-2026",
+    "last update time": "19:31:25 19-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795139480~acl=/*~id=41315964268164961068429957818817~hmac=cf3e118be0c6a0a1feeff024fcf20ebe46304970a141c3866733a05f5cc74b86",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795139480~acl=/*~id=41315964268164961068429957818817~hmac=cf3e118be0c6a0a1feeff024fcf20ebe46304970a141c3866733a05f5cc74b86",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795139480~acl=/*~id=41315964268164961068429957818817~hmac=cf3e118be0c6a0a1feeff024fcf20ebe46304970a141c3866733a05f5cc74b86"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795140085~acl=/*~id=90580427922135235658518348886064~hmac=25e688e0aea2f9c2ce4f6303200eb1425ad8330b4734158badf0fa5bd7d63bc2",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795140085~acl=/*~id=90580427922135235658518348886064~hmac=25e688e0aea2f9c2ce4f6303200eb1425ad8330b4734158badf0fa5bd7d63bc2",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795140085~acl=/*~id=90580427922135235658518348886064~hmac=25e688e0aea2f9c2ce4f6303200eb1425ad8330b4734158badf0fa5bd7d63bc2"
         },
         {
             "event_category": "Cricket",
@@ -132,15 +132,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090552481,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028373/1793864472359710_india_cricket_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Cricket Non-Stop Combo"
         }
     ]
 }
