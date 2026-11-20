@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:34:17 20-11-2026",
+    "last update time": "12:44:22 20-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795201457~acl=/*~id=01149645579896960155410105715578~hmac=85b4f88551af74034bdb688794bdd80796e9b1cdf32c3e98f099e51df3b41335",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795201457~acl=/*~id=01149645579896960155410105715578~hmac=85b4f88551af74034bdb688794bdd80796e9b1cdf32c3e98f099e51df3b41335",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795201457~acl=/*~id=01149645579896960155410105715578~hmac=85b4f88551af74034bdb688794bdd80796e9b1cdf32c3e98f099e51df3b41335"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795202062~acl=/*~id=78934057420089194401331813780343~hmac=e2cc45fe7fcc44a24c2bb802bb29a115c51fe655055031f01cc466d02fcdf0b0",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795202062~acl=/*~id=78934057420089194401331813780343~hmac=e2cc45fe7fcc44a24c2bb802bb29a115c51fe655055031f01cc466d02fcdf0b0",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795202062~acl=/*~id=78934057420089194401331813780343~hmac=e2cc45fe7fcc44a24c2bb802bb29a115c51fe655055031f01cc466d02fcdf0b0"
         },
         {
             "event_category": "Cricket",
@@ -130,4 +130,17 @@
             "contentId": 1090555091,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName":
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555134,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Europa League 2026-27"
+        }
+    ]
+}
