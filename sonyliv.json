@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:53:13 20-11-2026",
+    "last update time": "22:03:18 20-11-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090555014_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795234958~acl=/*~id=67840671985662206728040655982653~hmac=73a03ccd8f6cc5f8baf1d77fd4a8b3e32ae4f1f4396d314d9013db3f3598669c",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795234958~acl=/*~id=67840671985662206728040655982653~hmac=73a03ccd8f6cc5f8baf1d77fd4a8b3e32ae4f1f4396d314d9013db3f3598669c",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795234958~acl=/*~id=67840671985662206728040655982653~hmac=73a03ccd8f6cc5f8baf1d77fd4a8b3e32ae4f1f4396d314d9013db3f3598669c"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090555014_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Bengaluru FC vs Mumbai City FC - 20 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795234958~acl=/*~id=67840671985662206728040655982653~hmac=73a03ccd8f6cc5f8baf1d77fd4a8b3e32ae4f1f4396d314d9013db3f3598669c",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795234958~acl=/*~id=67840671985662206728040655982653~hmac=73a03ccd8f6cc5f8baf1d77fd4a8b3e32ae4f1f4396d314d9013db3f3598669c",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795234958~acl=/*~id=67840671985662206728040655982653~hmac=73a03ccd8f6cc5f8baf1d77fd4a8b3e32ae4f1f4396d314d9013db3f3598669c"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -37,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555086,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -82,15 +65,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090555086,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Football",
