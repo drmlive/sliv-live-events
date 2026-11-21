@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:04:16 21-11-2026",
+    "last update time": "14:14:21 21-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293256~acl=/*~id=85458181609780946460828929652105~hmac=adf791df459ce13037451e159cbd74f0602b9b679fa3c939e4dcbd5aff744bc4",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293256~acl=/*~id=85458181609780946460828929652105~hmac=adf791df459ce13037451e159cbd74f0602b9b679fa3c939e4dcbd5aff744bc4",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293256~acl=/*~id=85458181609780946460828929652105~hmac=adf791df459ce13037451e159cbd74f0602b9b679fa3c939e4dcbd5aff744bc4"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293861~acl=/*~id=03209010242744482316897217863697~hmac=cb1c1dbecc7ac294d9db84add14ea4881c21adcd36b449e6ab223fe624743d7c",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293861~acl=/*~id=03209010242744482316897217863697~hmac=cb1c1dbecc7ac294d9db84add14ea4881c21adcd36b449e6ab223fe624743d7c",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293861~acl=/*~id=03209010242744482316897217863697~hmac=cb1c1dbecc7ac294d9db84add14ea4881c21adcd36b449e6ab223fe624743d7c"
         },
         {
             "event_category": "Cricket",
@@ -24,15 +24,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090555086,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -96,6 +87,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555086,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Football",
