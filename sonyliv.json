@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:49:46 21-11-2026",
+    "last update time": "22:59:53 21-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324786~acl=/*~id=02595877862393386874499352918390~hmac=22ef0c55af689fdd11496ffb4dde95639adec7b8999470607084fa46be988634",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324786~acl=/*~id=02595877862393386874499352918390~hmac=22ef0c55af689fdd11496ffb4dde95639adec7b8999470607084fa46be988634",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324786~acl=/*~id=02595877862393386874499352918390~hmac=22ef0c55af689fdd11496ffb4dde95639adec7b8999470607084fa46be988634"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325393~acl=/*~id=98066949820706555587479832577522~hmac=c6f0c73f1bf1e0d924aa1be4b92a61d3620baf0124921601df0b78e2d3b1c93a",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325393~acl=/*~id=98066949820706555587479832577522~hmac=c6f0c73f1bf1e0d924aa1be4b92a61d3620baf0124921601df0b78e2d3b1c93a",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325393~acl=/*~id=98066949820706555587479832577522~hmac=c6f0c73f1bf1e0d924aa1be4b92a61d3620baf0124921601df0b78e2d3b1c93a"
         },
         {
             "event_category": "Cricket",
@@ -80,15 +80,6 @@
             "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090555091,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090554106,
@@ -141,6 +132,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555091,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Football",
