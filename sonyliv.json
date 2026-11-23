@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:02:00 23-11-2026",
+    "last update time": "16:12:06 23-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Sri Lanka A vs Bangladesh A - 23 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795473120~acl=/*~id=10900371197090314999445254210586~hmac=60145ce2884cdbeb96fbbdc07b6e8d4efc6d8afbf0960551ccd88dc9c282f70f",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795473120~acl=/*~id=10900371197090314999445254210586~hmac=60145ce2884cdbeb96fbbdc07b6e8d4efc6d8afbf0960551ccd88dc9c282f70f",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795473120~acl=/*~id=10900371197090314999445254210586~hmac=60145ce2884cdbeb96fbbdc07b6e8d4efc6d8afbf0960551ccd88dc9c282f70f"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795473726~acl=/*~id=81796212192844176426454749650469~hmac=f96324f8570edb2549238b41627241d1ad829918f0f4f393f409adb42e7bfc8d",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795473726~acl=/*~id=81796212192844176426454749650469~hmac=f96324f8570edb2549238b41627241d1ad829918f0f4f393f409adb42e7bfc8d",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795473726~acl=/*~id=81796212192844176426454749650469~hmac=f96324f8570edb2549238b41627241d1ad829918f0f4f393f409adb42e7bfc8d"
         },
         {
             "event_category": "Cricket",
@@ -53,15 +53,6 @@
             "event_name": "Upcoming - Man City vs Napoli - UEFA Champions League 2026-27"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090555090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090552650,
@@ -87,6 +78,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Football",
