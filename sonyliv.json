@@ -1,16 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:31:49 24-11-2026",
+    "last update time": "22:41:56 24-11-2026",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090555513,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090556134_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27"
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Bod\u00f8/Glimt vs LASK - 24 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090556135_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Galatasaray vs Aston Villa - 24 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0"
         },
         {
             "event_category": "Football",
@@ -51,20 +68,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090555090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090555085,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Football",
