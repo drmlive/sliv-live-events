@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:51:26 24-11-2026",
+    "last update time": "22:01:31 24-11-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090556049_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795580485~acl=/*~id=81143239740835707388372664613651~hmac=29203a1218207c36218e8ebbe7ea4bc7c19943ad635f535db232859b617330af",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795580485~acl=/*~id=81143239740835707388372664613651~hmac=29203a1218207c36218e8ebbe7ea4bc7c19943ad635f535db232859b617330af",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795580485~acl=/*~id=81143239740835707388372664613651~hmac=29203a1218207c36218e8ebbe7ea4bc7c19943ad635f535db232859b617330af"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090556049_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795580485~acl=/*~id=81143239740835707388372664613651~hmac=29203a1218207c36218e8ebbe7ea4bc7c19943ad635f535db232859b617330af",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795580485~acl=/*~id=81143239740835707388372664613651~hmac=29203a1218207c36218e8ebbe7ea4bc7c19943ad635f535db232859b617330af",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795580485~acl=/*~id=81143239740835707388372664613651~hmac=29203a1218207c36218e8ebbe7ea4bc7c19943ad635f535db232859b617330af"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -77,20 +51,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090555085,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090555090,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555085,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Football",
