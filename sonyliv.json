@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:29:12 24-11-2026",
+    "last update time": "18:49:22 24-11-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090556049_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090556049_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [HIN]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Pakistan A vs Nepal - 24 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795568352~acl=/*~id=85818479762458115279357031737009~hmac=3aa0357e9454c996efa45f2d90fd0572841a53dc1091236d2cce5a2de0127844",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795568352~acl=/*~id=85818479762458115279357031737009~hmac=3aa0357e9454c996efa45f2d90fd0572841a53dc1091236d2cce5a2de0127844",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795568352~acl=/*~id=85818479762458115279357031737009~hmac=3aa0357e9454c996efa45f2d90fd0572841a53dc1091236d2cce5a2de0127844"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795569561~acl=/*~id=66405609806477374664353383323127~hmac=97a9515d9e64e1f6409465a8e7423813df939a2d5b0c51c9635694becdfb5f20"
         },
         {
             "event_category": "Football",
