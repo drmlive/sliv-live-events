@@ -1,16 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:36:42 26-11-2026",
+    "last update time": "14:56:53 26-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090556407,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029999/1795674097453377_ACRS26_SF_IND_A_vs_SL_A_today_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090556383_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090556383_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Sri Lanka A vs India A - DP World Asia Cup Rising Stars Men's 2026"
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090556383_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090556383_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090556383_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596"
         },
         {
             "event_category": "Cricket",
