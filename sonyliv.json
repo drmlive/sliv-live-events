@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:47:08 27-11-2026",
+    "last update time": "14:57:14 27-11-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090556911_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e"
+        },
         {
             "event_category": "Tennis",
             "isLive": true,
@@ -12,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "AO Asia Pacific Wildcard Playoffs 2027",
             "match_name": "Men's & Women's Doubles - Final - 27 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814228~acl=/*~id=41592536484502923226143533307734~hmac=eda26f2a3e22368939219b169a5b6225617b02adf17206bc1f786d33e13d36d7",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814228~acl=/*~id=41592536484502923226143533307734~hmac=eda26f2a3e22368939219b169a5b6225617b02adf17206bc1f786d33e13d36d7",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814228~acl=/*~id=41592536484502923226143533307734~hmac=eda26f2a3e22368939219b169a5b6225617b02adf17206bc1f786d33e13d36d7"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e"
         },
         {
             "event_category": "Cricket",
