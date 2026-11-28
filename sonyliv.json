@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:54:03 28-11-2026",
+    "last update time": "15:04:09 28-11-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "AO Asia Pacific Wildcard Playoffs 2027",
             "match_name": "Men's & Women's Singles - Final - 28 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901043~acl=/*~id=02705191448035944324787348284954~hmac=b801bae8898cfb81216da6272d50deda6724a182e3bc2f63712e7d21fef660d6",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901043~acl=/*~id=02705191448035944324787348284954~hmac=b801bae8898cfb81216da6272d50deda6724a182e3bc2f63712e7d21fef660d6",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901043~acl=/*~id=02705191448035944324787348284954~hmac=b801bae8898cfb81216da6272d50deda6724a182e3bc2f63712e7d21fef660d6"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901649~acl=/*~id=03186345816399406002901004072931~hmac=f1a8ead818d959ab69993b26e44d0a54a25282bca79abc3a3a471886d7a63d7e",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901649~acl=/*~id=03186345816399406002901004072931~hmac=f1a8ead818d959ab69993b26e44d0a54a25282bca79abc3a3a471886d7a63d7e",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901649~acl=/*~id=03186345816399406002901004072931~hmac=f1a8ead818d959ab69993b26e44d0a54a25282bca79abc3a3a471886d7a63d7e"
+        },
+        {
+            "event_category": "Sailing",
+            "isLive": true,
+            "contentId": "1090557000_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030172/1795785171790736_Sail-GP_Mubadala-Abu-Dhabi_Day-1_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Sail GP 2026",
+            "match_name": "Mubadala Abu Dhabi Sail GP - Day 1 - 28 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901649~acl=/*~id=03186345816399406002901004072931~hmac=f1a8ead818d959ab69993b26e44d0a54a25282bca79abc3a3a471886d7a63d7e",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901649~acl=/*~id=03186345816399406002901004072931~hmac=f1a8ead818d959ab69993b26e44d0a54a25282bca79abc3a3a471886d7a63d7e",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795901649~acl=/*~id=03186345816399406002901004072931~hmac=f1a8ead818d959ab69993b26e44d0a54a25282bca79abc3a3a471886d7a63d7e"
         },
         {
             "event_category": "Cricket",
